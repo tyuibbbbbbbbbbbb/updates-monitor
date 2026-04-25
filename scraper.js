@@ -1,10 +1,13 @@
-const axios = require("axios");
 const cheerio = require("cheerio");
 const crypto = require("crypto");
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+
+// משתמשים ב-Puppeteer רק אם הוא זמין (מותקן רק ב-GitHub Actions / סביבת סריקה)
+let puppeteer = null;
+try { puppeteer = require("puppeteer"); } catch {}
 
 function hash(s) {
   return crypto.createHash("md5").update(s).digest("hex").slice(0, 12);
@@ -19,41 +22,65 @@ function absoluteUrl(href, base) {
   }
 }
 
-async function fetchHtml(url) {
-  const res = await axios.get(url, {
-    timeout: 30000,
-    headers: {
-      "User-Agent": UA,
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-      "Accept-Language": "he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7",
-      "Sec-Fetch-Dest": "document",
-      "Sec-Fetch-Mode": "navigate",
-      "Sec-Fetch-Site": "none",
-      "Sec-Fetch-User": "?1",
-      "Upgrade-Insecure-Requests": "1",
-    },
-    responseType: "arraybuffer",
-    validateStatus: (s) => s < 500,
-    decompress: true,
+// browser singleton – נפתח פעם אחת לכל הסריקות
+let _browser = null;
+async function getBrowser() {
+  if (!puppeteer) throw new Error("Puppeteer לא מותקן (חסר ב-deps)");
+  if (_browser) return _browser;
+  _browser = await puppeteer.launch({
+    headless: "new",
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+      "--lang=he-IL",
+    ],
   });
-  const buf = Buffer.from(res.data);
-  const ctype = (res.headers["content-type"] || "").toLowerCase();
-  let html;
-  if (ctype.includes("charset=windows-1255") || ctype.includes("charset=iso-8859-8")) {
-    html = buf.toString("latin1");
-  } else {
-    html = buf.toString("utf8");
+  return _browser;
+}
+
+async function closeBrowser() {
+  if (_browser) {
+    try { await _browser.close(); } catch {}
+    _browser = null;
   }
-  // זיהוי חסימת נטפרי / סינון ברשת
-  if (html.includes("netfree.link") && html.length < 2000) {
-    const err = new Error("הרשת מסוננת (נטפרי) – האתר נחסם. יש להריץ את השרת מרשת פתוחה / שרת ענן.");
-    err.code = "NETWORK_BLOCKED";
-    throw err;
+}
+
+async function fetchHtml(url) {
+  const browser = await getBrowser();
+  const page = await browser.newPage();
+  try {
+    await page.setUserAgent(UA);
+    await page.setExtraHTTPHeaders({
+      "Accept-Language": "he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7",
+    });
+    await page.setViewport({ width: 1366, height: 900 });
+
+    const response = await page.goto(url, {
+      waitUntil: "networkidle2",
+      timeout: 45000,
+    });
+
+    // המתנה נוספת קצרה לטעינה דינמית של רשימות
+    await new Promise((r) => setTimeout(r, 2500));
+
+    const html = await page.content();
+
+    if (html.includes("netfree.link") && html.length < 3000) {
+      const err = new Error(
+        "הרשת מסוננת (נטפרי) – האתר נחסם. יש להריץ את השרת מרשת פתוחה / שרת ענן."
+      );
+      err.code = "NETWORK_BLOCKED";
+      throw err;
+    }
+    if (response && response.status() >= 400) {
+      throw new Error(`HTTP ${response.status()}`);
+    }
+    return html;
+  } finally {
+    await page.close().catch(() => {});
   }
-  if (res.status >= 400) {
-    throw new Error(`HTTP ${res.status}`);
-  }
-  return html;
 }
 
 function extractItems($, source) {
@@ -133,4 +160,4 @@ async function scrapeSource(source) {
   };
 }
 
-module.exports = { scrapeSource };
+module.exports = { scrapeSource, closeBrowser };

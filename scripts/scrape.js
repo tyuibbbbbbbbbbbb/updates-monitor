@@ -4,7 +4,7 @@
 const fs = require("fs");
 const path = require("path");
 const sources = require("../sources");
-const { scrapeSource } = require("../scraper");
+const { scrapeSource, closeBrowser } = require("../scraper");
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const OUT_FILE = path.join(DATA_DIR, "updates.json");
@@ -82,6 +82,7 @@ function loadJson(p, fallback) {
   fs.writeFileSync(OUT_FILE, JSON.stringify(out, null, 2), "utf8");
   fs.writeFileSync(PREV_FILE, JSON.stringify(firstSeen, null, 2), "utf8");
   console.log(`\nנשמרו ${collected.length} פריטים, ${errors.length} שגיאות.`);
+  await closeBrowser();
 })().catch((e) => {
   console.error("שגיאה כללית:", e);
   process.exit(1);

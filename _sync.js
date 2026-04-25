@@ -9,7 +9,7 @@ for (const f of ["_push.bat", "_push.js", "_check.js", "_create_repo.bat"]) {
 const cmds = [
   'git pull --rebase',
   'git add -A',
-  'git commit -m "Add debug HTML dump when no items found"',
+  'git commit -m "Switch to Puppeteer for SPA rendering"',
   'git push',
   'gh workflow run scrape.yml',
 ];

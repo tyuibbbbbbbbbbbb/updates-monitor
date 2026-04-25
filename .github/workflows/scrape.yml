@@ -32,7 +32,10 @@ jobs:
           cache: "npm"
 
       - name: Install deps
-        run: npm ci --omit=dev || npm install --omit=dev
+        run: npm ci || npm install
+
+      - name: Install Chromium for Puppeteer
+        run: npx puppeteer browsers install chrome
 
       - name: Scrape
         run: node scripts/scrape.js
