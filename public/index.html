@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>מוניטור עדכונים – החתול השחור & הגיזרה</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+<header>
+  <div class="container header-inner">
+    <h1>📰 מוניטור עדכונים</h1>
+    <div class="header-actions">
+      <span id="status" class="status">טוען...</span>
+      <button id="refreshBtn" class="btn">🔄 רענן עכשיו</button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="filters" id="filters"></div>
+  <div id="errors" class="errors hidden"></div>
+  <div id="feed" class="feed"></div>
+  <div id="empty" class="empty hidden">אין עדכונים עדיין. לחץ על "רענן עכשיו".</div>
+</main>
+
+<footer>
+  <div class="container">
+    <small>בדיקה אוטומטית כל <span id="pollMin">?</span> דקות.
+      בדיקה אחרונה: <span id="lastCheck">—</span></small>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
