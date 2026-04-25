@@ -35,16 +35,27 @@ function render(data) {
   lastCheckEl.textContent = relTime(data.lastCheck);
 
   // status
-  if (data.lastError && data.lastError.length) {
-    statusEl.textContent = `שגיאה ב-${data.lastError.length} מקורות`;
+  const errs = [];
+  if (data.fetchError) {
+    errs.push({ source: "השרת המקומי", error: data.fetchError });
+  }
+  if (data.upstreamErrors && data.upstreamErrors.length) {
+    errs.push(...data.upstreamErrors);
+  }
+  if (errs.length) {
+    statusEl.textContent = `⚠️ ${errs.length} שגיאות`;
     statusEl.className = "status err";
     errorsEl.classList.remove("hidden");
-    errorsEl.innerHTML = data.lastError.map(e =>
+    errorsEl.innerHTML = errs.map(e =>
       `<div>⚠️ <b>${escapeHtml(e.source)}</b>: ${escapeHtml(e.error)}</div>`
     ).join("");
   } else if (data.lastCheck) {
     statusEl.textContent = "פעיל";
     statusEl.className = "status ok";
+    errorsEl.classList.add("hidden");
+  } else {
+    statusEl.textContent = "ממתין לסריקה ראשונה ב-GitHub Actions...";
+    statusEl.className = "status";
     errorsEl.classList.add("hidden");
   }
 

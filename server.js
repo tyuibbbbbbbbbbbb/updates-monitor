@@ -1,11 +1,22 @@
+// שרת מקומי – קורא נתונים שכבר נסרקו ע"י GitHub Actions
+// (כדי לעקוף את חסימת נטפרי – raw.githubusercontent.com לא חסום)
+
 const express = require("express");
 const path = require("path");
 const fs = require("fs");
-const sources = require("./sources");
-const { scrapeSource } = require("./scraper");
+const axios = require("axios");
 
 const PORT = process.env.PORT || 3000;
-const POLL_MINUTES = Number(process.env.POLL_MINUTES || 10);
+const REFRESH_MINUTES = Number(process.env.REFRESH_MINUTES || 5);
+
+// כתובת קובץ ה-JSON שמתעדכן ע"י GitHub Actions
+const GITHUB_USER = process.env.GITHUB_USER || "tyuibbbbbbbbbbbb";
+const GITHUB_REPO = process.env.GITHUB_REPO || "updates-monitor";
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
+const DATA_URL =
+  process.env.DATA_URL ||
+  `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/updates.json`;
+
 const STATE_FILE = path.join(__dirname, "state.json");
 
 const app = express();
@@ -21,7 +32,11 @@ function loadState() {
   } catch (e) {
     console.error("שגיאה בטעינת state:", e.message);
   }
-  return { items: [], firstSeen: {}, lastCheck: null, lastError: null };
+  return {
+    data: null,
+    lastFetch: null,
+    lastError: null,
+  };
 }
 
 function saveState() {
@@ -32,92 +47,86 @@ function saveState() {
   }
 }
 
-async function refresh() {
-  console.log(`[${new Date().toISOString()}] מתחיל סריקה...`);
-  const collected = [];
-  const errors = [];
-
-  for (const src of sources) {
+async function fetchData() {
+  console.log(`[${new Date().toISOString()}] מוריד נתונים מ-${DATA_URL}`);
+  try {
+    const res = await axios.get(DATA_URL, {
+      timeout: 30000,
+      headers: {
+        "User-Agent": "updates-monitor-local/1.0",
+        "Accept": "application/json",
+        "Cache-Control": "no-cache",
+      },
+      // bust CDN cache
+      params: { _t: Date.now() },
+      transformResponse: [(data) => data],
+    });
+    let payload;
     try {
-      const items = await scrapeSource(src);
-      collected.push(...items);
-      console.log(`  ✓ ${src.name}: ${items.length} פריטים`);
+      payload = typeof res.data === "string" ? JSON.parse(res.data) : res.data;
     } catch (e) {
-      console.error(`  ✗ ${src.name}: ${e.message}`);
-      errors.push({ source: src.name, error: e.message });
+      throw new Error("התשובה אינה JSON תקין (אולי הקובץ עדיין לא נוצר ב-Actions?)");
     }
+    state.data = payload;
+    state.lastFetch = new Date().toISOString();
+    state.lastError = null;
+    saveState();
+    console.log(`  ✓ ${payload.items?.length || 0} פריטים, נוצר ב-${payload.generatedAt}`);
+    return payload;
+  } catch (e) {
+    state.lastError = e.message;
+    state.lastFetch = new Date().toISOString();
+    saveState();
+    console.error(`  ✗ שגיאה: ${e.message}`);
+    throw e;
   }
-
-  const now = new Date().toISOString();
-  for (const it of collected) {
-    const key = it.sourceId + ":" + it.id;
-    if (!state.firstSeen[key]) {
-      state.firstSeen[key] = now;
-    }
-    it.firstSeen = state.firstSeen[key];
-    it.isNew =
-      Date.now() - new Date(it.firstSeen).getTime() < 24 * 60 * 60 * 1000;
-  }
-
-  collected.sort(
-    (a, b) => new Date(b.firstSeen).getTime() - new Date(a.firstSeen).getTime()
-  );
-
-  state.items = collected;
-  state.lastCheck = now;
-  state.lastError = errors.length ? errors : null;
-
-  // ניקוי firstSeen מערכים שלא נראים יותר (>30 ימים)
-  const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
-  for (const k of Object.keys(state.firstSeen)) {
-    if (new Date(state.firstSeen[k]).getTime() < cutoff) {
-      delete state.firstSeen[k];
-    }
-  }
-
-  saveState();
-  console.log(`  סה"כ ${collected.length} פריטים, ${errors.length} שגיאות.`);
 }
 
 // API
 app.get("/api/updates", (req, res) => {
+  const data = state.data || { items: [], sources: [], generatedAt: null, errors: null };
+  // מסמן פריטים שראינו ב-24 שעות האחרונות כ"חדש"
+  const items = (data.items || []).map((it) => ({
+    ...it,
+    isNew:
+      it.firstSeen &&
+      Date.now() - new Date(it.firstSeen).getTime() < 24 * 60 * 60 * 1000,
+  }));
   res.json({
-    lastCheck: state.lastCheck,
-    lastError: state.lastError,
-    pollMinutes: POLL_MINUTES,
-    sources: sources.map((s) => ({
-      id: s.id,
-      name: s.name,
-      icon: s.icon,
-      color: s.color,
-      url: s.url,
-    })),
-    items: state.items,
+    lastCheck: data.generatedAt,        // מתי GitHub Actions סרק לאחרונה
+    lastFetch: state.lastFetch,         // מתי השרת המקומי הוריד לאחרונה
+    pollMinutes: REFRESH_MINUTES,
+    sources: data.sources || [],
+    items,
+    upstreamErrors: data.errors || null,
+    fetchError: state.lastError,
+    dataUrl: DATA_URL,
   });
 });
 
 app.post("/api/refresh", async (req, res) => {
   try {
-    await refresh();
-    res.json({ ok: true, lastCheck: state.lastCheck });
+    await fetchData();
+    res.json({ ok: true, lastFetch: state.lastFetch });
   } catch (e) {
-    res.status(500).json({ ok: false, error: e.message });
+    res.status(502).json({ ok: false, error: e.message });
   }
 });
 
 app.get("/api/health", (req, res) => {
-  res.json({ ok: true, lastCheck: state.lastCheck });
+  res.json({ ok: true, lastFetch: state.lastFetch });
 });
 
-// Polling
+// Polling – מוריד את ה-JSON מ-GitHub כל X דקות
 setInterval(() => {
-  refresh().catch((e) => console.error("שגיאה בסריקה:", e.message));
-}, POLL_MINUTES * 60 * 1000);
+  fetchData().catch(() => {});
+}, REFRESH_MINUTES * 60 * 1000);
 
-// סריקה ראשונית
-refresh().catch((e) => console.error("שגיאה בסריקה ראשונית:", e.message));
+// הורדה ראשונית
+fetchData().catch(() => {});
 
 app.listen(PORT, () => {
   console.log(`🚀 השרת רץ על http://localhost:${PORT}`);
-  console.log(`   בדיקה אוטומטית כל ${POLL_MINUTES} דקות`);
+  console.log(`   מוריד נתונים מ-GitHub כל ${REFRESH_MINUTES} דקות`);
+  console.log(`   מקור: ${DATA_URL}`);
 });
