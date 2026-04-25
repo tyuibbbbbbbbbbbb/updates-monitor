@@ -120,14 +120,17 @@ async function scrapeSource(source) {
   const html = await fetchHtml(source.url);
   const $ = cheerio.load(html);
   const items = extractItems($, source);
-  return items.map((it) => ({
-    ...it,
-    sourceId: source.id,
-    sourceName: source.name,
-    sourceIcon: source.icon,
-    sourceColor: source.color,
-    sourceUrl: source.url,
-  }));
+  return {
+    items: items.map((it) => ({
+      ...it,
+      sourceId: source.id,
+      sourceName: source.name,
+      sourceIcon: source.icon,
+      sourceColor: source.color,
+      sourceUrl: source.url,
+    })),
+    rawHtml: html,
+  };
 }
 
 module.exports = { scrapeSource };

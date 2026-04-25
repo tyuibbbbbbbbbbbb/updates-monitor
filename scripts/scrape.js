@@ -29,9 +29,15 @@ function loadJson(p, fallback) {
   for (const src of sources) {
     try {
       console.log(`סורק ${src.name}...`);
-      const items = await scrapeSource(src);
+      const { items, rawHtml } = await scrapeSource(src);
       collected.push(...items);
       console.log(`  ✓ ${items.length} פריטים`);
+      // אם לא נמצאו פריטים – שמור debug HTML כדי שנוכל לראות את המבנה
+      if (items.length === 0 && rawHtml) {
+        const debugFile = path.join(DATA_DIR, `debug-${src.id}.html`);
+        fs.writeFileSync(debugFile, rawHtml.slice(0, 200000), "utf8");
+        console.log(`  💾 נשמר debug ל-${debugFile} (${rawHtml.length} bytes)`);
+      }
     } catch (e) {
       console.error(`  ✗ ${src.name}: ${e.message}`);
       errors.push({ source: src.name, error: e.message });
