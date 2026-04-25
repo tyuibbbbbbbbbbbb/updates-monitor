@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-04-25T20:37:30.835Z",
+  "sources": [
+    {
+      "id": "blackcat",
+      "name": "החתול השחור",
+      "icon": "🐱",
+      "color": "#1f2937",
+      "url": "https://black-cat.thechats.click/"
+    },
+    {
+      "id": "hagizra",
+      "name": "הגיזרה",
+      "icon": "📡",
+      "color": "#dc2626",
+      "url": "https://hagizra.news/"
+    }
+  ],
+  "items": [],
+  "errors": []
+}
