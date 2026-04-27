@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T18:09:07.607Z",
+  "generatedAt": "2026-04-27T19:48:26.720Z",
   "sources": [
     {
       "id": "blackcat",
@@ -17,5 +17,10 @@
     }
   ],
   "items": [],
-  "errors": []
+  "errors": [
+    {
+      "source": "הגיזרה",
+      "error": "Navigation timeout of 45000 ms exceeded"
+    }
+  ]
 }
