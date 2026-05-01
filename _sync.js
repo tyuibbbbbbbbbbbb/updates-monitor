@@ -2,14 +2,14 @@ const { execSync } = require("child_process");
 const fs = require("fs");
 
 // מחיקת קבצי עזר
-for (const f of ["_push.bat", "_push.js", "_check.js", "_create_repo.bat"]) {
+for (const f of ["_push.bat", "_push.js", "_check.js", "_create_repo.bat", "_analyze.js", "_wait.js", "_wait2.js", "_sync2.js"]) {
   try { fs.unlinkSync(f); console.log("rm", f); } catch {}
 }
 
 const cmds = [
   'git pull --rebase',
   'git add -A',
-  'git commit -m "Switch to Puppeteer for SPA rendering"',
+  'git commit -m "Cleanup helpers + feed mode"',
   'git push',
   'gh workflow run scrape.yml',
 ];
