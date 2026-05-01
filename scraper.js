@@ -83,20 +83,63 @@ async function fetchHtml(url) {
   }
 }
 
-function extractItems($, source) {
+function firstText($el, selectors) {
+  for (const sel of selectors || []) {
+    const t = $el.find(sel).first().text().replace(/\s+/g, " ").trim();
+    if (t) return t;
+  }
+  return "";
+}
+
+function extractFeedItems($, source) {
   const items = [];
   const seen = new Set();
 
-  for (const selector of source.selectors) {
+  $(source.itemSelector).each((idx, el) => {
+    const $el = $(el);
+    const content =
+      firstText($el, source.contentSelectors) ||
+      $el.text().replace(/\s+/g, " ").trim();
+    if (!content || content.length < 3) return;
+
+    const time = firstText($el, source.timeSelectors);
+    const channelName = firstText($el, source.titleSelectors);
+
+    const firstLine = content.split(/\n|(?<=[.!?])\s+/)[0].trim();
+    const title = (firstLine || content).slice(0, 120);
+    const body = content.slice(0, 400);
+
+    // ID יציב לפי תוכן ההודעה
+    const id = hash(content.slice(0, 200));
+    if (seen.has(id)) return;
+    seen.add(id);
+
+    items.push({
+      id,
+      title,
+      link: source.url + `#msg-${id}`,
+      body,
+      time: time || null,
+      channelName: channelName || null,
+      position: idx,
+    });
+  });
+
+  return items.slice(0, source.limit || 25);
+}
+
+function extractItems($, source) {
+  if (source.mode === "feed" && source.itemSelector) {
+    return extractFeedItems($, source);
+  }
+  const items = [];
+  const seen = new Set();
+  for (const selector of source.selectors || []) {
     const els = $(selector);
     if (els.length === 0) continue;
-
     els.each((_, el) => {
       const $el = $(el);
-      let title = "";
-      let link = "";
-      let body = "";
-
+      let title = "", link = "", body = "";
       if (el.name === "a") {
         title = $el.text().replace(/\s+/g, " ").trim();
         link = absoluteUrl($el.attr("href"), source.url);
@@ -109,37 +152,14 @@ function extractItems($, source) {
         link = absoluteUrl(a.attr("href"), source.url);
         body = $el.text().replace(/\s+/g, " ").trim().slice(0, 300);
       }
-
       if (!title || title.length < 3) return;
       const key = (title + "|" + link).toLowerCase();
       if (seen.has(key)) return;
       seen.add(key);
-
-      items.push({
-        id: hash(key),
-        title,
-        link: link || source.url,
-        body: body || "",
-      });
+      items.push({ id: hash(key), title, link: link || source.url, body });
     });
-
     if (items.length > 0) break;
   }
-
-  // Fallback: תוכן גולמי של ה-body
-  if (items.length === 0 && source.fallbackText) {
-    const text = $("body").text().replace(/\s+/g, " ").trim();
-    if (text) {
-      const snippet = text.slice(0, 500);
-      items.push({
-        id: hash(snippet),
-        title: source.name + " – עודכן",
-        link: source.url,
-        body: snippet,
-      });
-    }
-  }
-
   return items.slice(0, source.limit || 25);
 }
 

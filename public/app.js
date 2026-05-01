@@ -113,6 +113,7 @@ function render(data) {
           <span class="source-name">${it.sourceIcon} ${escapeHtml(it.sourceName)}</span>
           <span>•</span>
           <span>${relTime(it.firstSeen)}</span>
+          ${it.time ? `<span>•</span><span>${escapeHtml(it.time)}</span>` : ""}
         </div>
         ${it.body ? `<div class="card-body-text">${escapeHtml(it.body)}</div>` : ''}
       </div>

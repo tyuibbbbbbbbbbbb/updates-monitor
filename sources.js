@@ -1,4 +1,5 @@
-// הגדרת מקורות הסקרייפינג
+// הגדרת מקורות הסקרייפינג. שני האתרים הם Angular SPA עם ערוצי הודעות.
+// כל הודעה היא <app-message>; אנו מחלצים מתוכה תוכן + תאריך.
 module.exports = [
   {
     id: "blackcat",
@@ -6,15 +7,21 @@ module.exports = [
     url: "https://black-cat.thechats.click/",
     icon: "🐱",
     color: "#1f2937",
-    // סלקטורים שמנוסים בסדר עד שאחד עובד
-    selectors: [
-      "a.topic-title",
-      "a.title.raw-link",
-      ".topic-list-item a",
-      ".discussion-title a",
-      ".post-title a",
-      "article h2 a, article h3 a",
-      "main a[href*='/topic/'], main a[href*='/t/']",
+    mode: "feed",
+    itemSelector: "app-message",
+    contentSelectors: [
+      ".message-card .markdown-container",
+      ".message-card-wrap",
+      ".message-card",
+      ".message-shell",
+    ],
+    titleSelectors: [
+      ".message-channel-name",
+    ],
+    timeSelectors: [
+      "time",
+      "[class*='time']",
+      ".message-meta-row span:last-child",
     ],
     limit: 25,
   },
@@ -24,15 +31,17 @@ module.exports = [
     url: "https://hagizra.news/",
     icon: "📡",
     color: "#dc2626",
-    selectors: [
-      "article h2 a, article h3 a",
-      ".post-title a, .entry-title a, h2.entry-title a",
-      ".td-module-title a, .td_module_wrap a.td-image-wrap",
-      ".elementor-post__title a",
-      "a.title",
-      "main a[href*='/202'], main a[href*='/news/'], main a[href*='/post/']",
+    mode: "feed",
+    itemSelector: "app-message",
+    contentSelectors: [
+      ".markdown-container",
+      ".message-content-wrapper",
+    ],
+    titleSelectors: [],
+    timeSelectors: [
+      "time",
+      "[class*='time']",
     ],
     limit: 25,
-    fallbackText: false,
   },
 ];
