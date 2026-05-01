@@ -7,9 +7,11 @@ for (const f of ["_push.bat", "_push.js", "_check.js", "_create_repo.bat", "_ana
 }
 
 const cmds = [
+  'git stash push -u -m "helpers"',
   'git pull --rebase',
+  'git stash pop',
   'git add -A',
-  'git commit -m "Cleanup helpers + feed mode"',
+  'git diff --cached --quiet || git commit -m "Local helpers"',
   'git push',
   'gh workflow run scrape.yml',
 ];
