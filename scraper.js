@@ -95,11 +95,24 @@ function extractFeedItems($, source) {
   const items = [];
   const seen = new Set();
 
+  // הסרת אלמנטים מפריעים (אוברליי הרשמה, תפריטים וכו') לפני חילוץ טקסט
+  const excludeSelectors = source.excludeSelectors || [
+    ".media-auth-overlay",
+    ".auth-overlay",
+    "[class*='overlay']",
+    "button",
+    ".message-actions-bar",
+    ".emoji-reaction",
+  ];
+  for (const sel of excludeSelectors) $(sel).remove();
+
   $(source.itemSelector).each((idx, el) => {
     const $el = $(el);
-    const content =
+    let content =
       firstText($el, source.contentSelectors) ||
       $el.text().replace(/\s+/g, " ").trim();
+    // ניקוי נוסף: הסרת רצפי אמוג'י+מספרים (ספירת תגובות)
+    content = content.replace(/([\p{Emoji_Presentation}\p{Extended_Pictographic}])\d+/gu, "$1").trim();
     if (!content || content.length < 3) return;
 
     const time = firstText($el, source.timeSelectors);
