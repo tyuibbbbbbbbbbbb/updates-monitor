@@ -2,4 +2,6 @@ node_modules/
 state.json
 .env
 *.log
+_*.js
+_*.bat
 # data/ נשמר בריפו – הוא הפלט של ה-Action
