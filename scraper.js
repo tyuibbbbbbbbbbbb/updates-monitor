@@ -95,24 +95,35 @@ function extractFeedItems($, source) {
   const items = [];
   const seen = new Set();
 
-  // הסרת אלמנטים מפריעים (אוברליי הרשמה, תפריטים וכו') לפני חילוץ טקסט
+  // הסרת אלמנטים מפריעים (אוברליי הרשמה, תפריטים וכו')
   const excludeSelectors = source.excludeSelectors || [
-    ".media-auth-overlay",
-    ".auth-overlay",
+    "[class*='media-auth-overlay']",
+    "[class*='auth-overlay']",
     "[class*='overlay']",
     "button",
     ".message-actions-bar",
-    ".emoji-reaction",
+    "[class*='emoji-reaction']",
+    "[class*='reaction']",
   ];
   for (const sel of excludeSelectors) $(sel).remove();
+
+  // ביטויי ניקוי טקסט – מסירים משפטים של התחברות/שכבת הגנה שלא נעלמו דרך selectors
+  const junkPatterns = source.junkPatterns || [
+    /יש להתחבר כדי לצפות בקבצים\s*(לחצו כאן להתחברות)?\s*/g,
+    /לחצו כאן להתחברות/g,
+    /Sign in to view files/gi,
+  ];
 
   $(source.itemSelector).each((idx, el) => {
     const $el = $(el);
     let content =
       firstText($el, source.contentSelectors) ||
       $el.text().replace(/\s+/g, " ").trim();
-    // ניקוי נוסף: הסרת רצפי אמוג'י+מספרים (ספירת תגובות)
-    content = content.replace(/([\p{Emoji_Presentation}\p{Extended_Pictographic}])\d+/gu, "$1").trim();
+    // ניקוי רצפי אמוג'י+מספרים (ספירת תגובות)
+    content = content.replace(/([\p{Emoji_Presentation}\p{Extended_Pictographic}])\d+/gu, "$1");
+    // ניקוי טקסטי junk
+    for (const p of junkPatterns) content = content.replace(p, " ");
+    content = content.replace(/\s+/g, " ").trim();
     if (!content || content.length < 3) return;
 
     const time = firstText($el, source.timeSelectors);

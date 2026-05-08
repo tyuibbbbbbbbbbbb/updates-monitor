@@ -1,23 +1,16 @@
 const { execSync } = require("child_process");
-const fs = require("fs");
 
-const cmds = [
-  'git stash push -u -m auto',
-  'git pull --rebase',
-  'git stash pop',
-  'git add -A',
-  'git diff --cached --quiet || git commit -m "Clean filter for message content"',
-  'git push',
-  'gh workflow run scrape.yml',
-  'gh run list --workflow=scrape.yml --limit 3',
-];
-
-for (const c of cmds) {
+function run(c) {
   console.log("\n>", c);
-  try {
-    console.log(execSync(c, { encoding: "utf8" }));
-  } catch (e) {
-    console.log("STDOUT:", e.stdout);
-    console.log("STDERR:", e.stderr);
-  }
+  try { console.log(execSync(c, { encoding: "utf8" })); }
+  catch (e) { console.log("STDOUT:", e.stdout, "\nSTDERR:", e.stderr); }
 }
+
+// שלב 1: דחיפה
+run('git stash push -u -m auto');
+run('git pull --rebase');
+run('git stash pop');
+run('git add -A');
+run('git diff --cached --quiet || git commit -m "Improve junk text cleaning in scraper"');
+run('git push');
+run('gh workflow run scrape.yml');
