@@ -349,8 +349,16 @@ async function downloadVideo(videoUrl) {
 }
 
 // הורדת כל המדיה (תמונות + סרטונים) של הפריטים
+// מוגבל ל-3 דקות סה"כ כדי לא לחרוג מ-timeout של workflow
 async function downloadItemMedia(items) {
+  const startTime = Date.now();
+  const MAX_TIME = 3 * 60 * 1000; // 3 דקות מקסימום
+
   for (const item of items) {
+    if (Date.now() - startTime > MAX_TIME) {
+      console.log("  ⏱ חריגה מזמן מקסימלי להורדת מדיה, עוצר.");
+      break;
+    }
     // תמונות
     if (item.images && item.images.length > 0) {
       const resolved = [];
@@ -362,6 +370,7 @@ async function downloadItemMedia(items) {
     }
     // סרטונים
     if (item.videos && item.videos.length > 0) {
+      if (Date.now() - startTime > MAX_TIME) break;
       const resolved = [];
       for (const url of item.videos) {
         const newUrl = await downloadVideo(url);
