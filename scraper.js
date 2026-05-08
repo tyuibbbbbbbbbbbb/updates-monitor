@@ -132,17 +132,45 @@ function extractFeedItems($, source) {
     for (const p of junkPatterns) content = content.replace(p, " ");
     content = content.replace(/\s+/g, " ").trim();
 
-    // חילוץ תמונות
+    // חילוץ תמונות – רק מאזור התוכן, מתעלם מאווטאר/לוגו
+    const avatarSelectors = source.excludeImageSelectors || [
+      "[class*='avatar']",
+      "[class*='logo']",
+      "[class*='profile']",
+      "[class*='channel-image']",
+      ".message-avatar",
+      ".user-avatar",
+    ];
+    const avatarSel = avatarSelectors.join(",");
     const images = [];
-    $el.find("img").each((_, img) => {
-      const src = $(img).attr("src") || $(img).attr("data-src") || "";
+
+    // מחפש תמונות רק בתוך אזור התוכן (לא כל ה-message שכולל אווטאר)
+    const $contentArea = source.contentSelectors
+      ? (() => {
+          for (const sel of source.contentSelectors) {
+            const $c = $el.find(sel);
+            if ($c.length > 0) return $c;
+          }
+          return $el;
+        })()
+      : $el;
+
+    $contentArea.find("img").each((_, img) => {
+      const $img = $(img);
+      if ($img.closest(avatarSel).length > 0) return;
+      const cls = ($img.attr("class") || "").toLowerCase();
+      if (cls.includes("avatar") || cls.includes("logo") || cls.includes("profile")) return;
+      const src = $img.attr("src") || $img.attr("data-src") || "";
       if (src && !src.startsWith("data:") && src.length > 5) {
         images.push(absoluteUrl(src, source.url));
       }
     });
-    // חילוץ תמונות מ-background-image
-    $el.find("[style*='background-image']").each((_, el2) => {
-      const style = $(el2).attr("style") || "";
+    $contentArea.find("[style*='background-image']").each((_, el2) => {
+      const $bgEl = $(el2);
+      if ($bgEl.closest(avatarSel).length > 0) return;
+      const cls2 = ($bgEl.attr("class") || "").toLowerCase();
+      if (cls2.includes("avatar") || cls2.includes("logo") || cls2.includes("profile")) return;
+      const style = $bgEl.attr("style") || "";
       const m = style.match(/url\(['"]?([^)'"]+)['"]?\)/);
       if (m && m[1] && !m[1].startsWith("data:")) {
         images.push(absoluteUrl(m[1], source.url));
