@@ -42,6 +42,12 @@ function createMsgEl(it, animate) {
       ).join("")}</div>`
     : "";
 
+  const videosHtml = (it.videos && it.videos.length > 0)
+    ? `<div class="msg-video">${it.videos.map(url =>
+        `<div class="vid-container" data-src="${escapeHtml(url)}"><div style="padding:40px;text-align:center;color:#fff;font-size:0.8rem;">▶ טוען סרטון...</div></div>`
+      ).join("")}</div>`
+    : "";
+
   div.innerHTML = `
     <div class="msg-avatar">${it.sourceIcon || "📨"}</div>
     <div class="msg-bubble">
@@ -49,13 +55,40 @@ function createMsgEl(it, animate) {
       ${it.channelName ? `<div class="msg-channel">${escapeHtml(it.channelName)}</div>` : ""}
       ${it.body ? `<div class="msg-text">${escapeHtml(it.body)}</div>` : ""}
       ${imagesHtml}
+      ${videosHtml}
       <div class="msg-footer">
         ${it.isNew ? '<span class="msg-new-badge">חדש</span>' : ""}
         <span class="msg-time">${it.time || relTime(it.firstSeen)}</span>
       </div>
     </div>
   `;
+
+  // טעינת סרטונים כ-blob (עוקף נטפרי - הקובץ בסיומת .bin)
+  div.querySelectorAll(".vid-container[data-src]").forEach(container => {
+    loadVideoBlob(container, container.dataset.src);
+  });
+
   return div;
+}
+
+// טוען סרטון כ-blob URL כדי שנטפרי לא יזהה אותו
+async function loadVideoBlob(container, url) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const blob = await res.blob();
+    const blobUrl = URL.createObjectURL(blob);
+    const video = document.createElement("video");
+    video.src = blobUrl;
+    video.controls = true;
+    video.preload = "metadata";
+    video.style.width = "100%";
+    video.style.borderRadius = "8px";
+    container.innerHTML = "";
+    container.appendChild(video);
+  } catch (e) {
+    container.innerHTML = `<div style="padding:10px;color:#999;font-size:0.75rem;">⚠ שגיאה בטעינת סרטון</div>`;
+  }
 }
 
 function shouldShow(item) {

@@ -4,7 +4,7 @@
 const fs = require("fs");
 const path = require("path");
 const sources = require("../sources");
-const { scrapeSource, closeBrowser, downloadItemImages } = require("../scraper");
+const { scrapeSource, closeBrowser, downloadItemMedia } = require("../scraper");
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const OUT_FILE = path.join(DATA_DIR, "updates.json");
@@ -44,9 +44,9 @@ function loadJson(p, fallback) {
     }
   }
 
-  // הורדת תמונות לריפו (כך שישירות מ-GitHub Pages הן נגישות דרך נטפרי)
-  console.log("מוריד תמונות...");
-  await downloadItemImages(collected);
+  // הורדת מדיה לריפו (תמונות + סרטונים – נגישות דרך נטפרי)
+  console.log("מוריד מדיה...");
+  await downloadItemMedia(collected);
 
   const now = new Date().toISOString();
   for (const it of collected) {

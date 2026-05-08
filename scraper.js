@@ -177,8 +177,25 @@ function extractFeedItems($, source) {
       }
     });
 
-    // אם אין תוכן טקסטואלי ואין תמונות - דלג
-    if ((!content || content.length < 3) && images.length === 0) return;
+    // חילוץ סרטונים
+    const videos = [];
+    $contentArea.find("video source, video[src]").each((_, vid) => {
+      const $vid = $(vid);
+      const src = $vid.attr("src") || "";
+      if (src && !src.startsWith("data:") && src.length > 5) {
+        videos.push(absoluteUrl(src, source.url));
+      }
+    });
+    // לינקים לקבצי וידאו
+    $contentArea.find("a[href]").each((_, a) => {
+      const href = $(a).attr("href") || "";
+      if (/\.(mp4|webm|mov|avi|mkv)(\?|$)/i.test(href)) {
+        videos.push(absoluteUrl(href, source.url));
+      }
+    });
+
+    // אם אין תוכן טקסטואלי ואין תמונות ואין סרטונים - דלג
+    if ((!content || content.length < 3) && images.length === 0 && videos.length === 0) return;
 
     const time = firstText($el, source.timeSelectors);
     const channelName = firstText($el, source.titleSelectors);
@@ -198,6 +215,7 @@ function extractFeedItems($, source) {
       link: source.url + `#msg-${id}`,
       body,
       images: images.length > 0 ? images : undefined,
+      videos: videos.length > 0 ? videos : undefined,
       time: time || null,
       channelName: channelName || null,
       position: idx,
@@ -294,17 +312,64 @@ async function downloadImage(imageUrl) {
   return null; // תמונה שלא הורדה – לא מציגים
 }
 
-// הורדת כל התמונות של פריט ועדכון ה-URLs
-async function downloadItemImages(items) {
-  for (const item of items) {
-    if (!item.images || item.images.length === 0) continue;
-    const resolved = [];
-    for (const url of item.images) {
-      const newUrl = await downloadImage(url);
-      if (newUrl) resolved.push(newUrl);
+// הורדת סרטון ושמירה בסיומת .bin כדי לעקוף סינון נטפרי
+const VIDEOS_DIR = path.join(__dirname, "data", "videos");
+
+async function downloadVideo(videoUrl) {
+  if (!puppeteer) return videoUrl;
+  try {
+    const filename = hash(videoUrl) + ".bin";
+    const filepath = path.join(VIDEOS_DIR, filename);
+
+    if (fs.existsSync(filepath)) {
+      return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/videos/${filename}`;
     }
-    item.images = resolved.length > 0 ? resolved : undefined;
+
+    if (!fs.existsSync(VIDEOS_DIR)) fs.mkdirSync(VIDEOS_DIR, { recursive: true });
+
+    const browser = await getBrowser();
+    const page = await browser.newPage();
+    try {
+      const response = await page.goto(videoUrl, { timeout: 30000, waitUntil: "load" });
+      if (response && response.ok()) {
+        const buffer = await response.buffer();
+        // מגביל ל-50MB כדי לא לפוצץ את הריפו
+        if (buffer.length > 1000 && buffer.length < 50 * 1024 * 1024) {
+          fs.writeFileSync(filepath, buffer);
+          return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/videos/${filename}`;
+        }
+      }
+    } finally {
+      await page.close().catch(() => {});
+    }
+  } catch (e) {
+    console.log(`  ⚠ לא ניתן להוריד סרטון: ${videoUrl.slice(0, 80)} (${e.message})`);
+  }
+  return null;
+}
+
+// הורדת כל המדיה (תמונות + סרטונים) של הפריטים
+async function downloadItemMedia(items) {
+  for (const item of items) {
+    // תמונות
+    if (item.images && item.images.length > 0) {
+      const resolved = [];
+      for (const url of item.images) {
+        const newUrl = await downloadImage(url);
+        if (newUrl) resolved.push(newUrl);
+      }
+      item.images = resolved.length > 0 ? resolved : undefined;
+    }
+    // סרטונים
+    if (item.videos && item.videos.length > 0) {
+      const resolved = [];
+      for (const url of item.videos) {
+        const newUrl = await downloadVideo(url);
+        if (newUrl) resolved.push(newUrl);
+      }
+      item.videos = resolved.length > 0 ? resolved : undefined;
+    }
   }
 }
 
-module.exports = { scrapeSource, closeBrowser, downloadItemImages };
+module.exports = { scrapeSource, closeBrowser, downloadItemMedia };
