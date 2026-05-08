@@ -1,7 +1,9 @@
 node_modules/
+package-lock.json
 state.json
 .env
 *.log
 _*.js
 _*.bat
+data/debug-*.html
 # data/ נשמר בריפו – הוא הפלט של ה-Action

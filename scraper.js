@@ -1,9 +1,16 @@
 const cheerio = require("cheerio");
 const crypto = require("crypto");
+const fs = require("fs");
+const path = require("path");
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+
+const GITHUB_USER = "tyuibbbbbbbbbbbb";
+const GITHUB_REPO = "updates-monitor";
+const GITHUB_BRANCH = "main";
+const IMAGES_DIR = path.join(__dirname, "data", "images");
 
 // משתמשים ב-Puppeteer רק אם הוא זמין (מותקן רק ב-GitHub Actions / סביבת סריקה)
 let puppeteer = null;
@@ -133,6 +140,14 @@ function extractFeedItems($, source) {
         images.push(absoluteUrl(src, source.url));
       }
     });
+    // חילוץ תמונות מ-background-image
+    $el.find("[style*='background-image']").each((_, el2) => {
+      const style = $(el2).attr("style") || "";
+      const m = style.match(/url\(['"]?([^)'"]+)['"]?\)/);
+      if (m && m[1] && !m[1].startsWith("data:")) {
+        images.push(absoluteUrl(m[1], source.url));
+      }
+    });
 
     // אם אין תוכן טקסטואלי ואין תמונות - דלג
     if ((!content || content.length < 3) && images.length === 0) return;
@@ -216,4 +231,52 @@ async function scrapeSource(source) {
   };
 }
 
-module.exports = { scrapeSource, closeBrowser };
+// הורדת תמונה ושמירה לריפו – מחזירה URL של GitHub raw
+async function downloadImage(imageUrl) {
+  if (!puppeteer) return imageUrl; // fallback
+  try {
+    const ext = (imageUrl.match(/\.(jpg|jpeg|png|gif|webp|svg)/i) || [, "jpg"])[1];
+    const filename = hash(imageUrl) + "." + ext;
+    const filepath = path.join(IMAGES_DIR, filename);
+
+    // אם כבר הורד – לא מוריד שוב
+    if (fs.existsSync(filepath)) {
+      return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/images/${filename}`;
+    }
+
+    if (!fs.existsSync(IMAGES_DIR)) fs.mkdirSync(IMAGES_DIR, { recursive: true });
+
+    const browser = await getBrowser();
+    const page = await browser.newPage();
+    try {
+      const response = await page.goto(imageUrl, { timeout: 15000, waitUntil: "load" });
+      if (response && response.ok()) {
+        const buffer = await response.buffer();
+        if (buffer.length > 100) { // לא שומרים תמונות ריקות
+          fs.writeFileSync(filepath, buffer);
+          return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/images/${filename}`;
+        }
+      }
+    } finally {
+      await page.close().catch(() => {});
+    }
+  } catch (e) {
+    console.log(`  ⚠ לא ניתן להוריד תמונה: ${imageUrl.slice(0, 80)} (${e.message})`);
+  }
+  return null; // תמונה שלא הורדה – לא מציגים
+}
+
+// הורדת כל התמונות של פריט ועדכון ה-URLs
+async function downloadItemImages(items) {
+  for (const item of items) {
+    if (!item.images || item.images.length === 0) continue;
+    const resolved = [];
+    for (const url of item.images) {
+      const newUrl = await downloadImage(url);
+      if (newUrl) resolved.push(newUrl);
+    }
+    item.images = resolved.length > 0 ? resolved : undefined;
+  }
+}
+
+module.exports = { scrapeSource, closeBrowser, downloadItemImages };

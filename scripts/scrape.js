@@ -4,7 +4,7 @@
 const fs = require("fs");
 const path = require("path");
 const sources = require("../sources");
-const { scrapeSource, closeBrowser } = require("../scraper");
+const { scrapeSource, closeBrowser, downloadItemImages } = require("../scraper");
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const OUT_FILE = path.join(DATA_DIR, "updates.json");
@@ -44,14 +44,19 @@ function loadJson(p, fallback) {
     }
   }
 
+  // הורדת תמונות לריפו (כך שישירות מ-GitHub Pages הן נגישות דרך נטפרי)
+  console.log("מוריד תמונות...");
+  await downloadItemImages(collected);
+
   const now = new Date().toISOString();
   for (const it of collected) {
     const key = it.sourceId + ":" + it.id;
     if (!firstSeen[key]) firstSeen[key] = now;
     it.firstSeen = firstSeen[key];
   }
+  // סדר כרונולוגי – ישן למעלה, חדש למטה
   collected.sort(
-    (a, b) => new Date(b.firstSeen).getTime() - new Date(a.firstSeen).getTime()
+    (a, b) => new Date(a.firstSeen).getTime() - new Date(b.firstSeen).getTime()
   );
 
   // ניקוי firstSeen מערכים ישנים (>30 ימים)
