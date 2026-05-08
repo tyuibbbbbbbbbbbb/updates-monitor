@@ -2,7 +2,7 @@ name: Scrape Updates
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # כל 10 דקות
+    - cron: "*/1 * * * *"    # כל דקה
   workflow_dispatch:           # אפשר להפעיל ידנית
   push:
     branches: [main]

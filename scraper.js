@@ -124,17 +124,28 @@ function extractFeedItems($, source) {
     // ניקוי טקסטי junk
     for (const p of junkPatterns) content = content.replace(p, " ");
     content = content.replace(/\s+/g, " ").trim();
-    if (!content || content.length < 3) return;
+
+    // חילוץ תמונות
+    const images = [];
+    $el.find("img").each((_, img) => {
+      const src = $(img).attr("src") || $(img).attr("data-src") || "";
+      if (src && !src.startsWith("data:") && src.length > 5) {
+        images.push(absoluteUrl(src, source.url));
+      }
+    });
+
+    // אם אין תוכן טקסטואלי ואין תמונות - דלג
+    if ((!content || content.length < 3) && images.length === 0) return;
 
     const time = firstText($el, source.timeSelectors);
     const channelName = firstText($el, source.titleSelectors);
 
-    const firstLine = content.split(/\n|(?<=[.!?])\s+/)[0].trim();
-    const title = (firstLine || content).slice(0, 120);
-    const body = content.slice(0, 400);
+    const firstLine = (content || "").split(/\n|(?<=[.!?])\s+/)[0].trim();
+    const title = (firstLine || content || "תמונה").slice(0, 120);
+    const body = (content || "").slice(0, 400);
 
     // ID יציב לפי תוכן ההודעה
-    const id = hash(content.slice(0, 200));
+    const id = hash((content || images[0] || "").slice(0, 200));
     if (seen.has(id)) return;
     seen.add(id);
 
@@ -143,6 +154,7 @@ function extractFeedItems($, source) {
       title,
       link: source.url + `#msg-${id}`,
       body,
+      images: images.length > 0 ? images : undefined,
       time: time || null,
       channelName: channelName || null,
       position: idx,

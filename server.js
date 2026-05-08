@@ -7,7 +7,7 @@ const fs = require("fs");
 const axios = require("axios");
 
 const PORT = process.env.PORT || 3000;
-const REFRESH_MINUTES = Number(process.env.REFRESH_MINUTES || 5);
+const REFRESH_SECONDS = Number(process.env.REFRESH_SECONDS || 6); // 0.1 דקה
 
 // כתובת קובץ ה-JSON שמתעדכן ע"י GitHub Actions
 const GITHUB_USER = process.env.GITHUB_USER || "tyuibbbbbbbbbbbb";
@@ -95,7 +95,7 @@ app.get("/api/updates", (req, res) => {
   res.json({
     lastCheck: data.generatedAt,        // מתי GitHub Actions סרק לאחרונה
     lastFetch: state.lastFetch,         // מתי השרת המקומי הוריד לאחרונה
-    pollMinutes: REFRESH_MINUTES,
+    pollSeconds: REFRESH_SECONDS,
     sources: data.sources || [],
     items,
     upstreamErrors: data.errors || null,
@@ -117,16 +117,16 @@ app.get("/api/health", (req, res) => {
   res.json({ ok: true, lastFetch: state.lastFetch });
 });
 
-// Polling – מוריד את ה-JSON מ-GitHub כל X דקות
+// Polling – מוריד את ה-JSON מ-GitHub כל X שניות
 setInterval(() => {
   fetchData().catch(() => {});
-}, REFRESH_MINUTES * 60 * 1000);
+}, REFRESH_SECONDS * 1000);
 
 // הורדה ראשונית
 fetchData().catch(() => {});
 
 app.listen(PORT, () => {
   console.log(`🚀 השרת רץ על http://localhost:${PORT}`);
-  console.log(`   מוריד נתונים מ-GitHub כל ${REFRESH_MINUTES} דקות`);
+  console.log(`   מוריד נתונים מ-GitHub כל ${REFRESH_SECONDS} שניות`);
   console.log(`   מקור: ${DATA_URL}`);
 });
