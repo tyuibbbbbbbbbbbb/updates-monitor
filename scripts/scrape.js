@@ -5,6 +5,7 @@ const fs = require("fs");
 const path = require("path");
 const sources = require("../sources");
 const { scrapeSource, closeBrowser, downloadItemMedia } = require("../scraper");
+const { scrapeYouTube } = require("../youtube-scraper");
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const OUT_FILE = path.join(DATA_DIR, "updates.json");
@@ -44,6 +45,19 @@ function loadJson(p, fallback) {
     }
   }
 
+  // סריקת יוטיוב
+  try {
+    console.log("סורק YouTube...");
+    const ytItems = await scrapeYouTube();
+    if (ytItems) {
+      collected.push(...ytItems);
+      console.log(`  ✓ YouTube: ${ytItems.length} סרטונים`);
+    }
+  } catch (e) {
+    console.error(`  ✗ YouTube: ${e.message}`);
+    errors.push({ source: "YouTube", error: e.message });
+  }
+
   // הורדת מדיה לריפו (תמונות + סרטונים – נגישות דרך נטפרי)
   console.log("מוריד מדיה...");
   await downloadItemMedia(collected);
@@ -71,15 +85,20 @@ function loadJson(p, fallback) {
     }
   }
 
-  const out = {
-    generatedAt: now,
-    sources: sources.map((s) => ({
+  const allSources = [
+    ...sources.map((s) => ({
       id: s.id,
       name: s.name,
       icon: s.icon,
       color: s.color,
       url: s.url,
     })),
+    { id: "youtube", name: "מוזיקה חרדית", icon: "🎵", color: "#dc2626", url: "https://www.youtube.com/" },
+  ];
+
+  const out = {
+    generatedAt: now,
+    sources: allSources,
     items: collected,
     errors,
   };

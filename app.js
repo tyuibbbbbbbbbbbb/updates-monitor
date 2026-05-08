@@ -42,11 +42,16 @@ function createMsgEl(it, animate) {
       ).join("")}</div>`
     : "";
 
-  const videosHtml = (it.videos && it.videos.length > 0)
-    ? `<div class="msg-video">${it.videos.map(url =>
-        `<div class="vid-container" data-src="${escapeHtml(url)}"><div style="padding:40px;text-align:center;color:#fff;font-size:0.8rem;">▶ טוען סרטון...</div></div>`
-      ).join("")}</div>`
-    : "";
+  // סרטוני .bin (מהריפו) או YouTube
+  let videosHtml = "";
+  if (it.youtubeId) {
+    videosHtml = `<div class="msg-video"><div class="vid-container yt-container" data-ytid="${escapeHtml(it.youtubeId)}">
+      <div style="padding:20px;text-align:center;color:#fff;font-size:0.8rem;cursor:pointer" onclick="loadYT(this.parentElement)">▶ לחץ להפעלה</div></div></div>`;
+  } else if (it.videos && it.videos.length > 0) {
+    videosHtml = `<div class="msg-video">${it.videos.map(url =>
+      `<div class="vid-container" data-src="${escapeHtml(url)}"><div style="padding:20px;text-align:center;color:#fff;font-size:0.8rem;">▶ טוען סרטון...</div></div>`
+    ).join("")}</div>`;
+  }
 
   div.innerHTML = `
     <div class="msg-avatar">${it.sourceIcon || "📨"}</div>
@@ -91,6 +96,16 @@ async function loadVideoBlob(container, url) {
   }
 }
 
+// הטמעת סרטון YouTube דרך youtube-nocookie.com (פחות נחסם בנטפרי)
+function loadYT(container) {
+  const ytid = container.dataset.ytid;
+  if (!ytid) return;
+  container.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${ytid}" 
+    style="width:100%;height:180px;border:none;border-radius:8px;" 
+    allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture" 
+    allowfullscreen></iframe>`;
+}
+
 function shouldShow(item) {
   if (activeFilter === "all") return true;
   if (activeFilter === "new") return item.isNew;
@@ -109,7 +124,7 @@ function renderFilters() {
       🆕 <span class="count">${newCount}</span></button>`] : []),
     ...sources.map(s => `
       <button class="filter-chip ${activeFilter === s.id ? 'active' : ''}" data-f="${s.id}">
-        ${s.icon} <span class="count">${counts[s.id] || 0}</span></button>`),
+        ${s.icon} ${s.name} <span class="count">${counts[s.id] || 0}</span></button>`),
   ];
   filtersEl.innerHTML = chips.join("");
   filtersEl.querySelectorAll(".filter-chip").forEach(b => {
