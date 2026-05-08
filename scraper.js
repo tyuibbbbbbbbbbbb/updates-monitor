@@ -2,6 +2,8 @@ const cheerio = require("cheerio");
 const crypto = require("crypto");
 const fs = require("fs");
 const path = require("path");
+const https = require("https");
+const http = require("http");
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
@@ -312,11 +314,38 @@ async function downloadImage(imageUrl) {
   return null; // תמונה שלא הורדה – לא מציגים
 }
 
-// הורדת סרטון ושמירה בסיומת .bin כדי לעקוף סינון נטפרי
+// הורדת סרטון בשיטת HTTP ישיר (מהיר יותר מ-Puppeteer) ושמירה בסיומת .bin
 const VIDEOS_DIR = path.join(__dirname, "data", "videos");
+const MAX_VIDEO_SIZE = 15 * 1024 * 1024; // 15MB מקסימום
+
+function httpGet(url, timeout = 15000) {
+  return new Promise((resolve, reject) => {
+    const lib = url.startsWith("https") ? https : http;
+    const req = lib.get(url, { headers: { "User-Agent": UA }, timeout }, (res) => {
+      // follow redirects
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        return httpGet(res.headers.location, timeout).then(resolve, reject);
+      }
+      if (res.statusCode !== 200) {
+        res.resume();
+        return reject(new Error(`HTTP ${res.statusCode}`));
+      }
+      const chunks = [];
+      let size = 0;
+      res.on("data", (chunk) => {
+        size += chunk.length;
+        if (size > MAX_VIDEO_SIZE) { res.destroy(); return reject(new Error("too-large")); }
+        chunks.push(chunk);
+      });
+      res.on("end", () => resolve(Buffer.concat(chunks)));
+      res.on("error", reject);
+    });
+    req.on("timeout", () => { req.destroy(); reject(new Error("timeout")); });
+    req.on("error", reject);
+  });
+}
 
 async function downloadVideo(videoUrl) {
-  if (!puppeteer) return videoUrl;
   try {
     const filename = hash(videoUrl) + ".bin";
     const filepath = path.join(VIDEOS_DIR, filename);
@@ -327,20 +356,10 @@ async function downloadVideo(videoUrl) {
 
     if (!fs.existsSync(VIDEOS_DIR)) fs.mkdirSync(VIDEOS_DIR, { recursive: true });
 
-    const browser = await getBrowser();
-    const page = await browser.newPage();
-    try {
-      const response = await page.goto(videoUrl, { timeout: 30000, waitUntil: "load" });
-      if (response && response.ok()) {
-        const buffer = await response.buffer();
-        // מגביל ל-50MB כדי לא לפוצץ את הריפו
-        if (buffer.length > 1000 && buffer.length < 50 * 1024 * 1024) {
-          fs.writeFileSync(filepath, buffer);
-          return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/videos/${filename}`;
-        }
-      }
-    } finally {
-      await page.close().catch(() => {});
+    const buffer = await httpGet(videoUrl);
+    if (buffer.length > 1000) {
+      fs.writeFileSync(filepath, buffer);
+      return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/videos/${filename}`;
     }
   } catch (e) {
     console.log(`  ⚠ לא ניתן להוריד סרטון: ${videoUrl.slice(0, 80)} (${e.message})`);
