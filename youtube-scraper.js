@@ -1,4 +1,4 @@
-// סקרייפר יוטיוב למוזיקה חרדית דרך YouTube Data API v3
+// סקרייפר יוטיוב למוזיקה חרדית דרך YouTube Data API v3 (Search)
 const https = require("https");
 const fs = require("fs");
 const path = require("path");
@@ -11,29 +11,27 @@ const GITHUB_BRANCH = "main";
 const IMAGES_DIR = path.join(__dirname, "data", "images");
 const LAST_CHECK_FILE = path.join(__dirname, "data", "yt-last-check.json");
 
-// רשימת ערוצים – channelId (UC...) הופך ל-uploads playlist (UU...)
-const CHANNELS = [
-  { id: "UCZdrKTPxtmd540fngZzckzA", name: "TYH Nation" },
-  { id: "UCgGb3s4V-jKqxGghfiIgvlg", name: "נחמן פילמר" },
-  { id: "UCzqpZ8XdZsLBGNYKbEZn-TA", name: "Shiezoli" },
-  { id: "UCA5DZvGtE9DChiczMl_Q8sg", name: "Lipa Schmeltzer" },
-  { id: "UCo69C9U4ol49c-C3GHCbk2w", name: "Lipa Schmeltzer (Official)" },
-  { id: "UCHwxQ7twj_VWIPMcJ3Zdyqg", name: "Ishay Ribo" },
-  { id: "UC1E77boGnTCRb-CLAY7mE5Q", name: "Motty Steinmetz" },
-  { id: "UCV1IyoFn06MRx4NEkAEYMjQ", name: "Shmueli Ungar" },
-  { id: "UCxeI8Ny6MhA2a_0VYwOBe0A", name: "Beri Weber" },
-  { id: "UC2n9xBx8-5JKLuwxM0bz-uw", name: "Mordechai Shapiro" },
-  { id: "UCkMdbvQMrG4bDuXJricmG9Q", name: "Simcha Leiner" },
-  { id: "UC5PcfJHBFOFeFMiUYHPhKOA", name: "Yaakov Shwekey" },
-  { id: "UC7zFQeHqfYOaJZyFPN7e_Zg", name: "Avraham Fried" },
-  { id: "UCwQjMfSVLqeCsRi8bK7v33A", name: "Jewish Music AI" },
-  { id: "UCi2KNss4Yx73DXGD1VHlgrg", name: "Zanvil Weinberger" },
-  { id: "UC4V3oCikXGBexMYGnHBEyjA", name: "Shloimy Daskal" },
-  { id: "UCE3KsRi6yflMR51v3MQ-aYA", name: "MBD" },
+// שאילתות חיפוש – כל אחת מחזירה סרטונים אחרונים רלוונטיים
+const SEARCH_QUERIES = [
+  "jewish music new 2026",
+  "מוזיקה חרדית חדש",
+  "TYH Nation",
+  "נחמן פילמר",
+  "Shiezoli jewish",
+  "motty steinmetz",
+  "shmueli ungar",
+  "ishay ribo ישי ריבו",
+  "beri weber",
+  "mordechai shapiro",
+  "simcha leiner",
+  "yaakov shwekey",
+  "avraham fried",
+  "jewish music AI",
+  "lipa schmeltzer",
 ];
 
-// כל כמה דקות לבדוק מחדש (חסכון ב-API quota)
-const CHECK_INTERVAL_MIN = 15;
+// כל כמה דקות לבדוק מחדש (חסכון ב-API quota – 10,000/יום)
+const CHECK_INTERVAL_MIN = 60;
 
 function hash(s) {
   return crypto.createHash("md5").update(s).digest("hex").slice(0, 12);

@@ -267,6 +267,21 @@ body {
   border-radius: 8px;
 }
 
+/* סימון מיקום קריאה אחרון */
+.last-read-marker {
+  border-right: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+}
+.last-read-marker::after {
+  content: "▸ המשך קריאה מכאן";
+  display: block;
+  font-size: 0.65rem;
+  color: var(--accent);
+  text-align: center;
+  padding: 2px 0;
+  margin-top: 2px;
+}
+
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }

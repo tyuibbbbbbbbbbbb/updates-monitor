@@ -13,6 +13,10 @@ let allItems = [];
 let sources = [];
 let lastGeneratedAt = null;
 
+// זכירת מיקום קריאה
+const LAST_READ_KEY = "updates-monitor-last-read";
+let lastReadId = localStorage.getItem(LAST_READ_KEY) || null;
+
 function escapeHtml(s) {
   return String(s || "").replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
@@ -36,9 +40,10 @@ function createMsgEl(it, animate) {
   div.dataset.id = it.id;
   div.dataset.source = it.sourceId;
 
+  // תמונות נטענות כ-blob (עקיפת נטפרי)
   const imagesHtml = (it.images && it.images.length > 0)
-    ? `<div class="msg-images">${it.images.map(src =>
-        `<img src="${escapeHtml(src)}" alt="" loading="lazy" onclick="openImage(this.src)">`
+    ? `<div class="msg-images">${it.images.map((src, i) =>
+        `<img data-blob-src="${escapeHtml(src)}" alt="" loading="lazy" style="opacity:0;transition:opacity .3s" onclick="openImage(this.src)">`
       ).join("")}</div>`
     : "";
 
@@ -68,12 +73,31 @@ function createMsgEl(it, animate) {
     </div>
   `;
 
-  // טעינת סרטונים כ-blob (עוקף נטפרי - הקובץ בסיומת .bin)
+  // טעינת סרטונים כ-blob (עוקף נטפרי)
   div.querySelectorAll(".vid-container[data-src]").forEach(container => {
     loadVideoBlob(container, container.dataset.src);
   });
 
+  // טעינת תמונות כ-blob (עוקף נטפרי)
+  div.querySelectorAll("img[data-blob-src]").forEach(img => {
+    loadImageBlob(img, img.dataset.blobSrc);
+  });
+
   return div;
+}
+
+// טוען תמונה כ-blob URL כדי שנטפרי לא יזהה אותה
+async function loadImageBlob(img, url) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const blob = await res.blob();
+    img.src = URL.createObjectURL(blob);
+    img.style.opacity = "1";
+  } catch (e) {
+    img.alt = "⚠";
+    img.style.opacity = "0.3";
+  }
 }
 
 // טוען סרטון כ-blob URL כדי שנטפרי לא יזהה אותו
@@ -143,10 +167,20 @@ function rebuildFeed() {
     feedEl.innerHTML = `<div class="empty">אין הודעות להצגה</div>`;
     return;
   }
+  let scrollTarget = null;
   for (const it of visible) {
-    feedEl.appendChild(createMsgEl(it, false));
+    const el = createMsgEl(it, false);
+    feedEl.appendChild(el);
+    if (it.id === lastReadId) scrollTarget = el;
   }
-  feedEl.scrollTop = feedEl.scrollHeight;
+
+  // גלילה למיקום הקריאה האחרון
+  if (scrollTarget) {
+    scrollTarget.classList.add("last-read-marker");
+    setTimeout(() => scrollTarget.scrollIntoView({ behavior: "smooth", block: "center" }), 100);
+  } else {
+    feedEl.scrollTop = feedEl.scrollHeight;
+  }
   renderFilters();
 }
 
@@ -229,6 +263,26 @@ window.openImage = function(src) {
   overlay.onclick = () => overlay.remove();
   document.body.appendChild(overlay);
 };
+
+// עדכון מיקום קריאה – שומר את ההודעה האחרונה הנראית
+function updateReadPosition() {
+  const msgs = feedEl.querySelectorAll(".msg");
+  if (!msgs.length) return;
+  const feedRect = feedEl.getBoundingClientRect();
+  let lastVisible = null;
+  for (const m of msgs) {
+    const r = m.getBoundingClientRect();
+    if (r.top < feedRect.bottom - 50) lastVisible = m;
+  }
+  if (lastVisible && lastVisible.dataset.id) {
+    lastReadId = lastVisible.dataset.id;
+    localStorage.setItem(LAST_READ_KEY, lastReadId);
+  }
+}
+feedEl.addEventListener("scroll", () => {
+  clearTimeout(feedEl._readTimer);
+  feedEl._readTimer = setTimeout(updateReadPosition, 300);
+});
 
 // התחלה
 checkForUpdates();
