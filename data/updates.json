@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T20:10:13.682Z",
+  "generatedAt": "2026-05-16T21:03:34.543Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,6 +25,24 @@
   ],
   "items": [
     {
+      "id": "d41d8cd98f00",
+      "title": "תמונה",
+      "link": "https://black-cat.thechats.click/#msg-d41d8cd98f00",
+      "body": "",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/27173d03c8ed.bin"
+      ],
+      "time": null,
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-05-08T11:37:34.200Z"
+    },
+    {
       "id": "3e294311babb",
       "title": "💍מתחתנים?",
       "link": "https://black-cat.thechats.click/#msg-3e294311babb",
@@ -34,7 +52,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -52,13 +70,31 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-05-13T22:15:45.082Z"
+    },
+    {
+      "id": "801c4783ec0b",
+      "title": "ברוך דיין האמת😭😭😭 הרה\"ח רבי אהרן יהודה קליין זצ\"למפארי וחשובי חסידי באבוב,נפטר בגיל 46והותיר 9 יתומים בביתהקטן בן שנת",
+      "link": "https://hagizra.news/#msg-801c4783ec0b",
+      "body": "ברוך דיין האמת😭😭😭 הרה\"ח רבי אהרן יהודה קליין זצ\"למפארי וחשובי חסידי באבוב,נפטר בגיל 46והותיר 9 יתומים בביתהקטן בן שנתיים בלבד! לסיוע דחוף לאלמנה ו-9 יתומים הקליקו כאן>>>",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/219a1fa67580.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-14T22:35:34.804Z"
     },
     {
       "id": "b5de9d97e275",
@@ -70,7 +106,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -88,7 +124,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -106,7 +142,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 16,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -124,7 +160,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
+      "position": 19,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -139,42 +175,6 @@
       "body": "מצווה טאנץ",
       "videos": [
         "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fb2ff92eb951.bin"
-      ],
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 18,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-15T08:17:06.494Z"
-    },
-    {
-      "id": "e28a510445b8",
-      "title": "🧡",
-      "link": "https://black-cat.thechats.click/#msg-e28a510445b8",
-      "body": "🧡",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6d1299cb4166.bin"
-      ],
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 19,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-15T08:17:06.494Z"
-    },
-    {
-      "id": "30b4d528ffcf",
-      "title": "כיבוי שריפה במרכז לוגיסטי קוריאני בשטח של 200 אלף מ\"ר.או:איך נראה התשלום הראשון על המשכנתא",
-      "link": "https://black-cat.thechats.click/#msg-30b4d528ffcf",
-      "body": "כיבוי שריפה במרכז לוגיסטי קוריאני בשטח של 200 אלף מ\"ר.או:איך נראה התשלום הראשון על המשכנתא",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8954e85946e5.bin"
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
@@ -196,7 +196,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -214,7 +214,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 11,
+      "position": 13,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -232,7 +232,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -250,7 +250,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -268,7 +268,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -286,7 +286,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -304,7 +304,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -322,7 +322,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -340,7 +340,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -358,42 +358,12 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-16T19:22:00.881Z"
-    },
-    {
-      "id": "00f63ba1a184",
-      "title": "דיווחים פלסטיניים | לפחות הרוג אחד בתקיפה בג'באליה.",
-      "link": "https://hagizra.news/#msg-00f63ba1a184",
-      "body": "דיווחים פלסטיניים | לפחות הרוג אחד בתקיפה בג'באליה. (שחר קליימן)",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T19:22:00.881Z"
-    },
-    {
-      "id": "8187dfc4f6ac",
-      "title": "סערת פאצ׳ משיח | לוחם הנח״ל אור שנשפט באופן שערורייתי ל-30 ימי כלא, נדרש להגיע מחר לתחילת ריצוי העונש.",
-      "link": "https://hagizra.news/#msg-8187dfc4f6ac",
-      "body": "סערת פאצ׳ משיח | לוחם הנח״ל אור שנשפט באופן שערורייתי ל-30 ימי כלא, נדרש להגיע מחר לתחילת ריצוי העונש. הורים מהגדוד מתכננים להגיע להפגין, חבריו לפלוגה והגדוד בסערת רגשות. (הלל ביטון רוזן)",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
       "firstSeen": "2026-05-16T19:22:00.881Z"
     },
     {
@@ -406,7 +376,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 2,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -424,27 +394,12 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 3,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
-    },
-    {
-      "id": "c0d0a314afed",
-      "title": "לקאת פיצוץ | טראמפ כעת: ״זה היה השקט שלפני הסערה״.",
-      "link": "https://hagizra.news/#msg-c0d0a314afed",
-      "body": "לקאת פיצוץ | טראמפ כעת: ״זה היה השקט שלפני הסערה״. הנשיא צירף תמונה שלו עם גנרל שמאחוריהם ספינה איראנית.",
-      "time": null,
-      "channelName": null,
-      "position": 0,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
       "firstSeen": "2026-05-16T20:10:13.682Z"
     },
     {
@@ -454,7 +409,7 @@
       "body": "מצבו של הרב דוב קוק שליט\"א | במהלך השבת, חל שיפור קל מעט, אך הרב עדיין מורדם ומונשם, המשיכו להתפלל עבור הרב דב הכהן בן שושנה לרפואה שלמה.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -469,7 +424,7 @@
       "body": "כביש 90 | פצוע קשה בן 17 בתאונת דרכים עם מעורבות רכב פרטי וטרקטור סמוך לישוב מחולה. הפצוע קשה פונה במסוק לבית החולים רמב\"ם להמשך קבלת טיפול רפואי. שני פצועים נוספים פונו במצב קל.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -478,10 +433,61 @@
       "firstSeen": "2026-05-16T20:10:13.682Z"
     },
     {
-      "id": "9bdf16dc7f23",
+      "id": "6b73aa44d902",
+      "title": "עזה-ווד | הוליווד בעזה: ישראל הרגה את אותו ילד בעזה לפחות 3 פעמים",
+      "link": "https://hagizra.news/#msg-6b73aa44d902",
+      "body": "עזה-ווד | הוליווד בעזה: ישראל הרגה את אותו ילד בעזה לפחות 3 פעמים",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/db919a9253cd.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-16T21:03:34.543Z"
+    },
+    {
+      "id": "fd8fb0690162",
+      "title": "דימונה | שרפה פרצה בארון חשמל בבניין מגורים בעיר, אזרח אחד נפגע באורח קל משאיפת עשן.",
+      "link": "https://hagizra.news/#msg-fd8fb0690162",
+      "body": "דימונה | שרפה פרצה בארון חשמל בבניין מגורים בעיר, אזרח אחד נפגע באורח קל משאיפת עשן. לוחמי אש פעלו במקום לכיבוי השרפה.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-16T21:03:34.543Z"
+    },
+    {
+      "id": "9617b87af8ab",
       "title": "סקר הגיזרה טרום בחירות 2026 | שעה אחרונה להצבעה!!",
-      "link": "https://hagizra.news/#msg-9bdf16dc7f23",
-      "body": "סקר הגיזרה טרום בחירות 2026 | שעה אחרונה להצבעה!! הסקר נסגר ב 00:00 בדיוק! הצביעו כעת על הנושאים הבוערים של הציבור החרדי!! https://forms.gle/oJu3rcxbcZqek3hs6 או: https://accounts.google.com/v3/signin/accountchooser?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd4h0oNwwObfsdOf-LeK1Uod6cAH1gCxzXuALxUvvQ2fjTajQ%2Fviewform%3Fusp%3Dsend_form&service=wise&flowName=GlifWebSignIn&flowE",
+      "link": "https://hagizra.news/#msg-9617b87af8ab",
+      "body": "סקר הגיזרה טרום בחירות 2026 | שעה אחרונה להצבעה!! הסקר נסגר ב 00:00 בדיוק! הצביעו כעת על הנושאים הבוערים ... דקות אחרונות! התוצאות הדרמטיות יפורסמו מחר!",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-16T21:03:34.543Z"
+    },
+    {
+      "id": "f4603349de73",
+      "title": "מניעת צער בעלי חיים | לוחמי האש פעלו לחילוץ של כלבה שנפלה לבור בעומק של כ-20 מטרים במושב אביגדור.",
+      "link": "https://hagizra.news/#msg-f4603349de73",
+      "body": "מניעת צער בעלי חיים | לוחמי האש פעלו לחילוץ של כלבה שנפלה לבור בעומק של כ-20 מטרים במושב אביגדור. הכלבה חולצה בבטחה והועברה להמשך טיפול רפואי. (צילום: כבאות והצלה לישראל)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e5c78778bde8.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -490,13 +496,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "a2c01872ffbe",
-      "title": "מפחיד | תיעוד נוסף ובלעדי סמוך לבית שמש.נמחק עקב בעיות צנזורה",
-      "link": "https://hagizra.news/#msg-a2c01872ffbe",
-      "body": "מפחיד | תיעוד נוסף ובלעדי סמוך לבית שמש.נמחק עקב בעיות צנזורה",
+      "id": "1fff5f1c61ce",
+      "title": "או שלא...",
+      "link": "https://hagizra.news/#msg-1fff5f1c61ce",
+      "body": "או שלא... | באיראן מדווחים: הבורסה בטהראן תיפתח ביום שלישי - לראשונה מתחילת המלחמה בסוף פברואר. (אסף רוזנצווייג)",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -505,13 +511,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "70262b6b57a6",
-      "title": "חיסול רב המרצחים עז א-דין אל-חדאד | הפרשן הצבאי אמיר בוחבוט: \"החלטה מצוינת.",
-      "link": "https://hagizra.news/#msg-70262b6b57a6",
-      "body": "חיסול רב המרצחים עז א-דין אל-חדאד | הפרשן הצבאי אמיר בוחבוט: \"החלטה מצוינת. מדובר באחד מאדריכלי שבעה באוקטובר, שפעל לשקם את חמאס והפך אותו מארגון לצבא טרור\"",
+      "id": "b5c4a9c86d28",
+      "title": "ביתר עילית | בן 10 במצב בינוני לאחר שנפגע מרכב פרטי במהלך רכיבה על אופניים ברחוב קדושת לוי בעיר.",
+      "link": "https://hagizra.news/#msg-b5c4a9c86d28",
+      "body": "ביתר עילית | בן 10 במצב בינוני לאחר שנפגע מרכב פרטי במהלך רכיבה על אופניים ברחוב קדושת לוי בעיר.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -520,13 +526,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "cd517a4e9e26",
-      "title": "מטורף | תיעוד הפיצוץ סמוך לבית שמש.נמחק עקב בעיות צנזורה",
-      "link": "https://hagizra.news/#msg-cd517a4e9e26",
-      "body": "מטורף | תיעוד הפיצוץ סמוך לבית שמש.נמחק עקב בעיות צנזורה",
+      "id": "25a5e5740f5f",
+      "title": "סקר הגיזרה טרום בחירות 2026 | שעה אחרונה להצבעה!!",
+      "link": "https://hagizra.news/#msg-25a5e5740f5f",
+      "body": "סקר הגיזרה טרום בחירות 2026 | שעה אחרונה להצבעה!! הסקר נסגר ב 00:00 בדיוק! הצביעו כעת על הנושאים הבוערים ... 10 דקות אחרונות להצביע!!!",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -535,13 +541,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "6a8afade280b",
-      "title": "קרעו שערי שמיים | הציבור נקרא להתפלל ולעורר רחמי שמיים לחולים שלמה זלמן בן גליה אייגה.",
-      "link": "https://hagizra.news/#msg-6a8afade280b",
-      "body": "קרעו שערי שמיים | הציבור נקרא להתפלל ולעורר רחמי שמיים לחולים שלמה זלמן בן גליה אייגה. ואיילה בת שולמית רוזה. שנפצעו קשה מאוד בערב שבת בתאונה בכביש 1. שבו גם נפטר תינוק בן חודש ר\"ל. {א} שִׁיר הַמַּעֲלוֹת מִמַּעֲמַקִּים קְרָאתִיךָ ה': {ב} אֲדֹנָי שִׁמְעָה בְקוֹלִי תִּהְיֶינָה אָזְנֶיךָ קַשֻּׁבוֹת לְקוֹל תַּחֲנוּנָי: {ג} אִם עֲוֹנוֹת תִּשְׁמָר יָהּ אֲדֹנָי מִי יַעֲמֹד: {ד} כִּי עִמְּךָ הַסְּלִיחָה ל",
+      "id": "1031e6d67bf7",
+      "title": "בריטניה | דיווח ב\"דיילי מייל\" הבריטי: קיר סטארמר אמר למקורביו כי בכוונתו לפרוש מתפקיד ראש הממשלה ולקבוע לוח זמנים מסודר ",
+      "link": "https://hagizra.news/#msg-1031e6d67bf7",
+      "body": "בריטניה | דיווח ב\"דיילי מייל\" הבריטי: קיר סטארמר אמר למקורביו כי בכוונתו לפרוש מתפקיד ראש הממשלה ולקבוע לוח זמנים מסודר לעזיבתו.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -550,13 +556,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "4d6ee893f1b0",
-      "title": "הפיצוץ בבית שמש | כוחות כיבוי והצלה לא מקבלים אישור להגיע לזירה, ככל הנראה אתר ביטחוני חסוי.",
-      "link": "https://hagizra.news/#msg-4d6ee893f1b0",
-      "body": "הפיצוץ בבית שמש | כוחות כיבוי והצלה לא מקבלים אישור להגיע לזירה, ככל הנראה אתר ביטחוני חסוי.",
+      "id": "4d39110f0b8d",
+      "title": "הקונספירציות ברשת | בן כספית: אז הפיצוץ שהחריד את שמי בית שמש והסביבה ומיד אחר כך, דרך הרשתות החברתיות, את מסכי כל המדינ",
+      "link": "https://hagizra.news/#msg-4d39110f0b8d",
+      "body": "הקונספירציות ברשת | בן כספית: אז הפיצוץ שהחריד את שמי בית שמש והסביבה ומיד אחר כך, דרך הרשתות החברתיות, את מסכי כל המדינה, הוא, על פי הגירסה הרשמית, ניסוי שתוכנן מראש של חברת ״תומר״, תעשיה בטחונית ממשלתית שמפתחת מנועים של מגוון טילים ישראלים מכל הסוגים, המינים, הטווחים והתפקידים. בחברה טוענים שהפיצוץ היה מבוקר ומתואם. נו, טוב. מי שהחליט לייצר פיצוץ בסדר גודל כזה בשעת לילה בה הוא בולט שבעתיים, בלי ",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -565,13 +571,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "02aa462c05f3",
-      "title": "אירוע חריג 💥👀 | פיצוץ נשמע בעיר בית שמש ולאחריו נראתה פטריית אש סמוך לעיר.",
-      "link": "https://hagizra.news/#msg-02aa462c05f3",
-      "body": "אירוע חריג 💥👀 | פיצוץ נשמע בעיר בית שמש ולאחריו נראתה פטריית אש סמוך לעיר. נמחק עקב בעיות צנזורה",
+      "id": "a3ca0ad7427c",
+      "title": "לשואלים | \"תומר\" היא חברה בטחונית-ממשלתית שמפתחת מנועים לרקטות וטילים.",
+      "link": "https://hagizra.news/#msg-a3ca0ad7427c",
+      "body": "לשואלים | \"תומר\" היא חברה בטחונית-ממשלתית שמפתחת מנועים לרקטות וטילים. בין היתר גם לטילי חץ 2 וחץ 3, ולרקטות \"בר\", \"רומח\" וארטילריה שונה.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -580,16 +586,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "365734333ae3",
-      "title": "במחיר מפתיע: 7 מושבים הגדול בקטגוריה נחת בישראל 🚘 הכירו את MG S9* -הפלאג אין הייבריד 7 מושבים הגדול ביותר בקטגוריה!",
-      "link": "https://hagizra.news/#msg-365734333ae3",
-      "body": "במחיר מפתיע: 7 מושבים הגדול בקטגוריה נחת בישראל 🚘 הכירו את MG S9* -הפלאג אין הייבריד 7 מושבים הגדול ביותר בקטגוריה! 🧑‍🧑‍🧒‍🧒 7 מושבים מרווחים באמת למשפחה⚡️הנעה היברידית חסכונית משולבת חשמל💨טווח משולב של מעל 1,000 ק״מ בנסיעה✨אבזור מפנק ותא מטען גדול במיוחד! החל מ-189,888 ₪ בלבד❗️ `המחיר אינו כולל אגרת רישוי, תוספות ואביזרים. טווח ע\"פ נתוני יצרן WLTP.```` חייגו: 4989* או השאירו פרטים בווטסאפ 👇",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9560c0880605.jpeg"
-      ],
+      "id": "82897fadcc07",
+      "title": "האירוע החריג סמוך לבית שמש | חברת תומר (שבמתקן שבו בוצע הפיצוץ) מסרה: \"מדובר בניסוי מתוכנן מראש שבוצע לפי התכנון\".",
+      "link": "https://hagizra.news/#msg-82897fadcc07",
+      "body": "האירוע החריג סמוך לבית שמש | חברת תומר (שבמתקן שבו בוצע הפיצוץ) מסרה: \"מדובר בניסוי מתוכנן מראש שבוצע לפי התכנון\".",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -598,13 +601,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "cb2b11c4900a",
-      "title": "מצהיר | הרמטכ\"ל לשעבר גדי איזנקוט (ישר): \"אני לא אתפשר על גיוס לכל, זה עיקרון יסוד לא משנה מה תהיה המשמעות של זה, גם אם ",
-      "link": "https://hagizra.news/#msg-cb2b11c4900a",
-      "body": "מצהיר | הרמטכ\"ל לשעבר גדי איזנקוט (ישר): \"אני לא אתפשר על גיוס לכל, זה עיקרון יסוד לא משנה מה תהיה המשמעות של זה, גם אם נלך לעוד בחירות.\" (חדשות 13).",
+      "id": "20c00713a585",
+      "title": "ואכן התרומות מתחילות לזרום...",
+      "link": "https://hagizra.news/#msg-20c00713a585",
+      "body": "ואכן התרומות מתחילות לזרום... | שהקב\"ה יתן לך שבוע מוצלח מאוד.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -613,13 +616,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "2dede076a933",
-      "title": "באותו ראש עם בנט | ראש רשימת חד\"ש החדש ד\"ר יוסף ג'בארין ברדיו מכאן: \"צו השעה הוא להחליף את הממשלה.",
-      "link": "https://hagizra.news/#msg-2dede076a933",
-      "body": "באותו ראש עם בנט | ראש רשימת חד\"ש החדש ד\"ר יוסף ג'בארין ברדיו מכאן: \"צו השעה הוא להחליף את הממשלה. זה בראש סולם העדיפויות. אני רוצה להוביל את חד\"ש בבחירות הללו עם מטרה ברורה, להחליף את ממשלת נתניהו-בן גביר-סמוטריץ'\".",
+      "id": "3b6680bfe4a2",
+      "title": "איך אפשר להישאר אדישים.",
+      "link": "https://hagizra.news/#msg-3b6680bfe4a2",
+      "body": "איך אפשר להישאר אדישים. ולדעת שיש 9 יתומים שחרב עליהם כל עולמם. שאיבדו את העוגן שלהם..גולשי הגיזרה הידועים בטוב לבם... חוסו על הילדים הקטנים ורוצו לתרום כמה שקלים מכספכם. עד כמה שידכם מגעת.",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -628,28 +631,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "543ff7b7ead9",
-      "title": "התחזית לימים הקרובים | (ליאור סודרי)יום ראשון 17.05.26:מ\"ח בעננות גבוהה ובינונית, תחול עליה ניכרת בטמפרטורות וייעשה חם ו",
-      "link": "https://hagizra.news/#msg-543ff7b7ead9",
-      "body": "התחזית לימים הקרובים | (ליאור סודרי)יום ראשון 17.05.26:מ\"ח בעננות גבוהה ובינונית, תחול עליה ניכרת בטמפרטורות וייעשה חם ויבש ‏מהרגיל עד שרבי.‏בלילה ייתכן טפטוף מקומי. יום שני 18.05.26:מעונן חלקית עד בהיר, תחול ירידה ניכרת בטמפרטורות, ועליה בלחות, והן תהיינה ‏קרובות לממוצע לתקופה. בדרום הארץ ובעמקי המזרח יוסיף להיות חם מהרגיל עד שרבי. יום שלישי 19.05.26:נאה, ללא שינוי ניכר בטמפרטורות, אשר תהיינה ממו",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
-    },
-    {
-      "id": "dbb26e13ed31",
-      "title": "חוץ | יענקי פרבר: בארה\"ב עומד לדין עיראקי קשור לחיזבאללה שהיה מקורב לקסאם סולמאני שחוסל ב-2020.",
-      "link": "https://hagizra.news/#msg-dbb26e13ed31",
-      "body": "חוץ | יענקי פרבר: בארה\"ב עומד לדין עיראקי קשור לחיזבאללה שהיה מקורב לקסאם סולמאני שחוסל ב-2020. החשוד תכנן פיגוע התאבדות בבית כנסת בניו יורק ופעל להוציא פיגועים רבים בארה\"ב נגד יהודים. הוא הוסגר לארה\"ב מטורקיה.",
+      "id": "41fcea0654d3",
+      "title": "תיעוד פסיכי | בנוסף לתאונת הדרכים הקשה בכביש 1 ביום שישי האחרון, שבה נהרגה תינוקת כבת חודש, גלגל ענק של משאית תועד מתגלג",
+      "link": "https://hagizra.news/#msg-41fcea0654d3",
+      "body": "תיעוד פסיכי | בנוסף לתאונת הדרכים הקשה בכביש 1 ביום שישי האחרון, שבה נהרגה תינוקת כבת חודש, גלגל ענק של משאית תועד מתגלגל בנתיב הנגדי בכביש 1 , ובנס לא פגע בכלי רכב שנסעו במקום. (קרדיט: בראשי)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b5752038b69c.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -658,16 +649,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "2f91f03f6b0b",
-      "title": "להקיא | מוחים תלו דגל פלסטין על מגדל אייפל.",
-      "link": "https://hagizra.news/#msg-2f91f03f6b0b",
-      "body": "להקיא | מוחים תלו דגל פלסטין על מגדל אייפל.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a2e9feaf06ce.jpeg"
-      ],
+      "id": "282694816690",
+      "title": "לקראת פיצוץ | טראמפ כעת: ״זה היה השקט שלפני הסערה״.",
+      "link": "https://hagizra.news/#msg-282694816690",
+      "body": "לקראת פיצוץ | טראמפ כעת: ״זה היה השקט שלפני הסערה״. הנשיא צירף תמונה שלו עם גנרל שמאחוריהם ספינה איראנית. זה לא יאיר לפיד? |",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -676,13 +664,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "52d8c3bc7033",
-      "title": "איראן | איראן תחדש את המסחר בבורסה ביום שלישי, כך דווח בסוכנות הידיעות האיראנית IRNA.",
-      "link": "https://hagizra.news/#msg-52d8c3bc7033",
-      "body": "איראן | איראן תחדש את המסחר בבורסה ביום שלישי, כך דווח בסוכנות הידיעות האיראנית IRNA. המסחר הושהה במהלך המלחמה עם ארצות הברית וישראל.",
+      "id": "cf796763482b",
+      "title": "טרגדיה | העריסה של התינוק שנהרג בתאונה בכביש 1 ביום ששי מחכה לו בבית החלמה \"ביכורים\", לשם הוא היה בדרך עם הוריו.",
+      "link": "https://hagizra.news/#msg-cf796763482b",
+      "body": "טרגדיה | העריסה של התינוק שנהרג בתאונה בכביש 1 ביום ששי מחכה לו בבית החלמה \"ביכורים\", לשם הוא היה בדרך עם הוריו. (הפרגוד)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7b0971193e79.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 16,
@@ -691,25 +682,25 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     },
     {
-      "id": "43a479b305f9",
-      "title": "סרן מעוז ישראל רקנטי הי\"ד 💔 | קורע לב | ההזמנה לחתונתם של מעוז הי\"ד ורני שאמור היה להתקיים בעוד כחודש.",
-      "link": "https://hagizra.news/#msg-43a479b305f9",
-      "body": "סרן מעוז ישראל רקנטי הי\"ד 💔 | קורע לב | ההזמנה לחתונתם של מעוז הי\"ד ורני שאמור היה להתקיים בעוד כחודש.",
+      "id": "8849c2b69b77",
+      "title": "לקראת פיצוץ | טראמפ כעת: ״זה היה השקט שלפני הסערה״.",
+      "link": "https://hagizra.news/#msg-8849c2b69b77",
+      "body": "לקראת פיצוץ | טראמפ כעת: ״זה היה השקט שלפני הסערה״. הנשיא צירף תמונה שלו עם גנרל שמאחוריהם ספינה איראנית.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b186d8920f5f.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4bbcdc0af0ec.png"
       ],
       "time": null,
       "channelName": null,
-      "position": 19,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-16T20:10:13.682Z"
+      "firstSeen": "2026-05-16T21:03:34.543Z"
     }
   ],
   "errors": [
