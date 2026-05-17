@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T10:57:36.122Z",
+  "generatedAt": "2026-05-17T12:00:27.557Z",
   "sources": [
     {
       "id": "blackcat",
@@ -34,7 +34,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -52,7 +52,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -70,7 +70,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 18,
+      "position": 20,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -79,48 +79,12 @@
       "firstSeen": "2026-05-13T22:15:45.082Z"
     },
     {
-      "id": "4a15d20aee31",
-      "title": "וזאת במקרה שההסכם לא יחזיק מים",
-      "link": "https://black-cat.thechats.click/#msg-4a15d20aee31",
-      "body": "וזאת במקרה שההסכם לא יחזיק מים",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a24fbde1ec01.jpg"
-      ],
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 20,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-15T14:45:09.569Z"
-    },
-    {
       "id": "854247867d20",
       "title": "מיסתפרד",
       "link": "https://black-cat.thechats.click/#msg-854247867d20",
       "body": "מיסתפרד",
       "videos": [
         "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2f4cd1ef996e.bin"
-      ],
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-16T18:07:03.194Z"
-    },
-    {
-      "id": "e36f56290eaf",
-      "title": "האמת לא הגיוני שהאיש שכח את האשראי ולא שכח את הילד.בתגובה לסרטון מסר הילד \"אבא הבטחת לנו שוקולד ל(ערב) שבת\".",
-      "link": "https://black-cat.thechats.click/#msg-e36f56290eaf",
-      "body": "האמת לא הגיוני שהאיש שכח את האשראי ולא שכח את הילד.בתגובה לסרטון מסר הילד \"אבא הבטחת לנו שוקולד ל(ערב) שבת\".",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f390f3e3abdd.bin"
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
@@ -142,7 +106,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -160,7 +124,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 16,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -178,7 +142,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -196,7 +160,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -214,7 +178,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -229,7 +193,7 @@
       "body": "אמסטרדם, בורסת היהלומים.לידיו של ואן-דר-מרווה, סוחר היהלומים הגדול באירופה, הגיע אוצר נדיר: יהלום גולמי עצום, טהור לחלוטין, ששוויו מוערך במאות מיליוני דולרים. המשימה הייתה לחתוך אותו לשני חצאים מושלמים. חיתוך נכון – והוא יהפוך לאבן היקרה בעולם. חיתוך בזווית של מילימטר אחד הצידה – והיהלום יתרסק לאלפי רסיסים חסרי ערך. הסוחר קרא למומחה החיתוך הבכיר ביותר שלו. המומחה בחן את האבן במשך שלושה שבועות. הוא",
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -247,7 +211,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -265,7 +229,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -283,7 +247,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -301,7 +265,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -319,7 +283,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 3,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -337,7 +301,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -355,7 +319,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -373,7 +337,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 2,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -382,10 +346,43 @@
       "firstSeen": "2026-05-17T10:57:36.122Z"
     },
     {
-      "id": "6405fffab7d2",
-      "title": "במקביל לדיוני חוק הפטור | בוועדת החוץ והביטחון ידונו ברביעי גם על הצעת החוק להארכת שירות החובה.",
-      "link": "https://hagizra.news/#msg-6405fffab7d2",
-      "body": "במקביל לדיוני חוק הפטור | בוועדת החוץ והביטחון ידונו ברביעי גם על הצעת החוק להארכת שירות החובה. (עמית סגל).",
+      "id": "e809613b1fdb",
+      "title": "ככה זה אצל זוגות שקיבלו מידי הרבה הדרכה לשלום בית-",
+      "link": "https://black-cat.thechats.click/#msg-e809613b1fdb",
+      "body": "ככה זה אצל זוגות שקיבלו מידי הרבה הדרכה לשלום בית-",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/18ce9b0a3241.jpg"
+      ],
+      "time": null,
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-05-17T12:00:27.557Z"
+    },
+    {
+      "id": "d82044cd8abe",
+      "title": "כעת | תוצאות סקר הגיזרה לקראת הבחירות https://hagizra.news/#2268573",
+      "link": "https://black-cat.thechats.click/#msg-d82044cd8abe",
+      "body": "כעת | תוצאות סקר הגיזרה לקראת הבחירות https://hagizra.news/#2268573",
+      "time": null,
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 1,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-05-17T12:00:27.557Z"
+    },
+    {
+      "id": "203c71189949",
+      "title": "הפסקת אש | דובר צה\"ל: במהלך הלילה (א'), לוחם צה\"ל נפצע באורח קשה וקצין לוחם נפצע באורח בינוני, כתוצאה מעלייה על מטען בדר",
+      "link": "https://hagizra.news/#msg-203c71189949",
+      "body": "הפסקת אש | דובר צה\"ל: במהלך הלילה (א'), לוחם צה\"ל נפצע באורח קשה וקצין לוחם נפצע באורח בינוני, כתוצאה מעלייה על מטען בדרום לבנון.כמו כן, באירוע נפצעו קצין לוחם ולוחם נוסף באורח קל.",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -394,13 +391,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "56e69a573563",
-      "title": "איראן | 6 נהרגו ו 20 נפצעו בהתהפכות אוטובוס של עובדי גז בדרום המדינה.",
-      "link": "https://hagizra.news/#msg-56e69a573563",
-      "body": "איראן | 6 נהרגו ו 20 נפצעו בהתהפכות אוטובוס של עובדי גז בדרום המדינה.",
+      "id": "94e0d48b64c1",
+      "title": "🥵😏",
+      "link": "https://hagizra.news/#msg-94e0d48b64c1",
+      "body": "🥵😏",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/115a5429b8e3.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 1,
@@ -409,13 +409,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "37faded0c03e",
-      "title": "ליצנות אגדית | באיראן מציינים היום את 'יום התקשורת העולמי' בעוד שרוב תקשורת האינטרנט במדינה מושתקים כבר מאז פתיחת המלחמה",
-      "link": "https://hagizra.news/#msg-37faded0c03e",
-      "body": "ליצנות אגדית | באיראן מציינים היום את 'יום התקשורת העולמי' בעוד שרוב תקשורת האינטרנט במדינה מושתקים כבר מאז פתיחת המלחמה.",
+      "id": "65e6b4a1310f",
+      "title": "נתניהו משנה כיוון במשבר הפטור מגיוס | לא פועל עוד לבלום את חוק פיזור הכנסת השבוע בקריאה טרומית, אלא מתחייב לקדם במקביל ל",
+      "link": "https://hagizra.news/#msg-65e6b4a1310f",
+      "body": "נתניהו משנה כיוון במשבר הפטור מגיוס | לא פועל עוד לבלום את חוק פיזור הכנסת השבוע בקריאה טרומית, אלא מתחייב לקדם במקביל לקריאה השנייה והשלישית את חוק הגיוס, לצד חוק פיצול היועמ\"שית וחקיקות נוספות של הקואליציה. בליכוד טוענים: \"המהלך אושר ע\"י יועמ\"שית הכנסת. עד לקריאה השניה והשלישית ניתן להעביר כל חקיקה\" (פריינד).",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -424,13 +424,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "ea8aace695de",
-      "title": "מאיימים על מדינות המפרץ | סגן יו\"ר הפרלמנט האיראני: אם מתקני הנפט שלנו יותקפו, נכוון למתקנים של מדינות עוינות הטוענות שה",
-      "link": "https://hagizra.news/#msg-ea8aace695de",
-      "body": "מאיימים על מדינות המפרץ | סגן יו\"ר הפרלמנט האיראני: אם מתקני הנפט שלנו יותקפו, נכוון למתקנים של מדינות עוינות הטוענות שהן ידידותנו. סעודיה ומדינות המפרץ מבינות שירייה אחת תכריח אותנו להסלים את המלחמה לסכסוך אזורי.",
+      "id": "a2435636a28d",
+      "title": "מהנעשה בישיבת הממשלה | השרה עידית סילמן הודיעה על כוונתה להביא הצעת החלטה להקמת ועדת בדיקה ממשלתית לחקירת הכשלת עבודת המ",
+      "link": "https://hagizra.news/#msg-a2435636a28d",
+      "body": "מהנעשה בישיבת הממשלה | השרה עידית סילמן הודיעה על כוונתה להביא הצעת החלטה להקמת ועדת בדיקה ממשלתית לחקירת הכשלת עבודת הממשלה השיטתית בידי היועמ\"שית.ראש הממשלה הגיב: מדובר בהצעה טובה.סילמן צפויה להביא את ההצעה להצבעה בשבוע הבא. (ינון מגל).",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -439,13 +439,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "8ce23d2ec499",
-      "title": "לגזור ולתזמן שליחה כל חצי שעה | דובר צה\"ל: לפני זמן קצר, חיל האוויר יירט מטרה אווירית חשודה שזוהתה במרחב בו פועלים כוחות",
-      "link": "https://hagizra.news/#msg-8ce23d2ec499",
-      "body": "לגזור ולתזמן שליחה כל חצי שעה | דובר צה\"ל: לפני זמן קצר, חיל האוויר יירט מטרה אווירית חשודה שזוהתה במרחב בו פועלים כוחות צה\"ל בדרום לבנון.",
+      "id": "6e2111ce2b79",
+      "title": "כבשו את עיראק?",
+      "link": "https://hagizra.news/#msg-6e2111ce2b79",
+      "body": "כבשו את עיראק? | עמית סגל: נחשף: ישראל הפעילה לסירוגין לפחות שני בסיסים סודיים במדבר בעיראק במשך יותר משנה, ולא רק אחד כפי שדווח תחילה (NYT עוד פרטים | ניו יורק טיימס:• תכנון הבסיסים החל כבר בשלהי 2024 במטרה לתמוך בפעילות נגד אירן.• ארה\"ב כפתה על עיראק להשבית את מערכות המכ\"ם שלה באופן שמנע ממנה לזהות את הנוכחות הישראלית בשטחה. (עמית סגל).",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -454,13 +454,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "a568517eeff7",
-      "title": "תיזמון מדהים | יואלי ברים: הדיון בוועדת החוץ והביטחון על הפטור מגיוס יתקיים ביום רביעי - יום ההצבעה על פיזור הכנסת",
-      "link": "https://hagizra.news/#msg-a568517eeff7",
-      "body": "תיזמון מדהים | יואלי ברים: הדיון בוועדת החוץ והביטחון על הפטור מגיוס יתקיים ביום רביעי - יום ההצבעה על פיזור הכנסת",
+      "id": "dd0479e95a05",
+      "title": "לקראת תקיפות | דובר צה\"ל בערבית פרסם התרעת פינוי ל-4 כפרים.",
+      "link": "https://hagizra.news/#msg-dd0479e95a05",
+      "body": "לקראת תקיפות | דובר צה\"ל בערבית פרסם התרעת פינוי ל-4 כפרים.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -469,13 +469,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "dc57787eb213",
-      "title": "דז'ה וו | ראש הממשלה לחרדים: ״פיזור הכנסת השבוע עלול לפגוע בחזרה למלחמה באיראן״ (פריינד).",
-      "link": "https://hagizra.news/#msg-dc57787eb213",
-      "body": "דז'ה וו | ראש הממשלה לחרדים: ״פיזור הכנסת השבוע עלול לפגוע בחזרה למלחמה באיראן״ (פריינד).",
+      "id": "9ffd697b96eb",
+      "title": "עוכר ישראל | מועמד הדמוקרטים, נאור נרקיס - לעצור מימון למקוואות, הדתיים יכולים לטבול בים.",
+      "link": "https://hagizra.news/#msg-9ffd697b96eb",
+      "body": "עוכר ישראל | מועמד הדמוקרטים, נאור נרקיס - לעצור מימון למקוואות, הדתיים יכולים לטבול בים. (I24)",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -484,13 +484,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "0ddcdcfe8032",
-      "title": "אושר | הממשלה אישרה את הקמת מוזיאון צה\"ל, לשכת גיוס חדשה והקמת לשכה לשר הביטחון בשטח מתחם אונר\"א לשעבר סמוך לגבעת התחמוש",
-      "link": "https://hagizra.news/#msg-0ddcdcfe8032",
-      "body": "אושר | הממשלה אישרה את הקמת מוזיאון צה\"ל, לשכת גיוס חדשה והקמת לשכה לשר הביטחון בשטח מתחם אונר\"א לשעבר סמוך לגבעת התחמושת.",
+      "id": "e2add74f9c61",
+      "title": "כבשו את עיראק?",
+      "link": "https://hagizra.news/#msg-e2add74f9c61",
+      "body": "כבשו את עיראק? | עמית סגל: נחשף: ישראל הפעילה לסירוגין לפחות שני בסיסים סודיים במדבר בעיראק במשך יותר משנה, ולא רק אחד כפי שדווח תחילה (NYT)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8c74bf56bf31.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -499,13 +502,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "01177d6ee325",
-      "title": "הלפיד היומי | ראש האופוזיציה לפיד מגיב על המשך הדיונים בחוק הפטור מגיוס: הניסיון של נתניהו למכור את ביטחון ישראל ולנסות ",
-      "link": "https://hagizra.news/#msg-01177d6ee325",
-      "body": "הלפיד היומי | ראש האופוזיציה לפיד מגיב על המשך הדיונים בחוק הפטור מגיוס: הניסיון של נתניהו למכור את ביטחון ישראל ולנסות לאשר חוק השתמטות הוא בגידה נוספת בלוחמי צה\"ל ובאנשי המילואים.",
+      "id": "5fe96b0f025e",
+      "title": "ויחזור לתלמודו |",
+      "link": "https://hagizra.news/#msg-5fe96b0f025e",
+      "body": "ויחזור לתלמודו |",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -514,13 +517,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "37766bc01544",
-      "title": "עזה | מספר מחוסלים בסיכול ממוקד בדיר אל בלח",
-      "link": "https://hagizra.news/#msg-37766bc01544",
-      "body": "עזה | מספר מחוסלים בסיכול ממוקד בדיר אל בלח",
+      "id": "ea480ae6873c",
+      "title": "לכל המגיבים על תוצאות הסקר | אנחנו מודעים לפער לטובת מפלגת יהדות התורה, ושאר הנתונים.",
+      "link": "https://hagizra.news/#msg-ea480ae6873c",
+      "body": "לכל המגיבים על תוצאות הסקר | אנחנו מודעים לפער לטובת מפלגת יהדות התורה, ושאר הנתונים. התוצאות נובעות ע\"פ בחירת המצביעים בסקר. הבאנו את הנתונים הגולמיים ללא שינוי וללא עריכה, ובנוסף לכן הבאנו כהודעה ראשונה את התפלגות המצביעים לפי מגזרים.כל המעוניין יכול לעשות את חשבונותיו בעצמו.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -529,13 +532,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "51b8ed1d692a",
-      "title": "מי זה?",
-      "link": "https://hagizra.news/#msg-51b8ed1d692a",
-      "body": "מי זה? | חבר הכנסת ארז מלול יחזור לכנסת במקום ארבל שהתפטר.",
+      "id": "77b21d98994f",
+      "title": "ולסיום: במה הכי לטפל חשוב בכנסת הבאה?",
+      "link": "https://hagizra.news/#msg-77b21d98994f",
+      "body": "ולסיום: במה הכי לטפל חשוב בכנסת הבאה? - לפי דירוג העדפת המצביעים: 1️⃣ הסדרת מעמדם של לומדי התורה .2️⃣ החזרת כל הזכויות של האזרח החרדי כפי שהיו.3️⃣ דאגה לפרט החרדי שאין לו מענה במשרדי הממשלה.4️⃣ החזרת התקציבים למוסדות החינוך.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -544,13 +547,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "cd62e6148e7b",
-      "title": "מחיר המלחמה | מחיר המלחמה עם איראן: כלכלת ישראל התכווצה ב-3.3% ברבעון הראשון של 2026.",
-      "link": "https://hagizra.news/#msg-cd62e6148e7b",
-      "body": "מחיר המלחמה | מחיר המלחמה עם איראן: כלכלת ישראל התכווצה ב-3.3% ברבעון הראשון של 2026.",
+      "id": "4c802bb3f5dd",
+      "title": "ובמקרה שילכו עם הימין | האם יש להעביר רפורמה משפטית כדי להקדים רפואה למכה?",
+      "link": "https://hagizra.news/#msg-4c802bb3f5dd",
+      "body": "ובמקרה שילכו עם הימין | האם יש להעביר רפורמה משפטית כדי להקדים רפואה למכה? (פסילת החוק):",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5753ac9f9adf.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -559,13 +565,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "4e487f5c5390",
-      "title": "לא מאומת | איחוד האמירויות מדווחת על פגיעת כטב''מים בתחנת הכוח בראקה.",
-      "link": "https://hagizra.news/#msg-4e487f5c5390",
-      "body": "לא מאומת | איחוד האמירויות מדווחת על פגיעת כטב''מים בתחנת הכוח בראקה. שריפה פרצה במקום. התקשורת במדינה מאשרת את הדיווח | לפי ההודעה, לא דווח על נפגעים ולא נרשמה כל השפעה על רמות הבטיחות הרדיולוגית. עוד נמסר כי כל אמצעי הזהירות הנדרשים ננקטו, וכי עדכונים נוספים יימסרו ככל שיהיו.",
+      "id": "c88cf9b00b1f",
+      "title": "לנסות את השמאל?",
+      "link": "https://hagizra.news/#msg-c88cf9b00b1f",
+      "body": "לנסות את השמאל? | 51.8% חושבים שבעד חוק הגיוס זה רצוי.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bf965c5e6d74.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -574,13 +583,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "60f02c11b29f",
-      "title": "לא מאומת | איחוד האמירויות מדווחת על פגיעת כטב''מים בתחנת הכוח בראקה.",
-      "link": "https://hagizra.news/#msg-60f02c11b29f",
-      "body": "לא מאומת | איחוד האמירויות מדווחת על פגיעת כטב''מים בתחנת הכוח בראקה. שריפה פרצה במקום.",
+      "id": "a28f62553e49",
+      "title": "השאלה הבוערת | האם אתם מעדיפים לראות שינויים ברשימות החרדיות לכנסת?רוב ברור מעוניינים בריענון.",
+      "link": "https://hagizra.news/#msg-a28f62553e49",
+      "body": "השאלה הבוערת | האם אתם מעדיפים לראות שינויים ברשימות החרדיות לכנסת?רוב ברור מעוניינים בריענון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/981f8af64577.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -589,13 +601,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "b147690b0fea",
-      "title": "אל תפספסו!!",
-      "link": "https://hagizra.news/#msg-b147690b0fea",
-      "body": "אל תפספסו!! | תוצאות סקר הגיזרה לקראת הבחירות בשעה 14:00",
+      "id": "47b03a97ee1b",
+      "title": "התוצאות הפתיעו?",
+      "link": "https://hagizra.news/#msg-47b03a97ee1b",
+      "body": "התוצאות הפתיעו? | תלוי את מי שואלים...במקום הראשון בפער עצום משאר הנציגים נבחר ח\"כ אורי מקלב מדגל התורה. המקומות הנוספים:מקום שביעי: ח\"כ גולדקנופף.מקום שמיני: ח\"כ פינדרוס.מקום תשיעי: השר שלמה קרעי.מקום עשירי: ח\"כ מיכאל מלכיאלי.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/73d16e0fd519.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -604,13 +619,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "ee1bd5486d31",
-      "title": "ראשוני | פיצוצים באבו דאבי שבאמירויות.",
-      "link": "https://hagizra.news/#msg-ee1bd5486d31",
-      "body": "ראשוני | פיצוצים באבו דאבי שבאמירויות.",
+      "id": "b472bb813255",
+      "title": "מי הח\"כ שהכי אהבתם?",
+      "link": "https://hagizra.news/#msg-b472bb813255",
+      "body": "מי הח\"כ שהכי אהבתם? 👀 | ומי הח\"כ שקיבל את המקום הראשון בפער עצום מהמקום השני??",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -619,13 +634,19 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "9d7094dd1a97",
-      "title": "הרבו בתפילה | עבור הרב מאיר רפאל בן רינה שנמצא בטיפול נמרץ וזקוק לרחמי שמים מרובים!",
-      "link": "https://hagizra.news/#msg-9d7094dd1a97",
-      "body": "הרבו בתפילה | עבור הרב מאיר רפאל בן רינה שנמצא בטיפול נמרץ וזקוק לרחמי שמים מרובים!",
+      "id": "ba9c16cf5de5",
+      "title": "שאלת הפיצול | מה יקרה בתרחישים הבאים, אם רבני דגל התורה ואגודת ישראל יורו לסיעות לרוץ בנפרד לכנסת הבאה.",
+      "link": "https://hagizra.news/#msg-ba9c16cf5de5",
+      "body": "שאלת הפיצול | מה יקרה בתרחישים הבאים, אם רבני דגל התורה ואגודת ישראל יורו לסיעות לרוץ בנפרד לכנסת הבאה. במקרה של היפרדות יבשה בין דגל לאגודה: במקרה של איחוד בין דגל לשלומי אמונים ובעלזא (הח\"כים פרוש ואייכלר): במקרה של ריצה משותפת של הסיעה המרכזית והסיעה המאוחדת באגודת ישראל יחד עם הפלג וחסידויות מסויימות: במקרה של ריצה של דגל עם פרוש ואייכלר ושריון של גולדקנופף וטסלר ברשימת ש\"ס:",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4f30e55db00d.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bab1f3711aab.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c90aa4708d9f.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f6a5909d9dd4.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 16,
@@ -634,13 +655,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "3428aa82f4ba",
-      "title": "ברוך דיין האמת😭😭😭 הרה\"ח רבי אהרן יהודה קליין זצ\"ל מפארי וחשובי חסידי באבוב, הותיר 9 יתומים בבית לפני שנתיים הופיעה המ",
-      "link": "https://hagizra.news/#msg-3428aa82f4ba",
-      "body": "ברוך דיין האמת😭😭😭 הרה\"ח רבי אהרן יהודה קליין זצ\"ל מפארי וחשובי חסידי באבוב, הותיר 9 יתומים בבית לפני שנתיים הופיעה המחלה הקשה והפכה את חייהם למסכת של ייסורים נוראים.ביום חמישי האחרון השיב נשמתו ליוצרה,כאשר סביב מיטתו ניצבים בני משפחתו וכ\"ק מרן האדמו\"ר מזוטשקא שליט\"א , שבכה מרורים על סילוקו של איש ישר דרך ונקי כפיים, אשר השתדל בכל מאודו לעשות רצון בוראו.תשעה יתומים נותרו יחד עם אמם האלמנה. הקטן ",
+      "id": "24cca55134ed",
+      "title": "למה לא יצביעו | תשובתם של המצהירים כי לא יצביעו בבחירות הקרובות.",
+      "link": "https://hagizra.news/#msg-24cca55134ed",
+      "body": "למה לא יצביעו | תשובתם של המצהירים כי לא יצביעו בבחירות הקרובות.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/10132de7e8ea.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 17,
@@ -649,13 +673,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "594f41104565",
-      "title": "פורש לפני הפיזור | יעקב הרשקוביץ: ארבל הודיע מזמן שהוא לא ימשיך לעוד קדנציה, בחר דווקא עכשיו לפרוש בגלל ההבנה שהולכים לפ",
-      "link": "https://hagizra.news/#msg-594f41104565",
-      "body": "פורש לפני הפיזור | יעקב הרשקוביץ: ארבל הודיע מזמן שהוא לא ימשיך לעוד קדנציה, בחר דווקא עכשיו לפרוש בגלל ההבנה שהולכים לפיזור.",
+      "id": "ea3304fd13a5",
+      "title": "למה להצביע?",
+      "link": "https://hagizra.news/#msg-ea3304fd13a5",
+      "body": "למה להצביע? | רוב מוחץ של המצביעים עושים זאת כציות לגדולי ישראל.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/313f46be4121.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 18,
@@ -664,13 +691,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     },
     {
-      "id": "7215c8700a7c",
-      "title": "האינפלציה מכה בנדל”ן האיראני | הזינוק במחירי הדיור באיראן הגיע לנקודה שבה משכנתא של מיליארד תומאן - כ-5,555 דולר בלבד בש",
-      "link": "https://hagizra.news/#msg-7215c8700a7c",
-      "body": "האינפלציה מכה בנדל”ן האיראני | הזינוק במחירי הדיור באיראן הגיע לנקודה שבה משכנתא של מיליארד תומאן - כ-5,555 דולר בלבד בשער השוק - מספיקה כיום לרכישת כ-10 מטרים רבועים בלבד. לפי ההערכות, מחיר ממוצע למטר דירה באיראן נע כיום בין 100 ל-150 מיליון תומאן, כך שגם הלוואה מלאה מכסה רק חלק קטן ממחירה של דירה רגילה. גם בשוק השכירות הלחץ נמשך: למרות נתונים המצביעים על האטה מסוימת בקצב ההתייקרות, נתוני מרכז הס",
+      "id": "68c80984e227",
+      "title": "נתון ממש דרמטי |1963 מצביעים ענו שהצביעו יהדות התורה בבחירות הקודמות.1996 מצביעים ענו שיצביעו יהדות התורה בבחירות הקרובו",
+      "link": "https://hagizra.news/#msg-68c80984e227",
+      "body": "נתון ממש דרמטי |1963 מצביעים ענו שהצביעו יהדות התורה בבחירות הקודמות.1996 מצביעים ענו שיצביעו יהדות התורה בבחירות הקרובות.מה שאומר שאחוז המצביעים החדשים שמצביעים פעם ראשונה המצביעים ליהדות התורה עולה על אלו המאוכזבים שלא יישמעו לרבותיהם והמפלגה לא תפסיד קולות.רק יש לקחת בחשבון את הגידול הדמוגרפי הכללי בשאר המפלגות, כך שכל מנדט יצטרך יותר קולות.",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -679,7 +706,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-17T10:57:36.122Z"
+      "firstSeen": "2026-05-17T12:00:27.557Z"
     }
   ],
   "errors": [
