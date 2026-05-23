@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:31:44.878Z",
+  "generatedAt": "2026-05-23T23:33:59.381Z",
   "sources": [
     {
       "id": "blackcat",
@@ -41,6 +41,24 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-05-08T11:37:34.200Z"
+    },
+    {
+      "id": "b8ed41414f75",
+      "title": "🙃",
+      "link": "https://hagizra.news/#msg-b8ed41414f75",
+      "body": "🙃",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9ae6a34efbc0.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-18T09:01:45.745Z"
     },
     {
       "id": "502110b5e4dc",
@@ -364,169 +382,10 @@
       "firstSeen": "2026-05-23T21:34:10.845Z"
     },
     {
-      "id": "9569b1fc5d3b",
-      "title": "\"מחריד!!!",
-      "link": "https://hagizra.news/#msg-9569b1fc5d3b",
-      "body": "\"מחריד!!! **ההלוויה של הגב' אילה דוידזון ע\"ה תצא הערב בשעה 00:00. האלמן הפצוע יגיע באמבולנס להשתתף, חמשת היתומי... עובר לעשייתן | הגולשים היקרים נרתמים לטרגדיה הנוראה! 🥲",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/33d4b8f2f72b.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "ce89c929e598",
-      "title": "מחממים את העסק | סוכנות הידיעות פארס המקורבת למשמרות המהפכה: בניגוד לדברים של טראמפ, גם במקרה של הסכם - מצר הורמוז יישאר",
-      "link": "https://hagizra.news/#msg-ce89c929e598",
-      "body": "מחממים את העסק | סוכנות הידיעות פארס המקורבת למשמרות המהפכה: בניגוד לדברים של טראמפ, גם במקרה של הסכם - מצר הורמוז יישאר תחת ניהול של איראן.",
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "b349ae5cdb82",
-      "title": "בלימה תקציבית | שר האוצר בצלאל סמוטריץ' בלם דרישה אמריקנית להשתמש בכספי הרשות הפלסטינית שהוחרמו על ידי ישראל לצורך מימון",
-      "link": "https://hagizra.news/#msg-b349ae5cdb82",
-      "body": "בלימה תקציבית | שר האוצר בצלאל סמוטריץ' בלם דרישה אמריקנית להשתמש בכספי הרשות הפלסטינית שהוחרמו על ידי ישראל לצורך מימון סיוע הומניטרי בעזה. התנגדותו נובעת מהחשש למתן דריסת רגל לרשות הפלסטינית ברצועה, ובשל סמכותו על התקציב, המהלך הוקפא לעת עתה. (אמיר אטינגר)",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "dfb74a244091",
-      "title": "מחזירים ציוד?",
-      "link": "https://hagizra.news/#msg-dfb74a244091",
-      "body": "מחזירים ציוד? או ש... | תנועה חריגה של מטוסי תדלוק ותובלה אמריקאים.",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "3a5e681fa1db",
-      "title": "מחריד!!!",
-      "link": "https://hagizra.news/#msg-3a5e681fa1db",
-      "body": "מחריד!!! ההלוויה של הגב' אילה דוידזון ע\"ה תצא הערב בשעה 00:00. האלמן הפצוע יגיע באמבולנס להשתתף, חמשת היתומים שקמו בערב החג מהשבעה על אחיהם הפעוט, יתיישבו הלילה לשבעה נוספת. רח\"ל. מי יכול לעמוד מנגד?? מסייעים עכשיו לאלמן הפצוע ולחמשת היתומים >>>",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f6cf602c9436.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "ae5fe7e079c1",
-      "title": "עוד מברק רביד | לדברי המקור האזורי, המשא ומתן מתקדם היטב והמתווכות מקוות לסגור הסכם המסגרת בן עמוד אחד מחר ולהכריז עליו ",
-      "link": "https://hagizra.news/#msg-ae5fe7e079c1",
-      "body": "עוד מברק רביד | לדברי המקור האזורי, המשא ומתן מתקדם היטב והמתווכות מקוות לסגור הסכם המסגרת בן עמוד אחד מחר ולהכריז עליו מיד. לאחר מכן, המתווכות רוצות להתחיל במשא ומתן על הסכם מפורט התוך מספר ימים, אמר המקור האזורי",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "b896e55acd97",
-      "title": "מדינות המפרץ דחקו🫤 | ברק רביד: מקור אזורי בכיר אמר לי שכל המנהיגים הערבים והמוסלמים שהשתתפו בשיחה עם טראמפ בשבת דחקו בו",
-      "link": "https://hagizra.news/#msg-b896e55acd97",
-      "body": "מדינות המפרץ דחקו🫤 | ברק רביד: מקור אזורי בכיר אמר לי שכל המנהיגים הערבים והמוסלמים שהשתתפו בשיחה עם טראמפ בשבת דחקו בו להתקדם עם העסקה לסיום המלחמה ולבלום את ההסלמה באזור. \"המסר מכולם היה - אנא עצור את המלחמה לטובת האזור כולו\", אמר המקור.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "e15d1ad1c369",
-      "title": "סקר | הצהרת טראמפ: 😏 הטעיה 🥵 הפקרה 😶 אני מבולבל",
-      "link": "https://hagizra.news/#msg-e15d1ad1c369",
-      "body": "סקר | הצהרת טראמפ: 😏 הטעיה 🥵 הפקרה 😶 אני מבולבל",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "408e84fbe471",
-      "title": "הופקרנו?",
-      "link": "https://hagizra.news/#msg-408e84fbe471",
-      "body": "הופקרנו? | יובל שגב: מעבר לפתיחת הורמוז, טראמפ לא מפרט בנתיים בנוגע לסוגיות האחרות - אורניום, טילים בליסטיים, פרוקסיז, יחס המשטר לעם האיראני וכו.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "fc6e0d4c9459",
-      "title": "אחרי שהשמאל פירק את צה\"ל | חבר הכנסת חילי טרופר: ״בלתי נתפס שבזמן מלחמה מפגינים עומדים מחוץ לביתו של הרמטכ\"ל וקוראים לו ",
-      "link": "https://hagizra.news/#msg-fc6e0d4c9459",
-      "body": "אחרי שהשמאל פירק את צה\"ל | חבר הכנסת חילי טרופר: ״בלתי נתפס שבזמן מלחמה מפגינים עומדים מחוץ לביתו של הרמטכ\"ל וקוראים לו \"בוגד\". שוב ושוב צריך לומר את האמת הפשוטה: מי שפוגע במפקדי צה\"ל פוגע בלוחמי צה\"ל. אנשים מופקרים, חלקם נושאים בתפקידים רשמיים וחלקם מחזיקים מיקרופונים ביד - קורעים אותנו מבפנים, מחלישים את צה\"ל ומהדהדים שקרים. הרמטכ\"ל אייל זמיר - אנחנו מאחוריך.״",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T21:34:10.845Z"
-    },
-    {
-      "id": "eb98cd85b803",
-      "title": "אימה בבית הלבן | כתבת NBC ג'ולי טסירקין מדווחת כי הבית הלבן נמצא תחת סגר, כשהכתבים נעולים בחדר התדריכים, ובחוץ שומרים עם",
-      "link": "https://hagizra.news/#msg-eb98cd85b803",
-      "body": "אימה בבית הלבן | כתבת NBC ג'ולי טסירקין מדווחת כי הבית הלבן נמצא תחת סגר, כשהכתבים נעולים בחדר התדריכים, ובחוץ שומרים עם נשקים שלופים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/73df2bea5c1f.png"
-      ],
+      "id": "87f327ff90dd",
+      "title": "עדכון מהשטח | הכתב כריס פלנגן מ-NewsNation ו-DC News Now מדווח: \"זה עתה שוחררנו מהסגר בבית הלבן.",
+      "link": "https://hagizra.news/#msg-87f327ff90dd",
+      "body": "עדכון מהשטח | הכתב כריס פלנגן מ-NewsNation ו-DC News Now מדווח: \"זה עתה שוחררנו מהסגר בבית הלבן. מתנהלת תגובה גדולה ומאסיבית של כוחות אכיפת החוק ברחוב 17th ו-Pennsylvania Avenue – המקום שבו נשמעו היריות.\"",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -535,16 +394,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "d7c4e714c5f1",
-      "title": "צלפים על גגות הבית הלבן |",
-      "link": "https://hagizra.news/#msg-d7c4e714c5f1",
-      "body": "צלפים על גגות הבית הלבן |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a150335a8484.png"
-      ],
+      "id": "9f912f59c47a",
+      "title": "הירי בבית הלבן | הסגר על הבית הלבן הוסר.",
+      "link": "https://hagizra.news/#msg-9f912f59c47a",
+      "body": "הירי בבית הלבן | הסגר על הבית הלבן הוסר. העיתונאים יצאו. עדיין לא ברורה סיבת הירי.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -553,28 +409,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "aafdbc0a8fda",
-      "title": "עדות מהשטח | כתבת בכירה בבית הלבן של רשת ABC סלינה וואנג: שמענו מלא יריות כשהיינו בבית הלבן, ואמרו לנו לרוץ מהר לחדר התד",
-      "link": "https://hagizra.news/#msg-aafdbc0a8fda",
-      "body": "עדות מהשטח | כתבת בכירה בבית הלבן של רשת ABC סלינה וואנג: שמענו מלא יריות כשהיינו בבית הלבן, ואמרו לנו לרוץ מהר לחדר התדריכים לעיתונאים.",
-      "time": null,
-      "channelName": null,
-      "position": 2,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
-    },
-    {
-      "id": "ed90f2f246bf",
-      "title": "דיווח ראשוני💥 | נשמעו יריות מחוץ לבית הלבן, כ-20 עד 30 יריות נורו.",
-      "link": "https://hagizra.news/#msg-ed90f2f246bf",
-      "body": "דיווח ראשוני💥 | נשמעו יריות מחוץ לבית הלבן, כ-20 עד 30 יריות נורו. השירות החשאי הורה לעיתונאים שהתאספו במדשאה הצפונית לרוץ לחדר התדרוכים. (NBC)",
+      "id": "791a552147ce",
+      "title": "גם הלילה | נמשכות התקיפות בכפרי דרום לבנון לכל אורך גזרת העימות.",
+      "link": "https://hagizra.news/#msg-791a552147ce",
+      "body": "גם הלילה | נמשכות התקיפות בכפרי דרום לבנון לכל אורך גזרת העימות.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -583,13 +424,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "5b96a2686fa3",
-      "title": "חרפה | ניו יורק טיימס מפי 3 גורמים איראנים: ההסכם יוביל לשחרור 25 מיליארד דולר של נכסים קפואים.",
-      "link": "https://hagizra.news/#msg-5b96a2686fa3",
-      "body": "חרפה | ניו יורק טיימס מפי 3 גורמים איראנים: ההסכם יוביל לשחרור 25 מיליארד דולר של נכסים קפואים. (ברק בטש)",
+      "id": "45e685e14a40",
+      "title": "קורע לב | רה\"י הגרש\"ב סורוצקין מספיד במסע הלווית אילה דוידזון ע\"ה בבני ברק.",
+      "link": "https://hagizra.news/#msg-45e685e14a40",
+      "body": "קורע לב | רה\"י הגרש\"ב סורוצקין מספיד במסע הלווית אילה דוידזון ע\"ה בבני ברק. (צילום: דוד קשת).",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -598,13 +439,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "34eff57c52af",
-      "title": "לא נעים | הסימן לתבוסה הוא אם טראמפ יחגוג את פתיחתם של המיצרים שהיו פתוחים לפני המלחמה.",
-      "link": "https://hagizra.news/#msg-34eff57c52af",
-      "body": "לא נעים | הסימן לתבוסה הוא אם טראמפ יחגוג את פתיחתם של המיצרים שהיו פתוחים לפני המלחמה. (יאיר אלטמן).",
+      "id": "468230933ac5",
+      "title": "הירי בבית הלבן | דיווח ברויטרס: חשוד התקרב למחסום סמוך לבית הלבן ופתח באש לעבר גורמי אכיפת החוק.",
+      "link": "https://hagizra.news/#msg-468230933ac5",
+      "body": "הירי בבית הלבן | דיווח ברויטרס: חשוד התקרב למחסום סמוך לבית הלבן ופתח באש לעבר גורמי אכיפת החוק. היורה נוטרל ונלקח לבית החולים.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -613,13 +454,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "12d6783ab1d4",
-      "title": "ההסכם המחריד | לפי דיווח באל-ג'זירה טיוטת ההסכם תכלול את סיום המלחמה בכל הזירות - כולל לבנון, שחרור של כמה מיליארדי דולר",
-      "link": "https://hagizra.news/#msg-12d6783ab1d4",
-      "body": "ההסכם המחריד | לפי דיווח באל-ג'זירה טיוטת ההסכם תכלול את סיום המלחמה בכל הזירות - כולל לבנון, שחרור של כמה מיליארדי דולרים מכספי איראן המוקפאים, הסרת המצור הימי האמריקני ופתיחת מצר הורמוז ונסיגת הכוחות האמריקניים מהסביבה הקרובה לאיראן.לאחר מכן, לצדדים יהיו 30 ימים להגיע להסכמה בנושא הגרעין - ניתן יהיה להאריך את 30 הימים הללו בהסכמה הדדית. במהלך תקופה זו, יתאפשר מעבר דרך מצר הורמוז, שלפי איראן ניהו",
+      "id": "6682b43e917b",
+      "title": "פרטים מהבית הלבן | פוקס ניוז: אדם חמוש ירה שלושה כדורים לכיוון הבית הלבן, בסביבות שש בערב ליד שער 17.",
+      "link": "https://hagizra.news/#msg-6682b43e917b",
+      "body": "פרטים מהבית הלבן | פוקס ניוז: אדם חמוש ירה שלושה כדורים לכיוון הבית הלבן, בסביבות שש בערב ליד שער 17. סוכני השירות החשאי, שאחראים על אבטחת הנשיא, ירו בחזרה ונטרלו אותו, כשגם אזרח נפצע בחילופי האש, אבל טראמפ בטוח והחשוד לא הצליח להיכנס לשטח.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -628,13 +469,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "fa4812e40afb",
-      "title": "הסיבה לפיצוצים במרכז | צה\"ל מבצע פעולות חבלה לבניינים למגורים במזרח שכונת שג'עיה במזרח עזה.",
-      "link": "https://hagizra.news/#msg-fa4812e40afb",
-      "body": "הסיבה לפיצוצים במרכז | צה\"ל מבצע פעולות חבלה לבניינים למגורים במזרח שכונת שג'עיה במזרח עזה.",
+      "id": "6db06b4637bb",
+      "title": "תיעוד מקייב | מדובר בטיל עם ראש נפץ מתפצל שיכול להכיל רק מטען גרעיני.",
+      "link": "https://hagizra.news/#msg-6db06b4637bb",
+      "body": "תיעוד מקייב | מדובר בטיל עם ראש נפץ מתפצל שיכול להכיל רק מטען גרעיני. הטילים ששוגרו היום לא כוללים חומר נפץ.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/032eac267dc9.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -643,13 +487,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "f8d052a46ee3",
-      "title": "טראמפ נשאר טראמפ | דיווח בוול סטריט ג׳ורנל, טראמפ הודיע ליועציו כי הוא שומר לעצמו את הזכות לחדש את ההפצצות על איראן אם ז",
-      "link": "https://hagizra.news/#msg-f8d052a46ee3",
-      "body": "טראמפ נשאר טראמפ | דיווח בוול סטריט ג׳ורנל, טראמפ הודיע ליועציו כי הוא שומר לעצמו את הזכות לחדש את ההפצצות על איראן אם זו לא תעמוד בהסכם המסגרת.",
+      "id": "35112b9e774c",
+      "title": "דיווח חריג | באוקראינה נכנסו לכוננות ״גרעינית מיידית״ בכוונת הצבא הרוסי לשגר בקרוב טיל בעל תכונות גרעיניות טקטיות מסוג ״",
+      "link": "https://hagizra.news/#msg-35112b9e774c",
+      "body": "דיווח חריג | באוקראינה נכנסו לכוננות ״גרעינית מיידית״ בכוונת הצבא הרוסי לשגר בקרוב טיל בעל תכונות גרעיניות טקטיות מסוג ״אורשניק״ לעבר אוקראינה.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -658,13 +502,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     },
     {
-      "id": "7ab5c9e55fce",
-      "title": "הקרב על ראשות המוסד | ועדת גרוניס שדנה בעתירות נגד מינוי גופמן צפויה להתכנס מחר.",
-      "link": "https://hagizra.news/#msg-7ab5c9e55fce",
-      "body": "הקרב על ראשות המוסד | ועדת גרוניס שדנה בעתירות נגד מינוי גופמן צפויה להתכנס מחר. ההערכה - הוועדה לא תשנה את עמדתה. (טפיירו).",
+      "id": "2c7f93526f48",
+      "title": "עדכון מארה\"ב | גורמים רשמיים אישרו כי ירי אכן התבצע הערב סמוך לבית הלבן.",
+      "link": "https://hagizra.news/#msg-2c7f93526f48",
+      "body": "עדכון מארה\"ב | גורמים רשמיים אישרו כי ירי אכן התבצע הערב סמוך לבית הלבן. כעת ידוע על שני נפגעי ירי, אחד מהם היה החשוד והשני ככל הנראה עובר אורח. האירוע התרחש ברחוב 17 ובשדרות פנסילבניה. הנשיא נמצא במקום בטוח.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -673,7 +517,154 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-23T22:31:44.878Z"
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "0ef7221def74",
+      "title": "מצונזר | עשרות יריות והבהלה בבית הלבן.",
+      "link": "https://hagizra.news/#msg-0ef7221def74",
+      "body": "מצונזר | עשרות יריות והבהלה בבית הלבן. (עמית סגל).",
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "f0848b4acbb0",
+      "title": "המהומה בבית הלבן | ראש ה-FBI קאש פאטל: \"ה-FBI בזירת האירוע ומסייע לשירות החשאי להגיב ליריות שנשמעו סמוך לבית הלבן\".",
+      "link": "https://hagizra.news/#msg-f0848b4acbb0",
+      "body": "המהומה בבית הלבן | ראש ה-FBI קאש פאטל: \"ה-FBI בזירת האירוע ומסייע לשירות החשאי להגיב ליריות שנשמעו סמוך לבית הלבן\".",
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "266b13f03a08",
+      "title": "עוד פרטים על ההסכם |",
+      "link": "https://hagizra.news/#msg-266b13f03a08",
+      "body": "עוד פרטים על ההסכם |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bfaf872fd47d.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "6720fd0dd59e",
+      "title": "<span style=\"color: #f44336\"מחריד!!!",
+      "link": "https://hagizra.news/#msg-6720fd0dd59e",
+      "body": "<span style=\"color: #f44336\"מחריד!!! **ההלוויה של הגב' אילה דוידזון ע\"ה תצא הערב בשעה 00:00. האלמן הפצוע יגיע באמבולנס להשתתף, חמשת היתומי... מצמרר😭😭😭 | הספד של אחד הילדים היתומים על אמא שלהם.",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "5d2978e93125",
+      "title": "הקונספירציות התחילו |",
+      "link": "https://hagizra.news/#msg-5d2978e93125",
+      "body": "הקונספירציות התחילו |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/aec17d02a6b6.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "18e8793da24a",
+      "title": "הירי בבית הלבן | דיווח על שני נפגעים שאותרו מהירי סמוך לבית הלבן.",
+      "link": "https://hagizra.news/#msg-18e8793da24a",
+      "body": "הירי בבית הלבן | דיווח על שני נפגעים שאותרו מהירי סמוך לבית הלבן. אפשר שמדובר על היורים עצמם.",
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "32aefb561815",
+      "title": "כוחות משטרה בדרך לבית הלבן |",
+      "link": "https://hagizra.news/#msg-32aefb561815",
+      "body": "כוחות משטרה בדרך לבית הלבן |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/73e807c78636.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "3cfd729c3a7a",
+      "title": "באמצע הדיווח | האזינו: היריות בשידור חי.",
+      "link": "https://hagizra.news/#msg-3cfd729c3a7a",
+      "body": "באמצע הדיווח | האזינו: היריות בשידור חי.",
+      "time": null,
+      "channelName": null,
+      "position": 18,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
+    },
+    {
+      "id": "bab408e34ff2",
+      "title": "עוד מהבית הלבן |",
+      "link": "https://hagizra.news/#msg-bab408e34ff2",
+      "body": "עוד מהבית הלבן |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cf71edeb7967.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 19,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-23T23:33:59.381Z"
     }
   ],
   "errors": [
