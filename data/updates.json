@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T23:43:05.757Z",
+  "generatedAt": "2026-05-25T01:53:54.041Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,24 +24,6 @@
     }
   ],
   "items": [
-    {
-      "id": "db4d3a1087b1",
-      "title": "שער יתד של מחר |",
-      "link": "https://hagizra.news/#msg-db4d3a1087b1",
-      "body": "שער יתד של מחר |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/71f1fd426534.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-03T00:00:20.476Z"
-    },
     {
       "id": "9c9c487784cb",
       "title": "לי זה הזכיר את הרגעים הראשונים שלי בישיבה🤣",
@@ -406,7 +388,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 11,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -424,7 +406,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 12,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -442,25 +424,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "62575699c562",
-      "title": "חטיבת חשמונאים מסכמת חודשיים וחצי של פעילות מבצעית ראשונה בלבנון | הלוחמים עצרו מחבל בכיר בכוח רדואן, איתרו משגרים טעוני",
-      "link": "https://hagizra.news/#msg-62575699c562",
-      "body": "חטיבת חשמונאים מסכמת חודשיים וחצי של פעילות מבצעית ראשונה בלבנון | הלוחמים עצרו מחבל בכיר בכוח רדואן, איתרו משגרים טעונים ומכוונים לישראל, איתרו עמדות נ.ט, מחסני אמל\"ח והשמידו תשתיות טרור. בתיעוד הבלעדי | עמדת נ.ט פעילה שהכוחות איתרו. (ינון שלום יתח)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/81d6e8d367e6.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 3,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -478,7 +442,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -496,7 +460,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -514,7 +478,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -529,7 +493,7 @@
       "body": "יורד | מחירי הנפט ירדו לשפל של שבועיים, על רקע אופטימיות בשווקים כי ארה\"ב ואיראן מתקרבות להסכם - אף שנותרו מחלוקות בסוגיות מרכזיות. חוזי ברנט ירדו ב-4.55% ל-98.83 דולר לחבית, ונפט WTI ירד ב-4.73% ל-92.03 דולר לחבית. ברנט הוא מדד הנפט המרכזי בשווקים הבין-לאומיים, בעוד WTI משמש בעיקר מדד למחירי הנפט בארה\"ב.",
       "time": null,
       "channelName": null,
-      "position": 7,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -547,7 +511,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 8,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -556,13 +520,165 @@
       "firstSeen": "2026-05-24T23:43:05.757Z"
     },
     {
-      "id": "11380aab571a",
-      "title": "הרס נרחב | כרה נראה עיירה אל-דווייר בדרום לבנון אחרי תקיפת מטוסי צה''ל.",
-      "link": "https://hagizra.news/#msg-11380aab571a",
-      "body": "הרס נרחב | כרה נראה עיירה אל-דווייר בדרום לבנון אחרי תקיפת מטוסי צה''ל.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/39d3a98b5128.bin"
+      "id": "56bc5de495ee",
+      "title": "הודו | קמעונאי הדלק שבבעלות המדינה העלו את מחירי הסולר בפעם הרביעית בתוך חודש בעקבות המלחמה עם איראן.",
+      "link": "https://hagizra.news/#msg-56bc5de495ee",
+      "body": "הודו | קמעונאי הדלק שבבעלות המדינה העלו את מחירי הסולר בפעם הרביעית בתוך חודש בעקבות המלחמה עם איראן. לפי הרשויות, המהלך נועד לצמצם את ההפסדים שנגרמו לחברות בשל הזינוק במחירי הנפט.",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "c237a86e840f",
+      "title": "לאור יום | סרטון שרץ ברשת הערבית: כוחות צה''ל הבוקר בפשיטה על בניין עיריית בית עווא בחברון.",
+      "link": "https://hagizra.news/#msg-c237a86e840f",
+      "body": "לאור יום | סרטון שרץ ברשת הערבית: כוחות צה''ל הבוקר בפשיטה על בניין עיריית בית עווא בחברון.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "17dd5819344d",
+      "title": "מוצלח | מקבץ תיעודים מפעילות ומעצרים וירי רימוני גז מדמיע של כוחות צה''ל בשעות הצהריים והערב היום במרכז העיר דורא, מדרום",
+      "link": "https://hagizra.news/#msg-17dd5819344d",
+      "body": "מוצלח | מקבץ תיעודים מפעילות ומעצרים וירי רימוני גז מדמיע של כוחות צה''ל בשעות הצהריים והערב היום במרכז העיר דורא, מדרום לחברון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ff2f9230ad55.jpg"
       ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b3087a18d84a.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/aa50d5c3f83b.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/13cef35932a9.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "470217662366",
+      "title": "חוץ | יותר מ-30 בני אדם לכודים בבניין בן 9 קומות שקרס בפיליפינים.",
+      "link": "https://hagizra.news/#msg-470217662366",
+      "body": "חוץ | יותר מ-30 בני אדם לכודים בבניין בן 9 קומות שקרס בפיליפינים. במקום נמשכות פעולות חילוץ והצלה.",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "04f69b6db65c",
+      "title": "מלחמת רוסיה&אוקראינה | מושל מחוז ירוסלבל שמצפון-מזרח למוסקווה הודיע כי האזור נתון למתקפת כטב\"מים.",
+      "link": "https://hagizra.news/#msg-04f69b6db65c",
+      "body": "מלחמת רוסיה&אוקראינה | מושל מחוז ירוסלבל שמצפון-מזרח למוסקווה הודיע כי האזור נתון למתקפת כטב\"מים. זאת לאחר שאמש רוסיה השתמשה בטיל בליסטי חדש באחת המתקפות הנרחבות ביותר על אזור קייב מאז תחילת המלחמה, ולפחות ארבעה בני אדם נהרגו.",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "b4bf9be0e8d5",
+      "title": "איו\"ש | עימותים הצהריים עם כוחות צה''ל ברחוב אל-נהדה, רמאללה.",
+      "link": "https://hagizra.news/#msg-b4bf9be0e8d5",
+      "body": "איו\"ש | עימותים הצהריים עם כוחות צה''ל ברחוב אל-נהדה, רמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ec93be190bbd.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "10a31e31baf8",
+      "title": "משילות | כוחות צה''ל הרסו היום בית בכפר סמוך לרמאללה.",
+      "link": "https://hagizra.news/#msg-10a31e31baf8",
+      "body": "משילות | כוחות צה''ל הרסו היום בית בכפר סמוך לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a9803baf355d.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "94827f96d297",
+      "title": "בדרך ליהושע בן נון | קבוצה של חסידי שבו בנים פרצו לכפר חארס בשומרון.",
+      "link": "https://hagizra.news/#msg-94827f96d297",
+      "body": "בדרך ליהושע בן נון | קבוצה של חסידי שבו בנים פרצו לכפר חארס בשומרון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2ce7512ebcb7.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "22a9b929f03d",
+      "title": "חברון | חלק מפשיטות כוחות צה''ל על האזור הדרומי של העיר הלילה.",
+      "link": "https://hagizra.news/#msg-22a9b929f03d",
+      "body": "חברון | חלק מפשיטות כוחות צה''ל על האזור הדרומי של העיר הלילה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/339025b4d4f3.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-25T01:53:54.041Z"
+    },
+    {
+      "id": "8981b0f9b3c8",
+      "title": "דרמה לילית | קובי ישראל: בשעה האחרונה נעצר בידי כוחות המשטרה הצבאית הבה״ח יוסף לוי, תלמיד ישיבת ״פאר יוסף״, במהלך פעילות",
+      "link": "https://hagizra.news/#msg-8981b0f9b3c8",
+      "body": "דרמה לילית | קובי ישראל: בשעה האחרונה נעצר בידי כוחות המשטרה הצבאית הבה״ח יוסף לוי, תלמיד ישיבת ״פאר יוסף״, במהלך פעילות בשכונת ארמון הנציב בירושלים. לפי הדיווחים, במהלך האירוע סירב הבחור להזדהות ונלקח לתחנת המשטרה לצורך זיהוי. בעקבות המעצר התפתחה במקום מחאה, כאשר לטענת המוחים המשטרה הפעילה כוח לפיזור ההתקהלות. במקביל, עשרות מפגינים הגיעו גם לכיכר השבת בירושלים במחאה על המעצר. לוי מקבל סיוע משפטי ",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -571,15 +687,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
+      "firstSeen": "2026-05-25T01:53:54.041Z"
     },
     {
-      "id": "b27cdf442184",
-      "title": "הצלחות | כוחות צה''ל בפעילות כעת בעיר עקבה, מצפון לטובאס.",
-      "link": "https://hagizra.news/#msg-b27cdf442184",
-      "body": "הצלחות | כוחות צה''ל בפעילות כעת בעיר עקבה, מצפון לטובאס.",
+      "id": "b99e9c4ed2d9",
+      "title": "תנו בראש | כוחות צה''ל פועלים הלילה במחנה טול כרם ופשטו על בניין מגורים.",
+      "link": "https://hagizra.news/#msg-b99e9c4ed2d9",
+      "body": "תנו בראש | כוחות צה''ל פועלים הלילה במחנה טול כרם ופשטו על בניין מגורים.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e94055b67ee3.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3566ef81f0e0.bin"
       ],
       "time": null,
       "channelName": null,
@@ -589,69 +705,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
+      "firstSeen": "2026-05-25T01:53:54.041Z"
     },
     {
-      "id": "3692c41745f9",
-      "title": "רעש מרגיע | צה''ל יורה בכבדות צפונית-מזרחית למחנה אל-בוריג', במרכז רצועת עזה.",
-      "link": "https://hagizra.news/#msg-3692c41745f9",
-      "body": "רעש מרגיע | צה''ל יורה בכבדות צפונית-מזרחית למחנה אל-בוריג', במרכז רצועת עזה.",
+      "id": "2f1c434435fc",
+      "title": "פעילות מבצעית ראשונה בלבנון | הלוחמים עצרו מחבל בכיר בכוח רדואן, איתרו משגרים טעונים ומכוונים לישראל, איתרו עמדות נ.ט, מ",
+      "link": "https://hagizra.news/#msg-2f1c434435fc",
+      "body": "פעילות מבצעית ראשונה בלבנון | הלוחמים עצרו מחבל בכיר בכוח רדואן, איתרו משגרים טעונים ומכוונים לישראל, איתרו עמדות נ.ט, מחסני אמל\"ח והשמידו תשתיות טרור. בתיעוד הבלעדי | עמדת נ.ט פעילה שהכוחות איתרו. (ינון שלום יתח)",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8169c9dcb455.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "dc44733787db",
-      "title": "בהצלחה | כוחות צה''ל פשטו כעת על העיר חברון.",
-      "link": "https://hagizra.news/#msg-dc44733787db",
-      "body": "בהצלחה | כוחות צה''ל פשטו כעת על העיר חברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a9c09b611f84.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "d9779791549d",
-      "title": "‏ברקע המשבר הפוליטי | נכדיו של מרן רה״י הגר״ד לנדו - הרב טוביה והרב מנחם בשיחה עם יו״ר דגל התורה ח״כ גפני בשמחת נישואי נ",
-      "link": "https://hagizra.news/#msg-d9779791549d",
-      "body": "‏ברקע המשבר הפוליטי | נכדיו של מרן רה״י הגר״ד לנדו - הרב טוביה והרב מנחם בשיחה עם יו״ר דגל התורה ח״כ גפני בשמחת נישואי נכדו הערב בהיכלי מלכות.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7744fb71220e.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "0b06a056736d",
-      "title": "הזוי ובזוי | שאריות הארטיקים שהעירייה חילקה לילדי העיר במדורות ל״ג בעומר, נמכרים בחנות בעיר ב\"ב.",
-      "link": "https://hagizra.news/#msg-0b06a056736d",
-      "body": "הזוי ובזוי | שאריות הארטיקים שהעירייה חילקה לילדי העיר במדורות ל״ג בעומר, נמכרים בחנות בעיר ב\"ב.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3de599033fd0.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/81d6e8d367e6.bin"
       ],
       "time": null,
       "channelName": null,
@@ -661,67 +723,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "76c83b50f2b1",
-      "title": "אוי טאטע | היום (א׳) מלאת ה-30 לפטירת הילדה הקדושה נסיה כראדי הי\"ד שנפצעה אנושות בפגיעת הטיל בביתה בבני ברק.",
-      "link": "https://hagizra.news/#msg-76c83b50f2b1",
-      "body": "אוי טאטע | היום (א׳) מלאת ה-30 לפטירת הילדה הקדושה נסיה כראדי הי\"ד שנפצעה אנושות בפגיעת הטיל בביתה בבני ברק.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "18c49e5d20f6",
-      "title": "מסוכן | גבר נפל מגובה של כ-4 מטר בירכא.",
-      "link": "https://hagizra.news/#msg-18c49e5d20f6",
-      "body": "מסוכן | גבר נפל מגובה של כ-4 מטר בירכא. חובשים ופראמדיקים העניקו טיפול רפואי ופינו אותו למרכז הרפואי לגליל בנהריה, במצב אנוש עם חבלת ראש, תוך כדי פעולות החייאה.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "1eae28964125",
-      "title": "תאונות הדרכים | הולכת רגל בת 23 נפגעה קשה מרכב בשדרות מוריה שבחיפה.",
-      "link": "https://hagizra.news/#msg-1eae28964125",
-      "body": "תאונות הדרכים | הולכת רגל בת 23 נפגעה קשה מרכב בשדרות מוריה שבחיפה. צוותי רפואה שהגיעו לזירה פינו אותה לבית החולים רמב\"ם כשהיא מורדמת ומונשמת עם חבלת ראש.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
-    },
-    {
-      "id": "07c598bdffaa",
-      "title": "סיכום חדשות היום | (זירת החדשות) הנשיא טראמפ | הנחיתי את נציגי ארה\"ב שלא למהר לעסקה עם איראן, המצור על הורמוז יימשך עד ש",
-      "link": "https://hagizra.news/#msg-07c598bdffaa",
-      "body": "סיכום חדשות היום | (זירת החדשות) הנשיא טראמפ | הנחיתי את נציגי ארה\"ב שלא למהר לעסקה עם איראן, המצור על הורמוז יימשך עד שהסכם ייחתם. גורם מדיני לכתבים | טראמפ הבטיח שישראל תוכל לפעול בלבנון למרות ההסכם, וכי יעמוד על הוצאת האורניום המועשר מאיראן. מקור איראני | לא הסכמנו למסור את האורניום המועשר, סוגיית הגרעין אינה כלולה בהסכם המקדים. החרדים הודיעו לנתניהו | מתנגדים לחוק הגיוס המוצע; הבחירות יתקיימו ",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-24T23:43:05.757Z"
+      "firstSeen": "2026-05-25T01:53:54.041Z"
     }
   ],
   "errors": [
