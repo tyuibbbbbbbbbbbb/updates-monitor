@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T14:35:49.364Z",
+  "generatedAt": "2026-05-29T17:55:41.821Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,13 +25,28 @@
   ],
   "items": [
     {
+      "id": "9ee812bb061e",
+      "title": "מערכת 'הַגִּזְרָה' מאחלת שבת שלום ומבורך💐 לכל הגולשים ולכל עם ישראל היקרים!!💟 שהשקט ישרור בארצנו הקדושה🌹 בעז\"ה נשוב ו",
+      "link": "https://hagizra.news/#msg-9ee812bb061e",
+      "body": "מערכת 'הַגִּזְרָה' מאחלת שבת שלום ומבורך💐 לכל הגולשים ולכל עם ישראל היקרים!!💟 שהשקט ישרור בארצנו הקדושה🌹 בעז\"ה נשוב ונדווח מיד עם צאת השבת!!❤️🙏",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-01T16:13:58.105Z"
+    },
+    {
       "id": "d41d8cd98f00",
       "title": "תמונה",
       "link": "https://black-cat.thechats.click/#msg-d41d8cd98f00",
       "body": "",
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -40,63 +55,12 @@
       "firstSeen": "2026-05-08T11:37:34.200Z"
     },
     {
-      "id": "d517ae38e904",
-      "title": "הנשיא טראמפ צפוי להכריז עוד חמש דקות על הסכם הפסקת אש שעתיד להכנס לחדר ההתיעצויות של הבית הלבן, שם אמורים לתת אישור להסכ",
-      "link": "https://black-cat.thechats.click/#msg-d517ae38e904",
-      "body": "הנשיא טראמפ צפוי להכריז עוד חמש דקות על הסכם הפסקת אש שעתיד להכנס לחדר ההתיעצויות של הבית הלבן, שם אמורים לתת אישור להסכם שיתגבש עד כדי משא ומתן שיוביל לפרצת דרך לחתימה על הסכם בתוך כשבועיים עד שישים יום. 😂 (מרן הגר\"ח שחור)",
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 20,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-28T14:25:36.651Z"
-    },
-    {
       "id": "c189869a13be",
       "title": "הרב אהרון לוי - הנקודה הטובה במי שפגע בך",
       "link": "https://black-cat.thechats.click/#msg-c189869a13be",
       "body": "הרב אהרון לוי - הנקודה הטובה במי שפגע בך",
       "videos": [
         "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5f700240abc1.bin"
-      ],
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-28T17:50:50.999Z"
-    },
-    {
-      "id": "d55eac48b1c6",
-      "title": "תמונה",
-      "link": "https://black-cat.thechats.click/#msg-d55eac48b1c6",
-      "body": "",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d55eac48b1c6.jpeg"
-      ],
-      "time": null,
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 18,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-05-28T17:50:50.999Z"
-    },
-    {
-      "id": "4499a3aa62cf",
-      "title": "לאיפה נעלמה הארוחת צהרים שלי 🙄",
-      "link": "https://black-cat.thechats.click/#msg-4499a3aa62cf",
-      "body": "לאיפה נעלמה הארוחת צהרים שלי 🙄",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2700b1a99767.bin"
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
@@ -118,7 +82,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -136,7 +100,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 16,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -154,7 +118,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -172,7 +136,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 11,
+      "position": 13,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -187,7 +151,7 @@
       "body": "התמודדות עם פחד מצו גיוס🪖בחורים רבים קיבלו לביתם צווי גיוס. ובלבם, ובלב הוריהם ובני המשפחה עולה חשש: מה יהיה? לאן זה יוביל? האם ייקחו אותנו, יגררו אותנו באזיקים, יכניסו אותנו לכלא?🪟הדמיון רץ, המחשבות מתרוצצות, והלב מתכווץ🫀.יש מי שמתמודד עם זה בקלילות ובציניות: “שיעור כללי בכלא” וכדו', אך יש גם את אלו שהלב שלהם רך, שמרגישים את הפחד עד עומק הנשמה - והם צריכים חיזוק אמיתי💪.אליכם, בחורים יקרים, נכ",
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -205,7 +169,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -223,7 +187,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -241,7 +205,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -259,7 +223,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -277,7 +241,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -295,7 +259,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 2,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -313,7 +277,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 3,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -331,7 +295,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -349,7 +313,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -364,7 +328,7 @@
       "body": "המפכ\"ל דני לוי - אפילו לא עומד במילתו, והשוטרים לא מכבדים הוראותיו: אברך שהגיע לתחנת המשטרה בקרית גת להגיש תלונה - נעצר ומועבר למ.צבאית. מאות בדרך להפגין בתחנת המשטרה בק.גת במשטרה מגיבים: \"מדובר בטעות מבצעית, השוטרים בשטח לא הצליחו להבחין כי החשוד הוא בעל מוצא אשכנזי. משטרת ישראל מתוודה על השגיאה, מביעה התנצלות ומבקשת להמשיך בשיתוף פעולה מלא. נוהל מעצר ספרדים ימשיך כרגיל.\" (קולדצקי)",
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -382,7 +346,7 @@
       ],
       "time": null,
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -391,25 +355,49 @@
       "firstSeen": "2026-05-29T14:35:49.364Z"
     },
     {
-      "id": "956013ed2340",
-      "title": "אין מגבלת תווים?",
-      "link": "https://hagizra.news/#msg-956013ed2340",
-      "body": "אין מגבלת תווים? | עוד מהפינג פונג בין הכתבים:ארי קלמן: אברום בתור שופר של בעלזא. אשמח אם תגשש לי בעדינות אם אייכלר פורש מהממשלה בעקבות המעצר.אברהם פריינד: לדעתי הוא היה פורש אבל התקן של פורשי אגודת ישראל מחפשים עבודה בטלוויזיה כבר תפוס. אבל אני אפנה לאייכלר אם הוא יכול לסייע בשיפור הרייטינג בינתיים.ארי קלמן: חבל, אייכלר דווקא היה טוב בפופוליטיקה.",
+      "id": "3546b3d016ea",
+      "title": "תמונה 📷...",
+      "link": "https://black-cat.thechats.click/#msg-3546b3d016ea",
+      "body": "תמונה 📷...",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/03076fb30215.png"
+      ],
       "time": null,
-      "channelName": null,
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
       "position": 0,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "43e4e5ed645b",
-      "title": "על השר בנגביר | תכתובת ברשת בין הכתבים החרדיים:ארי קלמן: אסור לו להתערב בענייני המשטרה.אברהם פריינד: לא קשור לל\"ג בעומר ",
-      "link": "https://hagizra.news/#msg-43e4e5ed645b",
-      "body": "על השר בנגביר | תכתובת ברשת בין הכתבים החרדיים:ארי קלמן: אסור לו להתערב בענייני המשטרה.אברהם פריינד: לא קשור לל\"ג בעומר כשזה לא פופלארי, לא קשור למשטרה כשיש מעצרים. נחמד.ארי קלמן: יש לו בג״צ שהורה לו שלא להתערב אחרת שהוא יודח. מה אתה מצפה שהוא יעשה?אברהם פריינד: גם נתניהו לא העביר את חוק הגיוס בגלל בג״ץ והייעוץ המשפטי, גם הח״כים החרדים יכולים לטעון שהכל זה המשפטנים, זה נכון ועדיין זה עליהם.ארי קלמ",
+      "id": "c36cd5216466",
+      "title": "דרמטי",
+      "link": "https://black-cat.thechats.click/#msg-c36cd5216466",
+      "body": "דרמטי",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/99b897d59bae.jpeg"
+      ],
+      "time": null,
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 1,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-05-29T17:55:41.821Z"
+    },
+    {
+      "id": "6160504319bf",
+      "title": "ברכת הוקרה | מול בית הכנסת איצקוביץ בבני ברק הפעיל ביותר בישראל, פעילי מערכת צבע שחור המדווח על מעצרי בחורי ישיבות עריקי",
+      "link": "https://hagizra.news/#msg-6160504319bf",
+      "body": "ברכת הוקרה | מול בית הכנסת איצקוביץ בבני ברק הפעיל ביותר בישראל, פעילי מערכת צבע שחור המדווח על מעצרי בחורי ישיבות עריקים, תלו היום שלט ענק, עם ברכת הוקרה לבחורי ישיבות. (דוד קשת)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c9019c90fd93.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 1,
@@ -418,16 +406,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "1603e58ec97d",
-      "title": "לאיפה הוא נעלם?",
-      "link": "https://hagizra.news/#msg-1603e58ec97d",
-      "body": "לאיפה הוא נעלם? |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1351c0fddbfd.png"
-      ],
+      "id": "ab107a793b21",
+      "title": "40 אסירי עולם התורה | הוועדה להצלת עולם התורה מעדכנת: אסירי עולם התורה מהפלג, הבחורים מיכאל פטרוף ודוד אורבך (משיבת מעלו",
+      "link": "https://hagizra.news/#msg-ab107a793b21",
+      "body": "40 אסירי עולם התורה | הוועדה להצלת עולם התורה מעדכנת: אסירי עולם התורה מהפלג, הבחורים מיכאל פטרוף ודוד אורבך (משיבת מעלות התורה), שנעצרו ע\"י משטרה כחולה בכביש 6 כשעצרו טרמפים והועברו למשטרה הצבאית, יעשו את השבת בכלא הצבאי, לצד 40 תלמידי ישיבות ואברכים נוספים שעצורים שם בעוון לימוד תורה. ביום ראשון, הפגנות סוערות במוקדים רבים ברחבי הארץ. (דוד קשת)",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -436,13 +421,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "8f89f1560999",
-      "title": "המפכ\"ל בחר צד | '''גורם חרדי בכיר''': \"שנים עבד השר בן גביר לבנות אמון בין המשטרה למגזר החרדי - וגייס מאות מחסידויות גדו",
-      "link": "https://hagizra.news/#msg-8f89f1560999",
-      "body": "המפכ\"ל בחר צד | '''גורם חרדי בכיר''': \"שנים עבד השר בן גביר לבנות אמון בין המשטרה למגזר החרדי - וגייס מאות מחסידויות גדולות לשורותיה. המפכ\"ל מחק הכל בצעד אחד: תושב קרית גת מחסידות בעלזא שמשפחתו מגויסת למשטרה והוא עצמו בתהליך גיוס נעצר על עריקות כשהגיע להגיש תלונה שגרתית. התוצאה: הפגנות ענק בקרית גת, לא של קיצוניים, אלא של פלגים חרדיים מרכזיים ששיתפו פעולה עם המשטרה. עכשיו הם מאיימים לנתק הכל. המפכ",
+      "id": "341dd795ad43",
+      "title": "בחזור ממעייריב של מוצאי שבת 🌆 הגיזרה - ערוץ העדכונים, כעת גם בטלפון!",
+      "link": "https://hagizra.news/#msg-341dd795ad43",
+      "body": "בחזור ממעייריב של מוצאי שבת 🌆 הגיזרה - ערוץ העדכונים, כעת גם בטלפון! 💥 073-713-6252 / 0733-510-267 / 079-499-8640 📞",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -451,13 +436,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "d4aaf838fe4b",
-      "title": "לא עושים שת\"פים | ההחלטה של המשטרה לעצור חסיד בעלזא, שרבים מבני החסידות שלו משרתים במשטרה והחסיד עצמו היה בתהליך גיוס, ה",
-      "link": "https://hagizra.news/#msg-d4aaf838fe4b",
-      "body": "לא עושים שת\"פים | ההחלטה של המשטרה לעצור חסיד בעלזא, שרבים מבני החסידות שלו משרתים במשטרה והחסיד עצמו היה בתהליך גיוס, היא החלטה מבורכת. כעת יהיה ברור לכולם: עם המפכ\"ל ועם המשטרה לא עושים שת\"פים. לא מתגייסים ולא מתנדבים! רק חבל שהוא הורס במחי יד את כל העבודה שנבנתה בשנים האחרונות במשטרה. (יוחאי דנינו)",
+      "id": "97f3de9ae7cc",
+      "title": "איבדו את המוסר | ח\"כ מאיר פרוש: את השבת הקרובה יעשו כ-30 בני תורה מאחורי סורג ובריח בכלא הצבאי.",
+      "link": "https://hagizra.news/#msg-97f3de9ae7cc",
+      "body": "איבדו את המוסר | ח\"כ מאיר פרוש: את השבת הקרובה יעשו כ-30 בני תורה מאחורי סורג ובריח בכלא הצבאי. מספר מטלטל שמלמד ע\"כ שרשויות המשפט, הצבא והמשטרה איבדו את המוסר היהודי.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -466,13 +451,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "58f7dd3f3e6e",
-      "title": "מהומה בבעלזא | גורמים בחסידות בעלזא טוענים לתסיסה חריגה בקרב עשרות מתנדבי משטרה המזוהים עם החסידות בירושלים, ברקע הסגרת ",
-      "link": "https://hagizra.news/#msg-58f7dd3f3e6e",
-      "body": "מהומה בבעלזא | גורמים בחסידות בעלזא טוענים לתסיסה חריגה בקרב עשרות מתנדבי משטרה המזוהים עם החסידות בירושלים, ברקע הסגרת האברך החסידי בקריית גת ליד... טמטום חסר מעצורים | כל המליונים הרבים שהושקעו ע\"י תכניות צה\"ל בקבוצות הוואטספ השונות וכל המיליונים שהובטחו לחסידויות המסוימות בעבור שת\"פ עם תכניות הצבא והמשטרה הלכו לפח תוך שעה בגלל החלטה מטופשת של מפכ\"ל חסר עמוד שדרה שנכנע ליועמ\"שית רודפת החרדים.לא ",
+      "id": "f25e22129c22",
+      "title": "רמת אמינות...",
+      "link": "https://hagizra.news/#msg-f25e22129c22",
+      "body": "רמת אמינות... | \"אקסיוס מצטטת גורמים אמריקאים: קיבלנו התחייבויות בעל פה מאיראן בנוגע לחומרים גרעיניים, והנושא החשוב ביותר הוא מה הוסכם במשא ומתן.\"",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c3df03b5fd1a.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -481,16 +469,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "ec2d518e832d",
-      "title": "מאיים | מחמד קאליבף, יו\"ר הפרלמנט האיראני וראש משלחת המו\"מ עם ארה\"ב מצייץ בפרסית : אנחנו משיגים ויתורים לא באמצעות דיאלו",
-      "link": "https://hagizra.news/#msg-ec2d518e832d",
-      "body": "מאיים | מחמד קאליבף, יו\"ר הפרלמנט האיראני וראש משלחת המו\"מ עם ארה\"ב מצייץ בפרסית : אנחנו משיגים ויתורים לא באמצעות דיאלוג, אלא באמצעות טילים. במשא ומתן אנחנו רק גורמים להם להבין זאת. אין לנו שום אמון בהבטחות או במילים - רק המעשים קובעים. שום צעד לא יינקט לפני שהצד השני יפעל. המנצח בכל הסכם הוא מי שמוכן טוב יותר למלחמה ביום שאחרי.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a2b435bbdc00.png"
-      ],
+      "id": "f65a6b8e14cf",
+      "title": "התעורר | התייחסות ראשונה של בן גביר למעצרי העריקים החרדים בשבוע האחרון:״אני מברך על הבהרת המפכ״ל שלא יעוכבו אזרחים הפוני",
+      "link": "https://hagizra.news/#msg-f65a6b8e14cf",
+      "body": "התעורר | התייחסות ראשונה של בן גביר למעצרי העריקים החרדים בשבוע האחרון:״אני מברך על הבהרת המפכ״ל שלא יעוכבו אזרחים הפונים לקבלת שירות משטרתי. הגישה למשטרה היא זכות בסיסית של כל אזרח - להגיש תלונה או להזעיק עזרה מבלי שזה יהפוך למלכודת של עיכוב או מעצר.אני עומד על כך שהמודל לשילוב חרדים איננו טמון באכיפה אקראית, אלא בשיח ישיר. כפי שהוכחתי בשנים האחרונות - רק בדרך של הידברות הגענו להישגים חסרי תקדים ",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -499,13 +484,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "a9558c70ee65",
-      "title": "העצור בקרית גת | יעקב הרשקוביץ: מעלות צור במו״מ מול צה״ל להכניס את העריק למסלול שלהם כדי שהוא ישוחרר לפני השבת.",
-      "link": "https://hagizra.news/#msg-a9558c70ee65",
-      "body": "העצור בקרית גת | יעקב הרשקוביץ: מעלות צור במו״מ מול צה״ל להכניס את העריק למסלול שלהם כדי שהוא ישוחרר לפני השבת.",
+      "id": "b528f91d74b2",
+      "title": "הווו איך שגלגל מסתובב לו |",
+      "link": "https://hagizra.news/#msg-b528f91d74b2",
+      "body": "הווו איך שגלגל מסתובב לו |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ddff42f159ac.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -514,13 +502,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "5768033649aa",
-      "title": "👀👀👀 | תמיר מורג: אני לא יודע אם יהיה או לא יהיה הסכם בין ארה\"ב לאיראן ואם יהיה - איך הוא יראה; אבל שימו לב לדפוס: כמו",
-      "link": "https://hagizra.news/#msg-5768033649aa",
-      "body": "👀👀👀 | תמיר מורג: אני לא יודע אם יהיה או לא יהיה הסכם בין ארה\"ב לאיראן ואם יהיה - איך הוא יראה; אבל שימו לב לדפוס: כמו בסיבובים הקודמים, אותם כתבים עם אותם מקורות ועם אותה מקהלה ברשת ובאולפנים שמכריזה בביטחון שהאירוע הסתיים; ובינתיים, כבר כמעט שבוע מאז שהודיעו לנו שההסכם ממש מעבר לפינה ושטראמפ מכר את ישראל - והמצור נמשך והסכם אין.שבת שלום - וסבלנות.",
+      "id": "f0c060733fad",
+      "title": "שתעבור לגור איתם | נעמה לזימי: אני מעדיפה לשבת עם רע״מ ולא עם ש״ס ויהדות התורה.",
+      "link": "https://hagizra.news/#msg-f0c060733fad",
+      "body": "שתעבור לגור איתם | נעמה לזימי: אני מעדיפה לשבת עם רע״מ ולא עם ש״ס ויהדות התורה.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -529,13 +517,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "0fc6cc40e3dc",
-      "title": "מהומה בבעלזא | גורמים בחסידות בעלזא טוענים לתסיסה חריגה בקרב עשרות מתנדבי משטרה המזוהים עם החסידות בירושלים, ברקע הסגרת ",
-      "link": "https://hagizra.news/#msg-0fc6cc40e3dc",
-      "body": "מהומה בבעלזא | גורמים בחסידות בעלזא טוענים לתסיסה חריגה בקרב עשרות מתנדבי משטרה המזוהים עם החסידות בירושלים, ברקע הסגרת האברך החסידי בקריית גת לידי המשטרה הצבאית.לפי הגורמים בחסידות, חלק מהמתנדבים מאיימים להחזיר כבר ביום ראשון את תעודות המתנדב והנשקים, במחאה על התנהלות המשטרה והמפכ״ל סביב מעצרי בני הישיבות. (ינון מגל).",
+      "id": "e73ea29f782e",
+      "title": "מקשיחים עמדות | סוכנות הידיעות ״פארס״ של משמרות המהפכה:מקורות המעורים בפרטים אומרים כי דבריו של טראמפ אינם נכונים.",
+      "link": "https://hagizra.news/#msg-e73ea29f782e",
+      "body": "מקשיחים עמדות | סוכנות הידיעות ״פארס״ של משמרות המהפכה:מקורות המעורים בפרטים אומרים כי דבריו של טראמפ אינם נכונים. נוסח הסכם המסגרת נמצא בשלבי אישור סופיים באיראן, אך טרם התקבלה החלטה סופית. איראן הדגישה כי היא תפתח את המצר לפי הסדרים שנקבעו מראש, החל מבידוק ספינות ועד מתן ביטוח לספינות (בתשלום)טראמפ טען שאיראן תתפרק מגרעין - הדבר אינו נכון ולא מופיע במזכר ההבנותהתנאי החשוב ביותר שטראמפ לא הזכיר ה",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -544,13 +532,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "7d751e53e177",
-      "title": "לקראת הפסקת שיתוף הפעולה?",
-      "link": "https://hagizra.news/#msg-7d751e53e177",
-      "body": "לקראת הפסקת שיתוף הפעולה? | בעקבות מעצר האברך בקריית גת, בחסידות בעלזא הורו לכל המתנדבים במשטרה וכן לאברכים הנמצאים בהליכי גיוס לצה\"ל להשתתף בכינוס חירום שייערך במוצאי שבת (ויסברג)",
+      "id": "97b70569f45b",
+      "title": "מה הקטע | בעקבות תשוקת אחד מקבוצות הוואטספ שישמיעו ברמקולים שירי מהומות בכניסת שבת, מודרני קיצוני בבית שמש מאיים להשמיע ",
+      "link": "https://hagizra.news/#msg-97b70569f45b",
+      "body": "מה הקטע | בעקבות תשוקת אחד מקבוצות הוואטספ שישמיעו ברמקולים שירי מהומות בכניסת שבת, מודרני קיצוני בבית שמש מאיים להשמיע 'התקווה'.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -559,13 +547,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "fc7716b5fb49",
-      "title": "סדר באירועים | (מוסקוב).שלושה אירועים התרחשו בשעה האחרונה: מעצר חסיד בעלזא בקרית גת מעצר 3 תלמידי ישיבה ספרדים בלוד; שוח",
-      "link": "https://hagizra.news/#msg-fc7716b5fb49",
-      "body": "סדר באירועים | (מוסקוב).שלושה אירועים התרחשו בשעה האחרונה: מעצר חסיד בעלזא בקרית גת מעצר 3 תלמידי ישיבה ספרדים בלוד; שוחררו כעת מעצר 2 תלמידי ישיבת מעלות התורה מהפלג - לא שוחררו - צפויות הפגנות סוערות בשבוע הבא",
+      "id": "b1560a809564",
+      "title": "המחיר צולל | בעקבות ההכרזה על הסרת המצור על איראן, מחיר נפט ברנט ירד מתחת ל-90 דולר לחבית בפעם הראשונה מזה כ-50 יום.",
+      "link": "https://hagizra.news/#msg-b1560a809564",
+      "body": "המחיר צולל | בעקבות ההכרזה על הסרת המצור על איראן, מחיר נפט ברנט ירד מתחת ל-90 דולר לחבית בפעם הראשונה מזה כ-50 יום.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -574,15 +562,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "74205f7ab42b",
-      "title": "לוד |",
-      "link": "https://hagizra.news/#msg-74205f7ab42b",
-      "body": "לוד |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/00264234bb02.bin"
+      "id": "0cbb0ab6d183",
+      "title": "טירוף | כ-70 כלי רכב עלו באש בשריפה שפרצה בשטח פתוח והתפשטה אל חניון לא מוסדר סמוך למעבר נהר הירדן ליד בית שאן.",
+      "link": "https://hagizra.news/#msg-0cbb0ab6d183",
+      "body": "טירוף | כ-70 כלי רכב עלו באש בשריפה שפרצה בשטח פתוח והתפשטה אל חניון לא מוסדר סמוך למעבר נהר הירדן ליד בית שאן. השריפה בנהר הירדן | כ-120 כלי רכב נשרפו סמוך למעבר נהר הירדן. הוקם צוות חקירה מיוחד לבחינת נסיבות פרוץ השריפה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/41b02df65c57.png"
       ],
       "time": null,
       "channelName": null,
@@ -592,13 +580,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "d36b1998af87",
-      "title": "הבנות בקואליציה על תאריך הבחירות | לאחר שהחרדים הבינו כי לא יצליחו לכפות קיום בחירות כבר בחודש ספטמבר, כעת מסתמן כי הן י",
-      "link": "https://hagizra.news/#msg-d36b1998af87",
-      "body": "הבנות בקואליציה על תאריך הבחירות | לאחר שהחרדים הבינו כי לא יצליחו לכפות קיום בחירות כבר בחודש ספטמבר, כעת מסתמן כי הן יתקיימו ב-20 באוקטובר - ט' בחשוון התשפ\"ז. (ארי קלמן)",
+      "id": "68109927e021",
+      "title": "חתיך | תקיפה אווירית ישראלית על העיירה טולין בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-68109927e021",
+      "body": "חתיך | תקיפה אווירית ישראלית על העיירה טולין בדרום לבנון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/92063a84a12c.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -607,15 +598,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "508802323415",
-      "title": "🤭",
-      "link": "https://hagizra.news/#msg-508802323415",
-      "body": "🤭",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5a9dce78ed27.png"
+      "id": "b9c1ec026454",
+      "title": "תיעוד מטורף | ️מל\"טים אוקראינים תקפו משאית רוסית, הראשון הופל, השני פגע במטרה.",
+      "link": "https://hagizra.news/#msg-b9c1ec026454",
+      "body": "תיעוד מטורף | ️מל\"טים אוקראינים תקפו משאית רוסית, הראשון הופל, השני פגע במטרה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/14d3b7490978.bin"
       ],
       "time": null,
       "channelName": null,
@@ -625,15 +616,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "d6c0b0de8676",
-      "title": "מה נדפק איתו?",
-      "link": "https://hagizra.news/#msg-d6c0b0de8676",
-      "body": "מה נדפק איתו? |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/646d2e41f838.png"
+      "id": "906ab58330dd",
+      "title": "לכבוד שבת | חיל האוויר תוקף במרחב בורג' א-שמאלי בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-906ab58330dd",
+      "body": "לכבוד שבת | חיל האוויר תוקף במרחב בורג' א-שמאלי בדרום לבנון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/733bc5c19115.bin"
       ],
       "time": null,
       "channelName": null,
@@ -643,13 +634,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "9d1cee60689c",
-      "title": "המעצר בלוד | יעקב הרשקוביץ: המפגינים מדווחים כי לאחר הגעת המפגינים לתחנת המשטרה, מפקד התחנה הוציא את שלושת הבחורים באופן",
-      "link": "https://hagizra.news/#msg-9d1cee60689c",
-      "body": "המעצר בלוד | יעקב הרשקוביץ: המפגינים מדווחים כי לאחר הגעת המפגינים לתחנת המשטרה, מפקד התחנה הוציא את שלושת הבחורים באופן אישי אל ההמונים שבחוץ.",
+      "id": "afb95ea9efeb",
+      "title": "הסכנה בחופים | שני נערים בני 15 טבעו בחוף הדייגים בחדרה, וחולצו מהים כשאחד מהם במצב קשה והשני במצב קל.",
+      "link": "https://hagizra.news/#msg-afb95ea9efeb",
+      "body": "הסכנה בחופים | שני נערים בני 15 טבעו בחוף הדייגים בחדרה, וחולצו מהים כשאחד מהם במצב קשה והשני במצב קל. צוותי מד\"א פינו אותם לבית החולים הלל יפה בעיר. (קנובליך).",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -658,18 +649,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "8ad0e74fda84",
-      "title": "לאחר התרעת הפינוי | תקיפות מרהיבות בדרום לבנון.",
-      "link": "https://hagizra.news/#msg-8ad0e74fda84",
-      "body": "לאחר התרעת הפינוי | תקיפות מרהיבות בדרום לבנון. (אבו עלי).",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3f2179ec25cc.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1d962ce6c5de.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/167f3a7b7813.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b05797b0f04e.bin"
+      "id": "599675804526",
+      "title": "הדוברות עובדת שעות נוספות |",
+      "link": "https://hagizra.news/#msg-599675804526",
+      "body": "הדוברות עובדת שעות נוספות |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0fc352719087.png"
       ],
       "time": null,
       "channelName": null,
@@ -679,16 +667,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "80689da9bd0b",
-      "title": "💪",
-      "link": "https://hagizra.news/#msg-80689da9bd0b",
-      "body": "💪",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b6ed37c016b2.png"
-      ],
+      "id": "d4d5c09da113",
+      "title": "האורניום לקזחסטן?",
+      "link": "https://hagizra.news/#msg-d4d5c09da113",
+      "body": "האורניום לקזחסטן? | מנכ\"ל סבא\"א ל'פייננשל טיימס': נפגשתי השבוע עם נשיא קזחסטן, הוא הציע לקחת את מאגרי האורניום המועשר של איראן.",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -697,13 +682,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     },
     {
-      "id": "e2bef06373b0",
-      "title": "טירוף | כ-70 כלי רכב עלו באש בשריפה שפרצה בשטח פתוח והתפשטה אל חניון לא מוסדר סמוך למעבר נהר הירדן ליד בית שאן.",
-      "link": "https://hagizra.news/#msg-e2bef06373b0",
-      "body": "טירוף | כ-70 כלי רכב עלו באש בשריפה שפרצה בשטח פתוח והתפשטה אל חניון לא מוסדר סמוך למעבר נהר הירדן ליד בית שאן.",
+      "id": "35ec18e19c61",
+      "title": "גישה שונה | יוסי אליטוב: הניצחון על אויבי ישראל לא יגיע מהפגנות ולא מקללות.",
+      "link": "https://hagizra.news/#msg-35ec18e19c61",
+      "body": "גישה שונה | יוסי אליטוב: הניצחון על אויבי ישראל לא יגיע מהפגנות ולא מקללות. הוא יגיע מעוד דף גמרא, עוד הלכה, עוד זוהר, עוד חסידות ועוד יהודי שיושב ללמוד תורה. מול כוחות החושך לא נלחמים בעוד חושך - מוסיפים אור. התורה היא הנשק העתיק ביותר של עם ישראל, וגם המנצח ביותר.",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -712,7 +697,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-29T14:35:49.364Z"
+      "firstSeen": "2026-05-29T17:55:41.821Z"
     }
   ],
   "errors": [
