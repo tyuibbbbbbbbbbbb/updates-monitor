@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T00:15:23.502Z",
+  "generatedAt": "2026-05-31T04:56:34.053Z",
   "sources": [
     {
       "id": "blackcat",
@@ -361,39 +361,6 @@
       "firstSeen": "2026-05-30T22:02:59.575Z"
     },
     {
-      "id": "aaebe2d28d49",
-      "title": "מרתק | \"הייתה תחושה שאולי הם עלו עלינו.",
-      "link": "https://hagizra.news/#msg-aaebe2d28d49",
-      "body": "מרתק | \"הייתה תחושה שאולי הם עלו עלינו. הדריכות הייתה בשיאה\". השר יצחק וסרלאוף מספר בערב ערוץ 7 בניו יורק על ליל ההכרעה שבו אושר מבצע \"עם כלביא\".",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a5773aa36b39.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T22:02:59.575Z"
-    },
-    {
-      "id": "385c514eadf5",
-      "title": "נשלל החשש | ככה\"נ תאונת דרכים קשה.",
-      "link": "https://hagizra.news/#msg-385c514eadf5",
-      "body": "נשלל החשש | ככה\"נ תאונת דרכים קשה.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T22:02:59.575Z"
-    },
-    {
       "id": "158fb8206cb3",
       "title": "אין תאים פנוים במוח...",
       "link": "https://black-cat.thechats.click/#msg-158fb8206cb3",
@@ -412,163 +379,10 @@
       "firstSeen": "2026-05-30T23:09:07.829Z"
     },
     {
-      "id": "a20bbcb2799a",
-      "title": "לילה סוער | מהומות ברחבי פריז בעקבות אירוע ספורט, רוב המתפרעים והמשחיתים - מוסלמים.",
-      "link": "https://hagizra.news/#msg-a20bbcb2799a",
-      "body": "לילה סוער | מהומות ברחבי פריז בעקבות אירוע ספורט, רוב המתפרעים והמשחיתים - מוסלמים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/34707264247b.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "88d0554854c7",
-      "title": "מטריל | טראמפ ברשתות החברתיות Truth: \"שלום, גרינלנד!\"",
-      "link": "https://hagizra.news/#msg-88d0554854c7",
-      "body": "מטריל | טראמפ ברשתות החברתיות Truth: \"שלום, גרינלנד!\"",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a76ef79f3713.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "8ac3d62bbcd8",
-      "title": "🥵",
-      "link": "https://hagizra.news/#msg-8ac3d62bbcd8",
-      "body": "🥵",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bc43623c1c3a.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "3723a5b5dc7c",
-      "title": "ימ\"ש | חיזבאללה מפרסמים כי תקפו טנק ישראלי בטיל נ\"ט בעירה אל-ביאדה בדרום לבנון.",
-      "link": "https://hagizra.news/#msg-3723a5b5dc7c",
-      "body": "ימ\"ש | חיזבאללה מפרסמים כי תקפו טנק ישראלי בטיל נ\"ט בעירה אל-ביאדה בדרום לבנון.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "94d7089cec73",
-      "title": "'ונשמרתם' עזב/ה את הקבוצה |",
-      "link": "https://hagizra.news/#msg-94d7089cec73",
-      "body": "'ונשמרתם' עזב/ה את הקבוצה |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/07cca87199cd.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "93daf524bbc0",
-      "title": "😌",
-      "link": "https://hagizra.news/#msg-93daf524bbc0",
-      "body": "😌",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b5f677409229.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "d908abec7583",
-      "title": "נשארים מעודכנים - גם כשחוזרים לישיבה!",
-      "link": "https://hagizra.news/#msg-d908abec7583",
-      "body": "נשארים מעודכנים - גם כשחוזרים לישיבה! 🧳📚 הגיזרה - ערוץ העדכונים 💥 כעת גם בטלפון! 073-713-6252 / 0733-510-267 / 079-499-8640 📞",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "bea9b4faf27e",
-      "title": "לראשונה בהיסטוריה של יתד נאמן | אבי מוסקוב: ביטאון דגל התורה מדווח על מעצרי בחורים של הפלג הירושלמי, מישיבת מעלות התורה ",
-      "link": "https://hagizra.news/#msg-bea9b4faf27e",
-      "body": "לראשונה בהיסטוריה של יתד נאמן | אבי מוסקוב: ביטאון דגל התורה מדווח על מעצרי בחורים של הפלג הירושלמי, מישיבת מעלות התורה של הגר״ש אוירבך זצ״ל ... בשולי | מדוע נזעקו ב'יתד' לדברר את מעצר הבחורים בלוד בעוון ריסוס גרפיטי? (בני 15, לא חייבי גיוס). סערה בכוס וודקה | המשטרה בתגובה על המעצר בלוד: לא מדובר בעריקים, מדובר בשלושה נערים בני 15 שעוכבו אחרי שעשו גרפיטי על הקיר, עוכבו וקיבלו זימון...",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "a4c6d4be4b02",
-      "title": "לראשונה בהיסטוריה של יתד נאמן | אבי מוסקוב: ביטאון דגל התורה מדווח על מעצרי בחורים של הפלג הירושלמי, מישיבת מעלות התורה ",
-      "link": "https://hagizra.news/#msg-a4c6d4be4b02",
-      "body": "לראשונה בהיסטוריה של יתד נאמן | אבי מוסקוב: ביטאון דגל התורה מדווח על מעצרי בחורים של הפלג הירושלמי, מישיבת מעלות התורה של הגר״ש אוירבך זצ״ל",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/54864c41748e.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-30T23:09:07.829Z"
-    },
-    {
-      "id": "a26b47a75daa",
-      "title": "צעד קדימה | על רקע החרפת משבר הגיוס ומעצרי בני הישיבות, יתקיים מחר בבני ברק כינוס חירום היסטורי בהשתתפות כ-150 ראשי ישיב",
-      "link": "https://hagizra.news/#msg-a26b47a75daa",
-      "body": "צעד קדימה | על רקע החרפת משבר הגיוס ומעצרי בני הישיבות, יתקיים מחר בבני ברק כינוס חירום היסטורי בהשתתפות כ-150 ראשי ישיבות מכלל המגזרים החרדיים, בראשות גדולי ישראל. הכינוס, שייערך ימים ספורים לפני מסע קרן עולם התורה לארה\"ב, יעסוק בהתמודדות עולם התורה עם המשבר המחריף. (יוסי פלד)",
+      "id": "98b99b97c80d",
+      "title": "באופן מפתיע | בממשלה הסירו הבוקר מסדר היום את ההחלטה על תוכנית השיקום, המיגון והטבות המס ליישובי קו העימות בצפון, שהייתה",
+      "link": "https://hagizra.news/#msg-98b99b97c80d",
+      "body": "באופן מפתיע | בממשלה הסירו הבוקר מסדר היום את ההחלטה על תוכנית השיקום, המיגון והטבות המס ליישובי קו העימות בצפון, שהייתה אמורה לעלות לדיון בישיבת הממשלה. ההחלטה כללה בין היתר תקציבי שיקום ומיגון וכן את סוגיית הטבות המס ליישובי קו העימות. המהלך מגיע לאחר יום של הסלמה ביטחונית בצפון ובזמן שפיקוד העורף אוסר על קיום לימודים בטווח של עד 9 ק\"מ מגבול לבנון. (שרון קנובליך)",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -577,16 +391,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "52a01336983c",
-      "title": "עובדים עליכם | חזבאללה משיק קמפיין לוחמה פסיכולוגית בעברית נגד המשך הלחימה של ישראל בלבנון.",
-      "link": "https://hagizra.news/#msg-52a01336983c",
-      "body": "עובדים עליכם | חזבאללה משיק קמפיין לוחמה פסיכולוגית בעברית נגד המשך הלחימה של ישראל בלבנון.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1716de97ab05.jpg"
-      ],
+      "id": "7d595b43f48d",
+      "title": "אחרי כמעט 9 שעות של שקט | הופעלה התרעה מקדימה, אבל לא הופעלו אזעקות.",
+      "link": "https://hagizra.news/#msg-7d595b43f48d",
+      "body": "אחרי כמעט 9 שעות של שקט | הופעלה התרעה מקדימה, אבל לא הופעלו אזעקות. האירוע בבדיקה. (אלמוג בוקר)",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -595,17 +406,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "5c9e44dfe4de",
-      "title": "דרמה הלילה בשכונת רמת אשכול | כמה תושבים תפסו על חם פורץ ערבי שניסה להימלט.",
-      "link": "https://hagizra.news/#msg-5c9e44dfe4de",
-      "body": "דרמה הלילה בשכונת רמת אשכול | כמה תושבים תפסו על חם פורץ ערבי שניסה להימלט. התושבים תפסו אותו עד שהגיעו כוחות משטרה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5336e3355d8d.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b5596da41410.jpg"
-      ],
+      "id": "13527b504be5",
+      "title": "פרטי התקרית | (ניצן שפירא) אתמול סמוך לשעה 22:30, רחפן נפץ ששוגר על ידי ארגון הטרור חיזבאללה פגע בנקודה בה פעלו כוחות סי",
+      "link": "https://hagizra.news/#msg-13527b504be5",
+      "body": "פרטי התקרית | (ניצן שפירא) אתמול סמוך לשעה 22:30, רחפן נפץ ששוגר על ידי ארגון הטרור חיזבאללה פגע בנקודה בה פעלו כוחות סיירת גבעתי בדרום לבנון בעקבות פגיעת הרחפן, סמ\"ר מיכאל טיוקין ז\"ל נפל וארבעה חיילים נוספים נפצעו באורח קל ופונו לקבלת טיפול רפואי.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -614,16 +421,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "7144b19b27f1",
-      "title": "ירד לו ההגבלה היומית | טראמפ מטריל בסדרת ציוצים מ AI.",
-      "link": "https://hagizra.news/#msg-7144b19b27f1",
-      "body": "ירד לו ההגבלה היומית | טראמפ מטריל בסדרת ציוצים מ AI.",
+      "id": "90e6513e9ace",
+      "title": "הותר לפרסום | סמ״ר מיכאל טיוקין בן 21, מאשקלון, לוחם בסיירת גבעתי (846), חטיבת גבעתי, נפל בקרב בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-90e6513e9ace",
+      "body": "הותר לפרסום | סמ״ר מיכאל טיוקין בן 21, מאשקלון, לוחם בסיירת גבעתי (846), חטיבת גבעתי, נפל בקרב בדרום לבנון. יהי זכרו ברוך.(ניצן שפירא)",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/dbc502c5fa47.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f324c2bcbc1c.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ae9ce839614d.jpeg"
       ],
       "time": null,
       "channelName": null,
@@ -633,15 +439,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "4c69a2bc8527",
-      "title": "בול למטרה | כוחות רוסיים מיירטים כטב\"מ אוקראיני באמצעים מיוחדים.",
-      "link": "https://hagizra.news/#msg-4c69a2bc8527",
-      "body": "בול למטרה | כוחות רוסיים מיירטים כטב\"מ אוקראיני באמצעים מיוחדים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e543f7e2b9a4.bin"
+      "id": "fe2a0edfbcfd",
+      "title": "דובר צה\"ל מודיע | החל מבצע ברכס הבופור ובמרחב נחל הסלוקי שבדרום לבנון.",
+      "link": "https://hagizra.news/#msg-fe2a0edfbcfd",
+      "body": "דובר צה\"ל מודיע | החל מבצע ברכס הבופור ובמרחב נחל הסלוקי שבדרום לבנון. כוחות קרקעיים רבים פועלים תחת אוגדה 36 על מנת להעמיק את הפגיעה בארגון חיזבאללה והשמדת תשתיות טרור משמעותיות באזור.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/06c3fab3c7df.jpeg"
       ],
       "time": null,
       "channelName": null,
@@ -651,15 +457,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "fd1ec3034c8c",
-      "title": "פיצוץ | רגע תקיפת חיל האוויר היום בכפר ח׳ראיב שבאזור צידון בדרום לבנון.",
-      "link": "https://hagizra.news/#msg-fd1ec3034c8c",
-      "body": "פיצוץ | רגע תקיפת חיל האוויר היום בכפר ח׳ראיב שבאזור צידון בדרום לבנון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cf205b86185e.bin"
+      "id": "1cb3254273e1",
+      "title": "לראשונה לאחר 26 שנה | כעת ניתן לפרסם: כוחות צה\"ל כבשו את רכס הבופור ומתבססים במרחב.",
+      "link": "https://hagizra.news/#msg-1cb3254273e1",
+      "body": "לראשונה לאחר 26 שנה | כעת ניתן לפרסם: כוחות צה\"ל כבשו את רכס הבופור ומתבססים במרחב. (ינון שלום יתח)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4f561731fdd3.jpeg"
       ],
       "time": null,
       "channelName": null,
@@ -669,13 +475,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "c836ad44703b",
-      "title": "מערך הסייבר הלאומי מתריע | הודעות התחזות לחדשות 12.",
-      "link": "https://hagizra.news/#msg-c836ad44703b",
-      "body": "מערך הסייבר הלאומי מתריע | הודעות התחזות לחדשות 12. ההודעה מנוסחת כפנייה רשמית, אך מדובר בפנייה חשודה שעלולה לשמש להונאה, איסוף פרטים אישיים או יצירת קשר מטעם גורמים לא לגיטימיים.",
+      "id": "b35e1e99bd58",
+      "title": "התחזית | היום נרגיש עלייה בטמפרטורות.",
+      "link": "https://hagizra.news/#msg-b35e1e99bd58",
+      "body": "התחזית | היום נרגיש עלייה בטמפרטורות. בשעות הבוקר המוקדמות יהיה מעונן חלקית וקריר. בהמשך היום השמיים יתבהרו והטמפרטורות יחזרו להיות רגילות לעונה.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -684,13 +490,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "dd2ff936276c",
-      "title": "לא יודעים לאן נעלם הכסף שלכם?המערכת הזו בשבילכם!💥היועץ הכלכלי פישל רוזנפלד משיק תוכנת ניהול פיננסי חכמה שתנהל לכם את כל",
-      "link": "https://hagizra.news/#msg-dd2ff936276c",
-      "body": "לא יודעים לאן נעלם הכסף שלכם?המערכת הזו בשבילכם!💥היועץ הכלכלי פישל רוזנפלד משיק תוכנת ניהול פיננסי חכמה שתנהל לכם את כל מה שקשור לכסף, תציג לכם תובנות ותסייע לכם להתייעל כלכלית! לנרשמים עכשיו - חודש ראשון חינם! ללא כרטיס אשראיהירשמו עכשיו בקישור: https://app.plus-m.co.il/api/r/hagizara מדובר בדבר הכי חם כעת בשוק... תנסו את זה. ותופתעו... (הסתבכתם בהרשמה. תשאלו אותנו במייל ניהול)",
+      "id": "9a0e1f8e664a",
+      "title": "בהצלחה רבה | כוחות צה''ל בפעילות הלילה מדרום לבית לחם.",
+      "link": "https://hagizra.news/#msg-9a0e1f8e664a",
+      "body": "בהצלחה רבה | כוחות צה''ל בפעילות הלילה מדרום לבית לחם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2ed40c07cdb4.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -699,13 +508,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     },
     {
-      "id": "9dbf6c5c6491",
-      "title": "קרעו שערי שמיים | הציבור נקרא להתפלל לרפואת פינחס בן עליזה לרפוא\"ש!.",
-      "link": "https://hagizra.news/#msg-9dbf6c5c6491",
-      "body": "קרעו שערי שמיים | הציבור נקרא להתפלל לרפואת פינחס בן עליזה לרפוא\"ש!.",
+      "id": "8bda758cca1b",
+      "title": "במהלך פעילות | כוחות צה''ל במרדף אחר מבוקש בעיירה עזון, מזרחית לקלקיליה.",
+      "link": "https://hagizra.news/#msg-8bda758cca1b",
+      "body": "במהלך פעילות | כוחות צה''ל במרדף אחר מבוקש בעיירה עזון, מזרחית לקלקיליה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4af01bfcaf2f.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 8,
@@ -714,7 +526,208 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T00:15:23.502Z"
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "e6ec98e84ecb",
+      "title": "מקורות מקומיים | כוחות צה''ל פושטים באזור מזרח לטול כרם.",
+      "link": "https://hagizra.news/#msg-e6ec98e84ecb",
+      "body": "מקורות מקומיים | כוחות צה''ל פושטים באזור מזרח לטול כרם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9f33fbd9926f.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "69d306095f04",
+      "title": "פעילות מוצלחת | תיעוד ערבי ממעצר על ידי כוחותינו מדרום לעיר דורא שבחברון.",
+      "link": "https://hagizra.news/#msg-69d306095f04",
+      "body": "פעילות מוצלחת | תיעוד ערבי ממעצר על ידי כוחותינו מדרום לעיר דורא שבחברון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/542948ba2a2e.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "e91f036426e3",
+      "title": "מנקים את השטח | כוחות צה''ל בפעילות מצפון לטול כרם.",
+      "link": "https://hagizra.news/#msg-e91f036426e3",
+      "body": "מנקים את השטח | כוחות צה''ל בפעילות מצפון לטול כרם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1de9904674c7.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c4721d722733.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "b2d7133c2345",
+      "title": "לכלא | כוחות צה''ל מבצעים מעצר דרומית לחברון.",
+      "link": "https://hagizra.news/#msg-b2d7133c2345",
+      "body": "לכלא | כוחות צה''ל מבצעים מעצר דרומית לחברון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/af847daae3c8.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "de0c4cb154b1",
+      "title": "בהצלחה | פעילות כוחות צה''ל במחנה עסכר החדש, מזרחית לשכם.",
+      "link": "https://hagizra.news/#msg-de0c4cb154b1",
+      "body": "בהצלחה | פעילות כוחות צה''ל במחנה עסכר החדש, מזרחית לשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/dcabcd81b530.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "24a7ab7895b7",
+      "title": "תנו בראש | פשיטה גדולה של צה''ל על מחנה אל-פוואר, מדרום לחברון.",
+      "link": "https://hagizra.news/#msg-24a7ab7895b7",
+      "body": "תנו בראש | פשיטה גדולה של צה''ל על מחנה אל-פוואר, מדרום לחברון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1ac8d4edbf0e.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ebccd5bc8650.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b41fa5c01653.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/11e1777b7f24.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "2a0804453c23",
+      "title": "משרד החוץ של בריטניה | השרה קופר תבקר בסין ב-1 ביוני ובהודו ב-3 ביוני.",
+      "link": "https://hagizra.news/#msg-2a0804453c23",
+      "body": "משרד החוץ של בריטניה | השרה קופר תבקר בסין ב-1 ביוני ובהודו ב-3 ביוני.",
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "aca3aaaf5531",
+      "title": "עוד מיקום | 2 משטרות בקוקה קולה בודקים רכב רכב!.[image-embedded#](https://stream.hagizra.news/05375937b224/IMG-20260531-",
+      "link": "https://hagizra.news/#msg-aca3aaaf5531",
+      "body": "עוד מיקום | 2 משטרות בקוקה קולה בודקים רכב רכב!.[image-embedded#](https://stream.hagizra.news/05375937b224/IMG-20260531-WA0041.jpg#1920x1080: בהמשך לכניסה לבני ברק קוקה קולה | המשטרה עזבה ביציאה מבני ברק אחרי שנתנה דו\"ח לרכב, ואחרי שהגיעו קהל לבדוק אם מנסים לעצור עריקים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/aef561c2974d.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "41f0fcf3487e",
+      "title": "משילות | כוחות צה''ל הצהריים בפעילות באל-מור'ייר, צפונית-מזרחית לרמאללה, בליווי טנק משוריין.",
+      "link": "https://hagizra.news/#msg-41f0fcf3487e",
+      "body": "משילות | כוחות צה''ל הצהריים בפעילות באל-מור'ייר, צפונית-מזרחית לרמאללה, בליווי טנק משוריין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f13858ce997e.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "6ac7a41ab72d",
+      "title": "האירוע בעיצומו | כביש 1 נחסם לשני הכיוונים.",
+      "link": "https://hagizra.news/#msg-6ac7a41ab72d",
+      "body": "האירוע בעיצומו | כביש 1 נחסם לשני הכיוונים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7bc5b1d742c8.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 18,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
+    },
+    {
+      "id": "24d905ed0d58",
+      "title": "אצבע בעין למשטרה | ריקודים כעת על כביש 1 בשעת לילה מאוחרת.",
+      "link": "https://hagizra.news/#msg-24d905ed0d58",
+      "body": "אצבע בעין למשטרה | ריקודים כעת על כביש 1 בשעת לילה מאוחרת. הכביש עדיין חסום לתנועה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/60eb6f3987eb.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 19,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-05-31T04:56:34.053Z"
     }
   ],
   "errors": [
