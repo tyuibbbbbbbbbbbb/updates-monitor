@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T23:46:51.273Z",
+  "generatedAt": "2026-06-01T02:05:28.304Z",
   "sources": [
     {
       "id": "blackcat",
@@ -373,54 +373,6 @@
       "firstSeen": "2026-05-31T21:44:30.959Z"
     },
     {
-      "id": "5bbd3bab6454",
-      "title": "לכל השואלים | השם של הבחור שנעצר זה שמעון הופמן מבית”ר עילית.",
-      "link": "https://hagizra.news/#msg-5bbd3bab6454",
-      "body": "לכל השואלים | השם של הבחור שנעצר זה שמעון הופמן מבית”ר עילית.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T22:43:11.083Z"
-    },
-    {
-      "id": "d8ce161d6ee7",
-      "title": "עשרות בחורים בדרך לתחנת המשטרה |",
-      "link": "https://hagizra.news/#msg-d8ce161d6ee7",
-      "body": "עשרות בחורים בדרך לתחנת המשטרה |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/46936b310f8e.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T22:43:11.083Z"
-    },
-    {
-      "id": "b98901c5d851",
-      "title": "למי שמעוניין לעזור | בקו הקנאים \"מערכות ישראל\" הודיעו על יציאת הסעות משערי הרמ\"א בבית שמש לכיוון תחנת המשטרה.",
-      "link": "https://hagizra.news/#msg-b98901c5d851",
-      "body": "למי שמעוניין לעזור | בקו הקנאים \"מערכות ישראל\" הודיעו על יציאת הסעות משערי הרמ\"א בבית שמש לכיוון תחנת המשטרה.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T22:43:11.083Z"
-    },
-    {
       "id": "fa63400ce56b",
       "title": "עוד מבית שמש | מפגינים לשוטרים הערבים בבית שמש \"שישרף לכם הכפר\".",
       "link": "https://hagizra.news/#msg-fa63400ce56b",
@@ -430,7 +382,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 11,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -448,7 +400,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 12,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -463,7 +415,7 @@
       "body": "דוברות המשטרה | כוחות המשטרה ולוחמי מג\"ב ממשיכים לפעול אל מול מאות מפרי הסדר שפרצו לפני זמן קצר למתחם תחנת בית שמש. השוטרים השיגו שליטה על מתחם התחנה והדפו החוצה את המתפרעים, וממשיכים לפעול בכוח לפיזורם גם מצירי התנועה, תוך המשך ריכוז כוחות משטרה נוספים. המתפרעים גורמים נזק ומציתים צמחייה. מפקד מרחב ציון, תת ניצב שלומי בכר נמצא במקום ומפקד על הכוחות.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -481,7 +433,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -499,7 +451,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -517,7 +469,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -532,7 +484,7 @@
       "body": "דוברות המשטרה | כוחות המשטרה ומג\"ב פועלים בעקבות הפרת סדר אלימה ופריצה למתחם תחנת בית שמש.מפרי סדר אלימים התקהלו בשעה האחרונה מחוץ לתחנת בית שמש במחוז ירושלים, והחלו בהתפרעויות אלימות על רקע מעצר חשוד כעריק, שנלקח ע״י מ.צ טרם הגעתם.מפרי הסדר פרצו למתחם התחנה והציתו צמחיה בסמוך אליו.שוטרי מחוז ירושלים ולוחמי משמר הגבול פועלים במקום להדיפת המתפרעים תוך שימוש בכוח ובאמצעים במטרה לבלום את ניסיונות הפג",
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -547,7 +499,7 @@
       "body": "החטוף נמסר לק.ג.ב. | המשפחה מוסרת כעת כי הבחור כבר נמסר לידי המשטרה הצבאית והוא שוהה כעת בענתות. נמשיך ונעדכן..",
       "time": null,
       "channelName": null,
-      "position": 7,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -565,7 +517,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 8,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -574,10 +526,163 @@
       "firstSeen": "2026-05-31T23:46:51.273Z"
     },
     {
-      "id": "b270106bdbe2",
-      "title": "עדכון מבית שמש | השוטרים הצליחו לפנות את המתפרעים מהתחנה, מאות עדיין באזור התחנה, המשטרה מתגברת כוחות.",
-      "link": "https://hagizra.news/#msg-b270106bdbe2",
-      "body": "עדכון מבית שמש | השוטרים הצליחו לפנות את המתפרעים מהתחנה, מאות עדיין באזור התחנה, המשטרה מתגברת כוחות. (12).",
+      "id": "ee1d3b128515",
+      "title": "אין מקום לטרור | כוחות צה''ל פשטו על בית משפחתו של המחבל אמג'ד ג'וואד אל-נטשה בחברון, מבצע פיגוע הדריסה בצומת גוש עציון.",
+      "link": "https://hagizra.news/#msg-ee1d3b128515",
+      "body": "אין מקום לטרור | כוחות צה''ל פשטו על בית משפחתו של המחבל אמג'ד ג'וואד אל-נטשה בחברון, מבצע פיגוע הדריסה בצומת גוש עציון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9fcf94157448.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "b4e107d085ce",
+      "title": "משילות | דחפורי צה''ל הורסים חנויות דרומית לשכם.",
+      "link": "https://hagizra.news/#msg-b4e107d085ce",
+      "body": "משילות | דחפורי צה''ל הורסים חנויות דרומית לשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e1fb50167d34.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "0c81bce9de3c",
+      "title": "כאוס בבית שמש |",
+      "link": "https://hagizra.news/#msg-0c81bce9de3c",
+      "body": "כאוס בבית שמש |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/59e1494d43b3.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "d898fb84c2a0",
+      "title": "עדכון לאשקלון | המפגינים אומרים שהתפנו מהמקום מרצונם.",
+      "link": "https://hagizra.news/#msg-d898fb84c2a0",
+      "body": "עדכון לאשקלון | המפגינים אומרים שהתפנו מהמקום מרצונם. (מרדכי הלפרין)",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "ded2091ce087",
+      "title": "עדכון מצב בית שמש | המשטרה פינתה מפגינים שחסמו את כביש 38, באמצעות רימוני הלם.",
+      "link": "https://hagizra.news/#msg-ded2091ce087",
+      "body": "עדכון מצב בית שמש | המשטרה פינתה מפגינים שחסמו את כביש 38, באמצעות רימוני הלם. (מרדכי הלפרין)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d5bb662d8668.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "aa5feab7b489",
+      "title": "דרמה נוספת 💥 | הלפרין ב'גלצ': עשרות מפגינים חרדים פרצו שוב לחצר ביתו של קצין המשטרה הצבאית באשקלון, כך לטענתם.",
+      "link": "https://hagizra.news/#msg-aa5feab7b489",
+      "body": "דרמה נוספת 💥 | הלפרין ב'גלצ': עשרות מפגינים חרדים פרצו שוב לחצר ביתו של קצין המשטרה הצבאית באשקלון, כך לטענתם.",
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "64936baa2bcf",
+      "title": "שימו לב | זהירות משטרה צבאית בגשר שמשון סמוך לכביש 38.",
+      "link": "https://hagizra.news/#msg-64936baa2bcf",
+      "body": "שימו לב | זהירות משטרה צבאית בגשר שמשון סמוך לכביש 38.",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "9282a82e78de",
+      "title": "צפו | מרדכי הלפרין: שער תחנת המשטרה בבית שמש פרוץ לאחר פריצת המפגינים מוקדם יותר.",
+      "link": "https://hagizra.news/#msg-9282a82e78de",
+      "body": "צפו | מרדכי הלפרין: שער תחנת המשטרה בבית שמש פרוץ לאחר פריצת המפגינים מוקדם יותר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/06ba3e713108.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "11761469fc7f",
+      "title": "אפשר להפסיק להילחם😁 | שרת החוץ הבריטית: על חיזבאללה להפסיק את ההתקפות על ישראל ולפרק את נשקו.",
+      "link": "https://hagizra.news/#msg-11761469fc7f",
+      "body": "אפשר להפסיק להילחם😁 | שרת החוץ הבריטית: על חיזבאללה להפסיק את ההתקפות על ישראל ולפרק את נשקו.",
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-01T02:05:28.304Z"
+    },
+    {
+      "id": "51a14895af40",
+      "title": "המפגינים עברו לכביש 38 |",
+      "link": "https://hagizra.news/#msg-51a14895af40",
+      "body": "המפגינים עברו לכביש 38 |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/04e679060cad.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -586,15 +691,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
+      "firstSeen": "2026-06-01T02:05:28.304Z"
     },
     {
-      "id": "e8247054bde8",
-      "title": "מהמהומה בבית שמש | מפקד משטרת בית שמש מותקף ברכבו, ובורח מהזירה עם בחור שנתלה על הרכב.",
-      "link": "https://hagizra.news/#msg-e8247054bde8",
-      "body": "מהמהומה בבית שמש | מפקד משטרת בית שמש מותקף ברכבו, ובורח מהזירה עם בחור שנתלה על הרכב.",
+      "id": "6693742ee2ab",
+      "title": "הכביש פונה | אבל ההפגנה טרם הסתיימה.",
+      "link": "https://hagizra.news/#msg-6693742ee2ab",
+      "body": "הכביש פונה | אבל ההפגנה טרם הסתיימה.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3c6e80e8ac72.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d70db82fbd20.bin"
       ],
       "time": null,
       "channelName": null,
@@ -604,115 +709,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
-    },
-    {
-      "id": "a97dba37110f",
-      "title": "השוטרים מתפרעים עם רימוני הלם | דיווח על לפחות פצוע אחד מרימון הלם.",
-      "link": "https://hagizra.news/#msg-a97dba37110f",
-      "body": "השוטרים מתפרעים עם רימוני הלם | דיווח על לפחות פצוע אחד מרימון הלם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d2f0ec3df2ad.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
-    },
-    {
-      "id": "87685b257afc",
-      "title": "התחנה נכבשה | המשטרה איבדה שליטה על התחנה.המפגינים הציתו את העצים סביב תחנת המשטרה.",
-      "link": "https://hagizra.news/#msg-87685b257afc",
-      "body": "התחנה נכבשה | המשטרה איבדה שליטה על התחנה.המפגינים הציתו את העצים סביב תחנת המשטרה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f7c15442fbf0.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
-    },
-    {
-      "id": "717817c8840e",
-      "title": "המשטרה זורקת רימוני הלם |",
-      "link": "https://hagizra.news/#msg-717817c8840e",
-      "body": "המשטרה זורקת רימוני הלם |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d9de5862f085.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
-    },
-    {
-      "id": "7396f2a50050",
-      "title": "‏זהירות | שוטר משפריץ גז פלפל.",
-      "link": "https://hagizra.news/#msg-7396f2a50050",
-      "body": "‏זהירות | שוטר משפריץ גז פלפל.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8ab3957e711c.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
-    },
-    {
-      "id": "d86029ede0be",
-      "title": "המפגינים בתוך בניין המשטרה |",
-      "link": "https://hagizra.news/#msg-d86029ede0be",
-      "body": "המפגינים בתוך בניין המשטרה |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/199b7a449bcc.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
-    },
-    {
-      "id": "375928d36b3e",
-      "title": "מנסים לפרוץ לתחנת משטרה | ע”פ עדכון שהגיע עכשיו, המפגינים הצליחו לפרוץ פנימה.",
-      "link": "https://hagizra.news/#msg-375928d36b3e",
-      "body": "מנסים לפרוץ לתחנת משטרה | ע”פ עדכון שהגיע עכשיו, המפגינים הצליחו לפרוץ פנימה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8433abebdbe4.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-05-31T23:46:51.273Z"
+      "firstSeen": "2026-06-01T02:05:28.304Z"
     }
   ],
   "errors": [
