@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T21:06:55.194Z",
+  "generatedAt": "2026-06-09T22:47:38.974Z",
   "sources": [
     {
       "id": "blackcat",
@@ -370,10 +370,10 @@
       "firstSeen": "2026-06-09T21:06:55.194Z"
     },
     {
-      "id": "a17a8160da7a",
-      "title": "התירוץ המוכר | השיגורים לא כוונו לישראל ולא חצו לשטח הארץ - לפי צה״ל",
-      "link": "https://hagizra.news/#msg-a17a8160da7a",
-      "body": "התירוץ המוכר | השיגורים לא כוונו לישראל ולא חצו לשטח הארץ - לפי צה״ל",
+      "id": "cbd4be2ffffd",
+      "title": "תקפו תשתיות אזרחיות | לפי הדיווחים באיראן התקיפות של ארה\"ב פגעו בשני מכלי מים במחוז במני שבנפת סיריק בדרום איראן, ובעקבו",
+      "link": "https://hagizra.news/#msg-cbd4be2ffffd",
+      "body": "תקפו תשתיות אזרחיות | לפי הדיווחים באיראן התקיפות של ארה\"ב פגעו בשני מכלי מים במחוז במני שבנפת סיריק בדרום איראן, ובעקבות זה נותקו מי השתייה במחוז.",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -382,13 +382,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "24068db7483f",
-      "title": "דיווח על ירוטים במרחב הגבול |",
-      "link": "https://hagizra.news/#msg-24068db7483f",
-      "body": "דיווח על ירוטים במרחב הגבול |",
+      "id": "22508be78ca7",
+      "title": "ימ\"ש | חיזבאללה נוטלים אחריות על 14 פעולות היום נגד כוחות צה\"ל בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-22508be78ca7",
+      "body": "ימ\"ש | חיזבאללה נוטלים אחריות על 14 פעולות היום נגד כוחות צה\"ל בדרום לבנון.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -397,13 +397,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "c7cf54af2104",
-      "title": "דובר צה\"ל | פיקוד העורף הפיץ הנחיה מקדימה בעקבות זיהוי שיגורים מלבנון לעבר מספר יישובים צפון הארץ.",
-      "link": "https://hagizra.news/#msg-c7cf54af2104",
-      "body": "דובר צה\"ל | פיקוד העורף הפיץ הנחיה מקדימה בעקבות זיהוי שיגורים מלבנון לעבר מספר יישובים צפון הארץ. יש להיכנס למרחבים המוגנים בעת הפעלת ההתרעה.",
+      "id": "7c52925ed7ad",
+      "title": "אחרי תקיפות ארה\"ב | שר החוץ האיראני עראקצ'י מאיים: לא נשאיר התקפה או איום ללא מענה.",
+      "link": "https://hagizra.news/#msg-7c52925ed7ad",
+      "body": "אחרי תקיפות ארה\"ב | שר החוץ האיראני עראקצ'י מאיים: לא נשאיר התקפה או איום ללא מענה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8163713b1d5e.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 2,
@@ -412,13 +415,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "e9c29b33a069",
-      "title": "שיגור לעבר קו העימות |",
-      "link": "https://hagizra.news/#msg-e9c29b33a069",
-      "body": "שיגור לעבר קו העימות |",
+      "id": "1d31e103b468",
+      "title": "רפיסות | גורם אמריקני: התקיפות נועדו לשמש איתות אזהרה לאיראן, מעריכים שהן לא יפגעו במשא ומתן לסיום המלחמה.",
+      "link": "https://hagizra.news/#msg-1d31e103b468",
+      "body": "רפיסות | גורם אמריקני: התקיפות נועדו לשמש איתות אזהרה לאיראן, מעריכים שהן לא יפגעו במשא ומתן לסיום המלחמה.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -427,16 +430,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "14b8ed8e1360",
-      "title": "גל תקיפות בדרום לבנון |",
-      "link": "https://hagizra.news/#msg-14b8ed8e1360",
-      "body": "גל תקיפות בדרום לבנון |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f0acaa9f1761.png"
-      ],
+      "id": "8250fbad5c4b",
+      "title": "כמה חוכמה | הבית הלבן: אנחנו מאמינים שאנחנו קרובים להסכם עם איראן.",
+      "link": "https://hagizra.news/#msg-8250fbad5c4b",
+      "body": "כמה חוכמה | הבית הלבן: אנחנו מאמינים שאנחנו קרובים להסכם עם איראן.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -445,13 +445,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "cdf5286c98a6",
-      "title": "הצלה יו\"ש ללא גבולות | בשעה האחרונה ערבים יידו בקבוק תבערה לעבר כביש ירושלים גוש עציון בין אל חאדר למחסום המנהרות.",
-      "link": "https://hagizra.news/#msg-cdf5286c98a6",
-      "body": "הצלה יו\"ש ללא גבולות | בשעה האחרונה ערבים יידו בקבוק תבערה לעבר כביש ירושלים גוש עציון בין אל חאדר למחסום המנהרות.",
+      "id": "9052f4171fd5",
+      "title": "בקביל | אוקראינה תוקפת את רוסיה בכטב\"מים.",
+      "link": "https://hagizra.news/#msg-9052f4171fd5",
+      "body": "בקביל | אוקראינה תוקפת את רוסיה בכטב\"מים.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e7d99235cf3b.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -460,13 +463,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "6a8f3e9a6c6d",
-      "title": "דיווח | יקי אדמקר: אחרי הפלת המסוק: טראמפ ונתניהו שוחחו הערב.",
-      "link": "https://hagizra.news/#msg-6a8f3e9a6c6d",
-      "body": "דיווח | יקי אדמקר: אחרי הפלת המסוק: טראמפ ונתניהו שוחחו הערב.",
+      "id": "5cf070fd4f61",
+      "title": "המהומות בצפון אירלנד | המפגינים העלו באש רכבים וחנויות.",
+      "link": "https://hagizra.news/#msg-5cf070fd4f61",
+      "body": "המהומות בצפון אירלנד | המפגינים העלו באש רכבים וחנויות.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1799fb9ff8cd.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -475,13 +481,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "27143824dbdf",
-      "title": "התבטאות דרמטית | טראמפ: השאלה האם נתניהו יתמודד שוב בבחירות הקרובות היא פתוחה, אני לא בטוח שהוא יתמודד.",
-      "link": "https://hagizra.news/#msg-27143824dbdf",
-      "body": "התבטאות דרמטית | טראמפ: השאלה האם נתניהו יתמודד שוב בבחירות הקרובות היא פתוחה, אני לא בטוח שהוא יתמודד.",
+      "id": "32667f21e870",
+      "title": "בעצם לא | דיווחים מצביעים על כך שמערכות הגנה אווירית בבחריין ובכווית טרם הופעלו, בעוד שמל\"ט שנצפה מעל עיראק מוערך כדרכו ",
+      "link": "https://hagizra.news/#msg-32667f21e870",
+      "body": "בעצם לא | דיווחים מצביעים על כך שמערכות הגנה אווירית בבחריין ובכווית טרם הופעלו, בעוד שמל\"ט שנצפה מעל עיראק מוערך כדרכו לארביל בחבל הכורדי, על רקע טענות כי פעולות התגובה של איראן נגד בסיסים אמריקאים במפרץ טרם החלו.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -490,13 +496,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "84150d4bdaec",
-      "title": "למד מהבוס איך לדבר | ג'יי די ואנס: \"יכול להיות שיהיה הסכם עם איראן בשבוע הבא, אבל גם יכול להיות שזה ייקח עוד מספר חודשים",
-      "link": "https://hagizra.news/#msg-84150d4bdaec",
-      "body": "למד מהבוס איך לדבר | ג'יי די ואנס: \"יכול להיות שיהיה הסכם עם איראן בשבוע הבא, אבל גם יכול להיות שזה ייקח עוד מספר חודשים\".",
+      "id": "bc0ab2409955",
+      "title": "המזרח התיכון כעת |ארה\"ב תקפה בערי החוף באיראן.איראן שיגרה מל\"טים וטילים לעבר בחריין וכווית.",
+      "link": "https://hagizra.news/#msg-bc0ab2409955",
+      "body": "המזרח התיכון כעת |ארה\"ב תקפה בערי החוף באיראן.איראן שיגרה מל\"טים וטילים לעבר בחריין וכווית. הכורדים בעיראק.טורקיה תוקפת את הכורדים בצפון עיראק.פקיסטן תוקפת את הטליבאן בגבול עם אפגניסטן.ישראל תוקפת בדיר אל בלח.סעודיה תוקפת בתימן.חיזבאללה תקף את כוחות צה\"ל בדרום לבנון.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -505,13 +511,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "5cf596bc4493",
-      "title": "משרד הבריאות הלבנוני מעדכן | 11 הרוגים ו-44 פצועים בתקיפות היום בצור ובמחנה הפליטים אל-בס.",
-      "link": "https://hagizra.news/#msg-5cf596bc4493",
-      "body": "משרד הבריאות הלבנוני מעדכן | 11 הרוגים ו-44 פצועים בתקיפות היום בצור ובמחנה הפליטים אל-בס. (ספיר ליפקין)",
+      "id": "ceb77a6d591f",
+      "title": "מחזירים | הטלוויזיה האיראנית: גל הטילים הראשון שוגר לעבר מטרות אויב.",
+      "link": "https://hagizra.news/#msg-ceb77a6d591f",
+      "body": "מחזירים | הטלוויזיה האיראנית: גל הטילים הראשון שוגר לעבר מטרות אויב.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -520,16 +526,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "bd6a4a63d20b",
-      "title": "תקיפה איראנית | איראן ביצעה תקיפה צבאית נגד מטרות של ארגונים כורדיים באזור ארביל שבעיראק.",
-      "link": "https://hagizra.news/#msg-bd6a4a63d20b",
-      "body": "תקיפה איראנית | איראן ביצעה תקיפה צבאית נגד מטרות של ארגונים כורדיים באזור ארביל שבעיראק.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/88a9ffe038b5.jpg"
-      ],
+      "id": "2115b918b456",
+      "title": "רפיסות |עד כה האירוע מסתמן כפינג פונג בין ארה\"ב לאיראן.",
+      "link": "https://hagizra.news/#msg-2115b918b456",
+      "body": "רפיסות |עד כה האירוע מסתמן כפינג פונג בין ארה\"ב לאיראן. במסגרת \"התגובה הפרופורציונלית\".דבר שצריך לקחת בחשבון זה שאפשר לצפות כיצד זה מתחיל אך לא אך זה מסתיים.עימות במסגרת הפינג פונג עלול להסתבך במידה ויפגעו חיילים אמריקאים מהתגובה האיראנית. או שאיראן תחליט לתקוף גם את ישראל.כרגע זה נראה כמו פינג פונג בשליטה. (חננאל אביב).",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -538,13 +541,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "cd8720ff62fd",
-      "title": "איבד את זה | טראמפ ל-WSJ: הפלת האפצ׳י ע״י איראן ״לא ביג דיל״.",
-      "link": "https://hagizra.news/#msg-cd8720ff62fd",
-      "body": "איבד את זה | טראמפ ל-WSJ: הפלת האפצ׳י ע״י איראן ״לא ביג דיל״.",
+      "id": "9471edaca9b7",
+      "title": "האזור בוער | ע״פ דיווחים, טורקיה תוקפת גם היא יעדים כורדים בעיראק.",
+      "link": "https://hagizra.news/#msg-9471edaca9b7",
+      "body": "האזור בוער | ע״פ דיווחים, טורקיה תוקפת גם היא יעדים כורדים בעיראק.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -553,13 +556,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "7651b8ee7bdd",
-      "title": "איראן לוקחים אחריות!!",
-      "link": "https://hagizra.news/#msg-7651b8ee7bdd",
-      "body": "איראן לוקחים אחריות!! | דובר הוועדה לביטחון לאומי בפרלמנט האיראני אבראהים רזאאי: \"מצור ימי הוא פעולה מלחמתית. הגבנו עליו ונמשיך להגיב עליו. זהו ענ... עוד מה’פנינים’ שלו | דובר הוועדה לביטחון לאומי בפרלמנט האיראני אבראהים רזאאי: \"אנחנו מנשקים את ידיו של אותו לוחם שבמצר הורמוז הפיל מסוק אמריקני, והנחית סטירת לחי נוספת לשטן. נוקיר אותו כגיבור\".",
+      "id": "0ea353e599f5",
+      "title": "בארה״ב מתדרכים | התקיפות נמשכות.",
+      "link": "https://hagizra.news/#msg-0ea353e599f5",
+      "body": "בארה״ב מתדרכים | התקיפות נמשכות. ערוכים למספר סבבי תקיפה. (ברק בטש לפי הדיווחים באיראן | התקיפות הופסקו, נכון לרגעים אלו. (ברק בטש)",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -568,16 +571,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "ba104e3bfbcd",
-      "title": "הטרלה של שגרירות איראן בטוניסיה | טראמפ, אם אתה באמת רוצה הסכם, תעשה את זה.",
-      "link": "https://hagizra.news/#msg-ba104e3bfbcd",
-      "body": "הטרלה של שגרירות איראן בטוניסיה | טראמפ, אם אתה באמת רוצה הסכם, תעשה את זה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d09206e83c8c.jpg"
-      ],
+      "id": "4163d630bee0",
+      "title": "סביב סביב | התקשורת באיראן מדווחת כי נראה שהמצב באזור מצר הורמוז נרגע לפי שעה.",
+      "link": "https://hagizra.news/#msg-4163d630bee0",
+      "body": "סביב סביב | התקשורת באיראן מדווחת כי נראה שהמצב באזור מצר הורמוז נרגע לפי שעה. (אסף רוזנצווייג)",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -586,13 +586,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "cf20f420bcc1",
-      "title": "משוואה מסוכנת | איתי בלומנטל: בצה\"ל אומרים שלא זוהה שיגור לישראל מתימן.",
-      "link": "https://hagizra.news/#msg-cf20f420bcc1",
-      "body": "משוואה מסוכנת | איתי בלומנטל: בצה\"ל אומרים שלא זוהה שיגור לישראל מתימן. הזיהוי היה בקבוצות הוואטפ בשלב זה.מה שכן, יש כאן משוואה שהחות'ים יורים לכאן, וטרם נגבה מהם מחיר. בזמן המערכה באיראן גורמי ביטחון אמרו שזאת הסחת דעת- אתמול שיגרו כטב\"ם לאילת- בלי תגובה. זאת משוואה מסוכנת.",
+      "id": "0407fcadf888",
+      "title": "אומר ועושה | טראמפ נמצא כרגע באגף המערבי של הבית הלבן, ככל הנראה בחדר המצב- הפעולות באיראן מתבצעות כ-4 שעות ו-30 דקות אח",
+      "link": "https://hagizra.news/#msg-0407fcadf888",
+      "body": "אומר ועושה | טראמפ נמצא כרגע באגף המערבי של הבית הלבן, ככל הנראה בחדר המצב- הפעולות באיראן מתבצעות כ-4 שעות ו-30 דקות אחרי שאמר שהפלת האפצ׳י מחייבת תגובה אמריקאית.",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -601,16 +601,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "b1c283ee0fb1",
-      "title": "גלי נעלבה | באיראן מפרסמים רשימת יעדי חיסול, ביניהם: טראמפ, סגנו, מארקו רוביו, נתניהו, מפקדים ושרים מישראל וארה\"ב.",
-      "link": "https://hagizra.news/#msg-b1c283ee0fb1",
-      "body": "גלי נעלבה | באיראן מפרסמים רשימת יעדי חיסול, ביניהם: טראמפ, סגנו, מארקו רוביו, נתניהו, מפקדים ושרים מישראל וארה\"ב.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/724ad7feebdd.png"
-      ],
+      "id": "a6a7fdc3c183",
+      "title": "או שלא | ג׳יי די ואנס, סגן נשיא ארה״ב בריאיון שהוקלט מראש לתוכנית יום א׳ של CBS: עסקה יכולה לקרות שבוע הבא אבל גם בעוד כ",
+      "link": "https://hagizra.news/#msg-a6a7fdc3c183",
+      "body": "או שלא | ג׳יי די ואנס, סגן נשיא ארה״ב בריאיון שהוקלט מראש לתוכנית יום א׳ של CBS: עסקה יכולה לקרות שבוע הבא אבל גם בעוד כמה חודשים. (בן יניב).",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -619,13 +616,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "c1b317ec93ac",
-      "title": "עוד תירוץ | השיגור בוצע לכיוון עיראק וזוהה במערכות האיכון של ישראל - לא יופעלו התרעות....",
-      "link": "https://hagizra.news/#msg-c1b317ec93ac",
-      "body": "עוד תירוץ | השיגור בוצע לכיוון עיראק וזוהה במערכות האיכון של ישראל - לא יופעלו התרעות.... (עמית אלחרר)",
+      "id": "6325da4a8a60",
+      "title": "תיעוד מאיראן | שיגור טילים בליסטיים לעבר מדינות המפרץ.",
+      "link": "https://hagizra.news/#msg-6325da4a8a60",
+      "body": "תיעוד מאיראן | שיגור טילים בליסטיים לעבר מדינות המפרץ.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/414f468cde7e.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 16,
@@ -634,16 +634,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "64e392a45103",
-      "title": "ממשיכה לתקוף את השב\"כ |",
-      "link": "https://hagizra.news/#msg-64e392a45103",
-      "body": "ממשיכה לתקוף את השב\"כ |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b7c9324e5400.jpeg"
-      ],
+      "id": "cfb6626de9e2",
+      "title": "מה יתפתח?",
+      "link": "https://hagizra.news/#msg-cfb6626de9e2",
+      "body": "מה יתפתח? | בן יניב: תשימו לב שלפי שעה ארה״ב לא חוצה בפעולותיה את מרחב הורמוז וערי החוף בדרום איראן-האם תגובה איראנית בהמשך תביא את טראמפ לפעולות משמעותיות ביעדים אסטרטגיים כמו בטהרן, איספהאן או לפחות השתלטות על אי משמעותי? זו השאלה שלי לשעות הקרובות.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -652,15 +649,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "e5e75ac91edf",
-      "title": "איראן לוקחים אחריות!!",
-      "link": "https://hagizra.news/#msg-e5e75ac91edf",
-      "body": "איראן לוקחים אחריות!! | דובר הוועדה לביטחון לאומי בפרלמנט האיראני אבראהים רזאאי: \"מצור ימי הוא פעולה מלחמתית. הגבנו עליו ונמשיך להגיב עליו. זהו עניין ודאי וזכותנו המלאה והבלתי ניתנת לערעור. אם ארה\"ב מבקשת להגיב על הפלת המסוק, שהיה חלק מהפעילות המלחמתית במסגרת המצור שהוטל עלינו - עליה להניח מראש שתגובתנו תהיה ודאית. על כל פעולה שתינקט נגדנו - נשיב בתגובה מהירה ונחרצת. אם יש לכם ספק בכך, הביטו במכה ",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/14a7ced08574.png"
+      "id": "8acf4b851c74",
+      "title": "תיעוד מעיראק | כטב\"ם שוגר.",
+      "link": "https://hagizra.news/#msg-8acf4b851c74",
+      "body": "תיעוד מעיראק | כטב\"ם שוגר. לאן?",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/65e680758936.bin"
       ],
       "time": null,
       "channelName": null,
@@ -670,13 +667,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     },
     {
-      "id": "5c7147c77d9b",
-      "title": "חזל\"ש | מדובר בזיהוי שווא במערכות (הופיע שיגור מתימן פוליגון כללי מרכז).",
-      "link": "https://hagizra.news/#msg-5c7147c77d9b",
-      "body": "חזל\"ש | מדובר בזיהוי שווא במערכות (הופיע שיגור מתימן פוליגון כללי מרכז). (יאיר אלטמן).",
+      "id": "fd212198c64a",
+      "title": "😪",
+      "link": "https://hagizra.news/#msg-fd212198c64a",
+      "body": "😪",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9eae353c4549.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 19,
@@ -685,7 +685,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-09T21:06:55.194Z"
+      "firstSeen": "2026-06-09T22:47:38.974Z"
     }
   ],
   "errors": [
