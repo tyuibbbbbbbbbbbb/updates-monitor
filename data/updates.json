@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T00:03:19.214Z",
+  "generatedAt": "2026-06-10T04:26:47.048Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,21 +24,6 @@
     }
   ],
   "items": [
-    {
-      "id": "14f93f4f1e1e",
-      "title": "איך אפשר להתעדכן בעדכוני ערוץ הגיזרה?",
-      "link": "https://hagizra.news/#msg-14f93f4f1e1e",
-      "body": "איך אפשר להתעדכן בעדכוני ערוץ הגיזרה? |🔹 באתר בכתובת: https://hagizra.news/🔹 בחיפוש 'הגיזרה' בגוגל.🔹 בתוסף שמקפיץ הודעות 'פושים' בדפדפן. לחצו כאן להתקנה🔹 בתוסף 'אתרים למייל' שמביא את הערוצים לתוך המייל. לחצו כאן להתקנה🔹 בתוסף 'הערוץ' שמביא את הערוצים לתוך המייל. לחצו כאן להתקנה🔹 באתר 'הערוץ' המרכז את הערוצים. לחצו כאן למעבר🔹 בקו הטלפון במספר: 077-226-2399מספרים הפתוחים בחלק מהחברות: 073-713",
-      "time": null,
-      "channelName": null,
-      "position": 5,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-07T20:07:41.016Z"
-    },
     {
       "id": "d41d8cd98f00",
       "title": "תמונה",
@@ -385,10 +370,10 @@
       "firstSeen": "2026-06-09T21:06:55.194Z"
     },
     {
-      "id": "e40f03101e44",
-      "title": "האיראנים מדווחים | תקיפות אמריקאיות מטורפות בדרום איראן.פיצוצים נשמעים גם בתבריז ובנדר עבאס.",
-      "link": "https://hagizra.news/#msg-e40f03101e44",
-      "body": "האיראנים מדווחים | תקיפות אמריקאיות מטורפות בדרום איראן.פיצוצים נשמעים גם בתבריז ובנדר עבאס.",
+      "id": "04ce4db71685",
+      "title": "בכיר אמריקני | לפחות 4 טילים בליסטיים וכמה כטבמים שוגרו על ידי איראן לעבר בסיסים אמריקנים בירדן, כווית ובחריין כחלק מהתג",
+      "link": "https://hagizra.news/#msg-04ce4db71685",
+      "body": "בכיר אמריקני | לפחות 4 טילים בליסטיים וכמה כטבמים שוגרו על ידי איראן לעבר בסיסים אמריקנים בירדן, כווית ובחריין כחלק מהתגובה על התקיפות האמריקניות. (ברק רביד)",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -397,16 +382,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "fa7c457e8247",
-      "title": "תיעוד ראשון | תיעודים המיוחסים לתקיפות הלילה.",
-      "link": "https://hagizra.news/#msg-fa7c457e8247",
-      "body": "תיעוד ראשון | תיעודים המיוחסים לתקיפות הלילה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1866847291c4.bin"
-      ],
+      "id": "24670dffd18e",
+      "title": "אזעקות בכווית |",
+      "link": "https://hagizra.news/#msg-24670dffd18e",
+      "body": "אזעקות בכווית |",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -415,13 +397,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "247c71cbe8f7",
-      "title": "אם הם אומרים...",
-      "link": "https://hagizra.news/#msg-247c71cbe8f7",
-      "body": "אם הם אומרים... | איראן טוענת: \"ישראל משתתפת בחלק מהתקיפות בגל השני\"נכון לכרגע, לא מוכר פעילות ישראלית במרחב.",
+      "id": "db099ac9a91e",
+      "title": "סוגרים חובות מהר | משמרות המהפכה: פתחנו במתקפת טילים לעבר בסיס אל-אזרק האמריקני בירדן.",
+      "link": "https://hagizra.news/#msg-db099ac9a91e",
+      "body": "סוגרים חובות מהר | משמרות המהפכה: פתחנו במתקפת טילים לעבר בסיס אל-אזרק האמריקני בירדן.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -430,13 +412,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "e35ff0dc71f1",
-      "title": "התקיפות נמשכות | תקיפה נוספת של ארצות הברית נגד הבסיס הימי של משמרות המהפכה בסיריכ שבדרום איראן באיזור מיצרי הורמוז.",
-      "link": "https://hagizra.news/#msg-e35ff0dc71f1",
-      "body": "התקיפות נמשכות | תקיפה נוספת של ארצות הברית נגד הבסיס הימי של משמרות המהפכה בסיריכ שבדרום איראן באיזור מיצרי הורמוז.",
+      "id": "464f0bd8c479",
+      "title": "# התחלנו | תיעוד היציאות משטח איראן לכיוון בחריין.",
+      "link": "https://hagizra.news/#msg-464f0bd8c479",
+      "body": "# התחלנו | תיעוד היציאות משטח איראן לכיוון בחריין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/32c2feb03a7f.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f9a62ac3064e.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -445,13 +431,19 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "122ae87d4749",
-      "title": "בדרך לתקיפה רחבה?",
-      "link": "https://hagizra.news/#msg-122ae87d4749",
-      "body": "בדרך לתקיפה רחבה? | מקורות חדשותיים עיראקיים: תצפית על מספר רב של מטוסי קרב אמריקאים הטסים בשמי עיראק בקרבת הגבול עם איראן.",
+      "id": "44ed1a78a144",
+      "title": "תיעוד רגע הפגיעה בבחריין |",
+      "link": "https://hagizra.news/#msg-44ed1a78a144",
+      "body": "תיעוד רגע הפגיעה בבחריין |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/fa78a6722117.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/18337caafc91.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -460,16 +452,31 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "bb9f451be766",
-      "title": "יצא מישראל | מטוס התדלוק בו השתמשה ארצות הברית במתקפה על איראן המריא מתל אביב, טס מעל ערב הסעודית, וממשיך לספק תמיכה לוג",
-      "link": "https://hagizra.news/#msg-bb9f451be766",
-      "body": "יצא מישראל | מטוס התדלוק בו השתמשה ארצות הברית במתקפה על איראן המריא מתל אביב, טס מעל ערב הסעודית, וממשיך לספק תמיכה לוגיסטית למטוסים האמריקאים שהשתתפו בתוקפנות נגד איראן.",
+      "id": "2729dd04af38",
+      "title": "בבחריין | נראה כמו פגיעה בבסיס הצי החמישי של ארה״ב.",
+      "link": "https://hagizra.news/#msg-2729dd04af38",
+      "body": "בבחריין | נראה כמו פגיעה בבסיס הצי החמישי של ארה״ב.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/008e3ae5ccaa.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3f227141fee1.jpg"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-10T04:26:47.048Z"
+    },
+    {
+      "id": "72488171b476",
+      "title": "כעת | אזעקות בבחריין.",
+      "link": "https://hagizra.news/#msg-72488171b476",
+      "body": "כעת | אזעקות בבחריין. שמח | נשמעים פיצוצים. (ברק בטש) עוד |;פיצוצים גם בכווית.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -478,13 +485,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "ff79e7340885",
-      "title": "עוד | דיווחים על הפעלת מערכות ההגנה האווירית בבנדר עבאס.",
-      "link": "https://hagizra.news/#msg-ff79e7340885",
-      "body": "עוד | דיווחים על הפעלת מערכות ההגנה האווירית בבנדר עבאס.",
+      "id": "92437ffa0f04",
+      "title": "כעת | אזעקות בבחריין.",
+      "link": "https://hagizra.news/#msg-92437ffa0f04",
+      "body": "כעת | אזעקות בבחריין.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -493,13 +500,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "833a69fa4104",
-      "title": "עוד מהתקיפה | באיראן טוענים: ההגנה האווירית יירטה כטב\"מים בהמדאן.",
-      "link": "https://hagizra.news/#msg-833a69fa4104",
-      "body": "עוד מהתקיפה | באיראן טוענים: ההגנה האווירית יירטה כטב\"מים בהמדאן.",
+      "id": "fb509a67c278",
+      "title": "היידה | פוקס ניוז מפי בכיר אמריקני: צבא ארה״ב מוכן להגיב במקרה בו איראן תחליט לתקוף חזרה.",
+      "link": "https://hagizra.news/#msg-fb509a67c278",
+      "body": "היידה | פוקס ניוז מפי בכיר אמריקני: צבא ארה״ב מוכן להגיב במקרה בו איראן תחליט לתקוף חזרה. (ברק בטש)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -508,13 +515,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "8027ac238351",
-      "title": "אמן | בן יניב: נראה כי גם בגל הנוכחי ההתמקדות היא באמצעי הגנה ומודיעין של המשטר- אולי הכנת הקרקע לפני מתקפה משמעותית בהמ",
-      "link": "https://hagizra.news/#msg-8027ac238351",
-      "body": "אמן | בן יניב: נראה כי גם בגל הנוכחי ההתמקדות היא באמצעי הגנה ומודיעין של המשטר- אולי הכנת הקרקע לפני מתקפה משמעותית בהמשך? הלוואי.",
+      "id": "e3eb23e8ad12",
+      "title": "הסתיים בנתיים?",
+      "link": "https://hagizra.news/#msg-e3eb23e8ad12",
+      "body": "הסתיים בנתיים? | פיקוד המרכז של ארצות הברית מודיע כי סיים את התקיפות באיראן. הודעת פיקוד המרכז של ארה״ב | טמפה, פלורידה — כוחות פיקוד המרכז של ארצות הברית השלימו תקיפות הגנה עצמית נגד איראן ב-9 ביוני, בהנחיית המפקד העליון, בתגובה להפלת מסוק אפאצ’י של צבא ארצות הברית אתמול.כוחות פיקוד המרכז תקפו מערכות הגנה אווירית איראניות, תחנות שליטה קרקעיות ואתרי מכ”ם למעקב סמוך למצר הורמוז, באמצעות חימוש מדויק",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/51008acf85da.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -523,13 +533,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "22ad10d51160",
-      "title": "משמידים עוד | גם גל התקיפות השני הוא על סוללות הגנה אווירית ומכ״מים.",
-      "link": "https://hagizra.news/#msg-22ad10d51160",
-      "body": "משמידים עוד | גם גל התקיפות השני הוא על סוללות הגנה אווירית ומכ״מים. (ברק רביד)",
+      "id": "4f3cfa8e9540",
+      "title": "הסתיים בנתיים?",
+      "link": "https://hagizra.news/#msg-4f3cfa8e9540",
+      "body": "הסתיים בנתיים? | פיקוד המרכז של ארצות הברית מודיע כי סיים את התקיפות באיראן.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -538,13 +548,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "2ca16f624718",
-      "title": "הגל השני | פיצוצים נשמעים בעיר ג'אסק.",
-      "link": "https://hagizra.news/#msg-2ca16f624718",
-      "body": "הגל השני | פיצוצים נשמעים בעיר ג'אסק.",
+      "id": "7430e5b93946",
+      "title": "מקורות מקומיים | כוחות הכיבוש הישראליים פתחו בפשיטות ובמעצרים במהלך פלישה לעיירה עראבה, מדרום לג'נין.",
+      "link": "https://hagizra.news/#msg-7430e5b93946",
+      "body": "מקורות מקומיים | כוחות הכיבוש הישראליים פתחו בפשיטות ובמעצרים במהלך פלישה לעיירה עראבה, מדרום לג'נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/38f8207e983c.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -553,13 +566,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "d85169b5932f",
-      "title": "פוקס ניוז מפרסמים | מבט על הנוכחות הצבאית העצומה של ארה\"ב הפרושה כעת ברחבי המזרח התיכון.על פי גורמים בחיל הים האמריקאי, ",
-      "link": "https://hagizra.news/#msg-d85169b5932f",
-      "body": "פוקס ניוז מפרסמים | מבט על הנוכחות הצבאית העצומה של ארה\"ב הפרושה כעת ברחבי המזרח התיכון.על פי גורמים בחיל הים האמריקאי, כמעט 20,000 מלחים וחיילים אמריקאים נמצאים כעת בים על סיפון שתי נושאות מטוסים - USS אברהם לינקולן ו-USS ג'ורג' האב בוש - יחד עם 18 משחתות טילים מונחים, יחידת המשלוח הימית ה-31, ויותר מתריסר טייסות אוויריות.הכוחות פרוסים ברחבי מזרח הים התיכון, ים סוף, צפון הים הערבי והים הערבי, שם ",
+      "id": "2247d1080893",
+      "title": "והשיב | כוח צה''ל החרימו מספר כלי רכב פלסטיניים בעיירה דורא, דרומית לחברון.",
+      "link": "https://hagizra.news/#msg-2247d1080893",
+      "body": "והשיב | כוח צה''ל החרימו מספר כלי רכב פלסטיניים בעיירה דורא, דרומית לחברון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a994d0d4c6b0.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -568,13 +584,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "bc00fafab7cf",
-      "title": "יורים בחזרה?",
-      "link": "https://hagizra.news/#msg-bc00fafab7cf",
-      "body": "יורים בחזרה? | משמרות המהפכה של איראן: \"ירי טילים וכלי טיס בלתי מאוישים לעבר מטרות אמריקניות באזור\".",
+      "id": "3108fde85343",
+      "title": "התגובה האיראנית | משמרות המהפכה: בתגובה לגל התקיפה הראשון תקפנו את בסיס הצי החמישי של ארה״ב בבחריין.",
+      "link": "https://hagizra.news/#msg-3108fde85343",
+      "body": "התגובה האיראנית | משמרות המהפכה: בתגובה לגל התקיפה הראשון תקפנו את בסיס הצי החמישי של ארה״ב בבחריין. אם התקיפות האמריקניות יימשכו, נגיב בנחרצות רב... האיראנים מנסים להכיל את התקיפות? |",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -583,13 +599,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "0c531409e42d",
-      "title": "כעת | גל תקיפות שני באיראן.",
-      "link": "https://hagizra.news/#msg-0c531409e42d",
-      "body": "כעת | גל תקיפות שני באיראן. (ברק בטש)",
+      "id": "703bb400ef6f",
+      "title": "עוד ממשמרות המהפכה | חילופי האש בדרום המדינה נמשכים.",
+      "link": "https://hagizra.news/#msg-703bb400ef6f",
+      "body": "עוד ממשמרות המהפכה | חילופי האש בדרום המדינה נמשכים. (ברק בטש)",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -598,13 +614,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "d69e6145b99d",
-      "title": "עוד לא נגמר | לפני מספר דקות אירעו עוד 3 פיצוצים בעיר הנמל ג'אסק.",
-      "link": "https://hagizra.news/#msg-d69e6145b99d",
-      "body": "עוד לא נגמר | לפני מספר דקות אירעו עוד 3 פיצוצים בעיר הנמל ג'אסק.",
+      "id": "e856dec34b85",
+      "title": "התגובה האיראנית | משמרות המהפכה: בתגובה לגל התקיפה הראשון תקפנו את בסיס הצי החמישי של ארה״ב בבחריין.",
+      "link": "https://hagizra.news/#msg-e856dec34b85",
+      "body": "התגובה האיראנית | משמרות המהפכה: בתגובה לגל התקיפה הראשון תקפנו את בסיס הצי החמישי של ארה״ב בבחריין. אם התקיפות האמריקניות יימשכו, נגיב בנחרצות רבה יותר. (ברק בטש)",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -613,15 +629,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "e73468d4ffd2",
-      "title": "שער יתד |",
-      "link": "https://hagizra.news/#msg-e73468d4ffd2",
-      "body": "שער יתד |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c55729cb1dd2.jpg"
+      "id": "13b42e9a11dd",
+      "title": "פריצה בשידור חי לטלוויזיה האיראנית | הפורצים דימו הפצצה אטומית על איראן.",
+      "link": "https://hagizra.news/#msg-13b42e9a11dd",
+      "body": "פריצה בשידור חי לטלוויזיה האיראנית | הפורצים דימו הפצצה אטומית על איראן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d7be997a384a.bin"
       ],
       "time": null,
       "channelName": null,
@@ -631,13 +647,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "b3955d181f77",
-      "title": "סיכום חדשות היום | (זירת החדשות) מחבל חמוש מלבנון חדר בצהריים לשטח ישראל, ירה על כוחות צה\"ל ונורה למוות.",
-      "link": "https://hagizra.news/#msg-b3955d181f77",
-      "body": "סיכום חדשות היום | (זירת החדשות) מחבל חמוש מלבנון חדר בצהריים לשטח ישראל, ירה על כוחות צה\"ל ונורה למוות. הרמטכ\"ל יתחקר בעצמו את האירוע החמור. טראמפ: איראן הפילה אתמול מסוק אמריקני במצר הורמוז, הטייסים לא נפגעו - נהיה חייבים להגיב. שר החוץ האיראני עראקצ'י בתגובה: כוחות זרים באזורנו נמצאים בסיכון עקב טעויות ותאונות, הפתרון הטוב ביותר הוא שיעזבו. הרמטכ\"ל זמיר: התקיפה שביצענו באיראן הייתה הכנה למהלומה",
+      "id": "2bd40d512eda",
+      "title": "לילה אש | באיראן מדווחים על תקיפת שדה הנפט באהוואז בדרום-מערב המדינה.",
+      "link": "https://hagizra.news/#msg-2bd40d512eda",
+      "body": "לילה אש | באיראן מדווחים על תקיפת שדה הנפט באהוואז בדרום-מערב המדינה.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -646,13 +662,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "ead2ea492ba4",
-      "title": "מאיימים | קבוצת ההאקרים חנזלה: הקואורדינטות (נקודות המיקום) של כל כוחות הצבא הטרוריסטיים של ארה\"ב במדינות המפרץ הפרסי הו",
-      "link": "https://hagizra.news/#msg-ead2ea492ba4",
-      "body": "מאיימים | קבוצת ההאקרים חנזלה: הקואורדינטות (נקודות המיקום) של כל כוחות הצבא הטרוריסטיים של ארה\"ב במדינות המפרץ הפרסי הועברו למשמרות המהפכה האסלאמית / בקרוב תגידו \"ברוכים הבאים\" לרחפני שאהד-136התחלתם את המשחק; אנחנו קובעים איך הוא מסתיים.",
+      "id": "24305a87557f",
+      "title": "תיעוד מהאי קאשם |",
+      "link": "https://hagizra.news/#msg-24305a87557f",
+      "body": "תיעוד מהאי קאשם |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/21b32ee3f9de.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 18,
@@ -661,13 +680,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     },
     {
-      "id": "4610f89aef71",
-      "title": "בשורות טובות | מקורות פקיסטניים אומרים כי הגעה להסכם בין ארה\"ב לאיראן בימים הקרובים נראית \"לא סבירה\".",
-      "link": "https://hagizra.news/#msg-4610f89aef71",
-      "body": "בשורות טובות | מקורות פקיסטניים אומרים כי הגעה להסכם בין ארה\"ב לאיראן בימים הקרובים נראית \"לא סבירה\".",
+      "id": "514868b48c80",
+      "title": "מה עם טהראן | פיצוצים כעת גם באזור אהוואז.",
+      "link": "https://hagizra.news/#msg-514868b48c80",
+      "body": "מה עם טהראן | פיצוצים כעת גם באזור אהוואז. מעט יותר בעומק איראן. (ברק בטש)",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -676,7 +695,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-10T00:03:19.214Z"
+      "firstSeen": "2026-06-10T04:26:47.048Z"
     }
   ],
   "errors": [
