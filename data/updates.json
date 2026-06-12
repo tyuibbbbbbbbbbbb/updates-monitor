@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T00:06:43.555Z",
+  "generatedAt": "2026-06-12T04:59:58.759Z",
   "sources": [
     {
       "id": "blackcat",
@@ -379,13 +379,10 @@
       "firstSeen": "2026-06-11T22:30:55.885Z"
     },
     {
-      "id": "568d07f59996",
-      "title": "איו\"ש | כוחות צה''ל נכנסים לפעילות בעיירה צפונית-מערבית לשכם.",
-      "link": "https://hagizra.news/#msg-568d07f59996",
-      "body": "איו\"ש | כוחות צה''ל נכנסים לפעילות בעיירה צפונית-מערבית לשכם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f424665a10eb.bin"
-      ],
+      "id": "f9135006793e",
+      "title": "דובר צה\"ל | בהמשך להתרעות שהופעלו לפני זמן קצר על חדירת כלי טיס עוין במרחב מטולה, חיל האוויר יירט כלי טיס בלתי מאויש שזו",
+      "link": "https://hagizra.news/#msg-f9135006793e",
+      "body": "דובר צה\"ל | בהמשך להתרעות שהופעלו לפני זמן קצר על חדירת כלי טיס עוין במרחב מטולה, חיל האוויר יירט כלי טיס בלתי מאויש שזוהה במרחב בו פועלים כוחות צה\"ל בדרום לבנון. התרעות על ירי רקטות וטילים הופעלו בעקבות ניסיונות היירוט.",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -394,16 +391,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "1eee5ad15de5",
-      "title": "אוסף לכלא | תיעוד ערבי ממצלמות אבטחה מכוחות צה''ל במעצרים באזור \"בית הקברות ראס\" בחברון.",
-      "link": "https://hagizra.news/#msg-1eee5ad15de5",
-      "body": "אוסף לכלא | תיעוד ערבי ממצלמות אבטחה מכוחות צה''ל במעצרים באזור \"בית הקברות ראס\" בחברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ac21376ddb9f.bin"
-      ],
+      "id": "7fd612604f7d",
+      "title": "צה\"ל על האזעקות | הפרטים בבדיקה.",
+      "link": "https://hagizra.news/#msg-7fd612604f7d",
+      "body": "צה\"ל על האזעקות | הפרטים בבדיקה.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -412,15 +406,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "7d92c3fe0177",
-      "title": "בהצלחה | כוחות צה''ל בליווי דחפור צבאי פועלים בעיירה בית אומר, מצפון לחברון.",
-      "link": "https://hagizra.news/#msg-7d92c3fe0177",
-      "body": "בהצלחה | כוחות צה''ל בליווי דחפור צבאי פועלים בעיירה בית אומר, מצפון לחברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e9d622768829.bin"
+      "id": "b10010e7fbc3",
+      "title": "בצל ההכרזה של טראמפ על הגעה להסכם | אזעקות הופעלו מחשש לחדירת כטב\"ם באצבע הגליל.",
+      "link": "https://hagizra.news/#msg-b10010e7fbc3",
+      "body": "בצל ההכרזה של טראמפ על הגעה להסכם | אזעקות הופעלו מחשש לחדירת כטב\"ם באצבע הגליל.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/171ac42ead85.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -430,16 +424,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "95421c6c056d",
-      "title": "משילות | דחפור צבאי סגר את הכניסה לכפר באמצעות ערימות עפר, מזרחית לעיירה דורא, דרומית לחברון.",
-      "link": "https://hagizra.news/#msg-95421c6c056d",
-      "body": "משילות | דחפור צבאי סגר את הכניסה לכפר באמצעות ערימות עפר, מזרחית לעיירה דורא, דרומית לחברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/bad0b536d6fc.bin"
-      ],
+      "id": "5b989aa31e0a",
+      "title": "קרעו שערי שמיים מרובים | לרפואתו של הרב חיים בן עדינה ארנבורג לרפואה שלימה במהרה!",
+      "link": "https://hagizra.news/#msg-5b989aa31e0a",
+      "body": "קרעו שערי שמיים מרובים | לרפואתו של הרב חיים בן עדינה ארנבורג לרפואה שלימה במהרה! לפני כשנה, חודשים בודדים לאחר חתונתו גילו לו ל\"ע את המחלה הנוראה וכעת מצבו חמור ביותר במצב המסוכן והקריטי ביותר, הרופאים לא נותנים תקוה, היל\"ת. טיפלו בו בכל מיני סדרות של טיפולים מיוחדים ותרופות מיוחדות ושום דבר לא עזר. תקופה קצרה לאחר שהתגלה כחולה ל\"ע הטיסו אותו לארה\"ב לצורך הטיפולים ומאז רוב מוחלט של הזמן הוא שוהה ",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -448,15 +439,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "f9d850354862",
-      "title": "שכם | מפעילות כוחותינו הערב בבית פוריכ, מזרחית לעיר.",
-      "link": "https://hagizra.news/#msg-f9d850354862",
-      "body": "שכם | מפעילות כוחותינו הערב בבית פוריכ, מזרחית לעיר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/576cff6eac38.bin"
+      "id": "690cc6511cc4",
+      "title": "נהג רק בהלוך | מקורות מקומיים: כוחות הכיבוש הישראליים עצרו את הצעיר ואעל מאזן סמר במהלך פשיטה על העיירה יאמון, ממערב לג'",
+      "link": "https://hagizra.news/#msg-690cc6511cc4",
+      "body": "נהג רק בהלוך | מקורות מקומיים: כוחות הכיבוש הישראליים עצרו את הצעיר ואעל מאזן סמר במהלך פשיטה על העיירה יאמון, ממערב לג'נין.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a4d9645de4e9.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -466,16 +457,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "611a0949c994",
-      "title": "מעצר | כוח צה''ל שולפים מרכב ועוצרים פל0טינים במחסום צפונית-מערבית לסלפית.",
-      "link": "https://hagizra.news/#msg-611a0949c994",
-      "body": "מעצר | כוח צה''ל שולפים מרכב ועוצרים פל0טינים במחסום צפונית-מערבית לסלפית.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c3e65203fc86.bin"
-      ],
+      "id": "93d92dbb0362",
+      "title": "כעת | תקיפה ישראלית ארטילרית על העיירה טולין בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-93d92dbb0362",
+      "body": "כעת | תקיפה ישראלית ארטילרית על העיירה טולין בדרום לבנון.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -484,13 +472,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "17853af9aebf",
-      "title": "להזכירכם | היינו בנקודה הזו כמה עשרות פעמים.",
-      "link": "https://hagizra.news/#msg-17853af9aebf",
-      "body": "להזכירכם | היינו בנקודה הזו כמה עשרות פעמים. עד שלא נחתם הסכם - אין לדעת.",
+      "id": "eb4c360ac69d",
+      "title": "🙄 | מזכ\"ל האו\"ם קרא לצדדים המעורבים (לא ציין איזה) לחזור ליישום מלא של הפסקת האש ולהימנע מכל הידרדרות נוספת של המצב.",
+      "link": "https://hagizra.news/#msg-eb4c360ac69d",
+      "body": "🙄 | מזכ\"ל האו\"ם קרא לצדדים המעורבים (לא ציין איזה) לחזור ליישום מלא של הפסקת האש ולהימנע מכל הידרדרות נוספת של המצב.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -499,13 +487,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "a38e6f6f2e47",
-      "title": "עוד מטראמפ | הסדרנו עם איראן.",
-      "link": "https://hagizra.news/#msg-a38e6f6f2e47",
-      "body": "עוד מטראמפ | הסדרנו עם איראן. עשינו עסקה נהדרת. לא יהיה נשק גרעיני. אנשים יתחילו לחזור הביתה בקרוב מאוד. זה כמעט הושלם. קיבלנו כל מה שרצינו. העניין הגדול הוא שלא יהיה נשק גרעיני באיראן. זה אומר שלא יפותח ולא יירכש.",
+      "id": "0da10a7478f0",
+      "title": "מקור נאמן ✒️ | המדור הפופולרי של כתב יתד נאמן אריה זיסמן.מקור נאמן-2.pdf",
+      "link": "https://hagizra.news/#msg-0da10a7478f0",
+      "body": "מקור נאמן ✒️ | המדור הפופולרי של כתב יתד נאמן אריה זיסמן.מקור נאמן-2.pdf",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -514,13 +502,19 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "d01de1683be6",
-      "title": "טראמפ מצהיר | סיימנו את המלחמה עם איראן היום, והם הסכימו שלעולם לא יהיה להם נשק גרעיני, משהו שהתעקשנו עליו.",
-      "link": "https://hagizra.news/#msg-d01de1683be6",
-      "body": "טראמפ מצהיר | סיימנו את המלחמה עם איראן היום, והם הסכימו שלעולם לא יהיה להם נשק גרעיני, משהו שהתעקשנו עליו. זו הייתה כל המטרה. זה היה 95% מזה, והם עשו את זה בצורה החזקה ביותר שאפשר לעשות את זה.",
+      "id": "4a8b9b99d990",
+      "title": "שערי יתד נאמן השבוע |",
+      "link": "https://hagizra.news/#msg-4a8b9b99d990",
+      "body": "שערי יתד נאמן השבוע |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3d8f81650b6a.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c218ddc9dbda.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9ea7a37e03f5.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/93e8f2e3ccc2.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 8,
@@ -529,13 +523,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "a2c6ffd5950d",
-      "title": "איום חדש | בסוכנות הידיעות האיראנית 'פארס' מפרסמים איום על חברות טכנולוגיה מערביות וביניהם ספייס X וסטארלינק של אילון מא",
-      "link": "https://hagizra.news/#msg-a2c6ffd5950d",
-      "body": "איום חדש | בסוכנות הידיעות האיראנית 'פארס' מפרסמים איום על חברות טכנולוגיה מערביות וביניהם ספייס X וסטארלינק של אילון מאסק, גוגל וחברות נוספות בעקבות 'השתתפותם בשיירת האספקה של המלחמה'.בערוץ כתבו בין היתר: \"טילים איראניים מבקשים נקמה בענקיות הטכנולוגיה והבורסה האמריקאיות\". (רועי אלמוג).",
+      "id": "1539726c529b",
+      "title": "עיתון המבשר |120626המבשרמייל.pdf",
+      "link": "https://hagizra.news/#msg-1539726c529b",
+      "body": "עיתון המבשר |120626המבשרמייל.pdf",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -544,13 +538,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "8c92ddf7a6ef",
-      "title": "ב.ד.ה | אבל בחצר פינסק קרלין עם הסתלקות הרה\"ח ר' מרדכי אלטר (מוטה) שיפמן ז\"ל שהלך לעולמו בגיל 71.",
-      "link": "https://hagizra.news/#msg-8c92ddf7a6ef",
-      "body": "ב.ד.ה | אבל בחצר פינסק קרלין עם הסתלקות הרה\"ח ר' מרדכי אלטר (מוטה) שיפמן ז\"ל שהלך לעולמו בגיל 71. נצר למשפחות קרלינאיות שורשיות, בעל תפילה מופלא ובור סוד שהחזיק במוחו מאות ניגונים וסיפורי הוד של בית קרלין. (בחדרי)",
+      "id": "8d6e1c908e51",
+      "title": "שינוי מדיניות או הצלחת מפגינים?",
+      "link": "https://hagizra.news/#msg-8d6e1c908e51",
+      "body": "שינוי מדיניות או הצלחת מפגינים? | מחסום משטרתי הלילה בכניסה לאשדוד, איתר עריק ברכב שנעצר לבדיקה, השוטרים הזעיקו מ.צבאית להסגרתו, מאות מפגינים זרמו למקום והוא שוחרר.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -559,13 +553,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "753b8416a73a",
-      "title": "סה\"כ מדינה מתקדמת | באיראן הכריזו כי החל מהחודש הנוצרי הבא, יתאפשר התדלוק בתחנות הדלק באמצעות כרטיס אשראי, השירות יתפשט ",
-      "link": "https://hagizra.news/#msg-753b8416a73a",
-      "body": "סה\"כ מדינה מתקדמת | באיראן הכריזו כי החל מהחודש הנוצרי הבא, יתאפשר התדלוק בתחנות הדלק באמצעות כרטיס אשראי, השירות יתפשט בכל המדינה עד סוף השנה.",
+      "id": "2809ba0c4848",
+      "title": "עוד אחת | רעידת אדמה בעוצמה 3.1 הורגשה כעת סמוך לטהרן.",
+      "link": "https://hagizra.news/#msg-2809ba0c4848",
+      "body": "עוד אחת | רעידת אדמה בעוצמה 3.1 הורגשה כעת סמוך לטהרן.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -574,13 +568,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "73e1144e4e73",
-      "title": "לכל מי שחושב על הסכם | בחיזבאללה מפרסמים: \"לא יהיה סוף קבוע למלחמה, לא יהיה שלום באזור, ולא יהיה שלום מתמשך כל עוד האויב",
-      "link": "https://hagizra.news/#msg-73e1144e4e73",
-      "body": "לכל מי שחושב על הסכם | בחיזבאללה מפרסמים: \"לא יהיה סוף קבוע למלחמה, לא יהיה שלום באזור, ולא יהיה שלום מתמשך כל עוד האויב הציוני כובש את פלסטין\".",
+      "id": "515b53dc78b4",
+      "title": "תיעוד נוסף | כוחות גדולים של צה''ל פועלים באזור האוניברסיטה הערבית-אמריקאית בג'נין.",
+      "link": "https://hagizra.news/#msg-515b53dc78b4",
+      "body": "תיעוד נוסף | כוחות גדולים של צה''ל פועלים באזור האוניברסיטה הערבית-אמריקאית בג'נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/54c1025a9336.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -589,13 +586,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "36357bf816ac",
-      "title": "מי צריך אותם?",
-      "link": "https://hagizra.news/#msg-36357bf816ac",
-      "body": "מי צריך אותם? | אונר\"א מפטרת 70 עובדים בעזה.",
+      "id": "bb169da9d194",
+      "title": "בעוצמה | פעילות של כוחותינו באזור האוניברסיטה הערבית-אמריקאית בג'נין.",
+      "link": "https://hagizra.news/#msg-bb169da9d194",
+      "body": "בעוצמה | פעילות של כוחותינו באזור האוניברסיטה הערבית-אמריקאית בג'נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d3dd2ab168c9.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -604,13 +604,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "b69d4979a159",
-      "title": "מה עובר עליהם | רעידת אדמה בעוצמה 4.1 פגעה בעיר קהנוג' באיראן במחוז קרמן.",
-      "link": "https://hagizra.news/#msg-b69d4979a159",
-      "body": "מה עובר עליהם | רעידת אדמה בעוצמה 4.1 פגעה בעיר קהנוג' באיראן במחוז קרמן. המשמעות בפועל | רצף הרעידות באיראן ובעיקר בדרום איראן עליהם אנו מדווחים בימים האחרונים אינן רעידות משמעותיות אלא בעיקר רעידות המורגשות בקומות גבוהות ולכל היותר יש תזוזת חפצים.התרחישים מתחלקים בין האופציה שהיתה אמורה להיות רעידת אדמה רצינית אך הלחץ משתחרר בהרבה רעידות קטנות, או שהרעידות הקטנות הן רק קדימון לרעידת אדמה גדולה ש",
+      "id": "92b2112313f2",
+      "title": "הפעילות הלילה בשכם | כוחות צה''ל יוצאים מהעיר שכם לאחר שיחידה מיוחדת חדרה ועצרה מחבל.",
+      "link": "https://hagizra.news/#msg-92b2112313f2",
+      "body": "הפעילות הלילה בשכם | כוחות צה''ל יוצאים מהעיר שכם לאחר שיחידה מיוחדת חדרה ועצרה מחבל.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e4b581929825.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -619,13 +622,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "12a6ec1f9ead",
-      "title": "נס | גבר התמוטט ואיבד את הכרתו (ככה\"נ על רקע רפואי) בתחנת הרכבת תל אביב ההגנה.",
-      "link": "https://hagizra.news/#msg-12a6ec1f9ead",
-      "body": "נס | גבר התמוטט ואיבד את הכרתו (ככה\"נ על רקע רפואי) בתחנת הרכבת תל אביב ההגנה. חובשת במוקד מד\"א הדריכה את מנהל המשמרת בתחנת הרכבת לבצע פעולות החייאה תוך שימוש במכשיר מפעם (דפיברילטור) ציבורי שהותקן במקום על ידי מגן דוד אדום ורכבת ישראל ולאחר מכת חשמל, ליבו של המטופל שב לפעום והוא מפונה בניידת טיפול נמרץ של מד\"א לבי\"ח איכילוב כשהוא בהכרה מלאה.",
+      "id": "a674e9d2371b",
+      "title": "ס\"ת בסכנה | הגאון האדיר רבי חיים בן רעשא רייזל ברמן שליט\"א נמצא במצב חמור מאד.",
+      "link": "https://hagizra.news/#msg-a674e9d2371b",
+      "body": "ס\"ת בסכנה | הגאון האדיר רבי חיים בן רעשא רייזל ברמן שליט\"א נמצא במצב חמור מאד. עצרו הכל ונא אמרו פרק תהילים לרפואתו.",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -634,15 +637,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "ebacb0fb6c2e",
-      "title": "נחמד | ההרס בעזה בעקבות תקיפת מבנה טרור מוקדם יותר.",
-      "link": "https://hagizra.news/#msg-ebacb0fb6c2e",
-      "body": "נחמד | ההרס בעזה בעקבות תקיפת מבנה טרור מוקדם יותר.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c530970b8eed.jpeg"
+      "id": "92a9b06cd4d0",
+      "title": "לטענת הערבים | המשאית שדרכה נכנסו כוחות מיוחדים למרכז שכם.",
+      "link": "https://hagizra.news/#msg-92a9b06cd4d0",
+      "body": "לטענת הערבים | המשאית שדרכה נכנסו כוחות מיוחדים למרכז שכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3a2de8549b27.bin"
       ],
       "time": null,
       "channelName": null,
@@ -652,13 +655,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "242b0c294aa6",
-      "title": "מה עובר עליהם | רעידת אדמה בעוצמה 4.1 פגעה בעיר קהנוג' באיראן במחוז קרמן.",
-      "link": "https://hagizra.news/#msg-242b0c294aa6",
-      "body": "מה עובר עליהם | רעידת אדמה בעוצמה 4.1 פגעה בעיר קהנוג' באיראן במחוז קרמן.",
+      "id": "14a5cd9815ad",
+      "title": "פשיטה בשכם | כוח צה''ל גלוי במעצר במהלך פשיטה על רחוב סופיאן במרכז שכם, לאחר פעילות יחידה מיוחדת באזור.",
+      "link": "https://hagizra.news/#msg-14a5cd9815ad",
+      "body": "פשיטה בשכם | כוח צה''ל גלוי במעצר במהלך פשיטה על רחוב סופיאן במרכז שכם, לאחר פעילות יחידה מיוחדת באזור. עוד משכם | תגבורת צבאית נוספת פושטת על מרכז שכם, לאחר שיחידה מיוחדת פעלה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4e674cfedc53.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 17,
@@ -667,13 +673,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "8b8018b93767",
-      "title": "תומך | יגאל מלכה: תגידו מה שתגידו על החרדים, אם אנחנו היינו נלחמים כמוהם על הלוחמים שלנו, אף לוחם לא היה יושב דקה בכלא ב",
-      "link": "https://hagizra.news/#msg-8b8018b93767",
-      "body": "תומך | יגאל מלכה: תגידו מה שתגידו על החרדים, אם אנחנו היינו נלחמים כמוהם על הלוחמים שלנו, אף לוחם לא היה יושב דקה בכלא בגלל פאצ' משיח, ואף נבלה לא היה מעז להעליל עלילת דם על לוחמי כח 100.",
+      "id": "0817fc146737",
+      "title": "ולבינתיים | הצבא הפקיסטני התחדש בצוללת מסוג האנגור.",
+      "link": "https://hagizra.news/#msg-0817fc146737",
+      "body": "ולבינתיים | הצבא הפקיסטני התחדש בצוללת מסוג האנגור.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4dcc44f83db5.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 18,
@@ -682,15 +691,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     },
     {
-      "id": "2f1b47ed038a",
-      "title": "לעג | ערוצים שיעים: הכותרת של הלילה: אנחנו קרובים להגעה להסכם.",
-      "link": "https://hagizra.news/#msg-2f1b47ed038a",
-      "body": "לעג | ערוצים שיעים: הכותרת של הלילה: אנחנו קרובים להגעה להסכם. (אבו עלי).",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5ff5136789b5.png"
+      "id": "d4c334b60f04",
+      "title": "חוגגים | המונים באיראן מתאספים וקוראים: \"נכופף שוב את מעמדה של אמריקה\", \"תנו לו לדרוך במדינה ואנחנו נכתוב\".",
+      "link": "https://hagizra.news/#msg-d4c334b60f04",
+      "body": "חוגגים | המונים באיראן מתאספים וקוראים: \"נכופף שוב את מעמדה של אמריקה\", \"תנו לו לדרוך במדינה ואנחנו נכתוב\".",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/dd1acd616fad.bin"
       ],
       "time": null,
       "channelName": null,
@@ -700,7 +709,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-12T00:06:43.555Z"
+      "firstSeen": "2026-06-12T04:59:58.759Z"
     }
   ],
   "errors": [
