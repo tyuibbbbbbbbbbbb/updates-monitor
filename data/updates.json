@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T22:44:47.572Z",
+  "generatedAt": "2026-06-13T23:49:54.049Z",
   "sources": [
     {
       "id": "blackcat",
@@ -41,6 +41,24 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-05-30T17:39:59.467Z"
+    },
+    {
+      "id": "fbe79a2819a8",
+      "title": "דרום לבנון |",
+      "link": "https://hagizra.news/#msg-fbe79a2819a8",
+      "body": "דרום לבנון |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/cadbc90f48ac.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-03T17:10:20.844Z"
     },
     {
       "id": "d41d8cd98f00",
@@ -364,226 +382,6 @@
       "firstSeen": "2026-06-13T21:38:15.361Z"
     },
     {
-      "id": "963d72c25660",
-      "title": "גזרת שכם | מפעילות כוחותינו בעיר עקרבה.",
-      "link": "https://hagizra.news/#msg-963d72c25660",
-      "body": "גזרת שכם | מפעילות כוחותינו בעיר עקרבה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f06dd58cf34e.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 7,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "2e97a4ed76cc",
-      "title": "בדרך לכלא | כוחות צה''ל במעצר במחנה אל-פוואר, מדרום לחברון.",
-      "link": "https://hagizra.news/#msg-2e97a4ed76cc",
-      "body": "בדרך לכלא | כוחות צה''ל במעצר במחנה אל-פוואר, מדרום לחברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8bc9f9c40f43.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 8,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "08decdbfcca1",
-      "title": "מוצלח | כוחות צה''ל בפעילות הצהריים בבית פוריק, מזרחית לשכם.",
-      "link": "https://hagizra.news/#msg-08decdbfcca1",
-      "body": "מוצלח | כוחות צה''ל בפעילות הצהריים בבית פוריק, מזרחית לשכם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/90e7b2dfdcec.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/81840941248c.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "d69006487886",
-      "title": "בשטח | כוח צה''ל בפעילות הצהריים בעיירה יאמון, ממערב לג'נין.",
-      "link": "https://hagizra.news/#msg-d69006487886",
-      "body": "בשטח | כוח צה''ל בפעילות הצהריים בעיירה יאמון, ממערב לג'נין.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/70c0ae8e2922.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "b5c36b42851e",
-      "title": "שבוע טוב ❣️| הבדלה ראשונה במג׳דל זון בלבנון (אי פעם נראה לי..).",
-      "link": "https://hagizra.news/#msg-b5c36b42851e",
-      "body": "שבוע טוב ❣️| הבדלה ראשונה במג׳דל זון בלבנון (אי פעם נראה לי..). (ינון מגל)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/916b09c4e560.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "87edc6a588e0",
-      "title": "תיעוד | טראמפ הודיע שכוחות צבא ארה\"ב חיסלו את ניניו גררו, מנהיג הקרטל \"טראן דה אראגווה\" בוונצואלה בתקיפה אווירית.",
-      "link": "https://hagizra.news/#msg-87edc6a588e0",
-      "body": "תיעוד | טראמפ הודיע שכוחות צבא ארה\"ב חיסלו את ניניו גררו, מנהיג הקרטל \"טראן דה אראגווה\" בוונצואלה בתקיפה אווירית.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b84c0475e7f2.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "9af7e4624702",
-      "title": "טרור ברחובות ירושלים | זוג חרדי כבני 70 הותקף בשבת ברחוב שמחה הולצברג בשכונת נווה יעקב בירושלים.",
-      "link": "https://hagizra.news/#msg-9af7e4624702",
-      "body": "טרור ברחובות ירושלים | זוג חרדי כבני 70 הותקף בשבת ברחוב שמחה הולצברג בשכונת נווה יעקב בירושלים. הבעל נפצע בראשו מאבן, ואשתו נפגעה בפניה מגז פלפל; תלונה הוגשה במשטרה. (אוף דה רקורד)",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "573cb5458d41",
-      "title": "אבל בצה\"ל | אלוף-משנה נתנאל לסרי, ראש מחלקת התכנון בזרוע היבשה של צה״ל, הלך היום לעולמו בגיל 40 לאחר מאבק ארוך במחלת הסר",
-      "link": "https://hagizra.news/#msg-573cb5458d41",
-      "body": "אבל בצה\"ל | אלוף-משנה נתנאל לסרי, ראש מחלקת התכנון בזרוע היבשה של צה״ל, הלך היום לעולמו בגיל 40 לאחר מאבק ארוך במחלת הסרטן. (דורון קדוש)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7917fbdf7ee1.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "41727c93933e",
-      "title": "מזל טוב לנשיא ארה״ב | דונלד טראמפ, לרגל יום הולדתו ה-80.",
-      "link": "https://hagizra.news/#msg-41727c93933e",
-      "body": "מזל טוב לנשיא ארה״ב | דונלד טראמפ, לרגל יום הולדתו ה-80.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "560f4ed50d1d",
-      "title": "תיעוד מהירי למטולה |",
-      "link": "https://hagizra.news/#msg-560f4ed50d1d",
-      "body": "תיעוד מהירי למטולה |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/34aa3a927ab4.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "7229d3d351e5",
-      "title": "ירושלמים שימו לב | שינויים זמניים בפעילות הרכבת הקלה בירושלים: בשל עבודות לחיבור החשמל בין הקו הירוק לקו האדום, יחולו שי",
-      "link": "https://hagizra.news/#msg-7229d3d351e5",
-      "body": "ירושלמים שימו לב | שינויים זמניים בפעילות הרכבת הקלה בירושלים: בשל עבודות לחיבור החשמל בין הקו הירוק לקו האדום, יחולו שינויים בהפעלת קו הדסה עין כרם–נווה יעקב בין מוצאי שבת 13.6 ועד יום חמישי 18.6.2026.בימים ראשון - חמישי החל מהשעה 20:00 ועד סיום הפעילות, לא תפעל הרכבת בין תחנות גבעת המבתר והעירייה.הרכבת תפעל בשני מקטעים: נווה יעקב- גבעת המבתר. ▪︎ העירייה - הדסה עין כרם.שירות חלופי בתשלום • קו 503",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "b1e3db883a4b",
-      "title": "לקראת ביטול סופי?",
-      "link": "https://hagizra.news/#msg-b1e3db883a4b",
-      "body": "לקראת ביטול סופי? | הוועדה למיזמים ציבוריים תקיים השבוע שני דיונים על ביטול רפורמת הכשרות של מתן כהנא בימים שלישי וחמישי. (שלום שטיין)",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
-      "id": "5b0e5af05342",
-      "title": "שוב סוגר את האירוע | דובר צה\"ל: חיל האוויר יירט לפני זמן קצר רקטה שנורתה על ידי ארגון הטרור חיזבאללה לעבר כוחות צה\"ל הפו",
-      "link": "https://hagizra.news/#msg-5b0e5af05342",
-      "body": "שוב סוגר את האירוע | דובר צה\"ל: חיל האוויר יירט לפני זמן קצר רקטה שנורתה על ידי ארגון הטרור חיזבאללה לעבר כוחות צה\"ל הפועלים במרחב דרום לבנון, ללא נפגעים. התרעות על ירי רקטות וטילים הופעלו בעקבות ניסיונות היירוט.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
       "id": "07b60a7aea9a",
       "title": "🤔",
       "link": "https://black-cat.thechats.click/#msg-07b60a7aea9a",
@@ -611,7 +409,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -633,7 +431,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -642,10 +440,46 @@
       "firstSeen": "2026-06-13T22:44:47.572Z"
     },
     {
-      "id": "e13d15e66e79",
-      "title": "סקר אולפן שישי | 10% מבוחרי הליכוד סבורים כי טלי גוטליב מזיקה לתנועה ולא צריכה להיכלל ברשימה.",
-      "link": "https://hagizra.news/#msg-e13d15e66e79",
-      "body": "סקר אולפן שישי | 10% מבוחרי הליכוד סבורים כי טלי גוטליב מזיקה לתנועה ולא צריכה להיכלל ברשימה. אחריה מדורגים אמסלם (9%), מאי גולן (6%), סילמן (6%), ואטורי (4%) מילביצקי (1%).",
+      "id": "999222dee9ed",
+      "title": "ג'נין | כוחות צה''ל פועלים הלילה במרחב.",
+      "link": "https://hagizra.news/#msg-999222dee9ed",
+      "body": "ג'נין | כוחות צה''ל פועלים הלילה במרחב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4c9e04747b96.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "0658b93bba47",
+      "title": "איו\"ש | כוחותינו בפעילות בשכונה הגרמנית בג'נין.",
+      "link": "https://hagizra.news/#msg-0658b93bba47",
+      "body": "איו\"ש | כוחותינו בפעילות בשכונה הגרמנית בג'נין.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4186af2301c9.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "affcf8c4d6a4",
+      "title": "כעת | צה\"ל תוקף בעיירה קלילה - דרום לבנון.",
+      "link": "https://hagizra.news/#msg-affcf8c4d6a4",
+      "body": "כעת | צה\"ל תוקף בעיירה קלילה - דרום לבנון.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -654,13 +488,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T22:44:47.572Z"
+      "firstSeen": "2026-06-13T23:49:54.049Z"
     },
     {
-      "id": "21feaf10656f",
-      "title": "עוד בסקר | 44% מהציבור מתנגדים לעסקת טיעון שתביא לפרישת בנימין נתניהו.",
-      "link": "https://hagizra.news/#msg-21feaf10656f",
-      "body": "עוד בסקר | 44% מהציבור מתנגדים לעסקת טיעון שתביא לפרישת בנימין נתניהו. 39% ענו שהם בעד המהלך.",
+      "id": "8d6d703bdc24",
+      "title": "חוץ | רעידת אדמה בעוצמה 5.1 פקדה את מקסיקו.",
+      "link": "https://hagizra.news/#msg-8d6d703bdc24",
+      "body": "חוץ | רעידת אדמה בעוצמה 5.1 פקדה את מקסיקו.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -669,13 +503,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T22:44:47.572Z"
+      "firstSeen": "2026-06-13T23:49:54.049Z"
     },
     {
-      "id": "52c56d801e39",
-      "title": "סקר אולפן שישי | איזנקוט מוביל על בנט בשאלת ההתאמה לראשות הממשלה.",
-      "link": "https://hagizra.news/#msg-52c56d801e39",
-      "body": "סקר אולפן שישי | איזנקוט מוביל על בנט בשאלת ההתאמה לראשות הממשלה. 52% ממצביעי הגוש מעדיפים שאיזנקוט יעמוד בראש איחוד עם בנט.",
+      "id": "bee71fc201bb",
+      "title": "חביב | מקורות מקומיים בלבנון: כוחות צה\"ל יורים ארטילריה לעבר פאתי העיירה יחמר בלבקאע המערבית ולפאתי העיירה קטראני.",
+      "link": "https://hagizra.news/#msg-bee71fc201bb",
+      "body": "חביב | מקורות מקומיים בלבנון: כוחות צה\"ל יורים ארטילריה לעבר פאתי העיירה יחמר בלבקאע המערבית ולפאתי העיירה קטראני.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -684,16 +518,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T22:44:47.572Z"
+      "firstSeen": "2026-06-13T23:49:54.049Z"
     },
     {
-      "id": "72be781d6632",
-      "title": "תג מחיר 🥳 | מקורות פלסטינים מפרסמים תיעוד ממצלמות אבטחה בו נראים מתיישבים שהציתו היום רכבים בכפר ג'ית, מזרחית לקלקיליה.",
-      "link": "https://hagizra.news/#msg-72be781d6632",
-      "body": "תג מחיר 🥳 | מקורות פלסטינים מפרסמים תיעוד ממצלמות אבטחה בו נראים מתיישבים שהציתו היום רכבים בכפר ג'ית, מזרחית לקלקיליה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7b5c2c1315f8.bin"
-      ],
+      "id": "4e05e299e201",
+      "title": "הכח הביא התקפלות?",
+      "link": "https://hagizra.news/#msg-4e05e299e201",
+      "body": "הכח הביא התקפלות? 🤔 | חבר הקונגרס הרפובליקני ג'ון ג'יימס אמר שהוא \"נרגש\" לראות מה יעלה בגורל עסקה פוטנציאלית בין ארה\"ב לאיראן, והוסיף כי מסע הלחץ של דונלד טראמפ אילץ את טהרן לנהל משא ומתן.הוא אמר לפוקס ניוז כי \"טראמפ הוא נשיא של שלום, אבל הוא גם נשיא של כוח, וזו בדיוק הסיבה שטהרן מגיעה לשולחן המשא ומתן\".",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -702,15 +533,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T22:44:47.572Z"
+      "firstSeen": "2026-06-13T23:49:54.049Z"
     },
     {
-      "id": "627afd1e55a6",
-      "title": "שולטים | כוח צה''ל רגלי בפעילות הצהריים במרחב ג'נין.",
-      "link": "https://hagizra.news/#msg-627afd1e55a6",
-      "body": "שולטים | כוח צה''ל רגלי בפעילות הצהריים במרחב ג'נין.",
+      "id": "e65f39ba2076",
+      "title": "דרום לבנון | תקיפות באזור העיירה מג'דל.",
+      "link": "https://hagizra.news/#msg-e65f39ba2076",
+      "body": "דרום לבנון | תקיפות באזור העיירה מג'דל.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0d36ca98aa13.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3d17d8c474a0.bin"
       ],
       "time": null,
       "channelName": null,
@@ -720,7 +551,157 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T22:44:47.572Z"
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "6b4c4e4aa98b",
+      "title": "אבל בצה\"ל | אלוף-משנה נתנאל לסרי, ראש מחלקת התכנון בזרוע היבשה של צה״ל, הלך היום לעולמו בגיל 40 לאחר מאבק ארוך במחלת הסר",
+      "link": "https://hagizra.news/#msg-6b4c4e4aa98b",
+      "body": "אבל בצה\"ל | אלוף-משנה נתנאל לסרי, ראש מחלקת התכנון בזרוע היבשה של צה״ל, הלך היום לעולמו בגיל 40 לאחר מאבק ארוך במחלת הסרטן. (דורון קדוש עוד פרטים | לסרי, קצין שריון, היה מפקד גדוד 9 בחטיבה 401, ומפקד חטיבת הגולן והחרמון (474). בשנת 2024 התגלתה בגופו המחלה, והוא נאלץ לסיים את תפקידו כמח\"ט לאחר 8 חודשים בלבד. בהמשך מונה לתפקיד מטה, כרמ\"ח תכנון בזרוע היבשה, תפקיד בו שימש עד פטירתו.",
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "4cd74735bde6",
+      "title": "מטריד | הבית הלבן הגביל את השימוש במודלים המתקדמים של חברת הבינה המלאכותית אנת'רופיק - בגלל חשש לגישה סינית, כך דווח בסו",
+      "link": "https://hagizra.news/#msg-4cd74735bde6",
+      "body": "מטריד | הבית הלבן הגביל את השימוש במודלים המתקדמים של חברת הבינה המלאכותית אנת'רופיק - בגלל חשש לגישה סינית, כך דווח בסוכנות הידיעות רויטרס.לפי הדיווחים בוול סטריט ג'ורנל, ממשל טראמפ אסר על ממשלות זרות, חברות ויחידים להשתמש בכלי הבינה המלאכותית החזקים ביותר של אנת'רופיק, בהם Fable 5 ו-Mythos 5. המשמעות היא שהשימוש בהם על ידי לקוחות מחוץ לארה\"ב ואזרחים זרים בתוך ארה\"ב - אסור. (12).",
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "0ed5ed3d8802",
+      "title": "תיעוד | לוחמים מבצעים מעצר בכפר ג'לזון צפונית לרמאללה.",
+      "link": "https://hagizra.news/#msg-0ed5ed3d8802",
+      "body": "תיעוד | לוחמים מבצעים מעצר בכפר ג'לזון צפונית לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f43bbe5cf95d.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "42e1438d65e8",
+      "title": "עלילות דם 2026 | ממשלת צרפת האשימה חברה ישראלית בהתערבות בבחירות המקומיות בצרפת נגד מספר מועמדים פרו-פלסטינים.",
+      "link": "https://hagizra.news/#msg-42e1438d65e8",
+      "body": "עלילות דם 2026 | ממשלת צרפת האשימה חברה ישראלית בהתערבות בבחירות המקומיות בצרפת נגד מספר מועמדים פרו-פלסטינים.",
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "b4017b10dda3",
+      "title": "צודק...",
+      "link": "https://hagizra.news/#msg-b4017b10dda3",
+      "body": "צודק... | טראמפ מפרסם: ״אתם נהיים מבולבלים.״",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/488d61bff601.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "6d078fe2370e",
+      "title": "משילות | כוחות צה\"ל כעת בעיירה חיזמא הסמוכה לצפון ירושלים.",
+      "link": "https://hagizra.news/#msg-6d078fe2370e",
+      "body": "משילות | כוחות צה\"ל כעת בעיירה חיזמא הסמוכה לצפון ירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0213f96ed619.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "ca725745339f",
+      "title": "בהצלחה | כוחות צה\"ל נכנסים לפעילות בעיירה אל-זאוויה בשומרון.",
+      "link": "https://hagizra.news/#msg-ca725745339f",
+      "body": "בהצלחה | כוחות צה\"ל נכנסים לפעילות בעיירה אל-זאוויה בשומרון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8b4907f3edf3.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "db297d7369e0",
+      "title": "דרום לבנון | דיווחי אויב על 4 תקיפות צה\"ל לעבר כפר תבנית ועוד 2 תקיפות לעבר נבטייה.",
+      "link": "https://hagizra.news/#msg-db297d7369e0",
+      "body": "דרום לבנון | דיווחי אויב על 4 תקיפות צה\"ל לעבר כפר תבנית ועוד 2 תקיפות לעבר נבטייה.",
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
+    },
+    {
+      "id": "64d05f89c98e",
+      "title": "רצועת עזה | ירי לעבר אזור העיר עזה מספינת חיל הים.",
+      "link": "https://hagizra.news/#msg-64d05f89c98e",
+      "body": "רצועת עזה | ירי לעבר אזור העיר עזה מספינת חיל הים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/412f5c6f57e0.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-13T23:49:54.049Z"
     }
   ],
   "errors": [
