@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T02:12:20.920Z",
+  "generatedAt": "2026-06-19T07:27:56.415Z",
   "sources": [
     {
       "id": "blackcat",
@@ -391,186 +391,6 @@
       "firstSeen": "2026-06-18T21:32:32.408Z"
     },
     {
-      "id": "1a078f97fb2d",
-      "title": "עוד תקיפות באזור נבטיה |",
-      "link": "https://hagizra.news/#msg-1a078f97fb2d",
-      "body": "עוד תקיפות באזור נבטיה |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/261c165f2df7.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "784bc039b319",
-      "title": "צביעות ללא גבול | טום פלטשר, תת-מזכ\"ל האו\"ם לעניינים הומניטריים ומתאם סיוע חירום, בירך על ההסכם בין ארצות הברית לאיראן ו",
-      "link": "https://hagizra.news/#msg-784bc039b319",
-      "body": "צביעות ללא גבול | טום פלטשר, תת-מזכ\"ל האו\"ם לעניינים הומניטריים ומתאם סיוע חירום, בירך על ההסכם בין ארצות הברית לאיראן ועל כינון הפסקת אש מיידית בלבנון בישיבת מועצת הביטחון בנושא עזה.",
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "19d7e018ab99",
-      "title": "מעצר כעת בהפגנה בירושלים |",
-      "link": "https://hagizra.news/#msg-19d7e018ab99",
-      "body": "מעצר כעת בהפגנה בירושלים |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6d652c3b86dc.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "e86a8e1b4dd0",
-      "title": "אחרי האירוע בלבנון | מספר תקיפות לעבר מוקדי חיזבאללה באזור נבטיה.",
-      "link": "https://hagizra.news/#msg-e86a8e1b4dd0",
-      "body": "אחרי האירוע בלבנון | מספר תקיפות לעבר מוקדי חיזבאללה באזור נבטיה.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "a1ba320e958b",
-      "title": "בלי בושה | טראמפ מצייץ ברשת Truth Social תיעוד מהרגע שבו חתם על מזכר ההבנות עם איראן.",
-      "link": "https://hagizra.news/#msg-a1ba320e958b",
-      "body": "בלי בושה | טראמפ מצייץ ברשת Truth Social תיעוד מהרגע שבו חתם על מזכר ההבנות עם איראן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/089453374a91.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "0cd5c0e6271c",
-      "title": "המלחמה הלא נגמרת | נשיא אוקראינה וולודימיר זלנסקי: מעוניינים לסיים את המלחמה עד החורף באמצעות דיפלומטיה ולחץ על רוסיה.",
-      "link": "https://hagizra.news/#msg-0cd5c0e6271c",
-      "body": "המלחמה הלא נגמרת | נשיא אוקראינה וולודימיר זלנסקי: מעוניינים לסיים את המלחמה עד החורף באמצעות דיפלומטיה ולחץ על רוסיה. אם המלחמה תימשך עד אז, נזדקק לסיוע באנרגיה, דלק וטילים. כך דווח בסוכנות הידיעות רויטרס. (כאן 11).",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "6c4eaac78c8c",
-      "title": "תודה טראמפ 🙏 | לילה קשה מאוד בגזרה הצפונית.",
-      "link": "https://hagizra.news/#msg-6c4eaac78c8c",
-      "body": "תודה טראמפ 🙏 | לילה קשה מאוד בגזרה הצפונית. פרטים נוספים כשיותרו לפרסום ע״י דובר צה״ל.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "a31bea719a19",
-      "title": "בנתיים אין מכנסיים קרועים | רימון הלם במהומות במאה שערים כעת.",
-      "link": "https://hagizra.news/#msg-a31bea719a19",
-      "body": "בנתיים אין מכנסיים קרועים | רימון הלם במהומות במאה שערים כעת.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/aa8581d79ad5.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "b671628e2389",
-      "title": "התרברבות איראנית | יו''ר הפרלמנט האיראני קאליבאף: ''במקרה של הפרת התחייבויות, הפרת ההסכם או דרישות מופרזות מצד הצד השני,",
-      "link": "https://hagizra.news/#msg-b671628e2389",
-      "body": "התרברבות איראנית | יו''ר הפרלמנט האיראני קאליבאף: ''במקרה של הפרת התחייבויות, הפרת ההסכם או דרישות מופרזות מצד הצד השני, אין לנו כל ספק שנגיב במהלומה מוחצת''.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "1b55df6dde4e",
-      "title": "כעת | עצרת תפילה וזעקה שנערכת ע\"י העדה החרדית בכיכר זופניק בירושלים.",
-      "link": "https://hagizra.news/#msg-1b55df6dde4e",
-      "body": "כעת | עצרת תפילה וזעקה שנערכת ע\"י העדה החרדית בכיכר זופניק בירושלים. קצת להתחמם | שולי העצרת הדליקו מדורה בכיכר השבת בסיום העצרת.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/172e14942a0a.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
-      "id": "7a6f0e736f26",
-      "title": "מצד שני | מחלקת המדינה האמריקאית: הטלנו סנקציות על פקידים לבנונים בעלי ברית עם חיזבאללה בגין ערעור שיטתי של סמכות המדינה",
-      "link": "https://hagizra.news/#msg-7a6f0e736f26",
-      "body": "מצד שני | מחלקת המדינה האמריקאית: הטלנו סנקציות על פקידים לבנונים בעלי ברית עם חיזבאללה בגין ערעור שיטתי של סמכות המדינה.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-18T23:23:10.171Z"
-    },
-    {
       "id": "ea5289fc45a7",
       "title": "עוד מלבנון | רועי קייס: דיווחים בלבנון על שורה של תקיפות ישראליות בשעה האחרונה בכמה כפרים במרחב נבטיה בדרום לבנון.",
       "link": "https://hagizra.news/#msg-ea5289fc45a7",
@@ -580,7 +400,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -595,7 +415,7 @@
       "body": "דיווח ראשוני | גם סגן נשיא ארה”ב וואנס ביטל את הנסיעה לשוויץ. הודעת הבית הלבן | ״הלוגיסטיקה של המשא ומתן מעולם לא הייתה פשוטה או צפויה. נכון לעכשיו, סגן הנשיא לא עוזב הלילה. נודיע לכם ברגע שיהיה לנו עדכון קונקרטי לגבי הצעדים הבאים. אנו מצפים להתחיל בשיחות הטכניות בהקדם האפשרי״.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -604,10 +424,40 @@
       "firstSeen": "2026-06-19T02:12:20.920Z"
     },
     {
-      "id": "c300dea23739",
-      "title": "דיווח ראשוני | גם סגן נשיא ארה”ב וואנס ביטל את הנסיעה לשוויץ.",
-      "link": "https://hagizra.news/#msg-c300dea23739",
-      "body": "דיווח ראשוני | גם סגן נשיא ארה”ב וואנס ביטל את הנסיעה לשוויץ.",
+      "id": "5516585848b9",
+      "title": "פרטי התקרית הקשה | בשעה 00:30 - מטרה אווירית חשודה (מסתמן כי מדובר ברחפן נפץ פגעה בטנק הפיקוד של מג״ד 52.",
+      "link": "https://hagizra.news/#msg-5516585848b9",
+      "body": "פרטי התקרית הקשה | בשעה 00:30 - מטרה אווירית חשודה (מסתמן כי מדובר ברחפן נפץ פגעה בטנק הפיקוד של מג״ד 52. המג\"ד, סא\"ל דור בן שמחון נהרג ושלושה לו...) מה שגרם ל4 הנופלים | זה טיל קורנט משודרג שחדר לכלי וגרם למותם המיידי של כל ה 4 כולל המג״ד. (רפאל חיון)",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "991acacc68c4",
+      "title": "בעוד תקרית בלבנון | דובר צה\"ל: במהלך הלילה (ו'), קצין צה\"ל במילואים נפצע באורח קשה, ושלושה נגדים במילואים ונגד בקבע נפצע",
+      "link": "https://hagizra.news/#msg-991acacc68c4",
+      "body": "בעוד תקרית בלבנון | דובר צה\"ל: במהלך הלילה (ו'), קצין צה\"ל במילואים נפצע באורח קשה, ושלושה נגדים במילואים ונגד בקבע נפצעו באורח קל כתוצאה מפגיעת רחפן נפץ בדרום לבנון.הלוחמים פונו לקבלת טיפול רפואי בבית חולים ומשפחותיהם עודכנו.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "fbbc87cebf1e",
+      "title": "פרטי התקרית הקשה | בשעה 00:30 - מטרה אווירית חשודה (מסתמן כי מדובר ברחפן נפץ) פגעה בטנק הפיקוד של מג״ד 52.",
+      "link": "https://hagizra.news/#msg-fbbc87cebf1e",
+      "body": "פרטי התקרית הקשה | בשעה 00:30 - מטרה אווירית חשודה (מסתמן כי מדובר ברחפן נפץ) פגעה בטנק הפיקוד של מג״ד 52. המג\"ד, סא\"ל דור בן שמחון נהרג ושלושה לוחמים נוספים.הכוחות נמצאים כעת בכפר תבנית, צפונית לבופור. יש שם מספר תשתיות טרור שחוקרים גם בימים אלה.04:00 - רחפן נפץ פגע באותו מרחב בכוח של צוות הקרב החטיבתי של הקומנדו. 5 לוחמים נפצעו - קצין נפצע באורח קשה.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -616,13 +466,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     },
     {
-      "id": "79e517566307",
-      "title": "התחלת הנקמה | משרד הבריאות הלבנוני מדווח על 10 מחוסלים ומספר נעדרים מתקיפות שביצע צה״ל בדרום לבנון בשלוש שעות האחרונות.",
-      "link": "https://hagizra.news/#msg-79e517566307",
-      "body": "התחלת הנקמה | משרד הבריאות הלבנוני מדווח על 10 מחוסלים ומספר נעדרים מתקיפות שביצע צה״ל בדרום לבנון בשלוש שעות האחרונות.",
+      "id": "7bbbb6b3631a",
+      "title": "כעת אירועי הלילה מקבלים משמעות חדשה | חיזבאללה מפר את הפסקת האש ופוגע בטנקכתוצאה מכך צה״ל תוקף באופן נרחב בדרום לבנוןאיר",
+      "link": "https://hagizra.news/#msg-7bbbb6b3631a",
+      "body": "כעת אירועי הלילה מקבלים משמעות חדשה | חיזבאללה מפר את הפסקת האש ופוגע בטנקכתוצאה מכך צה״ל תוקף באופן נרחב בדרום לבנוןאירן מבטלת את ההגעה לשוייץ במחאה על ההפרה הישראלית של הפסקת האש. (עמית סגל)",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -631,13 +481,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     },
     {
-      "id": "3bdf7e26c720",
-      "title": "גל תקיפות נרחב כעת בדרום לבנון |",
-      "link": "https://hagizra.news/#msg-3bdf7e26c720",
-      "body": "גל תקיפות נרחב כעת בדרום לבנון |",
+      "id": "cfb4ff728fcd",
+      "title": "סא”ל דור גדליה בן שמחון הי”ד |",
+      "link": "https://hagizra.news/#msg-cfb4ff728fcd",
+      "body": "סא”ל דור גדליה בן שמחון הי”ד |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/955ec059571c.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -646,16 +499,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     },
     {
-      "id": "34a5af52be2c",
-      "title": "האלה שאלופים בלהרים את הרוח | מרים את הרוח |",
-      "link": "https://hagizra.news/#msg-34a5af52be2c",
-      "body": "האלה שאלופים בלהרים את הרוח | מרים את הרוח |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f23261e56769.png"
-      ],
+      "id": "006d96e126c7",
+      "title": "הותר לפרסום | 4 לוחמי צה״ל נהרגו הלילה כתוצאה מפגיעה בטנק בדרום לבנון, ביניהם מפקד גדוד 52, סא״ל דור גדליה בן שמחון הי״ד",
+      "link": "https://hagizra.news/#msg-006d96e126c7",
+      "body": "הותר לפרסום | 4 לוחמי צה״ל נהרגו הלילה כתוצאה מפגיעה בטנק בדרום לבנון, ביניהם מפקד גדוד 52, סא״ל דור גדליה בן שמחון הי״ד.שמותיהם של שאר הנופלים יפורסמו בהמשך.סא״ל בן שמחון, החליף את מפקד הגדוד הקודם לפני כחודשיים, לאחר שנפצע אנוש.יהי זכרם ברוך. (הלל ביטון רוזן)",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -664,15 +514,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     },
     {
-      "id": "11f0f385314b",
-      "title": "קצת להרים את הרוח | תקיפות אוויריות חריגות בעוצמתן מתבצעות כעת בעיר נבטיה, דרום לבנון.כך ע״פ דיווחים בלבנון.",
-      "link": "https://hagizra.news/#msg-11f0f385314b",
-      "body": "קצת להרים את הרוח | תקיפות אוויריות חריגות בעוצמתן מתבצעות כעת בעיר נבטיה, דרום לבנון.כך ע״פ דיווחים בלבנון.",
+      "id": "7c87b7b03068",
+      "title": "תוצאות תקיפות הלילה בנבטייה |",
+      "link": "https://hagizra.news/#msg-7c87b7b03068",
+      "body": "תוצאות תקיפות הלילה בנבטייה |",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/119a340e550f.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e5971f9ea271.bin"
       ],
       "time": null,
       "channelName": null,
@@ -682,16 +532,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     },
     {
-      "id": "57e5b9aa802a",
-      "title": "האלה שאלופים בלהרים את הרוח |",
-      "link": "https://hagizra.news/#msg-57e5b9aa802a",
-      "body": "האלה שאלופים בלהרים את הרוח |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d85a51441c2f.png"
-      ],
+      "id": "0708e0189d15",
+      "title": "התחלת הנקמה | משרד הבריאות הלבנוני מדווח על 10 מחוסלים ומספר נעדרים מתקיפות שביצע צה״ל בדרום לבנון בשלוש שעות האחרונות.",
+      "link": "https://hagizra.news/#msg-0708e0189d15",
+      "body": "התחלת הנקמה | משרד הבריאות הלבנוני מדווח על 10 מחוסלים ומספר נעדרים מתקיפות שביצע צה״ל בדרום לבנון בשלוש שעות האחרונות. לא מספיק | משרד הבריאות הלבנונית: עלה ל 16 מספר ההרוגים כתוצאה מהפצצות הישראליות במחוז נבטיה בלילה.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -700,13 +547,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     },
     {
-      "id": "3495f8679cca",
-      "title": "המצב פח | אפשר לומר בזהירות: אם אין תגובה משמעותית וכואבת לאירוע בלבנון, אפשר לסגור באסטה.",
-      "link": "https://hagizra.news/#msg-3495f8679cca",
-      "body": "המצב פח | אפשר לומר בזהירות: אם אין תגובה משמעותית וכואבת לאירוע בלבנון, אפשר לסגור באסטה. האחרון שיוצא, שיכבה את האור. (רועי אלמוג).",
+      "id": "7393d2b6d027",
+      "title": "חיזבאללה לוקח אחריות על האירוע הקשה הלילה בלבנון | \"במסגרת \"מבצעי עאשורה\" תקפו לוחמינו כוח של צה\"ל, שכלל יחידת שריון וחי",
+      "link": "https://hagizra.news/#msg-7393d2b6d027",
+      "body": "חיזבאללה לוקח אחריות על האירוע הקשה הלילה בלבנון | \"במסגרת \"מבצעי עאשורה\" תקפו לוחמינו כוח של צה\"ל, שכלל יחידת שריון וחיל רגלים, אשר ניסה להתקדם מצפון לגבעת עלי טאהר בדרום לבנון. הכוח הישראלי הוכוון אל תוך מארב מתוכנן מראש, ולאחר מכן הותקף באמצעות טילים מונחים ואמצעי לחימה נוספים. שלושה טנקי מרכבה נפגעו, הושמדו ועלו באש.לוחמי הארגון המשיכו לתקוף את הכוח באמצעות ירי טילים וארטילריה, וכי העימותים בש",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -715,7 +562,153 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-19T02:12:20.920Z"
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "a875cc8cbc92",
+      "title": "הודעת פיקוד העורף לתושבי הצפון | אנחנו לאחר לילה מורכב ביותר במהלכו בוצעו הפרות קשות של הסכם הפסקת האש מצד חיזבאללה כתוצ",
+      "link": "https://hagizra.news/#msg-a875cc8cbc92",
+      "body": "הודעת פיקוד העורף לתושבי הצפון | אנחנו לאחר לילה מורכב ביותר במהלכו בוצעו הפרות קשות של הסכם הפסקת האש מצד חיזבאללה כתוצאה מכך נדרשנו להגיב בעוצמה חזקה .תקיפות צה״ל ימשכו גם בשעות הקרובות והדי פיצוצים ישמעו בכלל המרחב .לעת עתה אין שינוי במדיניות ההתגוננות בהנחיות לעורף האזרחי.כלל ההחרגות שאושרו להיום בתוקף.בכל שינוי נעדכן בהתאם.המשך יום וסופ״ש בטוח .",
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "fc0aab6cee78",
+      "title": "האירוע הקשה בלבנון | במגבלות הצנזורה אפשר לומר שע”פ דיווחים ערבים החיזבאללה פגע בכלי רכב צהל”יים באמצעות טילים וגרם לכמו",
+      "link": "https://hagizra.news/#msg-fc0aab6cee78",
+      "body": "האירוע הקשה בלבנון | במגבלות הצנזורה אפשר לומר שע”פ דיווחים ערבים החיזבאללה פגע בכלי רכב צהל”יים באמצעות טילים וגרם לכמות נפגעים. זה תיעוד האירוע ע”פ הערבים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/77fdbe9719b2.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "903aea85feda",
+      "title": "חלל ראשון מהלילה | ההודעה שפורסמה בישוב אדם: תושבים יקרים,בצער רב אנו מודיעים על נפילתו של גיבור ישראל נוה חבשוש הי״ד,בנ",
+      "link": "https://hagizra.news/#msg-903aea85feda",
+      "body": "חלל ראשון מהלילה | ההודעה שפורסמה בישוב אדם: תושבים יקרים,בצער רב אנו מודיעים על נפילתו של גיבור ישראל נוה חבשוש הי״ד,בנם של חיים ועינב חבשוש, אח לנועם ונסיה.פרטים על ההלוויה והשבעה יימסרו בהמשך.צח״י אדם.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0a7332fe748b.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "33e5682fc733",
+      "title": "האירוע הקשה בלבנון | הודעת דובר צה״ל: צה\"ל תקף לאורך הלילה וממשיך לתקוף מחבלים ותשתיות טרור של ארגון הטרור חיזבאללה במספ",
+      "link": "https://hagizra.news/#msg-33e5682fc733",
+      "body": "האירוע הקשה בלבנון | הודעת דובר צה״ל: צה\"ל תקף לאורך הלילה וממשיך לתקוף מחבלים ותשתיות טרור של ארגון הטרור חיזבאללה במספר מרחבים בדרום לבנון.התקיפות בוצעו לאחר הפרות חוזרות ונשנות של הפסקת האש על ידי ארגון הטרור חיזבאללה.",
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "0da0dc8e008c",
+      "title": "סופית בוטלו השיחות היום בין איראן לארה\"ב בשוויץ.",
+      "link": "https://hagizra.news/#msg-0da0dc8e008c",
+      "body": "סופית בוטלו השיחות היום בין איראן לארה\"ב בשוויץ.",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "465dd9ad6fd7",
+      "title": "דיווח | המשלחת האיראנית כבר התכוננה לצאת לשווייץ, אולם איראן השעתה את תחילת המו\"מ בן ה-60 יום עם ארה\"ב בגין הפרת הסעיף ה",
+      "link": "https://hagizra.news/#msg-465dd9ad6fd7",
+      "body": "דיווח | המשלחת האיראנית כבר התכוננה לצאת לשווייץ, אולם איראן השעתה את תחילת המו\"מ בן ה-60 יום עם ארה\"ב בגין הפרת הסעיף הראשון בהסכם - סעיף הפסקת האש - בגלל \"ההתקפות הישראליות בדרום לבנון\".",
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "2dd9295e4f3d",
+      "title": "דיווח סורי | כניסה של 9 נגמ''שים ישראליים לפרברי קוניטרה בדרום סוריה.",
+      "link": "https://hagizra.news/#msg-2dd9295e4f3d",
+      "body": "דיווח סורי | כניסה של 9 נגמ''שים ישראליים לפרברי קוניטרה בדרום סוריה.",
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "838932ddb96c",
+      "title": "התחזית | ירידה קלה בטמפרטורות בעיקר בפנים הארץ, מזג האוויר יוסיף להיות רגיל לעונה.",
+      "link": "https://hagizra.news/#msg-838932ddb96c",
+      "body": "התחזית | ירידה קלה בטמפרטורות בעיקר בפנים הארץ, מזג האוויר יוסיף להיות רגיל לעונה. עומס חום כבד צפוי בבקעה ובערבה, ומחר לא צפוי שינוי של ממש. (אילנית אדלר)",
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
+    },
+    {
+      "id": "d4705c5b603c",
+      "title": "תקיפות | תקיפות חיה\"א בשעה זו במחוז נבטיה שבדרום לבנון.",
+      "link": "https://hagizra.news/#msg-d4705c5b603c",
+      "body": "תקיפות | תקיפות חיה\"א בשעה זו במחוז נבטיה שבדרום לבנון. (301)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/93f34c754559.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bca5b2f7658a.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/dad63e76bc5e.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-19T07:27:56.415Z"
     }
   ],
   "errors": [
