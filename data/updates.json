@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T23:42:58.789Z",
+  "generatedAt": "2026-06-24T01:33:32.630Z",
   "sources": [
     {
       "id": "blackcat",
@@ -41,24 +41,6 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-05-29T17:55:41.821Z"
-    },
-    {
-      "id": "db4d3a1087b1",
-      "title": "שער יתד של מחר |",
-      "link": "https://hagizra.news/#msg-db4d3a1087b1",
-      "body": "שער יתד של מחר |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e54e9fd7d4e0.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 5,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-04T00:19:04.239Z"
     },
     {
       "id": "7bfb81d40273",
@@ -403,225 +385,6 @@
       "firstSeen": "2026-06-23T21:17:23.027Z"
     },
     {
-      "id": "6ad4dce4b50c",
-      "title": "זה ישראל פה?",
-      "link": "https://hagizra.news/#msg-6ad4dce4b50c",
-      "body": "זה ישראל פה? | המשטרה מורידה דגלי ישראל שנתלו בדרך לבית רימון בגליל כדי \"שלא יתסיסו את תושבי כפר כנא\". אפרופו דגלי ישראל | זו הכיכר בפניה לעיר הערבית רוואבי בבנימין. (ינון מגל).",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ddb58cedda55.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T21:17:23.027Z"
-    },
-    {
-      "id": "3901f5debd5a",
-      "title": "שוב דחייה | יובל שגב: נתניהו נפגש הלילה עם השר חיים כץ.",
-      "link": "https://hagizra.news/#msg-3901f5debd5a",
-      "body": "שוב דחייה | יובל שגב: נתניהו נפגש הלילה עם השר חיים כץ. בעקבות המשך המחלוקות על אופן קיום הפריימריז במפלגה השניים החליטו על דחיית ישיבת ועדת החוקה של הליכוד (שנועדה לקבוע את תקנון הפריימריז) מיום חמישי הקרוב ליום ראשון. מדובר בדחייה שניה של כינוס הוועדה.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T21:17:23.027Z"
-    },
-    {
-      "id": "936e1e465137",
-      "title": "מגוחך | הנשיא טראמפ: אני יכול ''לסיים את העבודה'' באיראן בפחות משבוע...",
-      "link": "https://hagizra.news/#msg-936e1e465137",
-      "body": "מגוחך | הנשיא טראמפ: אני יכול ''לסיים את העבודה'' באיראן בפחות משבוע... אבל הם יהיו בסדר... הם יעשו מה שהם צריכים לעשות.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T21:17:23.027Z"
-    },
-    {
-      "id": "9957163981f9",
-      "title": "השיחות עם לבנון | השיחות בין ישראל ללבנון צפויות להמשיך עד חמישי, כאשר במהלכן ישראל צפויה לסכם את מתכונת הנסיגה החלקית ב",
-      "link": "https://hagizra.news/#msg-9957163981f9",
-      "body": "השיחות עם לבנון | השיחות בין ישראל ללבנון צפויות להמשיך עד חמישי, כאשר במהלכן ישראל צפויה לסכם את מתכונת הנסיגה החלקית בדרום לבנון. ישנם חילוקי דעות פנימיים בנוגע לנקודות הנסיגה, וכן לגבי קצב ההתקדמות.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T21:17:23.027Z"
-    },
-    {
-      "id": "183a17271c3c",
-      "title": "טראמפ התלהב מאוקראינה | אסף רוזנצויייג: גורמים רשמיים אמרו כי טראמפ היה \"נלהב והתרשם מאוד\" מהקמפיין האוקראיני האחרון של ",
-      "link": "https://hagizra.news/#msg-183a17271c3c",
-      "body": "טראמפ התלהב מאוקראינה | אסף רוזנצויייג: גורמים רשמיים אמרו כי טראמפ היה \"נלהב והתרשם מאוד\" מהקמפיין האוקראיני האחרון של תקיפות ארוכות טווח נגד מטרות בעומק רוסיה. על פי הדיווח, טראמפ אמר בשבוע שעבר לזלנסקי כי התרשם מ\"ההישגים הצבאיים\" האחרונים של אוקראינה",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T21:17:23.027Z"
-    },
-    {
-      "id": "b3c1181647f9",
-      "title": "ללילה טוב יותר | מחבל מת מפצעיו לאחר שנפצע בתקיפת צה\"ל באזור מוואסי ח'אן יונס שבדרום רצועת עזה מוקדם יותר היום.",
-      "link": "https://hagizra.news/#msg-b3c1181647f9",
-      "body": "ללילה טוב יותר | מחבל מת מפצעיו לאחר שנפצע בתקיפת צה\"ל באזור מוואסי ח'אן יונס שבדרום רצועת עזה מוקדם יותר היום.",
-      "time": null,
-      "channelName": null,
-      "position": 6,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "054dea7f71a0",
-      "title": "הגיזרה💥 22:11",
-      "link": "https://hagizra.news/#msg-054dea7f71a0",
-      "body": "הגיזרה💥 22:11",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/060acb9f2ba1.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 7,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "34dcd0f4dfac",
-      "title": "יפה | דיווח סורי: כוחותינו פועלים כעת גם בדרום קונייטרה, אשר בדרום סוריה.",
-      "link": "https://hagizra.news/#msg-34dcd0f4dfac",
-      "body": "יפה | דיווח סורי: כוחותינו פועלים כעת גם בדרום קונייטרה, אשר בדרום סוריה.",
-      "time": null,
-      "channelName": null,
-      "position": 8,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "19f001841758",
-      "title": "🤭 | תראו מה המצב האמינות של טראמפ.",
-      "link": "https://hagizra.news/#msg-19f001841758",
-      "body": "🤭 | תראו מה המצב האמינות של טראמפ. הציבור יותר \"מאמין לאיראנים\".",
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "bd491ef56e69",
-      "title": "סקר קטן |האם אתם מאמינים לטראמפ כשהוא אומר שיבואו לפקח על הפעילות הגרעינית?או לאיראנים שמכחישים את זה.",
-      "link": "https://hagizra.news/#msg-bd491ef56e69",
-      "body": "סקר קטן |האם אתם מאמינים לטראמפ כשהוא אומר שיבואו לפקח על הפעילות הגרעינית?או לאיראנים שמכחישים את זה. 👍 מאמינים לטראמפ.🤭 מאמינים לאיראנים.",
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "90d9d509deb3",
-      "title": "נהגים שימו לב | אלו 19 המוקדים ברחבי הארץ שמהם יצאו השיירות של אגו”י והפלג.",
-      "link": "https://hagizra.news/#msg-90d9d509deb3",
-      "body": "נהגים שימו לב | אלו 19 המוקדים ברחבי הארץ שמהם יצאו השיירות של אגו”י והפלג.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/595dba91b950.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "e70d37ea7267",
-      "title": "עדכון | הסתיים יום השיחות הראשון בין ישראל ללבנון.",
-      "link": "https://hagizra.news/#msg-e70d37ea7267",
-      "body": "עדכון | הסתיים יום השיחות הראשון בין ישראל ללבנון. (עמיחי שטיין).",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "2f4cff9bf7cb",
-      "title": "סיכום חדשות היום | (זירת החדשות).",
-      "link": "https://hagizra.news/#msg-2f4cff9bf7cb",
-      "body": "סיכום חדשות היום | (זירת החדשות). 😒 הנשיא טראמפ: בניגוד להכחשותיה, איראן הסכימה לפיקוח ברמה הגבוהה ביותר על הפעילות הגרעינית שלה. 🙄 הבוקר הודיעה איראן כי הסתיים השלב הטכני של השיחות, וכי הושגו הסכמות על המשך השיחות. 💯 שר החוץ האמריקני רוביו: אי אפשר לסיים את המלחמה אם שליחי איראן ממשיכים לשגר טילים. תיק לבנון מופרד מתיק איראן. 🙃 הסנאט האמריקני אישר החלטה לפיה יידרש אישור מהקונגרס כדי להמשיך במ",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
-      "id": "e144e5c5aace",
-      "title": "אין לתאר | יונית לוי על שיירת הרכבים החסידית מחר: ״מי מממן את השיירות האלה למשל?",
-      "link": "https://hagizra.news/#msg-e144e5c5aace",
-      "body": "אין לתאר | יונית לוי על שיירת הרכבים החסידית מחר: ״מי מממן את השיירות האלה למשל? זו גם שאלה״.פתאום מעניין מי מממן את המחאות. (אדמקר).",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T22:42:57.014Z"
-    },
-    {
       "id": "33af405fd2fd",
       "title": "רצועת עזה | ילדי מחנה הפליטים אלמע'אזי במרכז הרצועה מתפלשים ב\"נחל\" בעקבות הזרמת הבטון של צה\"ל באזור - במטרה לאטום מנהרות",
       "link": "https://hagizra.news/#msg-33af405fd2fd",
@@ -631,7 +394,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -646,7 +409,7 @@
       "body": "מיצרי הורמוז | עומאן הודיעה כי תיאמה עם הארגון הימי הבין-לאומי לאומי (IMO) הקמת נתיב ימי זמני עבור כלי שיט המבקשים לעבור במצר הורמוז. לפי הדיווח בסוכנות הידיעות הממלכתית, כלי שיט שירצו להשתמש בנתיב הזמני יידרשו לתאם זאת עם הארגון הימי הבין-לאומי. עוד נכתב כי המהלך נועד להבטיח את חופש השיט במעבר הימי, בהתאם למשפט הבין-לאומי ולדיני הים, המעגנים את עקרון חופש השיט ואינם מאפשרים הטלת אגרות מעבר. (אסף ",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -655,10 +418,43 @@
       "firstSeen": "2026-06-23T23:42:58.789Z"
     },
     {
-      "id": "80a00376f730",
-      "title": "דיווח בפייננשל טיימס | ברוסיה מאוכזבים ממה שנראה כשינוי גישה של טראמפ ונכונות גוברת שלו להגדיל את התמיכה באוקראינה.",
-      "link": "https://hagizra.news/#msg-80a00376f730",
-      "body": "דיווח בפייננשל טיימס | ברוסיה מאוכזבים ממה שנראה כשינוי גישה של טראמפ ונכונות גוברת שלו להגדיל את התמיכה באוקראינה. שר החוץ של רוסיה סרגיי לברוב אמר היום כי ארצות הברית \"ככל הנראה נסוגה מתפקידה כמתווכת אובייקטיבית\" במלחמה, וכי היא \"שכחה\" את הצהרותיו של טראמפ מהשנה שעברה. (אסף רוזנצווייג)",
+      "id": "f50b23aa9c45",
+      "title": "מיצרי הורמוז | קוריאה הדרומית הודיעה כי 4 כלי שיט המופעלים בידי חברות ספנות דרום קוריאניות יצאו ממצר הורמוז והן מפליגות ",
+      "link": "https://hagizra.news/#msg-f50b23aa9c45",
+      "body": "מיצרי הורמוז | קוריאה הדרומית הודיעה כי 4 כלי שיט המופעלים בידי חברות ספנות דרום קוריאניות יצאו ממצר הורמוז והן מפליגות כעת לעבר יעדיהן הסופיים. על פי ההודעה, אחת הספינות עושה את דרכה חזרה לקוריאה הדרומית, בעולם ששלוש הספינות האחרות מפליגות למדינות אחרות. עוד נטען כי 18 ספינות עדיין תקועות במצר.",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "7db61291ef43",
+      "title": "מגיפה | מספר מקרי האבולה המאומתים ברפובליקה הדמוקרטית של קונגו עלה ל-1094, ובהם 277 מקרי מוות.",
+      "link": "https://hagizra.news/#msg-7db61291ef43",
+      "body": "מגיפה | מספר מקרי האבולה המאומתים ברפובליקה הדמוקרטית של קונגו עלה ל-1094, ובהם 277 מקרי מוות.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "95ce290c2aa1",
+      "title": "בהצלחה רבה | פעילות כוחותינו כעת במחנה הפליטים שועפט בגזרת ירושלים.",
+      "link": "https://hagizra.news/#msg-95ce290c2aa1",
+      "body": "בהצלחה רבה | פעילות כוחותינו כעת במחנה הפליטים שועפט בגזרת ירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3f950126f8b6.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 2,
@@ -667,13 +463,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T23:42:58.789Z"
+      "firstSeen": "2026-06-24T01:33:32.630Z"
     },
     {
-      "id": "46a19b71b7ea",
-      "title": "בחייהם ובמותם לא נפרדו | טרגדיה כואבת בבני ברק, כחודש לאחר שבעלה, הרב משה צרף זצ\"ל, נפטר במהלך חתונת נכדם באולמי 'כתר הר",
-      "link": "https://hagizra.news/#msg-46a19b71b7ea",
-      "body": "בחייהם ובמותם לא נפרדו | טרגדיה כואבת בבני ברק, כחודש לאחר שבעלה, הרב משה צרף זצ\"ל, נפטר במהלך חתונת נכדם באולמי 'כתר הרימון' בבני ברק, נפטרה הערב רעייתו, הרבנית הרצליה צרף ע\"ה, בדיוק ביום הולדתה ה-72, המנוחה הייתה דמות אהובה בעיר, ושימשה למעלה מ-40 שנה ככתובת לחסד וטהרה עבור אלפי בנות ישראל, הלוויתה תתקיים בשעה 10:30 מבית הכנסת הספרדי המרכזי ברמת אלחנן, לבית העלמין אלעד.",
+      "id": "919d442edbf1",
+      "title": "רעש מרגיע | ירי כבד של חיל האוויר הלילה מזרחית למחנה הפליטים ג'באליה בצפון רצועת עזה.",
+      "link": "https://hagizra.news/#msg-919d442edbf1",
+      "body": "רעש מרגיע | ירי כבד של חיל האוויר הלילה מזרחית למחנה הפליטים ג'באליה בצפון רצועת עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b36e214f0d89.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -682,13 +481,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T23:42:58.789Z"
+      "firstSeen": "2026-06-24T01:33:32.630Z"
     },
     {
-      "id": "6644d4faf8e9",
-      "title": "כביש חדש | לידיעת נהגים בעיר ב\"ב: בשעה זו מתקיימות עבודות ריבוד הכביש ברחוב חזון איש בעיר, הכביש חסום לתנועה מפינת רחוב ",
-      "link": "https://hagizra.news/#msg-6644d4faf8e9",
-      "body": "כביש חדש | לידיעת נהגים בעיר ב\"ב: בשעה זו מתקיימות עבודות ריבוד הכביש ברחוב חזון איש בעיר, הכביש חסום לתנועה מפינת רחוב עזרא חזון איש, העבודות יימשכו עד לשעה 5 בבוקר, סעו בדרכים חלופיות. (ידיעות בני ברק)",
+      "id": "d1b36ba9292b",
+      "title": "התקיפות בעזה | תיעוד |",
+      "link": "https://hagizra.news/#msg-d1b36ba9292b",
+      "body": "התקיפות בעזה | תיעוד |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/724431241e53.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -697,7 +499,235 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-23T23:42:58.789Z"
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "147e527a3a21",
+      "title": "בשטח | כוח צה''ל בפעילות הערב בכפר אל-לובן אל-שרקיה, דרומית לשכם.",
+      "link": "https://hagizra.news/#msg-147e527a3a21",
+      "body": "בשטח | כוח צה''ל בפעילות הערב בכפר אל-לובן אל-שרקיה, דרומית לשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/023ad9b20f17.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "d283e19bcab9",
+      "title": "ויהי אור | חיל האוויר יורים פצצות תאורה בשמיים מעל אזוריה הדרומיים של העיר חאן יונס, בדרום רצועת עזה.",
+      "link": "https://hagizra.news/#msg-d283e19bcab9",
+      "body": "ויהי אור | חיל האוויר יורים פצצות תאורה בשמיים מעל אזוריה הדרומיים של העיר חאן יונס, בדרום רצועת עזה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b98e4ca589f9.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "97761130c9ab",
+      "title": "דרום חברון | כוח צה''ל בפעילות הצהריים בעיר דורא.",
+      "link": "https://hagizra.news/#msg-97761130c9ab",
+      "body": "דרום חברון | כוח צה''ל בפעילות הצהריים בעיר דורא.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/27e3b17108b4.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "0ea5c8b96e86",
+      "title": "מכת הרחפנים | חיזבאללה מפרסם תיעוד ב-17 ביוני 2026, המציג כוח צבא ישראלי הממוקם בפאתי כפר תבנית בדרום לבנון, באמצעות רחפ",
+      "link": "https://hagizra.news/#msg-0ea5c8b96e86",
+      "body": "מכת הרחפנים | חיזבאללה מפרסם תיעוד ב-17 ביוני 2026, המציג כוח צבא ישראלי הממוקם בפאתי כפר תבנית בדרום לבנון, באמצעות רחפן מסוג עבאביל.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f9b980552b46.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "307fa0d3f42c",
+      "title": "עוד משכם | כוח צה''ל במעצר של מחבל על אופנוע הבוקר בעיר.",
+      "link": "https://hagizra.news/#msg-307fa0d3f42c",
+      "body": "עוד משכם | כוח צה''ל במעצר של מחבל על אופנוע הבוקר בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/49c828664c53.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "40fb790faaaf",
+      "title": "שכם | פעילות נרחבת של כוחותינו הבוקר בעיר.",
+      "link": "https://hagizra.news/#msg-40fb790faaaf",
+      "body": "שכם | פעילות נרחבת של כוחותינו הבוקר בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a2923300e940.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6689f5060e0f.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/46363ee03dbd.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/82dfd47f6312.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "da46eaea1bd4",
+      "title": "חברון | כוח צה''ל בפעילות הריסה במרחב הבוקר.",
+      "link": "https://hagizra.news/#msg-da46eaea1bd4",
+      "body": "חברון | כוח צה''ל בפעילות הריסה במרחב הבוקר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/808f0babe272.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "2c7d45605bc0",
+      "title": "בשורה חשובה למשתמשי הטלפונים הכשרים | ועדת המדע אישרה לקריאה שניה ושלישית הצעת חוק שיזם סגן שר התקשורת ישראל אייכלר לחיי",
+      "link": "https://hagizra.news/#msg-2c7d45605bc0",
+      "body": "בשורה חשובה למשתמשי הטלפונים הכשרים | ועדת המדע אישרה לקריאה שניה ושלישית הצעת חוק שיזם סגן שר התקשורת ישראל אייכלר לחייב מתן שירותים ממשלתיים גם במענה טלפוני ולא רק באמצעים דיגיטליים. סגן השר אייכלר בירך את חברי הוועדה על עבודתם המאומצת להביא לקידום ואישור החקיקה והביע תקווה כי בקרוב מליאת הכנסת תצביע בעד החוק, והסביר כי \"מדובר בחקיקה חשובה שמסייעת לאזרח הפשוט מול הבירוקרטיה הממשלתית הדרוסנית. גם",
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "bc60301b5f66",
+      "title": "פרטים נוספים על אירועי הירי בקנדה | הלווייתו של מיכאל מזרחי ז״ל תתקיים מחר בשעה 09:30 בבוקר (שעון קנדה, 16:30 בישראל).",
+      "link": "https://hagizra.news/#msg-bc60301b5f66",
+      "body": "פרטים נוספים על אירועי הירי בקנדה | הלווייתו של מיכאל מזרחי ז״ל תתקיים מחר בשעה 09:30 בבוקר (שעון קנדה, 16:30 בישראל). גופתו הועברה היום למכון פייפרמן לאחר שהושלם הליך הזיהוי הסופי. לאחר ההלוויה צפוי ארונו להגיע לישראל, שם יובא למנוחות לצד בני משפחתו. בקהילה היהודית מספרים כי המלון שממנו יצאו היורים עדיין סגור ומאובטח בידי המשטרה, שכוחותיה ממשיכים גם בשעות אלו בסיורים ובפעילות מוגברת ברחבי העיר. א",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "da3364162766",
+      "title": "תקינות | בעקבות רצף התקלות החוזרות ברכבת הקלה בירושלים, מנכ״ל משרד התחבורה משה בן-זקן קבע דיון דחוף על מנת לבחון אפשרות ",
+      "link": "https://hagizra.news/#msg-da3364162766",
+      "body": "תקינות | בעקבות רצף התקלות החוזרות ברכבת הקלה בירושלים, מנכ״ל משרד התחבורה משה בן-זקן קבע דיון דחוף על מנת לבחון אפשרות להחלפת הזכיין ״כפיר״ בטווח הזמן המיידי. (קובי ישראל)",
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "a40c794d5ecc",
+      "title": "בדרך המלך | מרן ראש הישיבה הגרמ\"ה הירש צועד למטוס בדרכו למסע קרן עולם התורה בטורונטו שבקנדה.",
+      "link": "https://hagizra.news/#msg-a40c794d5ecc",
+      "body": "בדרך המלך | מרן ראש הישיבה הגרמ\"ה הירש צועד למטוס בדרכו למסע קרן עולם התורה בטורונטו שבקנדה. (קובי ישראל)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6c266743fa37.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "57a0051269e2",
+      "title": "מכת הפריצות לעסקים בב\"ב | שבוע לאחר הפריצה לחנות “הצורפים” בבני ברק, שבמהלכה נגנבו פריטים שהוצבו על דלת הכניסה ונגרם לה ",
+      "link": "https://hagizra.news/#msg-57a0051269e2",
+      "body": "מכת הפריצות לעסקים בב\"ב | שבוע לאחר הפריצה לחנות “הצורפים” בבני ברק, שבמהלכה נגנבו פריטים שהוצבו על דלת הכניסה ונגרם לה נזק, הושלמו עבודות התיקון והשיפוץ במקום. (קובי ישראל)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a89f808c2f1c.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
+    },
+    {
+      "id": "2e6f69e6591e",
+      "title": "איראן | ערב עאשוראא' מול הכיסא הריק....",
+      "link": "https://hagizra.news/#msg-2e6f69e6591e",
+      "body": "איראן | ערב עאשוראא' מול הכיסא הריק.... עם התמונה של עלי ח'אמינאי המנהיג העליון שחוסל. והילד שמחייך... (אבו עלי)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/878a76e63027.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-24T01:33:32.630Z"
     }
   ],
   "errors": [
