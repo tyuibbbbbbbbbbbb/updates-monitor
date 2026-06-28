@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T23:40:54.774Z",
+  "generatedAt": "2026-06-28T01:42:50.025Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,6 +24,24 @@
     }
   ],
   "items": [
+    {
+      "id": "db4d3a1087b1",
+      "title": "שער יתד של מחר |",
+      "link": "https://hagizra.news/#msg-db4d3a1087b1",
+      "body": "שער יתד של מחר |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e822d7d2b93b.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-04T00:19:04.239Z"
+    },
     {
       "id": "d41d8cd98f00",
       "title": "תמונה",
@@ -364,91 +382,6 @@
       "firstSeen": "2026-06-27T22:35:47.705Z"
     },
     {
-      "id": "bdb0f9197d1d",
-      "title": "אל תגידו שאין סט חסידי לאורגן מדלי.🎹 | ✨ סט המקצבים החסידי של שוקי אייזנבאך פרץ את השיגרה והביא איתו בשורה חדשה לאורגן ",
-      "link": "https://hagizra.news/#msg-bdb0f9197d1d",
-      "body": "אל תגידו שאין סט חסידי לאורגן מדלי.🎹 | ✨ סט המקצבים החסידי של שוקי אייזנבאך פרץ את השיגרה והביא איתו בשורה חדשה לאורגן מדלי דנטה זן.✨ לשמיעת הסט המלא ולרכישה כנסו כאן",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5dbdf49223d2.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5dc647c9feb1.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T22:35:47.705Z"
-    },
-    {
-      "id": "37319fe87b43",
-      "title": "מחאה בצפת | עשרות חרדים הפגינו השבת בצפת נגד הפעלת תחבורה ציבורית בשבת במתחם התחנה המרכזית.",
-      "link": "https://hagizra.news/#msg-37319fe87b43",
-      "body": "מחאה בצפת | עשרות חרדים הפגינו השבת בצפת נגד הפעלת תחבורה ציבורית בשבת במתחם התחנה המרכזית. (צולם ע\"י גוי).",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c1992de50e41.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T22:35:47.705Z"
-    },
-    {
-      "id": "fa5942e9c3c2",
-      "title": "הצלה יו\"ש ללא גבולות | ז\"א לעבר רכבים בציר גלעד בין הפניה למוצב הסלע לצומת יצהר הקטנה נזק שימשה לאחד הרכבים ללא נפגעים.",
-      "link": "https://hagizra.news/#msg-fa5942e9c3c2",
-      "body": "הצלה יו\"ש ללא גבולות | ז\"א לעבר רכבים בציר גלעד בין הפניה למוצב הסלע לצומת יצהר הקטנה נזק שימשה לאחד הרכבים ללא נפגעים. הטרור הערבי | הנזק שנגרם לרכב בפיגוע אבנים בציר גלעד - בנס אין נפגעים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7a6168d7d721.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T22:35:47.705Z"
-    },
-    {
-      "id": "3656bcd018b6",
-      "title": "ציפורניים שלופות | טראמפ: התקשרתי לנתניהו והודעתי לו שאם יהיה צורך ארה\"ב תילחם נגד איראן בציפורניים.",
-      "link": "https://hagizra.news/#msg-3656bcd018b6",
-      "body": "ציפורניים שלופות | טראמפ: התקשרתי לנתניהו והודעתי לו שאם יהיה צורך ארה\"ב תילחם נגד איראן בציפורניים.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T22:35:47.705Z"
-    },
-    {
-      "id": "1225e7b9338a",
-      "title": "שוד רכב בכביש 55 ⚠️ | לפני זמן קצר נשדד רכב מנהג ישראלי סמוך לכיכר נבי אליאס המערבית (ייתכן ונשדד בתוך הכפר).",
-      "link": "https://hagizra.news/#msg-1225e7b9338a",
-      "body": "שוד רכב בכביש 55 ⚠️ | לפני זמן קצר נשדד רכב מנהג ישראלי סמוך לכיכר נבי אליאס המערבית (ייתכן ונשדד בתוך הכפר). לטענת הנהג הוא הותקף ע\"י שני חשודים שנמלטו עם רכבו. הנהג נפצע ופונה לבית החולים.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T22:35:47.705Z"
-    },
-    {
       "id": "2cf36dca9dc4",
       "title": "שערי האזור הירוק בבגדאד נסגרו | הסיבה לכך אינה ידועה בשלב זה.הסבר קצר על האזור:זהו מתחם מאובטח מאוד שבו נמצאים בין היתר.",
       "link": "https://hagizra.news/#msg-2cf36dca9dc4",
@@ -458,7 +391,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -473,7 +406,7 @@
       "body": "מחסור | טור דעה במגזין Foreign Policy מצטט בלוגרים צבאיים רוסים שאומרים כי זמן החיים הממוצע של מגויס חדש, מהגעה לאימונים ועד מוות בשדה הקרב, נע בין 10 ימים לשלושה שבועות בלבד. עוד נטען כי מרגע שחיילים נשלחים לחזית עצמה, תוחלת החיים שלהם יכולה להצטמצם לכ-20 עד 35 דקות בלבד.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -488,7 +421,7 @@
       "body": "טרגדיה בבני ברק | פעוטה בת חודש לא התעוררה בשבת בבוקר בביתה ברחוב עמק יזרעאל. צוותי מד״א ביצעו פעולות החייאה ופינו אותה במצב אנוש לבית החולים שניי... **הטרגדיה בבני ברק | הפעוטה אפרת שער ע\"ה, בת חודש בלבד ובתו של הרב מיכאל שער, נפטרה במהלך השבת בבית החולים לאחר שלא התעוררה בביתה שברחוב עמק יזרעאל בעיר. צוותי הצלה ביצעו בה פעולות החייאה ופינו אותה במצב אנוש לבית החולים, אך שם נאלצו הרופאים לקבוע את",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -506,7 +439,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -524,7 +457,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -542,7 +475,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -560,7 +493,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -569,13 +502,121 @@
       "firstSeen": "2026-06-27T23:40:54.774Z"
     },
     {
-      "id": "f44c6ff94fb1",
-      "title": "הלב של ירושלים נשבר!הרה\"ח ר' נתנאל ויזל ז\"ל, נפטר בפתאומיות מבהילה והותיר 14 ילדים המומים וחסרי כל!",
-      "link": "https://hagizra.news/#msg-f44c6ff94fb1",
-      "body": "הלב של ירושלים נשבר!הרה\"ח ר' נתנאל ויזל ז\"ל, נפטר בפתאומיות מבהילה והותיר 14 ילדים המומים וחסרי כל! האלמנה המסכנה לא מסוגלת להתמודד לבדה עם האבל, הצער וההוצאות הכבדות….והם נמצאים במצוקה קשה, רעבים ללחם!בבית יושבת כלה (בכורה) שאין שום אמצעים לחתן אותה! פוסק הדור הגר\"י הלוי היימליך שליט\"א זועק להתגייס:\"האלמנה נמצאת במצוקה מהוצאות חיי היום יום ואין בידה כלום, מצבה זועק עד לשמייםאזרו חיל ועמדו לימינה…",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8189b614974b.png"
+      "id": "17c575592aa4",
+      "title": "מבט מהאוויר | תיעוד מהתקיפות האמריקניות נגד 10 יעדים אירניים באזור הורמוז.",
+      "link": "https://hagizra.news/#msg-17c575592aa4",
+      "body": "מבט מהאוויר | תיעוד מהתקיפות האמריקניות נגד 10 יעדים אירניים באזור הורמוז.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a1d36896506f.bin"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "6456c2472260",
+      "title": "חכו חכו | משמרות המהפכה קיבלו אחריות על המתקפה נגד בחרין וכווית - כך על פי דיווח בסוכנות הידיעות תנסים: \"כל כלי שיט שיפר",
+      "link": "https://hagizra.news/#msg-6456c2472260",
+      "body": "חכו חכו | משמרות המהפכה קיבלו אחריות על המתקפה נגד בחרין וכווית - כך על פי דיווח בסוכנות הידיעות תנסים: \"כל כלי שיט שיפר את הריבונות יטופל מעתב בכוח רב יותר. כל תוקפנות מצד האויב תזכה לתגובה מוחצת\". (12)",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "672429feafa9",
+      "title": "שמי בחריין |",
+      "link": "https://hagizra.news/#msg-672429feafa9",
+      "body": "שמי בחריין |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3dd7d06646b6.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "392dc35d773e",
+      "title": "שוב | תקיפות איראניות על בחריין.",
+      "link": "https://hagizra.news/#msg-392dc35d773e",
+      "body": "שוב | תקיפות איראניות על בחריין.",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "9ced3d5d7b42",
+      "title": "ירושלים | רכב התנגש במעקה בטיחות בסמוך לצומת פת, ברח' הרב הרצוג.",
+      "link": "https://hagizra.news/#msg-9ced3d5d7b42",
+      "body": "ירושלים | רכב התנגש במעקה בטיחות בסמוך לצומת פת, ברח' הרב הרצוג. חובשים מעניקים טיפול רפואי ומפנים לבי\"ח שערי צדק צעיר בן 23 במצב קשה, בהכרה עם חבלה רב מערכתית.",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "7c88d4d295d6",
+      "title": "נקמה איראנית | פיצוצים נשמעים בכווית.",
+      "link": "https://hagizra.news/#msg-7c88d4d295d6",
+      "body": "נקמה איראנית | פיצוצים נשמעים בכווית.",
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "e29c0942a1c8",
+      "title": "האלימות בחברה הערבית | נקבע מותו של צעיר בן 20 באירוע ירי בטייבה.",
+      "link": "https://hagizra.news/#msg-e29c0942a1c8",
+      "body": "האלימות בחברה הערבית | נקבע מותו של צעיר בן 20 באירוע ירי בטייבה. צוותי רפואה שהגיעו לזירה פינו מהמקום פצוע נוסף, צעיר כבן 20 במצב קשה.",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T01:42:50.025Z"
+    },
+    {
+      "id": "b93f5fc3dd08",
+      "title": "תאונות הדרכים | רוכב קורקינט חשמלי נפגע מרכב בכביש 20 (איילון דרום) בסמוך למחלף קיבוץ גלויות.",
+      "link": "https://hagizra.news/#msg-b93f5fc3dd08",
+      "body": "תאונות הדרכים | רוכב קורקינט חשמלי נפגע מרכב בכביש 20 (איילון דרום) בסמוך למחלף קיבוץ גלויות. חובשים ופרמדיקים מעניקים טיפול רפואי ומפנים לבי\"ח איכילוב גבר כבן 30 במצב קשה, בהכרה עם חבלה רב מערכתית.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -584,13 +625,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
+      "firstSeen": "2026-06-28T01:42:50.025Z"
     },
     {
-      "id": "90fbc0f0bda9",
-      "title": "סקר מוצ\"ש | הסכם המסגרת עם לבנון: 👍 בעד 👎 נגד 😶 אין לי דעה 😔 אין באפשרותי להכריע על פי מיעוט הפרטים המתפרסמים",
-      "link": "https://hagizra.news/#msg-90fbc0f0bda9",
-      "body": "סקר מוצ\"ש | הסכם המסגרת עם לבנון: 👍 בעד 👎 נגד 😶 אין לי דעה 😔 אין באפשרותי להכריע על פי מיעוט הפרטים המתפרסמים",
+      "id": "4d1b89d68bb0",
+      "title": "לילה רועש | כעת: דיווחים על פיצוצים בבחריין.",
+      "link": "https://hagizra.news/#msg-4d1b89d68bb0",
+      "body": "לילה רועש | כעת: דיווחים על פיצוצים בבחריין. (ברק בטש)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -599,31 +640,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
+      "firstSeen": "2026-06-28T01:42:50.025Z"
     },
     {
-      "id": "e932bcede1b4",
-      "title": "מספר מטורף | בוונצואלה מדווחים על לפחות 68,900 נעדרים בעקבות רעידות האדמה.",
-      "link": "https://hagizra.news/#msg-e932bcede1b4",
-      "body": "מספר מטורף | בוונצואלה מדווחים על לפחות 68,900 נעדרים בעקבות רעידות האדמה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e7091ed89fb5.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
-    },
-    {
-      "id": "d3aed044680a",
-      "title": "רגע לפני 'המפיל' 😴 הגיזרה - ערוץ העדכונים, כעת גם בטלפון!",
-      "link": "https://hagizra.news/#msg-d3aed044680a",
-      "body": "רגע לפני 'המפיל' 😴 הגיזרה - ערוץ העדכונים, כעת גם בטלפון! 💥 077-814-0053 / 0733-510-267 / 079-499-8640 📞",
+      "id": "ad4db4db01a5",
+      "title": "סיכום חדשות השבת והערב | (זירת החדשות) אחרי 44 שנים: ישראל ולבנון חתמו על הסכם מסגרת שבמסגרתו צבא לבנון יחליף את נוכחות ",
+      "link": "https://hagizra.news/#msg-ad4db4db01a5",
+      "body": "סיכום חדשות השבת והערב | (זירת החדשות) אחרי 44 שנים: ישראל ולבנון חתמו על הסכם מסגרת שבמסגרתו צבא לבנון יחליף את נוכחות צה''ל, בכפוף לפירוק חיזבאללה מנשקו. נתניהו בהצהרה: מתכוון להקים ממשלה לאומית רחבה, די לחרמות. אני רוצה להגיע להסכמות רחבות גם על מערכת המשפט ונושא הגיוס. שתי נערות בנות 13-15 טבעו היום למוות בנהר הירדן. בתגובה לשיגור הכטב\"מים לעבר מצר הורמוז ביום חמישי: צבא ארה\"ב תקף באיראן בליל ",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -632,15 +655,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
+      "firstSeen": "2026-06-28T01:42:50.025Z"
     },
     {
-      "id": "59f9c08df54c",
-      "title": "פתאום החמוצים נגד נסיגות | (עמית סגל)",
-      "link": "https://hagizra.news/#msg-59f9c08df54c",
-      "body": "פתאום החמוצים נגד נסיגות | (עמית סגל)",
+      "id": "7e41bd8fd246",
+      "title": "כמה סמלי | תומכי חזבאללה מציתים הלילה את שלטי החוצות עליהם נכתב: \"לבנון תחילה\" על הכביש המוביל לשדה\"ת של ביירות.",
+      "link": "https://hagizra.news/#msg-7e41bd8fd246",
+      "body": "כמה סמלי | תומכי חזבאללה מציתים הלילה את שלטי החוצות עליהם נכתב: \"לבנון תחילה\" על הכביש המוביל לשדה\"ת של ביירות. לפני כן היו שם שלטי חוצות עם הכיתוב: \"תודה איראן\". (אבו עלי)",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0b52f2fe51c3.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d787302567fb.bin"
       ],
       "time": null,
       "channelName": null,
@@ -650,13 +673,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
+      "firstSeen": "2026-06-28T01:42:50.025Z"
     },
     {
-      "id": "7a035f5fcdbb",
-      "title": "רוצים להתגרות בטראמפ | הטלוויזיה האיראנית: בשעה הקרובה יפורסמו הפרטים הרשמיים של הפעולה הלילית שביצעו לוחמי הכוח הימי של",
-      "link": "https://hagizra.news/#msg-7a035f5fcdbb",
-      "body": "רוצים להתגרות בטראמפ | הטלוויזיה האיראנית: בשעה הקרובה יפורסמו הפרטים הרשמיים של הפעולה הלילית שביצעו לוחמי הכוח הימי של משמרות המהפכה נגד הכוחות האמריקאים התוקפים ....",
+      "id": "98b832fc0fee",
+      "title": "אין מקום לטרור | המשטרה פשטה על מתחם חתונה בעיר טייבה לאחר שהתקבל דיווח על קולות ירי במקום.",
+      "link": "https://hagizra.news/#msg-98b832fc0fee",
+      "body": "אין מקום לטרור | המשטרה פשטה על מתחם חתונה בעיר טייבה לאחר שהתקבל דיווח על קולות ירי במקום. במהלך הפעילות, שניים מאורחי החתונה טיפסו על גג ניידת המשטרה וגרמו לה נזק, כשהאירוע תועד והופץ ברשתות החברתיות. הם נעצרו תוך זמן קצר. (12)",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -665,37 +688,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
-    },
-    {
-      "id": "bb4b675b35f2",
-      "title": "לבנתיים | גורם הגנה אמריקאי אומר שהתקיפות האמריקאיות על מטרות איראניות הלילה \"הושלמו\".",
-      "link": "https://hagizra.news/#msg-bb4b675b35f2",
-      "body": "לבנתיים | גורם הגנה אמריקאי אומר שהתקיפות האמריקאיות על מטרות איראניות הלילה \"הושלמו\".",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
-    },
-    {
-      "id": "c6d95cd74136",
-      "title": "בנט | מתקשרים אלי בלי סוף מחבלי חיזבאללה שטוענים שההסכם לא טוב.",
-      "link": "https://hagizra.news/#msg-c6d95cd74136",
-      "body": "בנט | מתקשרים אלי בלי סוף מחבלי חיזבאללה שטוענים שההסכם לא טוב. (ינון מגל)",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-27T23:40:54.774Z"
+      "firstSeen": "2026-06-28T01:42:50.025Z"
     }
   ],
   "errors": [
