@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T20:38:21.715Z",
+  "generatedAt": "2026-06-28T21:45:36.422Z",
   "sources": [
     {
       "id": "blackcat",
@@ -406,7 +406,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -424,7 +424,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -439,7 +439,7 @@
       "body": "דממת אלחוט | בנט: אזרחים רבים מתקשרים אליי שהם לא שומעים שום פיצוץ. (ינון מגל)",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -457,7 +457,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -475,7 +475,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -490,7 +490,7 @@
       "body": "ההפגנות נגד הרכבת הקלה בירושלים | מרדכי הלפרין: 2 שוטרים נפצעו הערב באורח קל בהפגנת הקיצוניים בירושלים, מיידוי אבנים וחפצים.",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -499,10 +499,109 @@
       "firstSeen": "2026-06-28T20:38:21.715Z"
     },
     {
-      "id": "14ad17aeddd6",
-      "title": "הודעה משותפת לראש הממשלה בנימין נתניהו ולשר הביטחון ישראל כ\"ץ |במסגרת מבצע \"סוף פסוק\", צה\"ל השמיד כעת את תשתית הטרור התת",
-      "link": "https://hagizra.news/#msg-14ad17aeddd6",
-      "body": "הודעה משותפת לראש הממשלה בנימין נתניהו ולשר הביטחון ישראל כ\"ץ |במסגרת מבצע \"סוף פסוק\", צה\"ל השמיד כעת את תשתית הטרור התת-קרקעית של ארגון הטרור חיזבאללה במרחב הכפר מג'דל זון שבדרום לבנון.התוואי, שאורכו למעלה מ-200 מטרים ובעומק של יותר מ-25 מטרים, הכיל בתוכו מאות אמצעי לחימה ומספר פירי שיגור שיועדו לפגיעה בשטח מדינת ישראל ובאזרחיה.ישראל עדכנה מראש את ארה\"ב ואת הנציג האמריקאי בלבנון על השמדת התשתית.מ",
+      "id": "d73d947e4988",
+      "title": "ובינתיים | דיווחים על תקיפות של צבא פקיסטן נגד מטרות במזרח אפגניסטן.",
+      "link": "https://hagizra.news/#msg-d73d947e4988",
+      "body": "ובינתיים | דיווחים על תקיפות של צבא פקיסטן נגד מטרות במזרח אפגניסטן.",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T21:45:36.422Z"
+    },
+    {
+      "id": "e8a24ca9185e",
+      "title": "נחמד | תיעוד נוסף מפיצוץ המנהרה בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-e8a24ca9185e",
+      "body": "נחמד | תיעוד נוסף מפיצוץ המנהרה בדרום לבנון. (ינון מגל).",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f89eb5892064.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T21:45:36.422Z"
+    },
+    {
+      "id": "85d007e9fb21",
+      "title": "צבע שחור | ניסיון הסגרה של בן ישיבה כעת ברחוב צמח השדה 11 במעלה אדומים.",
+      "link": "https://hagizra.news/#msg-85d007e9fb21",
+      "body": "צבע שחור | ניסיון הסגרה של בן ישיבה כעת ברחוב צמח השדה 11 במעלה אדומים.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T21:45:36.422Z"
+    },
+    {
+      "id": "19cbea827e2f",
+      "title": "פרשנות על ההסכם עם לבנון | מוטי קסטל: הסכם המסגרת שנחתם עם לבנון הוא הישג מדהים וכמעט בלתי נתפס של רה\"מ נתניהו.מול גלי ה",
+      "link": "https://hagizra.news/#msg-19cbea827e2f",
+      "body": "פרשנות על ההסכם עם לבנון | מוטי קסטל: הסכם המסגרת שנחתם עם לבנון הוא הישג מדהים וכמעט בלתי נתפס של רה\"מ נתניהו.מול גלי החמיצות והרעל שמפזרים שופרות התעמולה והקמפיינרים באולפנים, צריך להזכיר מה היה כאן.מאז האמירה של טראמפ 'אינף איז אינף' ו\"הסכמתו\" כביכול לכריכה שעשתה איראן בינה לבין לבנון עם \"משוואה\" לפיה \"כל תקיפה של ישראל בלבנון תיחשב הפרה של ההסכם בין איראן וארצות הברית\", ישראל תקפה שוב ושוב בלב",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T21:45:36.422Z"
+    },
+    {
+      "id": "8fd3d4632baa",
+      "title": "סיכום חדשות היום | (זירת החדשות)סרן דוד חזות ז''ל, בן 21 מאשקלון, נהרג אמש בהיתקלות עם מחבל בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-8fd3d4632baa",
+      "body": "סיכום חדשות היום | (זירת החדשות)סרן דוד חזות ז''ל, בן 21 מאשקלון, נהרג אמש בהיתקלות עם מחבל בדרום לבנון. לוחם נוסף נפצע קל. צה\"ל השמיד הערב תשתית תת קרקעית של חיזבאללה באורך של יותר מ-200 מטר בדרום לבנון, ארה\"ב עודכנה מראש. בליל אמש: תקיפות נוספות של ארה\"ב באיראן, ביממה השנייה ברציפות. איראן תקפה בתגובה במדינות המפרץ. ראש ארגון הבריאות העולמי: למעלה מ-1,300 מקרי מוות באירופה בשבוע האחרון בשל גל חו",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T21:45:36.422Z"
+    },
+    {
+      "id": "7c4ab5488f06",
+      "title": "להחליט בין הגזירות | בקבוצה הפנימית של ועד הישיבות, מנהלי ישיבות מעלים מוקש בחוק הפסקת המעצרים.",
+      "link": "https://hagizra.news/#msg-7c4ab5488f06",
+      "body": "להחליט בין הגזירות | בקבוצה הפנימית של ועד הישיבות, מנהלי ישיבות מעלים מוקש בחוק הפסקת המעצרים. ראשי ישיבות יאלצו לבחור בין קבלת תרומות בסעיף 46 לבין הימנעות ממעצרי עריקים.בועד הישיבות מעדכנים כי חברי הכנסת מנסים לפתור. (ארי קלמן)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/88346b92ef97.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-28T21:45:36.422Z"
+    },
+    {
+      "id": "804f391c4344",
+      "title": "צפו 💥🎥 | תיעוד מרשים של פיצוץ המנהרה בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-804f391c4344",
+      "body": "צפו 💥🎥 | תיעוד מרשים של פיצוץ המנהרה בדרום לבנון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/221f0137f989.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -511,13 +610,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "424815f33eb9",
-      "title": "רעידת האדמה בוונצואלה | סוכנות AFP: גבר ובן מתבגר שלו חולצו בוונצואלה, ארבעה ימים אחרי שהמדינה נפגעה מרעידות אדמה.",
-      "link": "https://hagizra.news/#msg-424815f33eb9",
-      "body": "רעידת האדמה בוונצואלה | סוכנות AFP: גבר ובן מתבגר שלו חולצו בוונצואלה, ארבעה ימים אחרי שהמדינה נפגעה מרעידות אדמה.",
+      "id": "659249865ad8",
+      "title": "תוקף את הדמוקרטים | טראמפ: \"הקומוניזם הוא האיום הגדול ביותר על ארצנו מאז מלחמת העולם הראשונה, מלחמת העולם השנייה, פרל הא",
+      "link": "https://hagizra.news/#msg-659249865ad8",
+      "body": "תוקף את הדמוקרטים | טראמפ: \"הקומוניזם הוא האיום הגדול ביותר על ארצנו מאז מלחמת העולם הראשונה, מלחמת העולם השנייה, פרל הארבור או ה-11 בספטמבר!\".",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b759d441b862.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -526,13 +628,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "d5950014110f",
-      "title": "החזית הסורית | כלי תקשורת בסוריה מדווחים כי כוחות צה״ל מבצעים כעת ירי ככל הנראה לעבר חשודים שזוהו במרחב הכפר עאבדין, באז",
-      "link": "https://hagizra.news/#msg-d5950014110f",
-      "body": "החזית הסורית | כלי תקשורת בסוריה מדווחים כי כוחות צה״ל מבצעים כעת ירי ככל הנראה לעבר חשודים שזוהו במרחב הכפר עאבדין, באזור אגן הירמוך בכפר דרעא המ... בהמשך לדיווח | מחבל אחד ביצע ירי לעבר כוחותינו בדרום רמת הגולן בשטח סוריה. המחבל נמלט, אין נפגעים לכוחותינו, שפתחו אחריו בסריקות. (הלל ביטון רוזן)",
+      "id": "16803fddc064",
+      "title": "בעקבות הפיצוץ | המכון הגיאולוגי דיווח כי מערכת ההתרעה זיהתה אירוע סיסמי באזור דרום לבנון ב-28 ביוני 2026 בשעה 22:48.",
+      "link": "https://hagizra.news/#msg-16803fddc064",
+      "body": "בעקבות הפיצוץ | המכון הגיאולוגי דיווח כי מערכת ההתרעה זיהתה אירוע סיסמי באזור דרום לבנון ב-28 ביוני 2026 בשעה 22:48. הרעש, שהורגש בישראל, סווג כפיצוץ מבוקר ולא כרעידת אדמה טבעית. המכון קורא לתושבים שהרגישו את האירוע לדווח על כך באמצעות טופס ייעודי באתר האינטרנט, כדי לשפר את יכולת הערכת הסיכונים.‌ ‌ ‍‌‌ ‌‌‌ ‌‍‌ ‌‌ ‌‍‌ ‌‌ ‌‍‌ ‌ ‍‌ ‌ ‌ ‍‌‌ ‌‌‌ ‌‍‌‌ ‌ ‌‍‌‌ ‌‌‌ ‌‍‌‌ ‌‌‌ ‍‌‌ ‌‌ ‌‍‌‌ ‌‌‌‌‍‌‌ ‌‌ ‍‌‌ ‌ ‌‍‌",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -541,16 +643,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "738f235165c2",
-      "title": "תוצאות הסקר לגבי ההסכם עם לבנון |120 דקותכ 24 אלף מצביעים85% מהמצביעים בסקר תומכים בהסכם עם לבנון.",
-      "link": "https://hagizra.news/#msg-738f235165c2",
-      "body": "תוצאות הסקר לגבי ההסכם עם לבנון |120 דקותכ 24 אלף מצביעים85% מהמצביעים בסקר תומכים בהסכם עם לבנון. (אבו עלי)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0cb5d42723bc.jpeg"
-      ],
+      "id": "228171c9c788",
+      "title": "אחלן | בעקבות התקיפות הישראליות הערב בדרום לבנון: נרשמת כעת בריחה מהעיר נבטיה, דרום לבנון.",
+      "link": "https://hagizra.news/#msg-228171c9c788",
+      "body": "אחלן | בעקבות התקיפות הישראליות הערב בדרום לבנון: נרשמת כעת בריחה מהעיר נבטיה, דרום לבנון.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -559,13 +658,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "43d3a3be0218",
-      "title": "החזית הסורית | כלי תקשורת בסוריה מדווחים כי כוחות צה״ל מבצעים כעת ירי ככל הנראה לעבר חשודים שזוהו במרחב הכפר עאבדין, באז",
-      "link": "https://hagizra.news/#msg-43d3a3be0218",
-      "body": "החזית הסורית | כלי תקשורת בסוריה מדווחים כי כוחות צה״ל מבצעים כעת ירי ככל הנראה לעבר חשודים שזוהו במרחב הכפר עאבדין, באזור אגן הירמוך בכפר דרעא המערבי. בעוד שכלי תקשורת נוספים טוענים שמדובר בחילופי אש.",
+      "id": "24d99630fd73",
+      "title": "אמל\"ח | חומרי הנפץ שאותרו במנהרה שהושמדה בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-24d99630fd73",
+      "body": "אמל\"ח | חומרי הנפץ שאותרו במנהרה שהושמדה בדרום לבנון. (ישראל היום).",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e9c1607d74ff.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -574,13 +676,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "73012a35cc98",
-      "title": "חזל\"ש | אברך עריק מחסידות בעלזא נעצר בדקות האחרונות באשדוד על ידי משטרת תנועה, והיה חשש שיוסגר למשטרה הצבאית, אך הוא שוח",
-      "link": "https://hagizra.news/#msg-73012a35cc98",
-      "body": "חזל\"ש | אברך עריק מחסידות בעלזא נעצר בדקות האחרונות באשדוד על ידי משטרת תנועה, והיה חשש שיוסגר למשטרה הצבאית, אך הוא שוחרר לאחר קבלת הדו״ח. (נתי קאליש)",
+      "id": "a1a5bb165d71",
+      "title": "הודעה משותפת לראש הממשלה בנימין נתניהו ולשר הביטחון ישראל כ\"ץ | במסגרת מבצע \"סוף פסוק\", צה\"ל השמיד כעת את תשתית הטרור הת",
+      "link": "https://hagizra.news/#msg-a1a5bb165d71",
+      "body": "הודעה משותפת לראש הממשלה בנימין נתניהו ולשר הביטחון ישראל כ\"ץ | במסגרת מבצע \"סוף פסוק\", צה\"ל השמיד כעת את תשתית הטרור התת-קרקעית של ארגון הטרור חי... תיעודים מהפיצוץ |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9f06104a4cbf.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e4b446b4dfd7.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -589,15 +695,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "3ed3e68f8801",
-      "title": "אל תפספסו את ההזדמנות | לפנייה במייל: לחצו כאן",
-      "link": "https://hagizra.news/#msg-3ed3e68f8801",
-      "body": "אל תפספסו את ההזדמנות | לפנייה במייל: לחצו כאן",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0b38304efb29.png"
+      "id": "6751123e79e3",
+      "title": "גודל עצום | הכניסה למנהרה שאותרה בלבנון.",
+      "link": "https://hagizra.news/#msg-6751123e79e3",
+      "body": "גודל עצום | הכניסה למנהרה שאותרה בלבנון. (ישראל היום).",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2102e312e7c1.bin"
       ],
       "time": null,
       "channelName": null,
@@ -607,13 +713,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     },
     {
-      "id": "6f33e2c09f13",
-      "title": "עוד מתאונות הדרכים | אישה בת 44 נפצעה קשה וגבר כבן 30 נפצע בינוני בתאונת דרכים בכביש 4, סמוך למחלף עד הלום.",
-      "link": "https://hagizra.news/#msg-6f33e2c09f13",
-      "body": "עוד מתאונות הדרכים | אישה בת 44 נפצעה קשה וגבר כבן 30 נפצע בינוני בתאונת דרכים בכביש 4, סמוך למחלף עד הלום. צוותי מד\"א העניקו להם טיפול רפואי ופינו אותם לבית החולים אסותא באשדוד. האישה פונתה עם חבלה רב-מערכתית. (12)",
+      "id": "6bae0bc53e72",
+      "title": "מה שהוא אומר - הפוך | ברק רביד: בכיר אמריקני אומר לי: ארה״ב ואיראן הסכימו להפסיק את ההתקפות ההדדיות במצר הורמוז ולקיים פ",
+      "link": "https://hagizra.news/#msg-6bae0bc53e72",
+      "body": "מה שהוא אומר - הפוך | ברק רביד: בכיר אמריקני אומר לי: ארה״ב ואיראן הסכימו להפסיק את ההתקפות ההדדיות במצר הורמוז ולקיים פגישה ביום שלישי בדוחא.",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -622,100 +728,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
-    },
-    {
-      "id": "d59ef0ee3f61",
-      "title": "תאונה | גבר בן 44 נפצע בינוני סמוך לצומת יבור.",
-      "link": "https://hagizra.news/#msg-d59ef0ee3f61",
-      "body": "תאונה | גבר בן 44 נפצע בינוני סמוך לצומת יבור. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים רמב\"ם בחיפה עם פציעות חודרות. (12)",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
-    },
-    {
-      "id": "bfe6b9c6d51e",
-      "title": "הפגנות בירושלים | קיצונים הדליקו אש במתחם עבודות הרכבת הקלה, המשטרה מנסה לפזר את ההפגנה באמצעות מכתזית ורמוני הלם.",
-      "link": "https://hagizra.news/#msg-bfe6b9c6d51e",
-      "body": "הפגנות בירושלים | קיצונים הדליקו אש במתחם עבודות הרכבת הקלה, המשטרה מנסה לפזר את ההפגנה באמצעות מכתזית ורמוני הלם.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
-    },
-    {
-      "id": "216c60941f81",
-      "title": "לא ישנים | דווח על שתי תקיפות במרחב דרום לבנון.",
-      "link": "https://hagizra.news/#msg-216c60941f81",
-      "body": "לא ישנים | דווח על שתי תקיפות במרחב דרום לבנון. (יאיר גולדבלט)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4d88b61ebc6e.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
-    },
-    {
-      "id": "91d7c562c90f",
-      "title": "דיווח ערבי | תקיפה בכפר השיעי מיפדון, בדרום לבנון.",
-      "link": "https://hagizra.news/#msg-91d7c562c90f",
-      "body": "דיווח ערבי | תקיפה בכפר השיעי מיפדון, בדרום לבנון. (יאיר גולדבלט)",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
-    },
-    {
-      "id": "f051420ce19e",
-      "title": "מטורף | אירן בנתה מנהרות עצומות בדרום לבנון.",
-      "link": "https://hagizra.news/#msg-f051420ce19e",
-      "body": "מטורף | אירן בנתה מנהרות עצומות בדרום לבנון. כמויות חומר הנפץ שצה״ל מזרים לאיזור גדולות מכל מה שהיה בכל החזיתות במלחמה. (עמית סגל).",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
-    },
-    {
-      "id": "3bbf6df447eb",
-      "title": "ממשיך לזעזע את השב''כ | ראש השב''כ זיני דן באפשרות לבטל את משלחות אנשי השירות לפולין, בנימוק כי ''לא סופגים ערכים על אדמ",
-      "link": "https://hagizra.news/#msg-3bbf6df447eb",
-      "body": "ממשיך לזעזע את השב''כ | ראש השב''כ זיני דן באפשרות לבטל את משלחות אנשי השירות לפולין, בנימוק כי ''לא סופגים ערכים על אדמת נכר''. מדויק | אבי גרינצייג: מי הטיפש בשב\"כ שחושב שההדלפות האלו פוגעות בזיני? כדאי שימצאו אותו בהקדם סתם כי אין מקום לטיפשים בשב\"כ, שבענו מהם לפני ה7.10.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T20:38:21.715Z"
+      "firstSeen": "2026-06-28T21:45:36.422Z"
     }
   ],
   "errors": [
