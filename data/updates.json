@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T11:53:10.025Z",
+  "generatedAt": "2026-06-29T15:22:56.602Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,39 +25,6 @@
   ],
   "items": [
     {
-      "id": "7d831bac44c8",
-      "title": "תינוק שנשבה מתארח בפודקאסט על נטילת ידיים",
-      "link": "https://black-cat.thechats.click/#msg-7d831bac44c8",
-      "body": "תינוק שנשבה מתארח בפודקאסט על נטילת ידיים",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8c610033073c.bin"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 19,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-06-28T11:23:48.872Z"
-    },
-    {
-      "id": "fdb7fbafcc09",
-      "title": "מחירי הדלק יורדים ביום רביעי ב30 אגורות לליטר בעקבות כך תימנים רבים שהיו אמורים למלאות היום דלק נאלצים להמתין בסבלנות",
-      "link": "https://black-cat.thechats.click/#msg-fdb7fbafcc09",
-      "body": "מחירי הדלק יורדים ביום רביעי ב30 אגורות לליטר בעקבות כך תימנים רבים שהיו אמורים למלאות היום דלק נאלצים להמתין בסבלנות",
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 20,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-06-28T11:23:48.872Z"
-    },
-    {
       "id": "270b35fcd0f7",
       "title": "ציטוט 💬...",
       "link": "https://black-cat.thechats.click/#msg-270b35fcd0f7",
@@ -67,43 +34,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 16,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-06-28T12:49:25.403Z"
-    },
-    {
-      "id": "412e18ed7f38",
-      "title": "עניין של משחקי אותיות",
-      "link": "https://black-cat.thechats.click/#msg-412e18ed7f38",
-      "body": "עניין של משחקי אותיות",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ea22ceefff8f.png"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-06-28T12:49:25.403Z"
-    },
-    {
-      "id": "06224373ad07",
-      "title": "טוב שם משמן טוב",
-      "link": "https://black-cat.thechats.click/#msg-06224373ad07",
-      "body": "טוב שם משמן טוב",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/893f8202a317.bin"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 18,
+      "position": 20,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -121,7 +52,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -139,7 +70,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 19,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -157,7 +88,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -175,7 +106,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -193,7 +124,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 11,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -211,7 +142,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -229,7 +160,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -247,7 +178,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 13,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -265,7 +196,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -283,7 +214,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -301,7 +232,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -319,7 +250,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -337,7 +268,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -355,7 +286,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -373,7 +304,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -388,7 +319,7 @@
       "body": "פעם היה לחי למוסטפה",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -397,10 +328,82 @@
       "firstSeen": "2026-06-29T11:53:10.025Z"
     },
     {
-      "id": "505d8f74eb39",
-      "title": "בניגוד לדברי טראמפ | גורמים אירנים מצוטטים ב-AP: אין שום פגישה מתוכננת למחר.",
-      "link": "https://hagizra.news/#msg-505d8f74eb39",
-      "body": "בניגוד לדברי טראמפ | גורמים אירנים מצוטטים ב-AP: אין שום פגישה מתוכננת למחר. (בן יניב)",
+      "id": "86b40fdd3419",
+      "title": "ככה תהפכו פעולה פשוטה של שתייה קולה לחוויה ממש",
+      "link": "https://black-cat.thechats.click/#msg-86b40fdd3419",
+      "body": "ככה תהפכו פעולה פשוטה של שתייה קולה לחוויה ממש",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2c255c288b1b.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-06-29T15:22:56.602Z"
+    },
+    {
+      "id": "94dd8a9d5c8e",
+      "title": "יש מצב אתה קופץ שניה לסופר להביא ענן",
+      "link": "https://black-cat.thechats.click/#msg-94dd8a9d5c8e",
+      "body": "יש מצב אתה קופץ שניה לסופר להביא ענן",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1fde9d413c89.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 1,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-06-29T15:22:56.602Z"
+    },
+    {
+      "id": "f147b5628800",
+      "title": "כבישים בסין שמתחילים להתמלא ברכבי משלוחים אוטונומיים 👀",
+      "link": "https://black-cat.thechats.click/#msg-f147b5628800",
+      "body": "כבישים בסין שמתחילים להתמלא ברכבי משלוחים אוטונומיים 👀",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cca5ffc38b6c.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 2,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-06-29T15:22:56.602Z"
+    },
+    {
+      "id": "cea94432a54d",
+      "title": "לכל מי שביקש שאצלם לכם את הנוף ממרפסת ביתי",
+      "link": "https://black-cat.thechats.click/#msg-cea94432a54d",
+      "body": "לכל מי שביקש שאצלם לכם את הנוף ממרפסת ביתי",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/066e882e70c2.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 3,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-06-29T15:22:56.602Z"
+    },
+    {
+      "id": "8e4971d0b768",
+      "title": "טרגדיה בראש העין | נקבע מותה של ילדה בת 9 שנהרגה מפגיעת מיניבוס.",
+      "link": "https://hagizra.news/#msg-8e4971d0b768",
+      "body": "טרגדיה בראש העין | נקבע מותה של ילדה בת 9 שנהרגה מפגיעת מיניבוס. (ישראל היום)",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -409,16 +412,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "9717d4c6c4e4",
-      "title": "אוקראינה | משרד ההגנה הרוסי מפרסם תיעוד מתקיפת מפעל דלקים באזור קירובהראד.",
-      "link": "https://hagizra.news/#msg-9717d4c6c4e4",
-      "body": "אוקראינה | משרד ההגנה הרוסי מפרסם תיעוד מתקיפת מפעל דלקים באזור קירובהראד.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0cc5817fa8c1.bin"
-      ],
+      "id": "d03bafcd55b2",
+      "title": "דרמטי | שר הביטחון כ\"ץ: מלחמה עם איראן יכולה לקרות בכל רגע.",
+      "link": "https://hagizra.news/#msg-d03bafcd55b2",
+      "body": "דרמטי | שר הביטחון כ\"ץ: מלחמה עם איראן יכולה לקרות בכל רגע. צה\"ל נערך למבצע כחול לבן.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -427,13 +427,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "ba5d349b96d8",
-      "title": "פיזור הכנסת | יו\"ר הכנסת אוחנה עדכן היום שהכנסת תתפזר ב-17.7, זה יוצא ביום שישי ככה שהיום האחרון לחוקק הוא בפועל יום קוד",
-      "link": "https://hagizra.news/#msg-ba5d349b96d8",
-      "body": "פיזור הכנסת | יו\"ר הכנסת אוחנה עדכן היום שהכנסת תתפזר ב-17.7, זה יוצא ביום שישי ככה שהיום האחרון לחוקק הוא בפועל יום קודם, ה-16.7.",
+      "id": "ac4b8cadab2a",
+      "title": "הזרזיר הולך אצל העורבים | ח״כ איימן עודה בפתח ישיבת סיעת חד״ש-תע״ל: ״נתניהו קורא ל׳אחדות׳ רק כשהימין במשבר.",
+      "link": "https://hagizra.news/#msg-ac4b8cadab2a",
+      "body": "הזרזיר הולך אצל העורבים | ח״כ איימן עודה בפתח ישיבת סיעת חד״ש-תע״ל: ״נתניהו קורא ל׳אחדות׳ רק כשהימין במשבר. אני מזהיר את מנהיגי האופוזיציה – אל תיפלו בפח שוב״.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -442,16 +442,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "09b7a6044266",
-      "title": "חורבן | תיעוד מההרס העצום בוונצואלה.",
-      "link": "https://hagizra.news/#msg-09b7a6044266",
-      "body": "חורבן | תיעוד מההרס העצום בוונצואלה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b4f1383b977c.bin"
-      ],
+      "id": "96aede6bf15e",
+      "title": "צאו לשלום ותחזרו לשלום | דיווח ערבי: כוחות צה\"ל בפעילויות נרחבות כעת במספר מרחבים ביו״ש.",
+      "link": "https://hagizra.news/#msg-96aede6bf15e",
+      "body": "צאו לשלום ותחזרו לשלום | דיווח ערבי: כוחות צה\"ל בפעילויות נרחבות כעת במספר מרחבים ביו״ש.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -460,16 +457,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "1d0f45a94969",
-      "title": "העיקר אומר בלי חרמות | גנץ על ממשלת האחדות שהוא מקדם.",
-      "link": "https://hagizra.news/#msg-1d0f45a94969",
-      "body": "העיקר אומר בלי חרמות | גנץ על ממשלת האחדות שהוא מקדם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/28ac0d33e5ac.bin"
-      ],
+      "id": "11c864e0dc82",
+      "title": "תישארו על החוף | משרד התחבורה הקטארי הודיע כי ממליץ, באופן זמני, להימנע מכל שיט או צורה של פעילות ימית עד להודעה חדשה.",
+      "link": "https://hagizra.news/#msg-11c864e0dc82",
+      "body": "תישארו על החוף | משרד התחבורה הקטארי הודיע כי ממליץ, באופן זמני, להימנע מכל שיט או צורה של פעילות ימית עד להודעה חדשה. חוששים מאיראן | בקטאר לא נתנו הסבר להודעה, אך היא מגיעה יום בלבד אחרי שאזרח קטארי נהרג כחלק מחילופי המהלומות בין ארה\"ב לאיראן בהורמוז.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -478,13 +472,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "4e18907c2c66",
-      "title": "מתחמם | סגן ראש משרד החוץ הבלארוסי מאיים: \"בלארוס תגיב בכל הפוטנציאל הצבאי שלה אם אוקראינה תחצה את גבולה\".",
-      "link": "https://hagizra.news/#msg-4e18907c2c66",
-      "body": "מתחמם | סגן ראש משרד החוץ הבלארוסי מאיים: \"בלארוס תגיב בכל הפוטנציאל הצבאי שלה אם אוקראינה תחצה את גבולה\".",
+      "id": "9cf48e9ff32b",
+      "title": "תישארו על החוף | משרד התחבורה הקטארי הודיע כי ממליץ, באופן זמני, להימנע מכל שיט או צורה של פעילות ימית עד להודעה חדשה.",
+      "link": "https://hagizra.news/#msg-9cf48e9ff32b",
+      "body": "תישארו על החוף | משרד התחבורה הקטארי הודיע כי ממליץ, באופן זמני, להימנע מכל שיט או צורה של פעילות ימית עד להודעה חדשה.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -493,13 +487,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "043a26a65130",
-      "title": "לקראת מה?",
-      "link": "https://hagizra.news/#msg-043a26a65130",
-      "body": "לקראת מה? | כלי תקשורת בלבנון מדווחים כי מפקד פיקוד המרכז בצבא ארצות הברית האדמירל בראד קופר הגיע לארמון הנשיאות בלבנון ונפגש עם נשיא לבנון, ג׳וזף עאון.",
+      "id": "6cc3473d9233",
+      "title": "שופטים עמומים | ח״כ יעקב אשר: ״כאשר העבירו את הצעת חוק יסוד כבוד האדם וחירותו, גם שם הייתה בדיוק את אותה עמימות, ובכל זא",
+      "link": "https://hagizra.news/#msg-6cc3473d9233",
+      "body": "שופטים עמומים | ח״כ יעקב אשר: ״כאשר העבירו את הצעת חוק יסוד כבוד האדם וחירותו, גם שם הייתה בדיוק את אותה עמימות, ובכל זאת לא רק שלא נשמעה התנגדות מצד הייעוץ המשפטי לממשלה. אלא להיפך, העמימות הייתה חלק מתהליך החקיקה, כי מדובר בערך עליון. אך כאשר מגיעים לחוקק את חוק יסוד לימוד תורה, לפתע הייעוץ המשפטי לממשלה מתנגד \"לעמימות\" - זו צביעות!״",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -508,13 +502,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "863abae64712",
-      "title": "חוק יסוד לימוד תורה | ח\"כ משה סולמון למשי וגדלוביץ' ב'קול ברמה': \"המצע של הצינות הדתית שבו יש את חוק יסוד לימוד תורה - ה",
-      "link": "https://hagizra.news/#msg-863abae64712",
-      "body": "חוק יסוד לימוד תורה | ח\"כ משה סולמון למשי וגדלוביץ' ב'קול ברמה': \"המצע של הצינות הדתית שבו יש את חוק יסוד לימוד תורה - היה לפני ה-7/10, אין דומה מה שהיה אז להיום. אני בעד ערך יסוד לימוד תורה, אך הוא מעל ההשוואה לערכי יסוד אחרים, הוא יותר גבוה\".",
+      "id": "24e03e11605d",
+      "title": "בהצלחה להם | נשיא צרפת מקרון: החלטנו, יחד עם עומאן ושותפים נוספים, לשתף פעולה על מנת לפנות את המוקשים ממצר הורמוז.",
+      "link": "https://hagizra.news/#msg-24e03e11605d",
+      "body": "בהצלחה להם | נשיא צרפת מקרון: החלטנו, יחד עם עומאן ושותפים נוספים, לשתף פעולה על מנת לפנות את המוקשים ממצר הורמוז.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -523,13 +517,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "5c7cc807d8a4",
-      "title": "עוד מוונצואלה | סין תשלח סיוע חומרי לוונצואלה בסך 14.7 מיליון דולר בעקבות רעידות האדמה.",
-      "link": "https://hagizra.news/#msg-5c7cc807d8a4",
-      "body": "עוד מוונצואלה | סין תשלח סיוע חומרי לוונצואלה בסך 14.7 מיליון דולר בעקבות רעידות האדמה. הולנד שולחת ספינה צבאית עם סיוע הומניטרי.",
+      "id": "23c0eea3b895",
+      "title": "נתניהו, נגמרו החגיגות | דרעי בסיעה: ״עד שלא עובר החוק שלי להפסקת המעצרים בקריאה ראשונה - לא תומכים בכלום״.",
+      "link": "https://hagizra.news/#msg-23c0eea3b895",
+      "body": "נתניהו, נגמרו החגיגות | דרעי בסיעה: ״עד שלא עובר החוק שלי להפסקת המעצרים בקריאה ראשונה - לא תומכים בכלום״.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -538,13 +532,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "921b1ba59463",
-      "title": "מאשימים | התקשורת המקומית בוונצואלה מאשימה את ארה\"ב שגירשה מהגרים לוונצואלה ו147 מהם מצאו את עצמם מתחת ההריסות ברעש האדמ",
-      "link": "https://hagizra.news/#msg-921b1ba59463",
-      "body": "מאשימים | התקשורת המקומית בוונצואלה מאשימה את ארה\"ב שגירשה מהגרים לוונצואלה ו147 מהם מצאו את עצמם מתחת ההריסות ברעש האדמה.",
+      "id": "b7a666834933",
+      "title": "דיכטר פוזל שמאלה?",
+      "link": "https://hagizra.news/#msg-b7a666834933",
+      "body": "דיכטר פוזל שמאלה? | גורמים בליכוד נגד השר דיכטר: \"איבד את הראש, שבוי בקונספציה\". הרקע על פי הדיווח בעקבות כך שהשר עומד לאשר הגדלת מכסות של עשרות מיליוני ביצים לטובת הסיוע לעזה.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -553,13 +547,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "09430c52890b",
-      "title": "המו\"מ בין איראן לארה\"ב | טראמפ: איראן ביקשה פגישה.",
-      "link": "https://hagizra.news/#msg-09430c52890b",
-      "body": "המו\"מ בין איראן לארה\"ב | טראמפ: איראן ביקשה פגישה. היא תתקיים מחר בדוחא! (ינוניוז)",
+      "id": "a8f6e18a2985",
+      "title": "היסטוריה ביו\"ש | האירוע הרשמי של שגרירות ארה\"ב לציון 250 שנה לעצמאותה ייערך באפרת.",
+      "link": "https://hagizra.news/#msg-a8f6e18a2985",
+      "body": "היסטוריה ביו\"ש | האירוע הרשמי של שגרירות ארה\"ב לציון 250 שנה לעצמאותה ייערך באפרת. (סגל)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9d83001dd356.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -568,16 +565,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "085f3f561bf6",
-      "title": "מלחמת מהלומות | רוסיה תקפה בטיל גראן את המרכז ללוחמה אלקטרונית באוקראינה.",
-      "link": "https://hagizra.news/#msg-085f3f561bf6",
-      "body": "מלחמת מהלומות | רוסיה תקפה בטיל גראן את המרכז ללוחמה אלקטרונית באוקראינה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6235ec42d777.bin"
-      ],
+      "id": "af09439f6ff1",
+      "title": "מקדימים תרופה למכה | משרד הבריאות קיים היום תרגיל מטה של חמ”ל הבריאות הלאומי במתווה של רעידת אדמה ותרחישי קיצון.",
+      "link": "https://hagizra.news/#msg-af09439f6ff1",
+      "body": "מקדימים תרופה למכה | משרד הבריאות קיים היום תרגיל מטה של חמ”ל הבריאות הלאומי במתווה של רעידת אדמה ותרחישי קיצון. התרגיל יימשך גם מחר.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -586,13 +580,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "1fb78fea423f",
-      "title": "עוד מהביקור | הנשיא התייחס להסכם עם לבנון וקרא לאיחוד האירופי והקהילה הבין-לאומית: \"ישראל מבקשת שלום עם לבנון, בתנאי שתש",
-      "link": "https://hagizra.news/#msg-1fb78fea423f",
-      "body": "עוד מהביקור | הנשיא התייחס להסכם עם לבנון וקרא לאיחוד האירופי והקהילה הבין-לאומית: \"ישראל מבקשת שלום עם לבנון, בתנאי שתשתחרר מהסחיטה של איראן ותוקיע את חיזבאללה. אני מברך על המזכר שנחתם, שיכול להפוך לאבן יסוד לשלום. אני קורא לאיחוד האירופי והקהילה הבין-לאומית לתמוך במהלך הזה, לתמוך בביטחונה של ישראל ולסייע ללבנון להשיב את ריבונותה\". (12)",
+      "id": "4d58fc4dbce7",
+      "title": "הפרלמנט האמריקני יתודרך | מזכיר המדינה מרקו רוביו ושליח הנשיא סטיב וויטקוף יתדרכו היום את הקונגרס על המצב מול איראן.",
+      "link": "https://hagizra.news/#msg-4d58fc4dbce7",
+      "body": "הפרלמנט האמריקני יתודרך | מזכיר המדינה מרקו רוביו ושליח הנשיא סטיב וויטקוף יתדרכו היום את הקונגרס על המצב מול איראן. (אריאל כהנא)",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -601,13 +595,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "680adb4b225a",
-      "title": "במסגרת ביקורו הממלכתי ברומניה | נשיא המדינה התקבל בארמון הנשיאות בבוקרשט בידי נשיא רומניה.",
-      "link": "https://hagizra.news/#msg-680adb4b225a",
-      "body": "במסגרת ביקורו הממלכתי ברומניה | נשיא המדינה התקבל בארמון הנשיאות בבוקרשט בידי נשיא רומניה. (12)",
+      "id": "508f44243698",
+      "title": "אחרי הסכם לבנון-ישראל | מפקד סנטקום נפגש בביירות עם הנשיא הלבנוני ז'וזף עאון.",
+      "link": "https://hagizra.news/#msg-508f44243698",
+      "body": "אחרי הסכם לבנון-ישראל | מפקד סנטקום נפגש בביירות עם הנשיא הלבנוני ז'וזף עאון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/00d2cd9d6f4c.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -616,13 +613,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "35b0f596dbd5",
-      "title": "שוב | רעידת משנה חדשה בעוצמה 5.1 פקדה את צפון-מרכז ונצואלה, על פי המכון הגיאולוגי הקולומביאני.",
-      "link": "https://hagizra.news/#msg-35b0f596dbd5",
-      "body": "שוב | רעידת משנה חדשה בעוצמה 5.1 פקדה את צפון-מרכז ונצואלה, על פי המכון הגיאולוגי הקולומביאני.",
+      "id": "3c189e1a4feb",
+      "title": "גנץ נגד לפיד: ״אין לו מקום יותר בחיים הציבוריים״ | להלן הציטוט המלא של כחול לבן, בתגובה על רמיזת לפיד כי איחודים של גנץ ",
+      "link": "https://hagizra.news/#msg-3c189e1a4feb",
+      "body": "גנץ נגד לפיד: ״אין לו מקום יותר בחיים הציבוריים״ | להלן הציטוט המלא של כחול לבן, בתגובה על רמיזת לפיד כי איחודים של גנץ עם דמויות אחרות נועדו לסייע לנתניהו: ״כל מי שב-7 באוקטובר, בשעה שאחים שלנו דיממו בדרום, בחר לעשות חישובים פוליטיים ולספור מנדטים במקום להצטרף לממשלת חירום, מי שעודד סרבנות ופלגנות - אין לו מקום יותר בחיים הציבוריים.אנחנו נקים את גוש עם ישראל״.",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -631,16 +628,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "61cc10c07920",
-      "title": "כעת זה רשמי | חוק יסוד לימוד התורה כבר נמצא על סדר היום של מליאת הכנסת ליום רביעי.",
-      "link": "https://hagizra.news/#msg-61cc10c07920",
-      "body": "כעת זה רשמי | חוק יסוד לימוד התורה כבר נמצא על סדר היום של מליאת הכנסת ליום רביעי. (שלום שטיין)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c8769a18ace6.jpeg"
-      ],
+      "id": "81111844c1d7",
+      "title": "הגוש 'שלנו' 😆 | לפיד על הקמת מפלגה אפשרית של גנץ שמחי הנדל ואחרים: נתניהו מנסה להקים מפלגות לווין שינסו לגנוב קולות מהג",
+      "link": "https://hagizra.news/#msg-81111844c1d7",
+      "body": "הגוש 'שלנו' 😆 | לפיד על הקמת מפלגה אפשרית של גנץ שמחי הנדל ואחרים: נתניהו מנסה להקים מפלגות לווין שינסו לגנוב קולות מהגוש שלנו. בתגובה | מכחול לבן נמסר בתגובה לחבר מפלגת ״ביחד״, יאיר לפיד: ״כל מי שב-7 באוקטובר, בשעה שאחים שלנו דיממו בדרום, בחר לעשות חישובים פוליטיים ולספור מנדטים במקום להצטרף לממשלת חירום, מי שעודד סרבנות ופלגנות - אין לו מקום יותר בחיים הציבוריים.תם עידן בפוליטיקה הישראלית ואנחנ",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -649,13 +643,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "f0ab9c8903af",
-      "title": "מרדף משטרתי באזור ירושלים | בעקבות דיווח על גניבת כספת מאזור מודיעין, שוטרי מחוז ירושלים איתרו את הרכב החשוד סמוך למחלף ",
-      "link": "https://hagizra.news/#msg-f0ab9c8903af",
-      "body": "מרדף משטרתי באזור ירושלים | בעקבות דיווח על גניבת כספת מאזור מודיעין, שוטרי מחוז ירושלים איתרו את הרכב החשוד סמוך למחלף הראל והחלו במרדף. במהלך הבריחה נהג החשוד בפראות, פגע במספר כלי רכב וסיכן נהגים נוספים, עד שהרכב נעצר באזור בית חנינא. החשודים נמלטו רגלית, וברכב אותרה כספת החשודה כגנובה. כוחות משטרה מנהלים מצוד אחר החשודים. (אלעד בראשי, חדשות 14)",
+      "id": "67e782a82149",
+      "title": "הכחשה | סגן שר החוץ האיראני, כאזם גאריבאבאדי, מכחיש את טענת טראמפ על פגישות טכניות מתוכננות של ארה\"ב השבוע, ומאשר כי התי",
+      "link": "https://hagizra.news/#msg-67e782a82149",
+      "body": "הכחשה | סגן שר החוץ האיראני, כאזם גאריבאבאדי, מכחיש את טענת טראמפ על פגישות טכניות מתוכננות של ארה\"ב השבוע, ומאשר כי התייעצויות עם קטאר נמשכות.",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -664,13 +658,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "492c00f690b2",
-      "title": "הטרור המושתק | הצלה יו\"ש ללא גבולות: הבוקר זריקת אבנים לעבר רכבים ישראלים בכביש 60 באזור הכפר לובן א-שרקייה אין נפגעים נ",
-      "link": "https://hagizra.news/#msg-492c00f690b2",
-      "body": "הטרור המושתק | הצלה יו\"ש ללא גבולות: הבוקר זריקת אבנים לעבר רכבים ישראלים בכביש 60 באזור הכפר לובן א-שרקייה אין נפגעים נזק שימשה.",
+      "id": "2566299f55d0",
+      "title": "ראש העין | ילדה כבת 9 נפצעה אנוש מפגיעת מיניבוס ברחוב הרב שלום שבזי, היא פונתה תוך כדי פעולות החייאה.",
+      "link": "https://hagizra.news/#msg-2566299f55d0",
+      "body": "ראש העין | ילדה כבת 9 נפצעה אנוש מפגיעת מיניבוס ברחוב הרב שלום שבזי, היא פונתה תוך כדי פעולות החייאה.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -679,16 +673,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "fe42f0cf3b69",
-      "title": "מרוץ נגד הזמן בוונצואלה | פעילות המשלחת הישראלית לחילוץ נעדרים באסון רעידת האדמה בוונצואלה.",
-      "link": "https://hagizra.news/#msg-fe42f0cf3b69",
-      "body": "מרוץ נגד הזמן בוונצואלה | פעילות המשלחת הישראלית לחילוץ נעדרים באסון רעידת האדמה בוונצואלה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8667a6c6fca3.bin"
-      ],
+      "id": "b1f7b1c61529",
+      "title": "המהומה בעין השלושה בזמן נאום סמוטריץ׳ | אחד ממחאת קפלן המזדהה כאחד ממאבק החטופים צעק לסמוטריץ' שירד מהבמה, ליאורה בן צור",
+      "link": "https://hagizra.news/#msg-b1f7b1c61529",
+      "body": "המהומה בעין השלושה בזמן נאום סמוטריץ׳ | אחד ממחאת קפלן המזדהה כאחד ממאבק החטופים צעק לסמוטריץ' שירד מהבמה, ליאורה בן צור, תושבת עין השלושה שאמה נרצחה ב-7באוקטובר עלתה לבמה במהלך נאום סמוטריץ׳ וביקשה לאפשר לו לדבר.",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -697,13 +688,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     },
     {
-      "id": "c36ceec9d023",
-      "title": "הפריצות לבתים במספרים | בחציון הראשון של 2026 נרשמה עלייה של 37% במספר הפריצות לבתים פרטיים ולדירות גן לעומת התקופה המקב",
-      "link": "https://hagizra.news/#msg-c36ceec9d023",
-      "body": "הפריצות לבתים במספרים | בחציון הראשון של 2026 נרשמה עלייה של 37% במספר הפריצות לבתים פרטיים ולדירות גן לעומת התקופה המקבילה ב-2025, כך לפי נתוני מוקד אמון. בתל אביב כמות הפריצות הוכפלה, הערים המובילות במספר אירועי הפריצה הן תל אביב, ראשון לציון ופתח תקווה.",
+      "id": "babff3030c0d",
+      "title": "חוזר בו | שר החוץ של עומאן: כל הסכם על מצר הורמוז חייב להיות לפי החוק הבין-לאומי.",
+      "link": "https://hagizra.news/#msg-babff3030c0d",
+      "body": "חוזר בו | שר החוץ של עומאן: כל הסכם על מצר הורמוז חייב להיות לפי החוק הבין-לאומי. אנחנו לא מסכימים שיגבו כסף על מעבר במצר, ואנחנו מתחייבים לשמור על הביטחון וחופש השיט לכולם.",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -712,7 +703,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T11:53:10.025Z"
+      "firstSeen": "2026-06-29T15:22:56.602Z"
     }
   ],
   "errors": [
