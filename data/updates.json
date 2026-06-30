@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T23:39:17.365Z",
+  "generatedAt": "2026-06-30T01:36:54.169Z",
   "sources": [
     {
       "id": "blackcat",
@@ -400,143 +400,13 @@
       "firstSeen": "2026-06-29T19:53:06.293Z"
     },
     {
-      "id": "4563794fe21a",
-      "title": "עצרות נוספות | ארי קלמן: בש״ס מארגנים עצרות המשך לעצרת הערב.",
-      "link": "https://hagizra.news/#msg-4563794fe21a",
-      "body": "עצרות נוספות | ארי קלמן: בש״ס מארגנים עצרות המשך לעצרת הערב.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "90cacb49ec4d",
-      "title": "ראשוני | סוכנות הידיעות האיראנית 'מהר' מדווחת על תקרית ירי באזור עיירת הגבול 'פאווה' הסמוכה לחבל הכורדי.",
-      "link": "https://hagizra.news/#msg-90cacb49ec4d",
-      "body": "ראשוני | סוכנות הידיעות האיראנית 'מהר' מדווחת על תקרית ירי באזור עיירת הגבול 'פאווה' הסמוכה לחבל הכורדי.",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "dee261d79c7e",
-      "title": "מכת הגניבות בבני ברק | תיעוד מגניבת קורקינט היום בעיר.",
-      "link": "https://hagizra.news/#msg-dee261d79c7e",
-      "body": "מכת הגניבות בבני ברק | תיעוד מגניבת קורקינט היום בעיר. (אמש פרסמנו פה גם על גניבה של קורקינט).",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a19a3ffcc7e9.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/170e10f063f4.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "8e19681ca12b",
-      "title": "מחפשת לחזור | מנהיגת האופוזיציה בוונצואלה, מריה מצ'אדו, אמרה כי היא \"מוכנה לעשות כל מה שיידרש\" כדי להיכנס למדינה ולסייע ",
-      "link": "https://hagizra.news/#msg-8e19681ca12b",
-      "body": "מחפשת לחזור | מנהיגת האופוזיציה בוונצואלה, מריה מצ'אדו, אמרה כי היא \"מוכנה לעשות כל מה שיידרש\" כדי להיכנס למדינה ולסייע במאמצי השיקום לאחר רעידות האדמה שאירעו בשבוע שעבר.אך למרות זאת, לעת עתה היא אינה מורשית לחזור ושוהה בפנמה. (12).",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "b90b10cb2145",
-      "title": "התפשטות המלחמה | חיל הים הבולגרי השמיד כטב\"ם שנפל בים השחור.",
-      "link": "https://hagizra.news/#msg-b90b10cb2145",
-      "body": "התפשטות המלחמה | חיל הים הבולגרי השמיד כטב\"ם שנפל בים השחור.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/df080cc589d8.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "b0e95772de29",
-      "title": "מבצע מטורףףףף אל תפספסו💥💥💥 | סופר סת\"ם?✒️ יושב שעות ארוכות מול המחשב?🪑הגיע הזמן לשים סוף לכאבי הגב ולעייפות מול הקלף",
-      "link": "https://hagizra.news/#msg-b0e95772de29",
-      "body": "מבצע מטורףףףף אל תפספסו💥💥💥 | סופר סת\"ם?✒️ יושב שעות ארוכות מול המחשב?🪑הגיע הזמן לשים סוף לכאבי הגב ולעייפות מול הקלף או המסך.😴🥱אנו ב\"ריהוט בפרדס\" התאמנו במיוחד עבורך כסאות אורטופדיים וארגונומיים,המבטיחים שעות ארוכות של כתיבה ועבודה שוטפת – באפס עייפות.💪בחר את הכסא שיתמוך בך לאורך כל היום, ושדרג את סביבת העבודה שלך!🎯 לפרטים שלחו מייל לכתובת office@r-pardes.comאו חייגו 0723343720או היכנסו לא",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0299d29f3b40.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "0076a262ba9e",
-      "title": "הפעילות בסוריה | מקורות סורים: כוחות ישראליים חדרו למחוזות דרעא וקוניטרה וירו פגזי ארטילריה לאזור.",
-      "link": "https://hagizra.news/#msg-0076a262ba9e",
-      "body": "הפעילות בסוריה | מקורות סורים: כוחות ישראליים חדרו למחוזות דרעא וקוניטרה וירו פגזי ארטילריה לאזור.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
-      "id": "5b6de5db789d",
-      "title": "יתד נאמן המלא של מחר |30-06-26.pdf",
-      "link": "https://hagizra.news/#msg-5b6de5db789d",
-      "body": "יתד נאמן המלא של מחר |30-06-26.pdf",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T22:34:48.220Z"
-    },
-    {
       "id": "3ef4750541a0",
       "title": "אווירה | דיווח לבנוני: כוחות צה\"ל תוקפים בעוצמה בעיירה חדאתה בדרום לבנון.",
       "link": "https://hagizra.news/#msg-3ef4750541a0",
       "body": "אווירה | דיווח לבנוני: כוחות צה\"ל תוקפים בעוצמה בעיירה חדאתה בדרום לבנון.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -551,7 +421,7 @@
       "body": "אחרי איומי איראן | הנתיב שהקצתה עומאן למעבר ספינות ריק לחלוטין. כך על פי סוכנות הידיעות פארס.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -566,7 +436,7 @@
       "body": "מבלבל | הנשיא טראמפ על איראן: הפגישה בדוחא תהיה אולי חשובה, אולי לא. נגלה.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -581,7 +451,7 @@
       "body": "ראשוני | יריות נשמעות במודיעין עילית, הרקע לא ברור.",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -590,10 +460,79 @@
       "firstSeen": "2026-06-29T23:39:17.365Z"
     },
     {
-      "id": "6782aa2d8cc3",
-      "title": "ראשוני | סוכנות הידיעות האיראנית 'מהר' מדווחת על תקרית ירי באזור עיירת הגבול 'פאווה' הסמוכה לחבל הכורדי.",
-      "link": "https://hagizra.news/#msg-6782aa2d8cc3",
-      "body": "ראשוני | סוכנות הידיעות האיראנית 'מהר' מדווחת על תקרית ירי באזור עיירת הגבול 'פאווה' הסמוכה לחבל הכורדי. עדכון | סוכנות הידיעות 'מהר': שני חברי משמרות המהפכה המקומיים נהרגו ושניים נוספים נפצעו כשבית בהם שהו נפגע, ככל הנראה ע\"י כורדים.",
+      "id": "3b011e956548",
+      "title": "רעידת האדמה בוונצואלה | מניין ההרוגים הרשמי עומד על 1,719, לצד 5,034 פצועים ו-15,866 שנותרו חסרי בית.",
+      "link": "https://hagizra.news/#msg-3b011e956548",
+      "body": "רעידת האדמה בוונצואלה | מניין ההרוגים הרשמי עומד על 1,719, לצד 5,034 פצועים ו-15,866 שנותרו חסרי בית. (צילום: רויטרס)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8d2679e6a866.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "85839b901177",
+      "title": "מתעלמים | באיראן הכחישו כי נקבעה פגישה בין גורמים איראניים ואמריקניים בדוחא, כך לפי רשת אל-ג'זירה הקטארית.",
+      "link": "https://hagizra.news/#msg-85839b901177",
+      "body": "מתעלמים | באיראן הכחישו כי נקבעה פגישה בין גורמים איראניים ואמריקניים בדוחא, כך לפי רשת אל-ג'זירה הקטארית. זאת לאחר שנשיא ארה\"ב טראמפ אמר כי הפגישה תתקיים, וטען כי איראן היא שביקשה לקיים את השיחות.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "e683f4fa1b8c",
+      "title": "ירושלים | גבר (בן 30) סבל מהתקף אלרגיה חריפה בביתו ברחוב ראש פינה, חובש הזריק לו ׳אפיפן׳ (מזרק אוטומטי המשמש להזרקת כמות",
+      "link": "https://hagizra.news/#msg-e683f4fa1b8c",
+      "body": "ירושלים | גבר (בן 30) סבל מהתקף אלרגיה חריפה בביתו ברחוב ראש פינה, חובש הזריק לו ׳אפיפן׳ (מזרק אוטומטי המשמש להזרקת כמות מדודה של אדרנלין) ולאחר שמצבו התייצב הוא פונה להמשך טיפול בבית חולים. (איחוד הצלה)",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "1b6347e03183",
+      "title": "בשטח | כוח צה''ל יורה פצצות תאורה במרחב ג'נין.",
+      "link": "https://hagizra.news/#msg-1b6347e03183",
+      "body": "בשטח | כוח צה''ל יורה פצצות תאורה במרחב ג'נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1c32f0d30e37.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "30b21e5ab436",
+      "title": "שכם | תיעוד ערבי מפעילות כוחותינו באזור המזרחי של העיר.",
+      "link": "https://hagizra.news/#msg-30b21e5ab436",
+      "body": "שכם | תיעוד ערבי מפעילות כוחותינו באזור המזרחי של העיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/50b4cf9064d9.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -602,13 +541,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "6e3a5c92aa28",
-      "title": "נעצר | בחור ישיבה נעצר לפני זמן קצר אחרי שניסה לחסום את כביש גהה אחרי סיום ההפגנה, הוא עוכב ע\"י חיילי מג\"ב ומשטרה, וכנרא",
-      "link": "https://hagizra.news/#msg-6e3a5c92aa28",
-      "body": "נעצר | בחור ישיבה נעצר לפני זמן קצר אחרי שניסה לחסום את כביש גהה אחרי סיום ההפגנה, הוא עוכב ע\"י חיילי מג\"ב ומשטרה, וכנראה יועבר למעצר בתחנת המשטרה בעיר. (ידיעות בני ברק)",
+      "id": "05e5aaa3d2be",
+      "title": "בהצלחה רבה | כוח צבאי נכנס לפעילות בעיר שכם.",
+      "link": "https://hagizra.news/#msg-05e5aaa3d2be",
+      "body": "בהצלחה רבה | כוח צבאי נכנס לפעילות בעיר שכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4f45bcb5b2a4.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -617,13 +559,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "0b3c351c1aa6",
-      "title": "ימ\"ש | קרן הינד רג'אב הגישה תלונה חוקתית לבית המשפט החוקתי של ליטא לאחר שהרשויות סירבו לחקור את שון גור, ישראלי המתגורר ",
-      "link": "https://hagizra.news/#msg-0b3c351c1aa6",
-      "body": "ימ\"ש | קרן הינד רג'אב הגישה תלונה חוקתית לבית המשפט החוקתי של ליטא לאחר שהרשויות סירבו לחקור את שון גור, ישראלי המתגורר ולומד רפואת שיניים בליטא, למרות טענות הקושרות אותו ל'פשעי מלחמה ורצח עם בעזה'.",
+      "id": "20f3d1a5d12d",
+      "title": "ויהי אור | צה''ל יורה פצצות תאורה מצפון לעיר רפיח, בדרום רצועת עזה.",
+      "link": "https://hagizra.news/#msg-20f3d1a5d12d",
+      "body": "ויהי אור | צה''ל יורה פצצות תאורה מצפון לעיר רפיח, בדרום רצועת עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/16f539bf3449.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -632,13 +577,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "6278c89e23a6",
-      "title": "כעת | תקיפה לעבר הכפר דיר סריאן בדרום לבנון.",
-      "link": "https://hagizra.news/#msg-6278c89e23a6",
-      "body": "כעת | תקיפה לעבר הכפר דיר סריאן בדרום לבנון.",
+      "id": "23d086e81d29",
+      "title": "מרחב רמאללה | חיילנו בפעילות כעת בעיירה סינג'יל.",
+      "link": "https://hagizra.news/#msg-23d086e81d29",
+      "body": "מרחב רמאללה | חיילנו בפעילות כעת בעיירה סינג'יל.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8250b64e0e4a.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -647,15 +595,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "89abf8ba8c8d",
-      "title": "עצובים | ערוץ חיזבאללה מאשים את נשיא לבנון: \"ג'וזף עאון ונוואף סלאם הצילו את נתניהו ממצבו הקשה...",
-      "link": "https://hagizra.news/#msg-89abf8ba8c8d",
-      "body": "עצובים | ערוץ חיזבאללה מאשים את נשיא לבנון: \"ג'וזף עאון ונוואף סלאם הצילו את נתניהו ממצבו הקשה... עם הסכם כושל ומוכרע!\".",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b5e8bb2ebad7.png"
+      "id": "037a0907c9a6",
+      "title": "לילה אש ברצועה | חיל האוויר מפציץ מטרות באזור אל-מוואסי בעיר חאן יונס, מדרום לרצועת עזה.",
+      "link": "https://hagizra.news/#msg-037a0907c9a6",
+      "body": "לילה אש ברצועה | חיל האוויר מפציץ מטרות באזור אל-מוואסי בעיר חאן יונס, מדרום לרצועת עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/aeeceb8d32b6.bin"
       ],
       "time": null,
       "channelName": null,
@@ -665,15 +613,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "90f9e64604ff",
-      "title": "הניסיון של בנט 🤣 | יובל שגב: דף המסרים של בנט כפי שצולם השבוע אצל אחד מחברי המפלגה: נגד איזנקוט: ״אין למדינה זמן לניסיו",
-      "link": "https://hagizra.news/#msg-90f9e64604ff",
-      "body": "הניסיון של בנט 🤣 | יובל שגב: דף המסרים של בנט כפי שצולם השבוע אצל אחד מחברי המפלגה: נגד איזנקוט: ״אין למדינה זמן לניסיון״ (על חוסר הניסיון לכאורה של איזנקוט). ועם מחמאות לבנט: ״ניסיון אדיר, דחף לימודי ליבה, ראש ממשלה שנה וחצי״. פומבית בנט ולפיד נמנעים מלתקוף את איזנקוט, במסרים זה נראה אחרת.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/234559a57306.jpg"
+      "id": "3a858fcee7ef",
+      "title": "הושמד | רגע הפצצה של בית ספר - מקום ששימש עבור חמאס, ברצועת עזה.",
+      "link": "https://hagizra.news/#msg-3a858fcee7ef",
+      "body": "הושמד | רגע הפצצה של בית ספר - מקום ששימש עבור חמאס, ברצועת עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fbbabebf1456.bin"
       ],
       "time": null,
       "channelName": null,
@@ -683,15 +631,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "7f4381ceaae6",
-      "title": "אירלנד | צעיר מקומי העלה באש בנין המשמש לתפילת מוסלמים.",
-      "link": "https://hagizra.news/#msg-7f4381ceaae6",
-      "body": "אירלנד | צעיר מקומי העלה באש בנין המשמש לתפילת מוסלמים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0f7846c8c4b2.jpeg"
+      "id": "abadaaac8fbf",
+      "title": "לחסל ללא היסוס | מחבל נורה למוות על ידי כוחות צה''ל במהלך פעילות הצהריים בעיר אל-בירה.",
+      "link": "https://hagizra.news/#msg-abadaaac8fbf",
+      "body": "לחסל ללא היסוס | מחבל נורה למוות על ידי כוחות צה''ל במהלך פעילות הצהריים בעיר אל-בירה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/69bc4128e862.bin"
       ],
       "time": null,
       "channelName": null,
@@ -701,13 +649,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     },
     {
-      "id": "6acec082063a",
-      "title": "מגיפה | הרפובליקה הדמוקרטית של קונגו עדכנה כי מספר מקרי האבולה המאומתים במדינה עומד על 1,307, בהם 377 מקרי מוות.",
-      "link": "https://hagizra.news/#msg-6acec082063a",
-      "body": "מגיפה | הרפובליקה הדמוקרטית של קונגו עדכנה כי מספר מקרי האבולה המאומתים במדינה עומד על 1,307, בהם 377 מקרי מוות.",
+      "id": "5b549714f915",
+      "title": "משטחים את הכפר | דחפורי צה''ל עקרו היום מאות עצי זית במרחב ג'נין.",
+      "link": "https://hagizra.news/#msg-5b549714f915",
+      "body": "משטחים את הכפר | דחפורי צה''ל עקרו היום מאות עצי זית במרחב ג'נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7e5d87adc7f4.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -716,7 +667,77 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-29T23:39:17.365Z"
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "cf250f07f82d",
+      "title": "חמירא סכנתא מאיסורא | סרטון המתעד כניסה של קבוצת יהודים ללא אישור צבאי לכפר עוורתא, דרום-מזרחית לשכם.",
+      "link": "https://hagizra.news/#msg-cf250f07f82d",
+      "body": "חמירא סכנתא מאיסורא | סרטון המתעד כניסה של קבוצת יהודים ללא אישור צבאי לכפר עוורתא, דרום-מזרחית לשכם. לקברי בני אהרן הכהן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/95d82b8fc7ed.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "9eb7f40743e7",
+      "title": "האויב בתוכנו | הפל0טינים מסירים בכוחות עצמם את הסוללות העפר שהציב צה\"ל מסביב לכפר מדמה באזור שכם.",
+      "link": "https://hagizra.news/#msg-9eb7f40743e7",
+      "body": "האויב בתוכנו | הפל0טינים מסירים בכוחות עצמם את הסוללות העפר שהציב צה\"ל מסביב לכפר מדמה באזור שכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/79ea01dd3c25.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f69111e46d0f.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "36b3c9685c7e",
+      "title": "הטרור באיו\"ש | באורח פלא: שעות אחרי שהצבא נתן לערבים לפתוח את החסימות בכפר מדמא, בכפר בורין הסמוך יצאו לזרוק אבנים על הכ",
+      "link": "https://hagizra.news/#msg-36b3c9685c7e",
+      "body": "הטרור באיו\"ש | באורח פלא: שעות אחרי שהצבא נתן לערבים לפתוח את החסימות בכפר מדמא, בכפר בורין הסמוך יצאו לזרוק אבנים על הכביש. רכב של יהודי נפגע. טרם דווח על תגובה צבאית.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/14bfbad9812d.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
+    },
+    {
+      "id": "4052855fa6e4",
+      "title": "ראשוני | אביר לילה ג הוכרז בישוב גבעת רונן שבשומרון עקב חשש לחדירת רעול פנים אל תוך שטח הישוב.כוחות צה״ל פתחו בסריקות",
+      "link": "https://hagizra.news/#msg-4052855fa6e4",
+      "body": "ראשוני | אביר לילה ג הוכרז בישוב גבעת רונן שבשומרון עקב חשש לחדירת רעול פנים אל תוך שטח הישוב.כוחות צה״ל פתחו בסריקות",
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T01:36:54.169Z"
     }
   ],
   "errors": [
