@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T21:52:29.560Z",
+  "generatedAt": "2026-06-30T23:03:42.759Z",
   "sources": [
     {
       "id": "blackcat",
@@ -373,7 +373,7 @@
       "body": "המלחמה הלא נגמרת | חברה רוסית מעריכה כי כוחות ההגנה האווירית הרוסיים הפילו יותר מ-63,000 כלי טיס בלתי מאוישים אוקראינים מעל שטח רוסיה בששת החודשים האחרונים.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -388,7 +388,7 @@
       "body": "סיוע | וויטנאם שולחת 45 טון של אספקה וסיוע לוונצואלה.גרמניה שלחה 27 טון סיוע ועוד 80 אנשי חילוץ.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -406,7 +406,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -424,7 +424,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -439,7 +439,7 @@
       "body": "סיכום |נתניהו אולי ירד במשקלהשמאל ירד מהפסים(ינון מגל)",
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -454,7 +454,7 @@
       "body": "האלימות נגד אנשי התקשורת בהפגנות | ראובן כהן ושמעון לוי בדיון משודר בחצות בזירת החדשות: ראובן: אלימות צריכה להיות מוקעת, לשנוא איש תקשורת רק בגלל שהוא מגיע ממקום שהוא שמאל - זה חילול ה'. שמעון: כשיש כתבים לענייני חרדים שהגיעו מתוכנו, אנחנו מצפים שיבינו את מה שאחרים לא ויסקרו בצורה אוביקטיבית. הן מלבים שנאה נגד הציבור החרדי.",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -469,7 +469,7 @@
       "body": "בהצלחה | כוחות צהל מבצעים פעילות מעצרים בכפר קוסרה דרומית מזרחית לשכם. (בוחבוט).",
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -478,13 +478,124 @@
       "firstSeen": "2026-06-30T21:52:29.560Z"
     },
     {
-      "id": "6fe0b2995bf2",
-      "title": "ציטוט 💬...",
-      "link": "https://hagizra.news/#msg-6fe0b2995bf2",
-      "body": "ציטוט 💬... עוד עדות |",
+      "id": "1b8bf7d2c6bc",
+      "title": "מבוכה | בקבוצות פנימיות התפרסמה התראה על שיגורים מאיראן לאילת, ככל הנראה מדובר בזיהוי שווא.",
+      "link": "https://hagizra.news/#msg-1b8bf7d2c6bc",
+      "body": "מבוכה | בקבוצות פנימיות התפרסמה התראה על שיגורים מאיראן לאילת, ככל הנראה מדובר בזיהוי שווא.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7239acef5fc8.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7130380342cd.png"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "ac771996b7db",
+      "title": "מאמינים במו\"מ | משרד החוץ הקטארי הודיע כי ראש הממשלה ושר החוץ מוחמד בן עבד אל-רחמן אל-ת'אני הדגיש את מאמציה המתמשכים של ",
+      "link": "https://hagizra.news/#msg-ac771996b7db",
+      "body": "מאמינים במו\"מ | משרד החוץ הקטארי הודיע כי ראש הממשלה ושר החוץ מוחמד בן עבד אל-רחמן אל-ת'אני הדגיש את מאמציה המתמשכים של דוחא לתווך בין ארצות הברית לרפובליקה האסלאמית ולתמוך בדרכי המשא ומתן הנובעות ממזכר ההבנות בין שני הצדדים.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "024a94e35bbd",
+      "title": "חלאה | מזכ\"ל האו\"ם, אנטוניו גוטרש, קרא למדינות החברות לספק תמיכה כספית מיידית לסוכנות האו\"ם לפליטים פלסטינים (אונר\"א), ו",
+      "link": "https://hagizra.news/#msg-024a94e35bbd",
+      "body": "חלאה | מזכ\"ל האו\"ם, אנטוניו גוטרש, קרא למדינות החברות לספק תמיכה כספית מיידית לסוכנות האו\"ם לפליטים פלסטינים (אונר\"א), והזהיר כי מחסור חמור במימון מאיים על פעולות הומניטריות ועל היציבות האזורית.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "02a563f22104",
+      "title": "לרבים השואלים | בעיית הסרטונים בה נתקלים מקצת המשתמשים בטיפול ואנו תקווה שזה יסתדר בקרוב ממש!",
+      "link": "https://hagizra.news/#msg-02a563f22104",
+      "body": "לרבים השואלים | בעיית הסרטונים בה נתקלים מקצת המשתמשים בטיפול ואנו תקווה שזה יסתדר בקרוב ממש!",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "a10e4179c043",
+      "title": "\"אנחנו הולכים לחגוג את הקאמבק האמריקאי הגדול\" | הנשיא טראמפ הודיע כי הרפובליקנים יקיימו את ועידת אמצע הקדנציה הלאומית הר",
+      "link": "https://hagizra.news/#msg-a10e4179c043",
+      "body": "\"אנחנו הולכים לחגוג את הקאמבק האמריקאי הגדול\" | הנשיא טראמפ הודיע כי הרפובליקנים יקיימו את ועידת אמצע הקדנציה הלאומית הראשונה אי פעם של המפלגה ב-9-10 בספטמבר בדאלאס, אירוע ראשון מסוגו שמטרתו להמריץ את מצביעי המפלגה הרפובליקנית לקראת הבחירות לקונגרס בנובמבר.הוועידה תדגיש את הישגי הרפובליקנים מאז בחירות 2024 ותמקד את תשומת הלב במרוצים מרכזיים בבית הנבחרים ובסנאט, כאשר המפלגה הרפובליקנית מבקשת להגן ע",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/cca33af5f9c6.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "bed75cdb8218",
+      "title": "מבודדים את סין | פייננשל טיימס: הבנק העולמי מתכנן להפסיק בהדרגה את מתן ההלוואות לסין עד 2031.",
+      "link": "https://hagizra.news/#msg-bed75cdb8218",
+      "body": "מבודדים את סין | פייננשל טיימס: הבנק העולמי מתכנן להפסיק בהדרגה את מתן ההלוואות לסין עד 2031.",
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "182a874c265c",
+      "title": "הפגנה באנגלית | הפגנה בבר אילן על מעצר בחור אמריקאי.",
+      "link": "https://hagizra.news/#msg-182a874c265c",
+      "body": "הפגנה באנגלית | הפגנה בבר אילן על מעצר בחור אמריקאי. מדובר על מעצר בחור שחשוד על הצתה לפני תקופה בבר אילן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9ecabad63172.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-30T23:03:42.759Z"
+    },
+    {
+      "id": "6ef6a256f954",
+      "title": "בהמשך לדבריו של ראש ממשלת ישראל הערב | גרעין \"חלוצי עזה\" של תנועת נחלה מודה לראש הממשלה על החיזוק: \"יש זמן לדבר ויש זמן ",
+      "link": "https://hagizra.news/#msg-6ef6a256f954",
+      "body": "בהמשך לדבריו של ראש ממשלת ישראל הערב | גרעין \"חלוצי עזה\" של תנועת נחלה מודה לראש הממשלה על החיזוק: \"יש זמן לדבר ויש זמן לעשות. החלטנו לעשות!\"חברי הגרעין - משפחות מכל הארץ שעזבו את ביתן ומתגוררות כיום סמוך לחבל עזה באתר זמני – מדגישות כי הן ערוכות ומוכנות להקמת ישוב בעזה בכל רגע נתון.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -493,13 +604,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
+      "firstSeen": "2026-06-30T23:03:42.759Z"
     },
     {
-      "id": "6802132975ba",
-      "title": "מפתיע | התרנגול ששימש לדבר מצווה גם אחרי מותו: https://ysiva.thechats.click/r/42c3013ea3e96ff4c9ae",
-      "link": "https://hagizra.news/#msg-6802132975ba",
-      "body": "מפתיע | התרנגול ששימש לדבר מצווה גם אחרי מותו: https://ysiva.thechats.click/r/42c3013ea3e96ff4c9ae",
+      "id": "745b7dfc99f7",
+      "title": "לצורך עליה?",
+      "link": "https://hagizra.news/#msg-745b7dfc99f7",
+      "body": "לצורך עליה? | בנט מגיב לראיון של נתניהו: אני ירדתי יותר במשקל. (מגל)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -508,13 +619,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
+      "firstSeen": "2026-06-30T23:03:42.759Z"
     },
     {
-      "id": "cb70c4d6b69f",
-      "title": "סיכום חדשות היום | (זירת החדשות).",
-      "link": "https://hagizra.news/#msg-cb70c4d6b69f",
-      "body": "סיכום חדשות היום | (זירת החדשות). 💪 צה''ל חיסל היום מחבל חיזבאללה שפעל סמוך לכוחות בדרום לבנון; רה\"מ נתניהו ושר הביטחון כ\"ץ ביקרו היום בשטח לבנון. 🥵 יו\"ר המו\"מ מטעם איראן: נקים יחד עם ארה\"ב ולבנון יקימו ועדה שתפקח על סיום המלחמה בלבנון. ✊ משרד החוץ של איראן: הגישה של פקחי הסוכנות הבין-לאומית לאנרגיה אטומית למתקני הגרעין שנפגעו חסומה. לא נקיים פגישה עם ארה\"ב בימים הקרובים. 🏚️ ונצואלה: מספר ההרוג",
+      "id": "46de53e70964",
+      "title": "טבע למוות | במד\"א דיווחו כי גבר טבע למוות בים בנהריה.",
+      "link": "https://hagizra.news/#msg-46de53e70964",
+      "body": "טבע למוות | במד\"א דיווחו כי גבר טבע למוות בים בנהריה. הוא נמשה מהמים על ידי השיטור הימי והובא לחבירה עם הצוותים הרפואיים בעיר. דודו אלפסי, חובש בכיר במד\"א, סיפר: \"הגבר היה ללא דופק וללא נשימה. ביצענו בדיקות רפואיות אך לצערנו הרב לא נותר לנו אלא לקבוע את מותו\". (אור רביד).",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -523,13 +634,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
+      "firstSeen": "2026-06-30T23:03:42.759Z"
     },
     {
-      "id": "a4bd5a534e76",
-      "title": "אחרי מקהלת השמאל הצבוע | תמיר מורג: אז נתניהו אמר שהוא רזה אחרי השבעה באוקטובר בתשובה לשאלה במה השתנית?",
-      "link": "https://hagizra.news/#msg-a4bd5a534e76",
-      "body": "אחרי מקהלת השמאל הצבוע | תמיר מורג: אז נתניהו אמר שהוא רזה אחרי השבעה באוקטובר בתשובה לשאלה במה השתנית? ובכן, הוא גם אמר שהוא הבין שלא יכול להיות צבא שיש לו מדינה, אלא מדינה שיש לה צבא.ההיתפסות הדמגוגית הזו לחצי משפט שאין לו שום נגיעה למדיניות או למהות, במסגרת ראיון בשידור חי של בערך חצי שעה (לא מדדתי), היא בדיוק מסוג הדברים שמרדדים את השיח הציבורי.תשאלו על חמאס בעזה, על המערכה מול איראן - יש מספי",
+      "id": "c8f136d107fb",
+      "title": "מה שהם עשו זה פשע | (ינון מגל)",
+      "link": "https://hagizra.news/#msg-c8f136d107fb",
+      "body": "מה שהם עשו זה פשע | (ינון מגל)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cababb5865d3.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -538,13 +652,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
+      "firstSeen": "2026-06-30T23:03:42.759Z"
     },
     {
-      "id": "c3f2db847665",
-      "title": "<span style=\"color: #f44336\"טרגדיה בבית וגן: 7 יתומים רכים מרת יעל שטרית נפטרה לאחר מחלה קשה והותירה 7 ילדים כשהגדול בן ",
-      "link": "https://hagizra.news/#msg-c3f2db847665",
-      "body": "<span style=\"color: #f44336\"טרגדיה בבית וגן: 7 יתומים רכים מרת יעל שטרית נפטרה לאחר מחלה קשה והותירה 7 ילדים כשהגדול בן 18 בלבד 😰 *... אל תתעלמו מהזעקה המרה הזאת😭 |",
+      "id": "d93bc9dbf6cb",
+      "title": "בהטרלה | ינון מגל מפרסם את עיקרי הראיון עם נתניהו.",
+      "link": "https://hagizra.news/#msg-d93bc9dbf6cb",
+      "body": "בהטרלה | ינון מגל מפרסם את עיקרי הראיון עם נתניהו.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e05d4eb03d67.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -553,15 +670,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
+      "firstSeen": "2026-06-30T23:03:42.759Z"
     },
     {
-      "id": "f16abe404699",
-      "title": "מנצחים | הכתב אברהם חסון עלה לחרמון לשירות מילואים וכתב: התמונה והשלג שרואים רומזים באיזו נקודה נכחתי היום כחלק מסבב המי",
-      "link": "https://hagizra.news/#msg-f16abe404699",
-      "body": "מנצחים | הכתב אברהם חסון עלה לחרמון לשירות מילואים וכתב: התמונה והשלג שרואים רומזים באיזו נקודה נכחתי היום כחלק מסבב המילואים השישי שלי.אני רוצה להגיד לך משהו שאולי לא משתקף מספיק בתקשורת.אנחנו ניצחנו, ואנחנו מנצחים.צה״ל נמצא ב70% מרצועת עזה והיד עוד נטויה.בסוריה אנחנו נמצאים בשטח האויב ושולטים על שטחים שולטים שלא מאפשרים לאויב להתקרב לגבול.בלבנון דחקנו את חיזבאללה הרחק הרחק מגבול הישובים וחתמנו ע",
+      "id": "a53edcc8afb1",
+      "title": "👀👀 | שתי ספינות נחיתה אמפיביות אמריקאיות (USS Boxer ו-USS Portland) ועליהן כ-2,200 נחתים הגיעו לאזור CENTCOM.ספינת ה-B",
+      "link": "https://hagizra.news/#msg-a53edcc8afb1",
+      "body": "👀👀 | שתי ספינות נחיתה אמפיביות אמריקאיות (USS Boxer ו-USS Portland) ועליהן כ-2,200 נחתים הגיעו לאזור CENTCOM.ספינת ה-Boxer כוללת סיפון באר המאפשר שיגור כלי שיט ורכבים משוריינים, מה שמרחיב את אפשרויות הפעולה הקרקעיות באיראן.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/081c49167ecc.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/db4c7f0bdbd9.png"
       ],
       "time": null,
       "channelName": null,
@@ -571,118 +688,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "362f7b2fcf36",
-      "title": "סכנה | ילדה כבת 5 נעקצה ככל הנראה על ידי עקרב בפזורה והובאה במצב קשה לתחנת מד\"א בערד.",
-      "link": "https://hagizra.news/#msg-362f7b2fcf36",
-      "body": "סכנה | ילדה כבת 5 נעקצה ככל הנראה על ידי עקרב בפזורה והובאה במצב קשה לתחנת מד\"א בערד. חובשים ופרמדיקים של מד\"א העניקו לה טיפול רפואי ופינו אותה לבית החולים סורוקה כשהיא מורדמת ומונשמת עם סימני עקיצה. (12).",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "c29bd464bfb3",
-      "title": "לאחר הדריסה | מעבר צופים - נפתח לתנועה.",
-      "link": "https://hagizra.news/#msg-c29bd464bfb3",
-      "body": "לאחר הדריסה | מעבר צופים - נפתח לתנועה. קיימים עומסי תנועה קלים בכביש 55 ובמעברים. (חדשות השומרון).",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "af1bee7fa27d",
-      "title": "לתועלת הגולשים | קיבוץ הכותרות מראיון ראש הממשלה בנימין נתניהו בפטריוטים: 🎙️ אני רוצה ממשלה לאומית רחבה משום שאנו עומדי",
-      "link": "https://hagizra.news/#msg-af1bee7fa27d",
-      "body": "לתועלת הגולשים | קיבוץ הכותרות מראיון ראש הממשלה בנימין נתניהו בפטריוטים: 🎙️ אני רוצה ממשלה לאומית רחבה משום שאנו עומדים בפני אתגרים גדולים והזדמנויות גדולות. זו לא אחדות כי לא תשיג אחדות. 🎙️ לשאלה האם בן גביר והחרדים יהיו חלק מהממשלה הרחבה: \"בוודאי!\". 🎙️ על הסכמי שלום נוספים: \"יש עוד על הפרק, לא אנקוב בשמות כדי להביא תוצאות\". 🎙️ על המלחמה עם איראן: \"יש לנו הישגים כבירים, אבל זה לא נגמר - אתה ",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bc49eaf7066b.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "bd42e79475f9",
-      "title": "שכחו מהחרדים?",
-      "link": "https://hagizra.news/#msg-bd42e79475f9",
-      "body": "שכחו מהחרדים? | אמברגו: ישראל ביתנו בתגובה לנתניהו הפעם ללא מילה רעה על החרדים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/49df6ea584d3.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "defcc389f24b",
-      "title": "מכחיש | בתגובה לדברים של טראמפ על כסף שנועד לקניית תבואה רק מחקלאים אמריקאים, ראש המשא ומתן הראשי של איראן מוחמד באקר קא",
-      "link": "https://hagizra.news/#msg-defcc389f24b",
-      "body": "מכחיש | בתגובה לדברים של טראמפ על כסף שנועד לקניית תבואה רק מחקלאים אמריקאים, ראש המשא ומתן הראשי של איראן מוחמד באקר קאליבאף: זה לא נכון.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "beff427ff734",
-      "title": "והם לא עומדים | עוד מוואנס: הנשיא טראמפ מוכן להפציץ שוב באיראן אם הם לא יעמדו בהסכם.",
-      "link": "https://hagizra.news/#msg-beff427ff734",
-      "body": "והם לא עומדים | עוד מוואנס: הנשיא טראמפ מוכן להפציץ שוב באיראן אם הם לא יעמדו בהסכם.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "f4326df96ede",
-      "title": "מתעקש שיש מו\"מ | סגן נשיא ארה\"ב ג'יי די ואנס: אחת מהדברים שאני מוצא פשוט מרתקים ומתסכלים לגבי האיראנים היא שהם יגידו, \"ל",
-      "link": "https://hagizra.news/#msg-f4326df96ede",
-      "body": "מתעקש שיש מו\"מ | סגן נשיא ארה\"ב ג'יי די ואנס: אחת מהדברים שאני מוצא פשוט מרתקים ומתסכלים לגבי האיראנים היא שהם יגידו, \"לא, לא, אין שיחות שלום מתנהלות,\" אבל יש שיחות טכניות בין ארצות הברית לאיראן על הסכם השלום.זו טקטיקת משא ומתן פרסית ומכשיר רטורי פרסי שאני לא מבין.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
+      "firstSeen": "2026-06-30T23:03:42.759Z"
     }
   ],
   "errors": [
