@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:56:25.147Z",
+  "generatedAt": "2026-07-01T23:03:15.733Z",
   "sources": [
     {
       "id": "blackcat",
@@ -223,7 +223,7 @@
       "body": "טרגדיה בבית וגן: 7 יתומים רכים מרת יעל שטרית נפטרה לאחר מחלה קשה והותירה 7 ילדים כשהגדול בן 18 בלבד 😰 בהלוויה קורעת הלב, זעק בעלה בכאב: \"השארת אותי לבד, איך אוכל לשאת את היתומים הרכים הללו בלעדייך?\" הם זקוקים לנו ולעזרה שלנו כדי להתקיים 🍞🍲 לסיוע דחוף ליתומי משפחת שטרית 👇https://www.kupat.org.il/Project/2460/?source=gizra",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -415,7 +415,7 @@
       "body": "קונספציה זחוחה ורצחנית | השנה היא 2019, הרמטכ\"ל המשוחרר איזנקוט מצטרף ל-INSS וקובע: יש לנו ידיעה ברורה שפרויקט המנהרות של חיזבאללה סוכל!שימו לב לזחיחות. בדיוק כמו שישב מול האלוף גופמן באותו כנס מפורסם.זו היהירות שהובילה קצינים רבים לדווח לדרג המדיני ש... חמאס מורתע! (יגאל מלכה).",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -433,7 +433,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -451,7 +451,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -469,7 +469,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -478,10 +478,103 @@
       "firstSeen": "2026-07-01T21:56:25.147Z"
     },
     {
-      "id": "477eb318581f",
-      "title": "ה\"דיל\" שהוביל את ח\"כ רביבו לתמוך בחוק יסוד לימוד תורה | מאחורי הצבעתו של חבר הכנסת אליהו רביבו בעד חוק יסוד: לימוד תורה ",
-      "link": "https://hagizra.news/#msg-477eb318581f",
-      "body": "ה\"דיל\" שהוביל את ח\"כ רביבו לתמוך בחוק יסוד לימוד תורה | מאחורי הצבעתו של חבר הכנסת אליהו רביבו בעד חוק יסוד: לימוד תורה התנהלה דרמה פוליטית של הרגע האחרון. לידינו הגיעו פרטים שלפיהם, במסגרת המגעים שקדמו להצבעה קיבל רביבו התחייבות כי כבר בשבוע הבא יקודמו שני חוקים שיזם, חוק להנצחת רבי נחמן מברסלב, שיעלה לקריאה טרומית, וחוק העוסק בהסתה לטרור, שיקודם לקריאה שנייה ושלישית.אלא שלפני ההצבעה ביקש רביבו ל",
+      "id": "9db951b75f9b",
+      "title": "ממשיכים לתקוף | מקורות סוריים מדווחים לערוץ מצרי כי כוחות צה\"ל יורים פגזי ארטילריה באזור דרעא בדרום סוריה.",
+      "link": "https://hagizra.news/#msg-9db951b75f9b",
+      "body": "ממשיכים לתקוף | מקורות סוריים מדווחים לערוץ מצרי כי כוחות צה\"ל יורים פגזי ארטילריה באזור דרעא בדרום סוריה.",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T23:03:15.733Z"
+    },
+    {
+      "id": "3b8a70872610",
+      "title": "נס בטיוואן | סלע ענק מחטיא בקושי מכונית.",
+      "link": "https://hagizra.news/#msg-3b8a70872610",
+      "body": "נס בטיוואן | סלע ענק מחטיא בקושי מכונית.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/851ee191f58b.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T23:03:15.733Z"
+    },
+    {
+      "id": "224a12885d38",
+      "title": "כמות עצומה | יותר מ-707,000 טון של סיוע הומניטרי בינלאומי הגיעו לוונצואלה בעקבות אסון רעידת האדמה.",
+      "link": "https://hagizra.news/#msg-224a12885d38",
+      "body": "כמות עצומה | יותר מ-707,000 טון של סיוע הומניטרי בינלאומי הגיעו לוונצואלה בעקבות אסון רעידת האדמה.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T23:03:15.733Z"
+    },
+    {
+      "id": "fdc4f7b23ccd",
+      "title": "וזה מעכשיו | תקיפות רוסיות באוקראינה לפני זמן קצר.",
+      "link": "https://hagizra.news/#msg-fdc4f7b23ccd",
+      "body": "וזה מעכשיו | תקיפות רוסיות באוקראינה לפני זמן קצר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7ef56976bf19.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cf6113653f4d.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T23:03:15.733Z"
+    },
+    {
+      "id": "f86bee34ea89",
+      "title": "לאוהבי האדרנלין | מקבץ תיעודים מתקיפות רוסיה באוקראינה מוקדם יותר.",
+      "link": "https://hagizra.news/#msg-f86bee34ea89",
+      "body": "לאוהבי האדרנלין | מקבץ תיעודים מתקיפות רוסיה באוקראינה מוקדם יותר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fecf5cf1fb11.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1f114d322ad3.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/890d7544ee24.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cdbb03368796.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2afedf583a06.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5e990d98854b.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T23:03:15.733Z"
+    },
+    {
+      "id": "4eff19762a0d",
+      "title": "לכל עזה | סמוטריץ׳ בנאום לחניכי עזרא: ״לא נחזור רק לגוש קטיף, עזה כולה שלנו\".",
+      "link": "https://hagizra.news/#msg-4eff19762a0d",
+      "body": "לכל עזה | סמוטריץ׳ בנאום לחניכי עזרא: ״לא נחזור רק לגוש קטיף, עזה כולה שלנו\". (ינון מגל).",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/97f561742efd.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -490,16 +583,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "2b780270ccfc",
-      "title": "אין מילים | קיצוני נעמד בתוך הבטון הטרי במתחם הרכבת הקלה מול ישיבת חב\"ד בירושלים.",
-      "link": "https://hagizra.news/#msg-2b780270ccfc",
-      "body": "אין מילים | קיצוני נעמד בתוך הבטון הטרי במתחם הרכבת הקלה מול ישיבת חב\"ד בירושלים. ההצגה הסתיימה | מפגין הבטון נעצר.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/120ff97bc686.jpeg"
-      ],
+      "id": "7ae846ca4089",
+      "title": "רעידת האדמה בוונצואלה | יותר מ-6,400 בני אדם חולצו במאמצי החיפוש וההצלה בעקבות רעידות האדמה.",
+      "link": "https://hagizra.news/#msg-7ae846ca4089",
+      "body": "רעידת האדמה בוונצואלה | יותר מ-6,400 בני אדם חולצו במאמצי החיפוש וההצלה בעקבות רעידות האדמה. חשש כבד לחייהם של אלפים רבים שעוד נעדרים מתחת ההריסות.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -508,13 +598,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "5e3685eefb5d",
-      "title": "ראשוני | ירי ברחוב ההגנה בחיפה, לפחות 3 פצועים במקום.",
-      "link": "https://hagizra.news/#msg-5e3685eefb5d",
-      "body": "ראשוני | ירי ברחוב ההגנה בחיפה, לפחות 3 פצועים במקום.",
+      "id": "17e8d203007c",
+      "title": "פופוליזם | טאקר קרלסון אמר שהוא עובד כדי \"לעזור לבנות\" מפלגה שלישית חדשה, שלדעתו תתמקד בפופוליזם כלכלי על פני סכסוכים בי",
+      "link": "https://hagizra.news/#msg-17e8d203007c",
+      "body": "פופוליזם | טאקר קרלסון אמר שהוא עובד כדי \"לעזור לבנות\" מפלגה שלישית חדשה, שלדעתו תתמקד בפופוליזם כלכלי על פני סכסוכים בינלאומיים.ההודעה מגיעה שבוע לאחר שקרלסון הודיע שהוא סיים להצביע למפלגה הרפובליקנית.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -523,16 +613,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "62242d867e1d",
-      "title": "סיבה למסיבה | בחורים מתעמתים עם שוטרים בכניסה למודיעין עילית אחרי הפגנת הרצפניקים בשכונת חפציבה בעיר.",
-      "link": "https://hagizra.news/#msg-62242d867e1d",
-      "body": "סיבה למסיבה | בחורים מתעמתים עם שוטרים בכניסה למודיעין עילית אחרי הפגנת הרצפניקים בשכונת חפציבה בעיר. (עדכונייעס).",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/33d6237423c8.bin"
-      ],
+      "id": "ff6b471a59fd",
+      "title": "התקבל במערכת | היום בשעות הערב (יום שלישי 30.6) נפל שתל שמיעה (מכשיר שמיעה קטנטן שמחובר למגנט) בקו 401 לכיוון נתניההוא ש",
+      "link": "https://hagizra.news/#msg-ff6b471a59fd",
+      "body": "התקבל במערכת | היום בשעות הערב (יום שלישי 30.6) נפל שתל שמיעה (מכשיר שמיעה קטנטן שמחובר למגנט) בקו 401 לכיוון נתניההוא שייך לנער בחור ישיבה יקר מעירנו.העלות של דבר כזה 12 אלף דולר!!! בבקשה תפרסמו הלאה בכל קבוצה אפשרית, שיתפרסם בכל הארץ!אם מישהו במקרה נתקל, נשמח ליצירת קשר 054-8474634 תזכו למצוות!!",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -541,16 +628,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "6c78ae2d5301",
-      "title": "תיעוד נוסף | רימוני ההלם סמוך לישיבת בית אשר של הפלג, הבחורים מסתתרים בגומחת המקווה כלים.",
-      "link": "https://hagizra.news/#msg-6c78ae2d5301",
-      "body": "תיעוד נוסף | רימוני ההלם סמוך לישיבת בית אשר של הפלג, הבחורים מסתתרים בגומחת המקווה כלים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/197c393ddc6c.bin"
-      ],
+      "id": "51d4d97ad58f",
+      "title": "הולך לכבוש?",
+      "link": "https://hagizra.news/#msg-51d4d97ad58f",
+      "body": "הולך לכבוש? | טראמפ: ואם כבר מדברים על קובה, אחרי הרבה מאוד עשורים, היא מגיעה אלינו.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -559,16 +643,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "c08513399c93",
-      "title": "המהומה במודיעין עילית | תיעוד נוסף של רימוני ההלם סמוך לישיבת עטרת ישראל.",
-      "link": "https://hagizra.news/#msg-c08513399c93",
-      "body": "המהומה במודיעין עילית | תיעוד נוסף של רימוני ההלם סמוך לישיבת עטרת ישראל.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e58d582cf62a.bin"
-      ],
+      "id": "b5ce8c829b0f",
+      "title": "רוצה את התעלה בחזרה | טראמפ: כשהענקנו את תעלת פנמה לפנמה, הדבר הראשון שהם עשו, הם העלו את מחירי הספינות פי ארבעה, והם לא",
+      "link": "https://hagizra.news/#msg-b5ce8c829b0f",
+      "body": "רוצה את התעלה בחזרה | טראמפ: כשהענקנו את תעלת פנמה לפנמה, הדבר הראשון שהם עשו, הם העלו את מחירי הספינות פי ארבעה, והם לא איבדו ספינה אחת.ואז הם העלו אותם שוב פעמיים, והם לא איבדו ספינה אחת.הם הרוויחו סכומי כסף אדירים במשך שנים על גבי שנים. כמה טיפשי זה היה?עכשיו סין מנסה להשתלט על תעלת פנמה. אנחנו לא ניתן לזה לקרות.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -577,13 +658,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "61076040b81a",
-      "title": "ניו יורק | חשוד הגיע למרכז חב\"ד העולמי 770 כשהוא חמוש בסכין ובאלת פוטבול.",
-      "link": "https://hagizra.news/#msg-61076040b81a",
-      "body": "ניו יורק | חשוד הגיע למרכז חב\"ד העולמי 770 כשהוא חמוש בסכין ובאלת פוטבול. אנשי ארגון \"השמירה\" שפעלו במקום זיהו אותו, השתלטו עליו והרחיקו אותו מבית המדרש עד להגעת המשטרה. (הפרגוד).",
+      "id": "92e65f79d938",
+      "title": "טפשים | טראמפ: אנחנו לא ניתן לקומוניסטים להפריע לנו.",
+      "link": "https://hagizra.news/#msg-92e65f79d938",
+      "body": "טפשים | טראמפ: אנחנו לא ניתן לקומוניסטים להפריע לנו. האנשים האלה, מה שהם עושים, זה פשוט כל כך טיפשי. הם טיפשים.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -592,13 +673,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "4701eb3f6a39",
-      "title": "סיכום חדשות היום | (זירת החדשות) 😭 טרגדיה לפנות בוקר בנתניה: המקובל הרב עמוס גואטה זצ\"ל בן ה-75 נדקר למוות בידי אחד מחס",
-      "link": "https://hagizra.news/#msg-4701eb3f6a39",
-      "body": "סיכום חדשות היום | (זירת החדשות) 😭 טרגדיה לפנות בוקר בנתניה: המקובל הרב עמוס גואטה זצ\"ל בן ה-75 נדקר למוות בידי אחד מחסידיו המעורער בנפשו. 👑📜 חוק יסוד לימוד תורה אושר הערב במליאת הכנסת ברוב של 63 מול 53. 🔪 ניסיון פיגוע דקירה הערב בלוד: המחבל, תושב העיר בעל עבר פלילי, חוסל בזירה; ללא נפגעים. 🙄 הסתיימו השיחות הטכניות בקטאר בין איראן לארה\"ב; שר החוץ האיראני: כל איום על איראן והנהגתה יקבל תגובה מ",
+      "id": "7f1b30f3be29",
+      "title": "שבוע אבל | נשיאת וונצואלה דלסי רודריגז הכריזה על שבעה ימי אבל לאומיים לקורבנות רעידת האדמה בוונצואלה.",
+      "link": "https://hagizra.news/#msg-7f1b30f3be29",
+      "body": "שבוע אבל | נשיאת וונצואלה דלסי רודריגז הכריזה על שבעה ימי אבל לאומיים לקורבנות רעידת האדמה בוונצואלה. \"ברגעים אלה של עצב עמוק, אנו מחבקים את אלו הסובלים מהטרגדיה הזו ומאשרים את מחויבותנו לתמוך בהם ולהגן עליהם.\"",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -607,16 +688,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "fbc7f4aaffbe",
-      "title": "הגיזרה💥 20:50",
-      "link": "https://hagizra.news/#msg-fbc7f4aaffbe",
-      "body": "הגיזרה💥 20:50",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8fa2921e2db4.png"
-      ],
+      "id": "fa69e94db575",
+      "title": "מתכוננים לתקיפה רצינית | נשיא אוקראינה זלנסקי: היום יש מידע על תקיפה רוסית ענקית נוספת - יש נתונים רלוונטיים מהמודיעין ש",
+      "link": "https://hagizra.news/#msg-fa69e94db575",
+      "body": "מתכוננים לתקיפה רצינית | נשיא אוקראינה זלנסקי: היום יש מידע על תקיפה רוסית ענקית נוספת - יש נתונים רלוונטיים מהמודיעין שלנו.היום אני מבקש מאנשינו באוקראינה להיות זהירים במיוחד - להגן על עצמם, על משפחותיהם, על ילדיהם, לוודא שהם משתמשים במקלטים ולשים לב לאזעקות תקיפה באוקראינה. אנו יודעים שפוטין מתכנן תקיפה ענקית על אוקראינה מזה זמן מה. הלילה הוא בדיוק איום כזה.",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -625,16 +703,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     },
     {
-      "id": "51091c11e9a5",
-      "title": "תיקון היסטורי |",
-      "link": "https://hagizra.news/#msg-51091c11e9a5",
-      "body": "תיקון היסטורי |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7267ac711911.png"
-      ],
+      "id": "ae5c2f8a4805",
+      "title": "איך הם הגיעו לשם?",
+      "link": "https://hagizra.news/#msg-ae5c2f8a4805",
+      "body": "איך הם הגיעו לשם? | שני אנשים טיפסו לפסגת בניין האמפייר סטייט בניו יורק, כשהם אוחזים בשלט מהאנטנה של גורד השחקים ועליו נכתב: \"כאשר כוח האהבה מנצח את אהבת הכוח, העולם יודע שלום\".נכון לעכשיו, לא ברור כיצד הגיעו השניים לפסגת הבניין, בעוד המשטרה פועלת להורידם מהצריח, בגובה 425 מטרים מעל הקרקע.",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -643,94 +718,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
-    },
-    {
-      "id": "bfbaf3c14e13",
-      "title": "ערך עליון | ח\"כ יעקב טסלר: התורה היא יסוד קיומו של העם היהודי ואינה צריכה חיזוק של חוקי יסוד.",
-      "link": "https://hagizra.news/#msg-bfbaf3c14e13",
-      "body": "ערך עליון | ח\"כ יעקב טסלר: התורה היא יסוד קיומו של העם היהודי ואינה צריכה חיזוק של חוקי יסוד. עם זאת, אישור החוק בקריאה הראשונה היא הצהרה חשובה, של הכרה בלימוד התורה כערך עליון. הגיע הזמן שמדינת ישראל תחזור להכיר בלומדי התורה ובתרומתם ההירואית לעם ישראל לדורותיו. מצער שאפילו זה לא זכה לקונצנזוס.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
-    },
-    {
-      "id": "5e60b25090cf",
-      "title": "אכן | ינון מגל: ליבו של גרוק במקום הנכון.",
-      "link": "https://hagizra.news/#msg-5e60b25090cf",
-      "body": "אכן | ינון מגל: ליבו של גרוק במקום הנכון.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/28b3f82e2eee.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
-    },
-    {
-      "id": "e9eca4da7932",
-      "title": "אין מילים | קיצוני נעמד בתוך הבטון הטרי במתחם הרכבת הקלה מול ישיבת חב\"ד בירושלים.",
-      "link": "https://hagizra.news/#msg-e9eca4da7932",
-      "body": "אין מילים | קיצוני נעמד בתוך הבטון הטרי במתחם הרכבת הקלה מול ישיבת חב\"ד בירושלים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/087f1542e78d.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
-    },
-    {
-      "id": "824245b96e8f",
-      "title": "עוד מהמהומה | המשטרה מפזרת את הבחורים עם רימוני הלם.",
-      "link": "https://hagizra.news/#msg-824245b96e8f",
-      "body": "עוד מהמהומה | המשטרה מפזרת את הבחורים עם רימוני הלם. (יהושע מ)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1baca183feb0.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
-    },
-    {
-      "id": "7f9c12ce3eb9",
-      "title": "עוד ממודיעין עילית |",
-      "link": "https://hagizra.news/#msg-7f9c12ce3eb9",
-      "body": "עוד ממודיעין עילית |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c5947c2d4712.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-01T21:56:25.147Z"
+      "firstSeen": "2026-07-01T23:03:15.733Z"
     }
   ],
   "errors": [
