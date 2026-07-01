@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T23:03:42.759Z",
+  "generatedAt": "2026-07-01T00:16:35.148Z",
   "sources": [
     {
       "id": "blackcat",
@@ -38,6 +38,24 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-06-08T06:55:07.656Z"
+    },
+    {
+      "id": "e73468d4ffd2",
+      "title": "שער יתד |",
+      "link": "https://hagizra.news/#msg-e73468d4ffd2",
+      "body": "שער יתד |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b332e16a9baf.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-10T00:03:19.214Z"
     },
     {
       "id": "902ec487ac35",
@@ -367,117 +385,6 @@
       "firstSeen": "2026-06-30T21:52:29.560Z"
     },
     {
-      "id": "7ff76de849ea",
-      "title": "המלחמה הלא נגמרת | חברה רוסית מעריכה כי כוחות ההגנה האווירית הרוסיים הפילו יותר מ-63,000 כלי טיס בלתי מאוישים אוקראינים ",
-      "link": "https://hagizra.news/#msg-7ff76de849ea",
-      "body": "המלחמה הלא נגמרת | חברה רוסית מעריכה כי כוחות ההגנה האווירית הרוסיים הפילו יותר מ-63,000 כלי טיס בלתי מאוישים אוקראינים מעל שטח רוסיה בששת החודשים האחרונים.",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "6356da3298f8",
-      "title": "סיוע | וויטנאם שולחת 45 טון של אספקה וסיוע לוונצואלה.גרמניה שלחה 27 טון סיוע ועוד 80 אנשי חילוץ.",
-      "link": "https://hagizra.news/#msg-6356da3298f8",
-      "body": "סיוע | וויטנאם שולחת 45 טון של אספקה וסיוע לוונצואלה.גרמניה שלחה 27 טון סיוע ועוד 80 אנשי חילוץ.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "6bb9da07490c",
-      "title": "🥫 | נתניהו מגיב לסערת המשקל.",
-      "link": "https://hagizra.news/#msg-6bb9da07490c",
-      "body": "🥫 | נתניהו מגיב לסערת המשקל. (ינון מגל)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5869897f813a.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "9822f59b035d",
-      "title": "צנזורה איראנית | הטלוויזיה באיראן קטעה במפתיע את הריאיון של קאליבאף מבלי לשדר את סופו.",
-      "link": "https://hagizra.news/#msg-9822f59b035d",
-      "body": "צנזורה איראנית | הטלוויזיה באיראן קטעה במפתיע את הריאיון של קאליבאף מבלי לשדר את סופו. (אסף רוזנצוויג)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0da3a3d9f12d.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "c3f95c383843",
-      "title": "סיכום |נתניהו אולי ירד במשקלהשמאל ירד מהפסים(ינון מגל)",
-      "link": "https://hagizra.news/#msg-c3f95c383843",
-      "body": "סיכום |נתניהו אולי ירד במשקלהשמאל ירד מהפסים(ינון מגל)",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "111a5b5e9b30",
-      "title": "האלימות נגד אנשי התקשורת בהפגנות | ראובן כהן ושמעון לוי בדיון משודר בחצות בזירת החדשות: ראובן: אלימות צריכה להיות מוקעת,",
-      "link": "https://hagizra.news/#msg-111a5b5e9b30",
-      "body": "האלימות נגד אנשי התקשורת בהפגנות | ראובן כהן ושמעון לוי בדיון משודר בחצות בזירת החדשות: ראובן: אלימות צריכה להיות מוקעת, לשנוא איש תקשורת רק בגלל שהוא מגיע ממקום שהוא שמאל - זה חילול ה'. שמעון: כשיש כתבים לענייני חרדים שהגיעו מתוכנו, אנחנו מצפים שיבינו את מה שאחרים לא ויסקרו בצורה אוביקטיבית. הן מלבים שנאה נגד הציבור החרדי.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
-      "id": "2aa89c1455a5",
-      "title": "בהצלחה | כוחות צהל מבצעים פעילות מעצרים בכפר קוסרה דרומית מזרחית לשכם.",
-      "link": "https://hagizra.news/#msg-2aa89c1455a5",
-      "body": "בהצלחה | כוחות צהל מבצעים פעילות מעצרים בכפר קוסרה דרומית מזרחית לשכם. (בוחבוט).",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T21:52:29.560Z"
-    },
-    {
       "id": "1b8bf7d2c6bc",
       "title": "מבוכה | בקבוצות פנימיות התפרסמה התראה על שיגורים מאיראן לאילת, ככל הנראה מדובר בזיהוי שווא.",
       "link": "https://hagizra.news/#msg-1b8bf7d2c6bc",
@@ -487,7 +394,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -502,7 +409,7 @@
       "body": "מאמינים במו\"מ | משרד החוץ הקטארי הודיע כי ראש הממשלה ושר החוץ מוחמד בן עבד אל-רחמן אל-ת'אני הדגיש את מאמציה המתמשכים של דוחא לתווך בין ארצות הברית לרפובליקה האסלאמית ולתמוך בדרכי המשא ומתן הנובעות ממזכר ההבנות בין שני הצדדים.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -517,7 +424,7 @@
       "body": "חלאה | מזכ\"ל האו\"ם, אנטוניו גוטרש, קרא למדינות החברות לספק תמיכה כספית מיידית לסוכנות האו\"ם לפליטים פלסטינים (אונר\"א), והזהיר כי מחסור חמור במימון מאיים על פעולות הומניטריות ועל היציבות האזורית.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -532,7 +439,7 @@
       "body": "לרבים השואלים | בעיית הסרטונים בה נתקלים מקצת המשתמשים בטיפול ואנו תקווה שזה יסתדר בקרוב ממש!",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -550,7 +457,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -559,10 +466,91 @@
       "firstSeen": "2026-06-30T23:03:42.759Z"
     },
     {
-      "id": "bed75cdb8218",
-      "title": "מבודדים את סין | פייננשל טיימס: הבנק העולמי מתכנן להפסיק בהדרגה את מתן ההלוואות לסין עד 2031.",
-      "link": "https://hagizra.news/#msg-bed75cdb8218",
-      "body": "מבודדים את סין | פייננשל טיימס: הבנק העולמי מתכנן להפסיק בהדרגה את מתן ההלוואות לסין עד 2031.",
+      "id": "cac33d864806",
+      "title": "טראמפ שקל לתקוף 💥 | דיווח בוול סטריט ג'ורנל: הנשיא טראמפ שקל חזרה למלחמה כוללת עם איראן וקיים בימים האחרונים מספר שיחות",
+      "link": "https://hagizra.news/#msg-cac33d864806",
+      "body": "טראמפ שקל לתקוף 💥 | דיווח בוול סטריט ג'ורנל: הנשיא טראמפ שקל חזרה למלחמה כוללת עם איראן וקיים בימים האחרונים מספר שיחות עם שר ההגנה פיט הגסת'... זורם עם המריחות | עוד לפי הדיווח, טראמפ אמר לעוזריו שהוא מרגיש בנוח לתת למשא ומתן על הסכם גרעין להימשך גם מעבר למועד האחרון של 18 באוגוסט. בינתיים, כך לפי הוול סטריט ג'ורנל, הוא מסכים להורות על תקיפות חד-פעמיות נגד איראן - במידה והיא מפרה את מזכר ההבנות.",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T00:16:35.148Z"
+    },
+    {
+      "id": "ddfe8bcbc2eb",
+      "title": "ארה\"ב | רכבת משא שהובילה חומרים מסוכנים ירדה מהפסים בפנסילבניה.",
+      "link": "https://hagizra.news/#msg-ddfe8bcbc2eb",
+      "body": "ארה\"ב | רכבת משא שהובילה חומרים מסוכנים ירדה מהפסים בפנסילבניה. המשטרה המקומית טוענת שלא היו דליפות.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8cf3fc17cd60.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T00:16:35.148Z"
+    },
+    {
+      "id": "1be1cddd5453",
+      "title": "😯",
+      "link": "https://hagizra.news/#msg-1be1cddd5453",
+      "body": "😯",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/75e1a74f4f32.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T00:16:35.148Z"
+    },
+    {
+      "id": "ac11639d7ee2",
+      "title": "טראמפ שקל לתקוף 💥 | דיווח בוול סטריט ג'ורנל: הנשיא טראמפ שקל חזרה למלחמה כוללת עם איראן וקיים בימים האחרונים מספר שיחות",
+      "link": "https://hagizra.news/#msg-ac11639d7ee2",
+      "body": "טראמפ שקל לתקוף 💥 | דיווח בוול סטריט ג'ורנל: הנשיא טראמפ שקל חזרה למלחמה כוללת עם איראן וקיים בימים האחרונים מספר שיחות עם שר ההגנה פיט הגסת' ויו\"ר המטות המשולבים גנרל דן קיין על תקיפות נוספות - אך החליט להיצמד לשיחות הדיפלומטיות לעת עתה, כך על פי גורמים אמריקנים המעורים בפרטים. (12).",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T00:16:35.148Z"
+    },
+    {
+      "id": "914cf6d999fd",
+      "title": "תאונות הדרכים | רוכב קורקינט חשמלי כבן 60 נפצע קשה לאחר שנפגע מרכב במועצה המקומית אזור.",
+      "link": "https://hagizra.news/#msg-914cf6d999fd",
+      "body": "תאונות הדרכים | רוכב קורקינט חשמלי כבן 60 נפצע קשה לאחר שנפגע מרכב במועצה המקומית אזור. צוותי מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים איכילוב עם חבלה רב-מערכתית. (12).",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T00:16:35.148Z"
+    },
+    {
+      "id": "2ac08c029238",
+      "title": "ממשיכים במאמצים | ראש הממשלה הפקיסטני שהבז שריף יקיים ביקור רשמי באיראן ובטורקיה בין ה-3 ל-6 ביולי.",
+      "link": "https://hagizra.news/#msg-2ac08c029238",
+      "body": "ממשיכים במאמצים | ראש הממשלה הפקיסטני שהבז שריף יקיים ביקור רשמי באיראן ובטורקיה בין ה-3 ל-6 ביולי. כחלק ממאמצי פקיסטן לסייע בסיום המלחמה במזרח התיכון,מקורות מסרו כי במהלך ביקורו ייפגש ראש הממשלה עם הנהגת איראן וטורקיה ויקרא לטהרן ולוושינגטון לנהוג באיפוק, במיוחד בעקבות חתימת מזכר ההבנות של אסלאמאבאד כחלק מתהליך השלום.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -571,15 +559,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "182a874c265c",
-      "title": "הפגנה באנגלית | הפגנה בבר אילן על מעצר בחור אמריקאי.",
-      "link": "https://hagizra.news/#msg-182a874c265c",
-      "body": "הפגנה באנגלית | הפגנה בבר אילן על מעצר בחור אמריקאי. מדובר על מעצר בחור שחשוד על הצתה לפני תקופה בבר אילן.",
+      "id": "b7b3d6f62db1",
+      "title": "עוד מעיראק | תושבים באזור הירוק מדווחים על ירי ממערכות נשק ואפילו מאקדחים של אנשים פרטיים לעבר הכטב\"ם.",
+      "link": "https://hagizra.news/#msg-b7b3d6f62db1",
+      "body": "עוד מעיראק | תושבים באזור הירוק מדווחים על ירי ממערכות נשק ואפילו מאקדחים של אנשים פרטיים לעבר הכטב\"ם.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9ecabad63172.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2f937a1cbfab.bin"
       ],
       "time": null,
       "channelName": null,
@@ -589,13 +577,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "6ef6a256f954",
-      "title": "בהמשך לדבריו של ראש ממשלת ישראל הערב | גרעין \"חלוצי עזה\" של תנועת נחלה מודה לראש הממשלה על החיזוק: \"יש זמן לדבר ויש זמן ",
-      "link": "https://hagizra.news/#msg-6ef6a256f954",
-      "body": "בהמשך לדבריו של ראש ממשלת ישראל הערב | גרעין \"חלוצי עזה\" של תנועת נחלה מודה לראש הממשלה על החיזוק: \"יש זמן לדבר ויש זמן לעשות. החלטנו לעשות!\"חברי הגרעין - משפחות מכל הארץ שעזבו את ביתן ומתגוררות כיום סמוך לחבל עזה באתר זמני – מדגישות כי הן ערוכות ומוכנות להקמת ישוב בעזה בכל רגע נתון.",
+      "id": "df9efaa13c91",
+      "title": "תיעוד מעיראק | טענות לרחפן ממולכד שטס סמוך לבית ראש הממשלה העיראקי.",
+      "link": "https://hagizra.news/#msg-df9efaa13c91",
+      "body": "תיעוד מעיראק | טענות לרחפן ממולכד שטס סמוך לבית ראש הממשלה העיראקי.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/12a9486c5040.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -604,13 +595,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "745b7dfc99f7",
-      "title": "לצורך עליה?",
-      "link": "https://hagizra.news/#msg-745b7dfc99f7",
-      "body": "לצורך עליה? | בנט מגיב לראיון של נתניהו: אני ירדתי יותר במשקל. (מגל)",
+      "id": "d9fe5aeeda7a",
+      "title": "מהומה בעיראק | שוב כוחות צבא נכנסו אל האזור הירוק בבגדד בו שוכנים משרדי הממשלה, שגרירויות ואישים רמי דרג.",
+      "link": "https://hagizra.news/#msg-d9fe5aeeda7a",
+      "body": "מהומה בעיראק | שוב כוחות צבא נכנסו אל האזור הירוק בבגדד בו שוכנים משרדי הממשלה, שגרירויות ואישים רמי דרג. במהלך הפעילות נשמעו קולות ירי ופיצוץ ואחד הערוצים המקומיים טוען לירוט כטב\"ם מעל אותו אזור.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/20ce9df25e15.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 8,
@@ -619,13 +613,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "46de53e70964",
-      "title": "טבע למוות | במד\"א דיווחו כי גבר טבע למוות בים בנהריה.",
-      "link": "https://hagizra.news/#msg-46de53e70964",
-      "body": "טבע למוות | במד\"א דיווחו כי גבר טבע למוות בים בנהריה. הוא נמשה מהמים על ידי השיטור הימי והובא לחבירה עם הצוותים הרפואיים בעיר. דודו אלפסי, חובש בכיר במד\"א, סיפר: \"הגבר היה ללא דופק וללא נשימה. ביצענו בדיקות רפואיות אך לצערנו הרב לא נותר לנו אלא לקבוע את מותו\". (אור רביד).",
+      "id": "0b043af602c9",
+      "title": "עוד רעידות | המכון הגיאולוגי של ארה\"ב הודיע כי רעידת אדמה בעוצמה 6.0 בסולם ריכטר פקדה את חוף מקסיקו.",
+      "link": "https://hagizra.news/#msg-0b043af602c9",
+      "body": "עוד רעידות | המכון הגיאולוגי של ארה\"ב הודיע כי רעידת אדמה בעוצמה 6.0 בסולם ריכטר פקדה את חוף מקסיקו.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/19a652296fdb.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -634,16 +631,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "c8f136d107fb",
-      "title": "מה שהם עשו זה פשע | (ינון מגל)",
-      "link": "https://hagizra.news/#msg-c8f136d107fb",
-      "body": "מה שהם עשו זה פשע | (ינון מגל)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cababb5865d3.bin"
-      ],
+      "id": "c767b115a6b7",
+      "title": "אם לא יותר | משרד הבריאות הלבנוני מעדכן על 4278 הרוגים מתחילת המלחמה ב 2 במרץ, 21 מתוכם במהלך היממה האחרונה.",
+      "link": "https://hagizra.news/#msg-c767b115a6b7",
+      "body": "אם לא יותר | משרד הבריאות הלבנוני מעדכן על 4278 הרוגים מתחילת המלחמה ב 2 במרץ, 21 מתוכם במהלך היממה האחרונה.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -652,16 +646,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "d93bc9dbf6cb",
-      "title": "בהטרלה | ינון מגל מפרסם את עיקרי הראיון עם נתניהו.",
-      "link": "https://hagizra.news/#msg-d93bc9dbf6cb",
-      "body": "בהטרלה | ינון מגל מפרסם את עיקרי הראיון עם נתניהו.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e05d4eb03d67.bin"
-      ],
+      "id": "921089e93012",
+      "title": "ממריצים את כלכלת ארה\"ב | פייננשל טיימס: מזכ\"ל נאט\"ו הצהיר כי צעדי החימוש מחדש של אירופה משמרים 195,000 משרות ביטחוניות ב",
+      "link": "https://hagizra.news/#msg-921089e93012",
+      "body": "ממריצים את כלכלת ארה\"ב | פייננשל טיימס: מזכ\"ל נאט\"ו הצהיר כי צעדי החימוש מחדש של אירופה משמרים 195,000 משרות ביטחוניות בארצות הברית הודות להזמנות נשק בשווי 300 מיליארד דולר.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -670,16 +661,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     },
     {
-      "id": "a53edcc8afb1",
-      "title": "👀👀 | שתי ספינות נחיתה אמפיביות אמריקאיות (USS Boxer ו-USS Portland) ועליהן כ-2,200 נחתים הגיעו לאזור CENTCOM.ספינת ה-B",
-      "link": "https://hagizra.news/#msg-a53edcc8afb1",
-      "body": "👀👀 | שתי ספינות נחיתה אמפיביות אמריקאיות (USS Boxer ו-USS Portland) ועליהן כ-2,200 נחתים הגיעו לאזור CENTCOM.ספינת ה-Boxer כוללת סיפון באר המאפשר שיגור כלי שיט ורכבים משוריינים, מה שמרחיב את אפשרויות הפעולה הקרקעיות באיראן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/db4c7f0bdbd9.png"
-      ],
+      "id": "47d28b03b5cc",
+      "title": "מגיפת האבולה | הרפובליקה הדמוקרטית של קונגו עדכנה כי מספר מקרי האבולה במדינה עלה ל-1,333.",
+      "link": "https://hagizra.news/#msg-47d28b03b5cc",
+      "body": "מגיפת האבולה | הרפובליקה הדמוקרטית של קונגו עדכנה כי מספר מקרי האבולה במדינה עלה ל-1,333. 399 מקרי מוות נרשמו. (12).",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -688,7 +676,22 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-30T23:03:42.759Z"
+      "firstSeen": "2026-07-01T00:16:35.148Z"
+    },
+    {
+      "id": "fad7ea6e95aa",
+      "title": "מטריד | הבית הלבן הגביל את השימוש במודלים המתקדמים של חברת הבינה המלאכותית אנת'רופיק - בגלל חשש לגישה סינית, כך דווח בסו",
+      "link": "https://hagizra.news/#msg-fad7ea6e95aa",
+      "body": "מטריד | הבית הלבן הגביל את השימוש במודלים המתקדמים של חברת הבינה המלאכותית אנת'רופיק - בגלל חשש לגישה סינית, כך דווח בסוכנות הידיעות רויטרס. ל... חזל\"ש | טראמפ יסיר היום את המגבלות על מודל Fable החזק של אנתרופיק, כך מדווח פוליטיקו.השינוי יאפשר לאנתרופיק להפוך את Fable 5 לזמין שוב לכל המשתמשים הרגילים בארה\"ב.",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-01T00:16:35.148Z"
     }
   ],
   "errors": [
