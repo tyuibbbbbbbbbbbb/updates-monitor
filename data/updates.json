@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T13:59:03.587Z",
+  "generatedAt": "2026-07-03T15:54:08.735Z",
   "sources": [
     {
       "id": "blackcat",
@@ -388,7 +388,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -403,7 +403,7 @@
       "body": "חוזלש | האירוע אתמול סמוך לבית אומר - צה\"ל מעדכן: \"נשלל החשד לניסיון פיגוע דריסה\".",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -418,7 +418,7 @@
       "body": "סכנה | נער בן 13 נפצע קשה לאחר שנפל מסוס בסמוך לשתולה. צוות רפואה שהגיע למקום פינו אותו למרכז הרפואי לגליל בנהריה מחוסר הכרה עם חבלת ראש.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -436,7 +436,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -451,7 +451,7 @@
       "body": "מבזקון אירועי חירום בארץ | טבריה | בן שנה וחצי במצב קל לאחר שנמשה מבריכה כשהוא בהכרה אחרי טביעה.תל אביב | בן 6 במצב בינוני כתוצאה מטביעה בסמוך לטיילת חומת הים.חולון | רוכב קורקינט בן 46 החליק במהלך הנסיעה ברחוב בן צבי, פונה במצב בינוני עם חבלות ופציעות בראשו.גבעתיים | נהגת רכב כבת 60 נפצעה בינוני כתוצאה מהתהפכות רכבה ברחוב סירקין.טבריה | כבן 43 במצב בינוני כתוצאה ממכת חום בשטח בעיר. (איחוד הצלה)",
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -466,7 +466,7 @@
       "body": "לב פתוח | השר דודי אמסלם בראיון אחרי שלקה בהתקף לב: ״הגעתי לבית חולים עם סתימה של 100%, הקב״ה הביא אותי בזמן. אני תמיד אומר את מה שעל ליבי״.",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -484,7 +484,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -493,10 +493,119 @@
       "firstSeen": "2026-07-03T13:59:03.587Z"
     },
     {
-      "id": "e5416e9b021e",
-      "title": "נגד איראן | עוד עולה מנוסח הוועדה כי מנהיגי נאט\"ו יצהירו כי אסור שלאיראן יהיה אי פעם נשק גרעיני, ויקראו לה לכבד באופן מל",
-      "link": "https://hagizra.news/#msg-e5416e9b021e",
-      "body": "נגד איראן | עוד עולה מנוסח הוועדה כי מנהיגי נאט\"ו יצהירו כי אסור שלאיראן יהיה אי פעם נשק גרעיני, ויקראו לה לכבד באופן מלא את חופש השיט במצר הורמוז. (12).",
+      "id": "ef3bdfb01217",
+      "title": "הכפכפים מאיימים על הגמלים | בהצהרת דובר החות'ים מזהירים המורדים בתימן כי כל חדירה נוספת למרחב האווירי של המדינה או תקיפה",
+      "link": "https://hagizra.news/#msg-ef3bdfb01217",
+      "body": "הכפכפים מאיימים על הגמלים | בהצהרת דובר החות'ים מזהירים המורדים בתימן כי כל חדירה נוספת למרחב האווירי של המדינה או תקיפה נגדה תיענה ב\"תגובה כוללת\"... עוד מדובר החות'ים | האזהרה באה בעקבות מטוסי קרב סעודים שניסו בשעות הבוקר המוקדמות למנוע מ\"מטוס אזרחי איראני\" שנשא לכאורה אזרחים תימנים שהיו תקועים באיראן, וחדר למרחב האווירי של תימן, אך לטענתו החות'ים ירו בתגובה טילי קרקע-אוויר למטוסים הסעודיים, מה ש",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "757538d0cc2a",
+      "title": "הכפכפים מאיימים על הגמלים | בהצהרת דובר החות'ים מזהירים המורדים בתימן כי כל חדירה נוספת למרחב האווירי של המדינה או תקיפה",
+      "link": "https://hagizra.news/#msg-757538d0cc2a",
+      "body": "הכפכפים מאיימים על הגמלים | בהצהרת דובר החות'ים מזהירים המורדים בתימן כי כל חדירה נוספת למרחב האווירי של המדינה או תקיפה נגדה תיענה ב\"תגובה כוללת\", שתכלול לדבריהם תקיפת שדות תעופה ותשתיות חיוניות בסעודיה. בנוסף הודיעו כי ימשיכו את הטיסות בין צנעא לטהראן למרות האיומים.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "bf603ad75324",
+      "title": "קרעו שערי שמיים | החמרה משמעותית במצבו של הגאון המתמיד רבי חיים בן רעשא רייזל (ברמן).",
+      "link": "https://hagizra.news/#msg-bf603ad75324",
+      "body": "קרעו שערי שמיים | החמרה משמעותית במצבו של הגאון המתמיד רבי חיים בן רעשא רייזל (ברמן). בהיכל ישיבת פוניבז’ קיימו לפני שעה קלה תפילת רבים ובני הישיבה נקראו לבוא להשתתף. בני המשפחה נקראו לחדרו. (נתי קאליש)",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "846e78b4ce90",
+      "title": "מכחיש | בכיר בבית הלבן על הידיעה לפיה ''הממשל האמריקאי ויתר על פירוז חמאס כתנאי לשיקום עזה'': ''פייק ניוז מוחלט.",
+      "link": "https://hagizra.news/#msg-846e78b4ce90",
+      "body": "מכחיש | בכיר בבית הלבן על הידיעה לפיה ''הממשל האמריקאי ויתר על פירוז חמאס כתנאי לשיקום עזה'': ''פייק ניוז מוחלט. לא יהיה שיקום לפני פירוז''.",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "41478a3b16c8",
+      "title": "היכונו עם כפכפים | בשעה 18:00 - הצהרה ״חשובה״ של דובר החות׳ים.",
+      "link": "https://hagizra.news/#msg-41478a3b16c8",
+      "body": "היכונו עם כפכפים | בשעה 18:00 - הצהרה ״חשובה״ של דובר החות׳ים. (ברק בטש)",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "a9c9d624d042",
+      "title": "מרהיב | מופע של צנחני יחידת 'צפרדעי הקפיצה' של צבא ארה\"ב לרגל חגיגות ה 250 לעצמאות ארה\"ב.",
+      "link": "https://hagizra.news/#msg-a9c9d624d042",
+      "body": "מרהיב | מופע של צנחני יחידת 'צפרדעי הקפיצה' של צבא ארה\"ב לרגל חגיגות ה 250 לעצמאות ארה\"ב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9fc99f2c0920.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3948ef1639bb.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "43bce2a1a1ce",
+      "title": "רשימת הנושרים | מיכאל שמש: אדלשטיין בקשר קרוב עם גלעד ארדן שקד ונוספים אחרים.",
+      "link": "https://hagizra.news/#msg-43bce2a1a1ce",
+      "body": "רשימת הנושרים | מיכאל שמש: אדלשטיין בקשר קרוב עם גלעד ארדן שקד ונוספים אחרים. עוד פרטים | כבר כמה חודשים שהציר הזה מדובר רבות, אך עד עכשיו זה לא הבשיל לאיחוד, ארדן מעדיף את כחלון על פני אדלשטיין, שקד רוצה מקום גבוה בישראל ביתנו, אם הם אכן יתאחדו, מי שיפגע מכך הם גנץ ודדי שמחי שעל פי הסקרים התחילו לתפוס תאוצה. (שלום שטיין)",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-03T15:54:08.735Z"
+    },
+    {
+      "id": "1a301beb74b8",
+      "title": "זמן פורענות | בערב שבת: סריקות אחר נעדר בחוף מי עמי באשדוד.",
+      "link": "https://hagizra.news/#msg-1a301beb74b8",
+      "body": "זמן פורענות | בערב שבת: סריקות אחר נעדר בחוף מי עמי באשדוד. (הפרגוד)",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -505,13 +614,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
+      "firstSeen": "2026-07-03T15:54:08.735Z"
     },
     {
-      "id": "d075c44c0618",
-      "title": "יתמכו באוקראינה | רויטרס: על פי נוסח ההחלטות מוועידת אנקרה חברות נאט\"ו צפויות להתחייב להעברת סיוע צבאי לאוקראינה בסך 70 ",
-      "link": "https://hagizra.news/#msg-d075c44c0618",
-      "body": "יתמכו באוקראינה | רויטרס: על פי נוסח ההחלטות מוועידת אנקרה חברות נאט\"ו צפויות להתחייב להעברת סיוע צבאי לאוקראינה בסך 70 מיליארד אירו לשנת 2026, ולהתחייב לסכום \"שווה לפחות\" גם בשנת 2027. (12).",
+      "id": "370a3d5227fa",
+      "title": "מ-ט-ו-ר-ף | מנוף שהוריד מבנה קרס בזמן העבודה אתמול בראשון לציון בערב.",
+      "link": "https://hagizra.news/#msg-370a3d5227fa",
+      "body": "מ-ט-ו-ר-ף | מנוף שהוריד מבנה קרס בזמן העבודה אתמול בראשון לציון בערב. (המהדורה)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a51a483be5ad.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 8,
@@ -520,13 +632,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
+      "firstSeen": "2026-07-03T15:54:08.735Z"
     },
     {
-      "id": "917cf1bc501b",
-      "title": "כביש 444 | תאונת דרכים אירעה בסמוך לצומת הכניסה לג׳לג׳וליה עם מעורבות ארבעה כלי רכב.",
-      "link": "https://hagizra.news/#msg-917cf1bc501b",
-      "body": "כביש 444 | תאונת דרכים אירעה בסמוך לצומת הכניסה לג׳לג׳וליה עם מעורבות ארבעה כלי רכב. צעיר (בן 25) עם חבלות בראש ובגפיים נפצע באורח קשה, בת 65 נפצעה באורח בינוני ובנוסף הוענק סיוע לשלשה נפגעים נוספים שנפצעו באורח קל ולאחר מכן פונו לבית חולים להמשך קבלת טיפול.",
+      "id": "fa1118461131",
+      "title": "ציר הרשע | בן בריתו של פוטין ונשיא רוסיה לשעבר דמיטרי מדבדב משתתף בהלוויית חמינאי ימ\"ש.",
+      "link": "https://hagizra.news/#msg-fa1118461131",
+      "body": "ציר הרשע | בן בריתו של פוטין ונשיא רוסיה לשעבר דמיטרי מדבדב משתתף בהלוויית חמינאי ימ\"ש.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/eb64334fd6cf.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -535,16 +650,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
+      "firstSeen": "2026-07-03T15:54:08.735Z"
     },
     {
-      "id": "50517bd2f098",
-      "title": "מלחמה ללא תכלית | תיעוד תקיפה רוסית על בנין שבו לפי הטענה פעלו חיילים מצבא אוקראינה.",
-      "link": "https://hagizra.news/#msg-50517bd2f098",
-      "body": "מלחמה ללא תכלית | תיעוד תקיפה רוסית על בנין שבו לפי הטענה פעלו חיילים מצבא אוקראינה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/83a17dec741a.bin"
-      ],
+      "id": "1ce1593e8f4d",
+      "title": "רשימת הנושרים | מיכאל שמש: אדלשטיין בקשר קרוב עם גלעד ארדן שקד ונוספים אחרים.",
+      "link": "https://hagizra.news/#msg-1ce1593e8f4d",
+      "body": "רשימת הנושרים | מיכאל שמש: אדלשטיין בקשר קרוב עם גלעד ארדן שקד ונוספים אחרים.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -553,15 +665,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
+      "firstSeen": "2026-07-03T15:54:08.735Z"
     },
     {
-      "id": "f4bd9e3de2e2",
-      "title": "שווה לאמץ את הצוואר | תיעוד שמתפרסם כעת של צבא ארה\"ב משגר טילים לאיראן מבסיס אמריקאי בכוויית במהלך המלחמה האחרונה.",
-      "link": "https://hagizra.news/#msg-f4bd9e3de2e2",
-      "body": "שווה לאמץ את הצוואר | תיעוד שמתפרסם כעת של צבא ארה\"ב משגר טילים לאיראן מבסיס אמריקאי בכוויית במהלך המלחמה האחרונה.",
+      "id": "0891135f4081",
+      "title": "העמיס עוד כמה לאמבולנס...",
+      "link": "https://hagizra.news/#msg-0891135f4081",
+      "body": "העמיס עוד כמה לאמבולנס... | תיעוד שיגרתי מכפר בצפון השומרון: תאונה בין אמבולנס של הסהר האדום לאופנוע עליו רכבו 3 אנשים. (חדשות 55)",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f023d8f4cf74.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/78e5c724846f.bin"
       ],
       "time": null,
       "channelName": null,
@@ -571,15 +683,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
+      "firstSeen": "2026-07-03T15:54:08.735Z"
     },
     {
-      "id": "534be42ae516",
-      "title": "משחק כפול | המשלחת הסעודית בהלווית הצורר.כידוע ע״פ דיווחים, סעודיה הייתה מהתומכות הגדולות במפרץ להפלת משטר האייתולות במל",
-      "link": "https://hagizra.news/#msg-534be42ae516",
-      "body": "משחק כפול | המשלחת הסעודית בהלווית הצורר.כידוע ע״פ דיווחים, סעודיה הייתה מהתומכות הגדולות במפרץ להפלת משטר האייתולות במלחמה האחרונה, ואף דחפו מאחורי הקלעים לכך.זה מתחבר היטב לדיווח המודגש למעלה, על המשחק הכפול של המפרציות במזה״ת. (גולדבלט)",
+      "id": "8c53719be5f3",
+      "title": "עוזב סופית | עמית סגל: בלעדי: יולי אדלשטיין ל״פגוש את העיתונות״: עוזב את הליכוד ויוצא לדרך פוליטית חדשה.בראיון שישודר מח",
+      "link": "https://hagizra.news/#msg-8c53719be5f3",
+      "body": "עוזב סופית | עמית סגל: בלעדי: יולי אדלשטיין ל״פגוש את העיתונות״: עוזב את הליכוד ויוצא לדרך פוליטית חדשה.בראיון שישודר מחר מסביר יו״ר הכנסת לשעבר שלא יכול היה עוד להצדיק בפומבי את מדיניות המפלגה, ואומר שיפעל להקמת מסגרת פוליטית חדשה שתקדם ממשלת אחדות ולא תצטרף לגוש השינוי.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1fb475a81531.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8da132333423.bin"
       ],
       "time": null,
       "channelName": null,
@@ -589,130 +701,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "b73c4fd91ba4",
-      "title": "קיבוץ לרשעים | המשלחת הטורקים בהלוויית חמינאי.",
-      "link": "https://hagizra.news/#msg-b73c4fd91ba4",
-      "body": "קיבוץ לרשעים | המשלחת הטורקים בהלוויית חמינאי.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fc407cdbdb6d.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "9b1c280dcf37",
-      "title": "סאגת הפריימריז בליכוד | בית הדין של הליכוד מציב אולטימטום לוועדת החוקה - עד יום שלישי ב-13:00 חייב להתגבש תקנון לפריימרי",
-      "link": "https://hagizra.news/#msg-9b1c280dcf37",
-      "body": "סאגת הפריימריז בליכוד | בית הדין של הליכוד מציב אולטימטום לוועדת החוקה - עד יום שלישי ב-13:00 חייב להתגבש תקנון לפריימריז. אם לא, ועידת הליכוד תצביע על תקנון הפריימריז של 2022, כולל חמשת השריונים שאושרו אז לנתניהו, ולצדו יוכל נתניהו להגיש הצעה חלופית. (אנה ברסקי).",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "36aa1ec76453",
-      "title": "ימ\"ש | אחרי שלא נראה בציבור חודשים ארוכים, זיאד א-נח'אלה, מזכ\"ל הג'האד האסלאמי, מפציע ממקום מחבואו ומוביל את משלחת התנוע",
-      "link": "https://hagizra.news/#msg-36aa1ec76453",
-      "body": "ימ\"ש | אחרי שלא נראה בציבור חודשים ארוכים, זיאד א-נח'אלה, מזכ\"ל הג'האד האסלאמי, מפציע ממקום מחבואו ומוביל את משלחת התנועה להלווית עלי ח'אמינאי. (אבו עלי).",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/208c95f6e3b7.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "589ba45c690b",
-      "title": "מממני הטרור | משלחת קטארית הגיעה גם היא לטהראן.",
-      "link": "https://hagizra.news/#msg-589ba45c690b",
-      "body": "מממני הטרור | משלחת קטארית הגיעה גם היא לטהראן. נראה שהמממנים הגדולים של הפרוייקט הזה שנקרא משה״מ הגיעו כדי לראות מה נשאר מהארגון הזה. (יאיר גולדבלט).",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ae09eb752657.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "62c45acdbcdd",
-      "title": "מלחמה עיקשת | תיעודים מההתמקדות הנוכחית של הפצצות צבא רוסיה - תחנות דלק אוקראיניות.",
-      "link": "https://hagizra.news/#msg-62c45acdbcdd",
-      "body": "מלחמה עיקשת | תיעודים מההתמקדות הנוכחית של הפצצות צבא רוסיה - תחנות דלק אוקראיניות.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ecd0b44c452e.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/eb280ce7002a.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0d7607dc6f43.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e71a9ed14d41.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "026a2fb681da",
-      "title": "הרחוב מקיא אותם | טוביה יגלניק: פעילים של מפלגת \"הדמוקרטים\" הותקפו בשוק התקווה בתל אביב.",
-      "link": "https://hagizra.news/#msg-026a2fb681da",
-      "body": "הרחוב מקיא אותם | טוביה יגלניק: פעילים של מפלגת \"הדמוקרטים\" הותקפו בשוק התקווה בתל אביב. דיווח על מספר תוקפים שעוכבו/נעצרו. ה'דמוקרטים' שונאי הדת | אבי מוסקוב: הסיפור האמיתי מאחורי סרטון תקיפת פעילי ׳הדמוקרטים׳ בתל אביב, לפי עדות שלוחי חב״ד: רגע לפני האירוע המתועד, פעילים מהמפלגה הפכו דוכן תפילין.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
-    },
-    {
-      "id": "a9b470e5267b",
-      "title": "מדהים | לכבוד יום השנה ה 250 לעצמאות ארצות הברית, נערך מופע רחפנים.",
-      "link": "https://hagizra.news/#msg-a9b470e5267b",
-      "body": "מדהים | לכבוד יום השנה ה 250 לעצמאות ארצות הברית, נערך מופע רחפנים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5fe87d02540d.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-03T13:59:03.587Z"
+      "firstSeen": "2026-07-03T15:54:08.735Z"
     }
   ],
   "errors": [
