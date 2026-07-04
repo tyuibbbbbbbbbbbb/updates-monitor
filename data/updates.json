@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:41:26.509Z",
+  "generatedAt": "2026-07-04T22:39:38.300Z",
   "sources": [
     {
       "id": "blackcat",
@@ -38,6 +38,24 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-06-08T06:55:07.656Z"
+    },
+    {
+      "id": "e73468d4ffd2",
+      "title": "שער יתד |",
+      "link": "https://hagizra.news/#msg-e73468d4ffd2",
+      "body": "שער יתד |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6e216431be21.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-10T00:03:19.214Z"
     },
     {
       "id": "d5318252cf0f",
@@ -340,54 +358,6 @@
       "firstSeen": "2026-07-04T20:42:18.403Z"
     },
     {
-      "id": "a3647fbf157f",
-      "title": "מה זה שמה בשמיים | מטס יום עצמאות של ארה\"ב.",
-      "link": "https://hagizra.news/#msg-a3647fbf157f",
-      "body": "מה זה שמה בשמיים | מטס יום עצמאות של ארה\"ב.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/463dff97fa4d.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T20:42:18.403Z"
-    },
-    {
-      "id": "007274f776e4",
-      "title": "שבת רביעית ברציפות | מאות מפגינים חרדים חסמו את הכביש הראשי הסמוך לתחנה המרכזית בצפת במחאה על הפעלת קווי תחבורה ציבורית ",
-      "link": "https://hagizra.news/#msg-007274f776e4",
-      "body": "שבת רביעית ברציפות | מאות מפגינים חרדים חסמו את הכביש הראשי הסמוך לתחנה המרכזית בצפת במחאה על הפעלת קווי תחבורה ציבורית לפני יציאת השבת. כוחות משט... עיר שומרת שבת! | '''גורם חרדי''' על ההפגנות בצפת: ״לא ברור מה הסיבה להפגנות, מדובר בחברה בבעלות ערבי שמפעילה כבר שנים ארוכות תחבורה ציבורית בצפון בריכוזים ערביים״. (אוֹף דה רקורד)",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T20:42:18.403Z"
-    },
-    {
-      "id": "c56750bacf3f",
-      "title": "חרם דיפלומטי | באיראן טוענים: 13 מדינות ביטלו את השתתפות נציגיהן בהלווית חמינאי בעקבות לחץ אמריקני בהם שלוש מדינות מזרח ",
-      "link": "https://hagizra.news/#msg-c56750bacf3f",
-      "body": "חרם דיפלומטי | באיראן טוענים: 13 מדינות ביטלו את השתתפות נציגיהן בהלווית חמינאי בעקבות לחץ אמריקני בהם שלוש מדינות מזרח אירופיות, חמש מדינות אפריק... נגד הזרם | שר החוץ של איראן עבאס עראקצ'י הודה למשלחות הבין-לאומיות שהגיעו למסע הלוויה של ח'אמנאי וטען שהגיעו נציגים מ-70 מדינות. (12)",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T20:42:18.403Z"
-    },
-    {
       "id": "508c0250adad",
       "title": "בחיים הכל עובר",
       "link": "https://black-cat.thechats.click/#msg-508c0250adad",
@@ -430,7 +400,7 @@
       "body": "אימה באוסטרליה | שני גברים בגילאי 22 ו-25 נעצרו היום בסידני שבאוסטרליה, לאחר שכיוונו כלי נשק לעבר יהודים שיצאו מתפילת שבת במרכז חב\"ד בדאבל ביי, הממוקם במרחק לא גדול מבונדיי ביץ', שבו התרחש הטבח הנורא במסיבת החנוכה של חב\"ד לפני 7 חודשים. (מנדי ריזל)",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -448,7 +418,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -463,7 +433,7 @@
       "body": "סיכום חדשות השבת והערב | (זירת החדשות) הנשיא טראמפ: אני ונתניהו ביחסים טובים, הוא יודע מי הבוס, ייתכן שניפגש בשבוע הבא; כיסחנו לאיראן את הצורה, נתנו להם שבוע הפסקה להלוויה כי אנחנו נחמדים. לשכת רה\"מ: ראש הממשלה נתניהו והנשיא טראמפ סיכמו להיפגש בקרוב בארה\"ב. ח\"כ יולי אדלשטיין הודיע על פרישה מהליכוד: \"בקרוב נצא לדרך חדשה בלי חרמות\". דיווח סעודי: פקיסטן תארח סבב משא ומתן חדש בין ארצות הברית לאיראן ב־",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -478,7 +448,7 @@
       "body": "חיים בפחד | אנשי הצוות בישיבת רכסים הודיעו לתלמידים כי מי שיתקשר למשטרה - יסולק. (יואלי ברים)",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -493,7 +463,7 @@
       "body": "בנוסף | צעיר חרדי שהסתובב הערב בכפר חסידים הוכה קשות בפניו, ולא פנה למשטרה בשל החשש ממעצר כעריק (יואלי ברים)",
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -502,10 +472,111 @@
       "firstSeen": "2026-07-04T21:41:26.509Z"
     },
     {
-      "id": "afc87fc66c14",
-      "title": "זה מול זה | הקהילה היהודית בברלין זועמת מול פרויקט פלסטיני שיציג עדויות מעזה - מול אבני נגף מהשואה: \"דורכים על הזיכרון ה",
-      "link": "https://hagizra.news/#msg-afc87fc66c14",
-      "body": "זה מול זה | הקהילה היהודית בברלין זועמת מול פרויקט פלסטיני שיציג עדויות מעזה - מול אבני נגף מהשואה: \"דורכים על הזיכרון הרגיש ביותר של מדינתנו\". (כאן)",
+      "id": "1e9fe35236ad",
+      "title": "נחמד | מטוס אמריקאי טס בצורת ארה\"ב, USA ו 250 מה שיצר שירטוט מרהיב מעל צפון מדינת אוהיו.",
+      "link": "https://hagizra.news/#msg-1e9fe35236ad",
+      "body": "נחמד | מטוס אמריקאי טס בצורת ארה\"ב, USA ו 250 מה שיצר שירטוט מרהיב מעל צפון מדינת אוהיו. חביב | בפוקס ניוז מפרסמים תיעוד בזמן אמת של המטוס המשרטט.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/046bc2bb4ffd.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-04T22:39:38.300Z"
+    },
+    {
+      "id": "1be4dd7f3031",
+      "title": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוק",
+      "link": "https://hagizra.news/#msg-1be4dd7f3031",
+      "body": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוקראיני במזרח. (אסף רוזנצווי... מתרברבים | ברוסיה מפרסמים סרטונים של חיילים רוסיים חוגגים עם דגלים ברחבי העיר ההרוסה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a933d56497d5.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/147a36a13219.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f040d5796a28.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6bbe46a140fc.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1991292f006d.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/00b381c43f1e.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f3f54efd2bd1.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1919f110fbc6.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/80eefec1455b.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-04T22:39:38.300Z"
+    },
+    {
+      "id": "8b24a2cfa8ca",
+      "title": "מרהיב | ביפן חגגו את אירוע העצמאות לרגל 250 שנה לעצמאות ארה\"ב במופע זיקוקים.",
+      "link": "https://hagizra.news/#msg-8b24a2cfa8ca",
+      "body": "מרהיב | ביפן חגגו את אירוע העצמאות לרגל 250 שנה לעצמאות ארה\"ב במופע זיקוקים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6ebfb13d80ad.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-04T22:39:38.300Z"
+    },
+    {
+      "id": "43f99377e454",
+      "title": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוק",
+      "link": "https://hagizra.news/#msg-43f99377e454",
+      "body": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוקראיני במזרח. (אסף רוזנצווי... תיעוד מהעיר החרבה |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/187e22945d28.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-04T22:39:38.300Z"
+    },
+    {
+      "id": "bcf00a0d49c7",
+      "title": "העיקר לא משעמם | סיני בנה זרוע ענק במשקל 5 טון שמחקה בדיוק את תנועות כף ידו.",
+      "link": "https://hagizra.news/#msg-bcf00a0d49c7",
+      "body": "העיקר לא משעמם | סיני בנה זרוע ענק במשקל 5 טון שמחקה בדיוק את תנועות כף ידו.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/417eaceaeb5c.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-04T22:39:38.300Z"
+    },
+    {
+      "id": "86f69c70bc7a",
+      "title": "וואו | משאית נפט התנגשה במחסום כביש מהיר בהודו וגרמה לשריפה.",
+      "link": "https://hagizra.news/#msg-86f69c70bc7a",
+      "body": "וואו | משאית נפט התנגשה במחסום כביש מהיר בהודו וגרמה לשריפה. על פי דיווחים בכלי תקשורת מקומיים, ארבעה בני אדם נהרגו בתאונה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/918cad302dea.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -514,13 +585,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "db3870f5882a",
-      "title": "'עסקה טובה' | אייל ציר כהן, לשעבר בכיר במוסד וראש המשלחת למו\"מ בקטר לשחרור חטופים, התייחס לאמירתו של ניצן אלון לפיה \"הממ",
-      "link": "https://hagizra.news/#msg-db3870f5882a",
-      "body": "'עסקה טובה' | אייל ציר כהן, לשעבר בכיר במוסד וראש המשלחת למו\"מ בקטר לשחרור חטופים, התייחס לאמירתו של ניצן אלון לפיה \"הממשלה סירבה לעסקאות שלמות ומוקדמות יותר\", ואמר: \"זו לא המציאות שהכרתי. בתקופה שלי בצוות המו\"מ לא ראיתי עסקה טובה שנדחתה\". (כאן)",
+      "id": "2aee200643f6",
+      "title": "החשש מפשיטת מחבלים ביו\"ש | מקור ביטחוני מוסר: בהמשך להודעה שרצה ברשת אודות כוננות ביהודה ושומרון לאור התראות פשיטה נבקש ",
+      "link": "https://hagizra.news/#msg-2aee200643f6",
+      "body": "החשש מפשיטת מחבלים ביו\"ש | מקור ביטחוני מוסר: בהמשך להודעה שרצה ברשת אודות כוננות ביהודה ושומרון לאור התראות פשיטה נבקש להבהיר כי מדובר במסמכים שאותרו במהלך הלחימה ברצועת עזה ועצם קיומם פורסם כבר לפני למעלה משנה. אין מדובר במידע חדש.נכון להיום, אין בידי מערכת הביטחון תשתיות מוכרות או מידע קונקרטי המעידים על קידום תוכניות מסוג זה.צה\"ל וגופי הביטחון ממשיכים לקיים הערכת מצב רציפה ופועל באופן יזום ומת",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -529,15 +600,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "cec92fe0cdea",
-      "title": "שמי ניו יורק | המפציץ B-52 במטס בניו יורק.",
-      "link": "https://hagizra.news/#msg-cec92fe0cdea",
-      "body": "שמי ניו יורק | המפציץ B-52 במטס בניו יורק.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a3e194a6c065.png"
+      "id": "48c37eb33df5",
+      "title": "תיעוד מטורף | סופת טורנדו באזור האסור בצ'רנוביל - אוקראינה, לכדה שריפת יער והחלה להשתולל בדיוק לכיוון אלו שמצלמים אותה.",
+      "link": "https://hagizra.news/#msg-48c37eb33df5",
+      "body": "תיעוד מטורף | סופת טורנדו באזור האסור בצ'רנוביל - אוקראינה, לכדה שריפת יער והחלה להשתולל בדיוק לכיוון אלו שמצלמים אותה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/80921f2d3edc.bin"
       ],
       "time": null,
       "channelName": null,
@@ -547,13 +618,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "114657ec21f3",
-      "title": "מהומה בישיבה ברכסים | בצאת שבת נערי שוליים זרקו אבנים לכיוון הישיבה.",
-      "link": "https://hagizra.news/#msg-114657ec21f3",
-      "body": "מהומה בישיבה ברכסים | בצאת שבת נערי שוליים זרקו אבנים לכיוון הישיבה. אחד הבחורים הוכה באכזריות ונפצע - הבחורים חששו להזמין משטרה מחשש שייעצרו מאחר שהם עריקים.",
+      "id": "9a1341a2e9fa",
+      "title": "מתעדכנים | מהקרמלין נמסר כי פוטין וטראמפ שוחחו היום במשך שעה ו-25 דקות.",
+      "link": "https://hagizra.news/#msg-9a1341a2e9fa",
+      "body": "מתעדכנים | מהקרמלין נמסר כי פוטין וטראמפ שוחחו היום במשך שעה ו-25 דקות. במהלך השיחה, פוטין סיפק לטראמפ הערכה לגבי אירועי הקרבות במלחמה נגד אוקראינה. עוד נמסר כי טראמפ הציע לקראת פסגת נאט\"ו בטורקיה לעזור בהגעה להסדר בין המדינות, וכי שליחיו ויטקוף וקושנר ימשיכו לסייע במאמצים אלו.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -562,28 +633,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "3cf1c04e80ac",
-      "title": "טרגדיה נוראה בבית וגן: 7 יתומים רכיםמרת יעל שטרית נפטרה לאחר מחלה קשה והותירה 7 ילדים כשהגדול בן 18 בלבד 😰בהלוויה קורעת",
-      "link": "https://hagizra.news/#msg-3cf1c04e80ac",
-      "body": "טרגדיה נוראה בבית וגן: 7 יתומים רכיםמרת יעל שטרית נפטרה לאחר מחלה קשה והותירה 7 ילדים כשהגדול בן 18 בלבד 😰בהלוויה קורעת הלב, זעק בעלה בכאב: \"השארת אותי לבד, איך אוכל לשאת את היתומים הרכים הללו בלעדייך?\"הם זקוקים לנו ולעזרה שלנו כדי להתקיים 🍞🍲לסיוע דחוף ליתומי משפחת שטרית 👇https://www.kupat.org.il/Project/2460/?source=gizra",
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
-    },
-    {
-      "id": "84f162543c7e",
-      "title": "סיוט בקפלן | עובד ותיק בביה\"ח \"קפלן\" נעצר בחשד שתקף רופאים שטיפלו בבנו.",
-      "link": "https://hagizra.news/#msg-84f162543c7e",
-      "body": "סיוט בקפלן | עובד ותיק בביה\"ח \"קפלן\" נעצר בחשד שתקף רופאים שטיפלו בבנו. (כאן)",
+      "id": "34dbb6208d83",
+      "title": "נחמד | מטוס אמריקאי טס בצורת ארה\"ב, USA ו 250 מה שיצר שירטוט מרהיב מעל צפון מדינת אוהיו.",
+      "link": "https://hagizra.news/#msg-34dbb6208d83",
+      "body": "נחמד | מטוס אמריקאי טס בצורת ארה\"ב, USA ו 250 מה שיצר שירטוט מרהיב מעל צפון מדינת אוהיו.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e51fcac21582.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -592,16 +651,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "4797e330c320",
-      "title": "בכתב יד | כך נראה המודעה הפנימית שפורסמה דקות לפני שבת בבתי הכנסת באזור בית ישראל ומאה שערים.",
-      "link": "https://hagizra.news/#msg-4797e330c320",
-      "body": "בכתב יד | כך נראה המודעה הפנימית שפורסמה דקות לפני שבת בבתי הכנסת באזור בית ישראל ומאה שערים. (הירושלמים)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b8e45ec46cd4.jpeg"
-      ],
+      "id": "956fac777afc",
+      "title": "אין לו זמן | טראמפ התלונן שאין לו זמן להירגע - אין לו זמן לשחות או לשחק גולף בשטח הבית הלבן.\"לא לבשתי בגד ים הרבה זמן; א",
+      "link": "https://hagizra.news/#msg-956fac777afc",
+      "body": "אין לו זמן | טראמפ התלונן שאין לו זמן להירגע - אין לו זמן לשחות או לשחק גולף בשטח הבית הלבן.\"לא לבשתי בגד ים הרבה זמן; אני עסוק מדי\".גם לנשיא ארה\"ב אין זמן לקרוא, אבל הוא קורא מעת לעת סיקור עיתונאי של עצמו.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -610,13 +666,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "f6fefd10046e",
-      "title": "גזרות לחימה | בכירי מערכת הביטחון מדגישים כי רצועת עזה אינה מהווה כרגע זירה מרכזית, וכי על ישראל להתמקד באיום מצד איראן ",
-      "link": "https://hagizra.news/#msg-f6fefd10046e",
-      "body": "גזרות לחימה | בכירי מערכת הביטחון מדגישים כי רצועת עזה אינה מהווה כרגע זירה מרכזית, וכי על ישראל להתמקד באיום מצד איראן ולבנון, וכן בהסלמה המסתמנת ביהודה ושומרון. (מאקו)",
+      "id": "9f91d09a2e33",
+      "title": "גם ברוסיה | סופת ברקים במוסקבה, גל החום צפוי לשוב לאירופה במהלך השבוע.",
+      "link": "https://hagizra.news/#msg-9f91d09a2e33",
+      "body": "גם ברוסיה | סופת ברקים במוסקבה, גל החום צפוי לשוב לאירופה במהלך השבוע.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4a087ff286a1.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -625,13 +684,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "e9f107f84a50",
-      "title": "פריז & ארה\"ב 🗼 | גבר נעצר אחרי שטיפס על מגדל אייפל ותלה עליו את דגל ארה\"ב.",
-      "link": "https://hagizra.news/#msg-e9f107f84a50",
-      "body": "פריז & ארה\"ב 🗼 | גבר נעצר אחרי שטיפס על מגדל אייפל ותלה עליו את דגל ארה\"ב.",
+      "id": "5589c0ab5272",
+      "title": "אחרי גל החום | שטפונות בדרום איטליה כתוצאה מגשמי זעף.",
+      "link": "https://hagizra.news/#msg-5589c0ab5272",
+      "body": "אחרי גל החום | שטפונות בדרום איטליה כתוצאה מגשמי זעף.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/417993a4bcfc.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e9e39be74107.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -640,15 +703,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     },
     {
-      "id": "fdab84916a7f",
-      "title": "האם חסרים לוחמים בצה״ל?",
-      "link": "https://hagizra.news/#msg-fdab84916a7f",
-      "body": "האם חסרים לוחמים בצה״ל? | התשובה לפניכם בפרשנות של הלל ביטון רוזן.",
+      "id": "88371a207bf7",
+      "title": "איך הוא לא מת מצחוק?",
+      "link": "https://hagizra.news/#msg-88371a207bf7",
+      "body": "איך הוא לא מת מצחוק? | ערוצי האופוזיציה האיראניים לא נשארו אדישים למבטים של שר החוץ האיראני, עבאס עראקג'י, לעבר יו\"ר הפרלמנט מחמד באקר קאליבאף, בזמן שזה יילל בטקס הפרידה מעלי ח'מינאי.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3cc86261dd44.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1884b06674c8.bin"
       ],
       "time": null,
       "channelName": null,
@@ -658,48 +721,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
-    },
-    {
-      "id": "64d55fff11c6",
-      "title": "אטרקציה | גשמי זרם בסין.",
-      "link": "https://hagizra.news/#msg-64d55fff11c6",
-      "body": "אטרקציה | גשמי זרם בסין.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/90f2088bc388.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
-    },
-    {
-      "id": "5f46aedc6bd2",
-      "title": "נועז | צבא אינדונזיה הודיע היום שחילץ את גופתו של הטייס האמריקני ניקולאס גוסלין, שמטוסו הופל והוא נורה למוות ביום חמישי ",
-      "link": "https://hagizra.news/#msg-5f46aedc6bd2",
-      "body": "נועז | צבא אינדונזיה הודיע היום שחילץ את גופתו של הטייס האמריקני ניקולאס גוסלין, שמטוסו הופל והוא נורה למוות ביום חמישי בידי בדלנים ילידים בפפואה גינאה החדשה. (אסף רוזנצווייג)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d5ec0d15ef83.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/594996521557.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/70eaad7f3640.jpg"
-      ],
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6c7a29965e52.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T21:41:26.509Z"
+      "firstSeen": "2026-07-04T22:39:38.300Z"
     }
   ],
   "errors": [
