@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T01:31:29.930Z",
+  "generatedAt": "2026-07-05T05:19:22.385Z",
   "sources": [
     {
       "id": "blackcat",
@@ -376,180 +376,13 @@
       "firstSeen": "2026-07-04T21:41:26.509Z"
     },
     {
-      "id": "1e9fe35236ad",
-      "title": "נחמד | מטוס אמריקאי טס בצורת ארה\"ב, USA ו 250 מה שיצר שירטוט מרהיב מעל צפון מדינת אוהיו.",
-      "link": "https://hagizra.news/#msg-1e9fe35236ad",
-      "body": "נחמד | מטוס אמריקאי טס בצורת ארה\"ב, USA ו 250 מה שיצר שירטוט מרהיב מעל צפון מדינת אוהיו. חביב | בפוקס ניוז מפרסמים תיעוד בזמן אמת של המטוס המשרטט.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/046bc2bb4ffd.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T22:39:38.300Z"
-    },
-    {
-      "id": "1be4dd7f3031",
-      "title": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוק",
-      "link": "https://hagizra.news/#msg-1be4dd7f3031",
-      "body": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוקראיני במזרח. (אסף רוזנצווי... מתרברבים | ברוסיה מפרסמים סרטונים של חיילים רוסיים חוגגים עם דגלים ברחבי העיר ההרוסה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a933d56497d5.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/147a36a13219.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f040d5796a28.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6bbe46a140fc.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1991292f006d.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/00b381c43f1e.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f3f54efd2bd1.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1919f110fbc6.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/80eefec1455b.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T22:39:38.300Z"
-    },
-    {
-      "id": "8b24a2cfa8ca",
-      "title": "מרהיב | ביפן חגגו את אירוע העצמאות לרגל 250 שנה לעצמאות ארה\"ב במופע זיקוקים.",
-      "link": "https://hagizra.news/#msg-8b24a2cfa8ca",
-      "body": "מרהיב | ביפן חגגו את אירוע העצמאות לרגל 250 שנה לעצמאות ארה\"ב במופע זיקוקים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6ebfb13d80ad.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T22:39:38.300Z"
-    },
-    {
-      "id": "43f99377e454",
-      "title": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוק",
-      "link": "https://hagizra.news/#msg-43f99377e454",
-      "body": "מלחמה ללא סוף | משרד ההגנה של רוסיה הודיע על כיבוש העיר קוסטנטינייבקה במחוז דונייצק, שנחשבת עיר מפתח במערך הביצורים האוקראיני במזרח. (אסף רוזנצווי... תיעוד מהעיר החרבה |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/187e22945d28.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T22:39:38.300Z"
-    },
-    {
-      "id": "8b14331ede5b",
-      "title": "פרוייקט ענק | תחנת הכוח התרמו-סולארית הגבוהה בעולם נבנית בהרי טיבט.מתחם אנדו טושואו, בעל קיבולת של 100 מגה-וואט, ממוקם ב",
-      "link": "https://hagizra.news/#msg-8b14331ede5b",
-      "body": "פרוייקט ענק | תחנת הכוח התרמו-סולארית הגבוהה בעולם נבנית בהרי טיבט.מתחם אנדו טושואו, בעל קיבולת של 100 מגה-וואט, ממוקם בגובה של למעלה מ-4,600 מטר מעל פני הים ומצויד ב-15,927 הליוסטטים.המראות מחזירות את קרני השמש לעבר מגדל מרכזי, שם החום נאגר במלחים מותכים, מה שמאפשר לתחנת הכוח לייצר חשמל לא רק במהלך היום אלא גם בלילה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f5c051f7ef35.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T23:43:26.965Z"
-    },
-    {
-      "id": "251bec29bc61",
-      "title": "דרוש כפיל לתפקיד מסוכן | ניקולס ליסאק, פעיל תקשורת אמריקאי מוכר, כתב לפני זמן קצר: \"גורם אמין טוען כי מוג’תבא ח’אמנאי מת",
-      "link": "https://hagizra.news/#msg-251bec29bc61",
-      "body": "דרוש כפיל לתפקיד מסוכן | ניקולס ליסאק, פעיל תקשורת אמריקאי מוכר, כתב לפני זמן קצר: \"גורם אמין טוען כי מוג’תבא ח’אמנאי מת בסוף חודש מרץ, לאחר שנכנס לתרדמת בעקבות פציעות שנגרמו מתקיפה אווירית שבה נהרג אביו.הוא מעולם לא הספיק לדעת שהוא הפך למנהיג הרפובליקה האסלאמית.מוחמד באקר קאליבאף ומשמרות המהפכה מחפשים כעת אנשים בעלי דמיון חיצוני (כפילים) כדי להציג אותם בפומבי במקומו.\"",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T23:43:26.965Z"
-    },
-    {
-      "id": "0af2fa77f07b",
-      "title": "מדבר שקר תרחק | ח\"כ נאור שירי מיש עתיד נשאל בפוליגרף האם מוכן לשבת עם החרדים בקואליציה, ענה 'לא' - ויצא דובר שקר.",
-      "link": "https://hagizra.news/#msg-0af2fa77f07b",
-      "body": "מדבר שקר תרחק | ח\"כ נאור שירי מיש עתיד נשאל בפוליגרף האם מוכן לשבת עם החרדים בקואליציה, ענה 'לא' - ויצא דובר שקר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c8837aa88a4a.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T23:43:26.965Z"
-    },
-    {
-      "id": "138b69b94a61",
-      "title": "המלחמה במאלי 🇲🇱 | החזית לשחרור אזוואד - FLA (הטוארגים) כבשה את העיר אנאפיס באזור קידאל, העיר האחרונה שהוחזקה על ידי ממ",
-      "link": "https://hagizra.news/#msg-138b69b94a61",
-      "body": "המלחמה במאלי 🇲🇱 | החזית לשחרור אזוואד - FLA (הטוארגים) כבשה את העיר אנאפיס באזור קידאל, העיר האחרונה שהוחזקה על ידי ממשלת מאלי (FAMa) וקורפוס אפריקה של רוסיה באזור קידאל.כוח נוסף של FLA מתעמת עם FAMas וקורפוס אפריקה בעיר גאו וסביבתה, שם לכאורה הופל מטוס קרב רוסי.במקומות אחרים במאלי, ג'מאת נוסראת אל-אסלאם ואל-מוסלמין - JNIM, תקפו חמושים שוב את בסיס האוויר בסווארה, אזור מופטי ואת העיר קניירובה, כ-",
+      "id": "7d95cab61670",
+      "title": "לא נתגעגע | מת המחבל מאהר יונס - אחד מבכירי המחבלים הערבים אזרחי ישראל שישב בכלא 40 שנה על רצח החייל אברהם ברומברג הי\"ד.",
+      "link": "https://hagizra.news/#msg-7d95cab61670",
+      "body": "לא נתגעגע | מת המחבל מאהר יונס - אחד מבכירי המחבלים הערבים אזרחי ישראל שישב בכלא 40 שנה על רצח החייל אברהם ברומברג הי\"ד.הוא שוחרר לפני כשלוש וחצי שנים והתקבל בחגיגות מטעם ההנהגה של הערבים בישראלבתמונה: יונס עם כמאל חטיב מהתנועה האסלאמית לאחר שחרורו מהכלא. (אלחנן גרונר).",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/71d82c3913d8.png",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9f1c53bf56a1.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5c827e41cfa1.png"
       ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T23:43:26.965Z"
-    },
-    {
-      "id": "ea5d9fdb459d",
-      "title": "אוקראינה | הרוגים ופצועים במתקפה רוסית בליל שבת על העיר ז'פוריז'יה.",
-      "link": "https://hagizra.news/#msg-ea5d9fdb459d",
-      "body": "אוקראינה | הרוגים ופצועים במתקפה רוסית בליל שבת על העיר ז'פוריז'יה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c19a05405bc2.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/fb39224684db.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4bfa7722fb17.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-04T23:43:26.965Z"
-    },
-    {
-      "id": "886732ac0fad",
-      "title": "דיווחים ערביים | צה\"ל תוקף בארטילריה בדרום רצועת עזה.",
-      "link": "https://hagizra.news/#msg-886732ac0fad",
-      "body": "דיווחים ערביים | צה\"ל תוקף בארטילריה בדרום רצועת עזה. (N12)",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -558,16 +391,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "fdafe431a0cd",
-      "title": "👀",
-      "link": "https://hagizra.news/#msg-fdafe431a0cd",
-      "body": "👀",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d678d9ba3f44.jpeg"
-      ],
+      "id": "006f3cdcbd8b",
+      "title": "מאשרת | יניר קוזין: חברת הקבינט מירי רגב מאשרת בראיון לאפי טריגר בגלצ כי ישראל העבירה סוללות כיפת ברזל לאיחוד האמירויות ",
+      "link": "https://hagizra.news/#msg-006f3cdcbd8b",
+      "body": "מאשרת | יניר קוזין: חברת הקבינט מירי רגב מאשרת בראיון לאפי טריגר בגלצ כי ישראל העבירה סוללות כיפת ברזל לאיחוד האמירויות כדי שתגן על תושביה.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -576,15 +406,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "2c0b6107a0e5",
-      "title": "ובמקביל | מטוס האייר פורס 1 החדש של הנשיא טראמפ טס זה עתה מעל וושינגטון הבירה, במטס שיא, מוקף במספר מטוסי צבא אמריקאים.",
-      "link": "https://hagizra.news/#msg-2c0b6107a0e5",
-      "body": "ובמקביל | מטוס האייר פורס 1 החדש של הנשיא טראמפ טס זה עתה מעל וושינגטון הבירה, במטס שיא, מוקף במספר מטוסי צבא אמריקאים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fe608432f34c.bin"
+      "id": "75e6aa16143f",
+      "title": "ושאינו יודע לנשום | צבי יחזקאלי: שלושה מבניו של חמינאי נמצאים במתחם הלוויה.",
+      "link": "https://hagizra.news/#msg-75e6aa16143f",
+      "body": "ושאינו יודע לנשום | צבי יחזקאלי: שלושה מבניו של חמינאי נמצאים במתחם הלוויה. איפה הבן הרביעי?",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1122fca41948.png"
       ],
       "time": null,
       "channelName": null,
@@ -594,13 +424,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "d6b7f8638653",
-      "title": "אווירה | אנשי השירות החשאי מנסים לפנות את מתחם החגיגות, הקהל בתגובה קורא קריאות בוז.",
-      "link": "https://hagizra.news/#msg-d6b7f8638653",
-      "body": "אווירה | אנשי השירות החשאי מנסים לפנות את מתחם החגיגות, הקהל בתגובה קורא קריאות בוז.",
+      "id": "1f651559fdf4",
+      "title": "חבורת נכפים | גם מפקד כוח קודס אסמאעיל קאאני (נציג ישראל לטקס ההלוויה) ומפקד משמרות המהפכה אחמד וחידי נוכחים הבוקר בטקס ",
+      "link": "https://hagizra.news/#msg-1f651559fdf4",
+      "body": "חבורת נכפים | גם מפקד כוח קודס אסמאעיל קאאני (נציג ישראל לטקס ההלוויה) ומפקד משמרות המהפכה אחמד וחידי נוכחים הבוקר בטקס הפרידה מח'אמנאי. (ליפקין)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fdb3d011e845.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -609,13 +442,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "5ba8d6c54ba8",
-      "title": "מהומה | במהלך אירועי חגיגות ה 250 לעצמאות ארה\"ב, החל מזג אוויר סוער במיוחד והחוגגים התבקשו לפנות את אזור החגיגות.כזכור, ",
-      "link": "https://hagizra.news/#msg-5ba8d6c54ba8",
-      "body": "מהומה | במהלך אירועי חגיגות ה 250 לעצמאות ארה\"ב, החל מזג אוויר סוער במיוחד והחוגגים התבקשו לפנות את אזור החגיגות.כזכור, החגיגות החלו באיחור בשל מזג אוויר חם במיוחד...",
+      "id": "be6c48986a63",
+      "title": "אל תיכנעו - תמותו | בטקס ההלוויה של עלי ח'אמנאי הבוקר מונפים דגלים אדומים כאות נקמה, לצד קריאות: \"לא פשרה, לא כניעה, רק ",
+      "link": "https://hagizra.news/#msg-be6c48986a63",
+      "body": "אל תיכנעו - תמותו | בטקס ההלוויה של עלי ח'אמנאי הבוקר מונפים דגלים אדומים כאות נקמה, לצד קריאות: \"לא פשרה, לא כניעה, רק נקמה\". (ליפקין).",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/417c2cf212d0.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -624,49 +460,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "070c2319805e",
-      "title": "250 שנה לארה\"ב - מקבץ תיעודים מיוחד 🇺🇲 |תיעודים מהמטסים השונים: תיעוד מהזיקוקים: הר ראשמור מואר: דברי הנשיא טראמפ בטקס",
-      "link": "https://hagizra.news/#msg-070c2319805e",
-      "body": "250 שנה לארה\"ב - מקבץ תיעודים מיוחד 🇺🇲 |תיעודים מהמטסים השונים: תיעוד מהזיקוקים: הר ראשמור מואר: דברי הנשיא טראמפ בטקס למרגלות הר ראשמור:\"הראו לנו הר ואנחנו פשוט נטפס עליו. הראו לנו אוקיינוס, ואנחנו פשוט נחצה אותו.\"\"הראו לנו בעיה, ואנחנו פשוט נפתור אותה. הראו לנו משימה שהעולם מכנה בלתי אפשרית, והאמריקאים יסיימו אותה.\" הנשיא טראמפ מסכם את נאום הר ראשמור: \"מחר נגיע לאבן דרך שאין שני לה, ונחגוג בלב",
+      "id": "e15ddb22347a",
+      "title": "ומה שגורם לנו לבוקר טוב יותר 💞 |",
+      "link": "https://hagizra.news/#msg-e15ddb22347a",
+      "body": "ומה שגורם לנו לבוקר טוב יותר 💞 |",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d9582d222053.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ad5fc82a0ed9.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9306ce7c6622.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/33c5d7df1cb3.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/48cc7f25e493.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/46737d2b8038.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/736bc4926fed.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9948884106f7.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4726c38e53c4.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9322d5d3bdca.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a36258125945.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/65a8b205186a.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/36db6aedd58b.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f938eb621ba1.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2b4b0dbcc641.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d8276a7e4de5.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ac5d7993a532.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/655be162317e.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e185729c7041.png",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6018303d8dcf.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/90e93d020031.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b5b315a535a5.jpeg"
-      ],
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8eedea1ecf7a.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5ec2d544c950.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/bc03510f513a.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6db7cfb9fe47.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/358cc9f2bfa0.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/238cdb653372.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/25d8b1bf2aee.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8afb138ebc5a.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8eabb6d39ede.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3a4ac33c59fd.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0ca12862d13b.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b2a76b079b6d.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d4b705d82520.png"
       ],
       "time": null,
       "channelName": null,
@@ -676,29 +479,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "f65ee76c6cd7",
-      "title": "מיוחד | מקבץ תיעודים מחילופי המהלומות במלחמת רוסיה - אוקראינה.",
-      "link": "https://hagizra.news/#msg-f65ee76c6cd7",
-      "body": "מיוחד | מקבץ תיעודים מחילופי המהלומות במלחמת רוסיה - אוקראינה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1875013bed31.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8d5cb69593f9.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9c39bf5bf529.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e3ad05e208ad.jpeg"
-      ],
+      "id": "8d0bae259d0a",
+      "title": "ארה\"ב חוגגת 250 | מטס מעל פסל החירות.",
+      "link": "https://hagizra.news/#msg-8d0bae259d0a",
+      "body": "ארה\"ב חוגגת 250 | מטס מעל פסל החירות.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/17f6117b1c80.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4424b2ffb3eb.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9dacf3557b36.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/aa4937a25962.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e6ffff94e87c.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e4381c029f2f.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/40b5fc78b1cb.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/72dafdc40f1d.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7eef0e95df5f.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cbfab260d08b.bin"
       ],
       "time": null,
       "channelName": null,
@@ -708,16 +497,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "72b8d8da61ed",
-      "title": "המחבל בחליפה מברך | נשיא סוריה אחמד אל-שרע דרך X: אני מברך את הוד מעלתו הנשיא דונלד טראמפ ואת העם האמריקאי לרגל 250 שנה ",
-      "link": "https://hagizra.news/#msg-72b8d8da61ed",
-      "body": "המחבל בחליפה מברך | נשיא סוריה אחמד אל-שרע דרך X: אני מברך את הוד מעלתו הנשיא דונלד טראמפ ואת העם האמריקאי לרגל 250 שנה לעצמאות ארצות הברית של אמריקה.אנו בסוריה החדשה מצפים לבניית יחסים המבוססים על כבוד הדדי ושיתוף פעולה פורה, כדי לבסס יציבות ושגשוג באופן שישרת את שאיפות שני עמינו ותורם לביטחון ולשלום האזור והעולם.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/881955a2c4fc.jpeg"
-      ],
+      "id": "0c9bb69d44ca",
+      "title": "איראן | קריאות לרצח טראמפ אל מול רבבות באירועי הלווייתו של ח'אמנאי.",
+      "link": "https://hagizra.news/#msg-0c9bb69d44ca",
+      "body": "איראן | קריאות לרצח טראמפ אל מול רבבות באירועי הלווייתו של ח'אמנאי.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -726,16 +512,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "20f7af513f4e",
-      "title": "שטפונות בטורקיה |",
-      "link": "https://hagizra.news/#msg-20f7af513f4e",
-      "body": "שטפונות בטורקיה |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f06e3416817f.bin"
-      ],
+      "id": "257dc72732aa",
+      "title": "הפשיעה במגזר הערבי | לפנות בוקר נרשמו שני אירועי ירי קטלניים בצפון הארץ בתוך פחות משעה, שבהם נרצחו שני גברים באום אל פחם",
+      "link": "https://hagizra.news/#msg-257dc72732aa",
+      "body": "הפשיעה במגזר הערבי | לפנות בוקר נרשמו שני אירועי ירי קטלניים בצפון הארץ בתוך פחות משעה, שבהם נרצחו שני גברים באום אל פחם ובדיר חנא.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -744,16 +527,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "c71f3293a1c9",
-      "title": "רפואה שלימה | ראש ממשלת בריטניה לשעבר קיר סטארמר אומר שהוא לא יכול לחשוף איזה ג'ל לשיער הוא משתמש כי זה סוד ממשלתי.",
-      "link": "https://hagizra.news/#msg-c71f3293a1c9",
-      "body": "רפואה שלימה | ראש ממשלת בריטניה לשעבר קיר סטארמר אומר שהוא לא יכול לחשוף איזה ג'ל לשיער הוא משתמש כי זה סוד ממשלתי.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/67ab97031455.bin"
-      ],
+      "id": "025164442df3",
+      "title": "עדכון | לפני שעה קלה החל נאומו של טראמפ בוושינגטון.(אסף רוזנצווייג)",
+      "link": "https://hagizra.news/#msg-025164442df3",
+      "body": "עדכון | לפני שעה קלה החל נאומו של טראמפ בוושינגטון.(אסף רוזנצווייג)",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -762,16 +542,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     },
     {
-      "id": "02e01ad7c690",
-      "title": "תיעוד מרהיב | בקמצ'טקה, במזרח הרחוק הרוסי, הר הגעש שיבלוך התפרץ בעמוד אפר ענק בגובה של יותר מ-12 קילומטרים.",
-      "link": "https://hagizra.news/#msg-02e01ad7c690",
-      "body": "תיעוד מרהיב | בקמצ'טקה, במזרח הרחוק הרוסי, הר הגעש שיבלוך התפרץ בעמוד אפר ענק בגובה של יותר מ-12 קילומטרים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/47154c1f25ab.bin"
-      ],
+      "id": "ce9a0b33acfb",
+      "title": "סין&רוסיה | משרד ההגנה של סין הודיע הצי הסיני והצי של רוסיה יקיימו במהלך החודש הקרוב תרגיל צבאי משותף לחופי סין.",
+      "link": "https://hagizra.news/#msg-ce9a0b33acfb",
+      "body": "סין&רוסיה | משרד ההגנה של סין הודיע הצי הסיני והצי של רוסיה יקיימו במהלך החודש הקרוב תרגיל צבאי משותף לחופי סין. (אסף רוזנצווייג)",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -780,7 +557,161 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T01:31:29.930Z"
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "fcdd0b275359",
+      "title": "לאחר זלנסקי | הקרמלין הודיע הלילה שגם פוטין שוחח בטלפון עם טראמפ.",
+      "link": "https://hagizra.news/#msg-fcdd0b275359",
+      "body": "לאחר זלנסקי | הקרמלין הודיע הלילה שגם פוטין שוחח בטלפון עם טראמפ. (אסף רוזנצווייג)",
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "edd3f24eb8a1",
+      "title": "סערה בוושינגטון | תנאי מזג קשים הכוללים שרב כבד וסופות ברקים עצרו את חגיגות יום העצמאות בוושינגטון ובאזורים נוספים בחןף ",
+      "link": "https://hagizra.news/#msg-edd3f24eb8a1",
+      "body": "סערה בוושינגטון | תנאי מזג קשים הכוללים שרב כבד וסופות ברקים עצרו את חגיגות יום העצמאות בוושינגטון ובאזורים נוספים בחןף המזרחי של ארה\"ב, לפני נאומו החגיגי של הנשיא טראמפ. טראמפ ממשיך להמתין והבטיח כי ינאם ברגע שיתאפשר, לא משנה מה תהיה השעה. \"אהיה שם לא משנה מה\", כתב טראמפ. \"שבת בערב, בואו נעשה קצת כיף, גם אם נסיים מאוחר הלילה\". (אסף רוזנצווייג)",
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "1351e1b384c7",
+      "title": "התחזית | היום מעונן חלקית, עם טמפרטורות קרובות לממוצע.",
+      "link": "https://hagizra.news/#msg-1351e1b384c7",
+      "body": "התחזית | היום מעונן חלקית, עם טמפרטורות קרובות לממוצע. בשעות הבוקר ייתכן טפטוף מקומי לאורך מישור ‏החוף.רוח בים התיכון: דרום מערבית עד מערבית 20-40 קמ\"ש.מצב הים התיכון: גלי עד גבה גלי 100-180 ס\"מ, ומסוכן לרחצה. הטמפרטורות החזויות להיום והלילה:קריית שמונה 34-22, קצרין 31-21 צפת 27-18 טבריה 35-25, נצרת 30-20 חיפה 29-25תל אביב 29-25, מודיעין 31-22, ירושלים 29-19, אריאל 28-19, אשקלון 29-25, עין גדי 39-",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "adb4fc63ce92",
+      "title": "בהצלחה | כוחותינו בפעילות הלילה בעיירה תורמוס איה, מצפון לרמאללה.",
+      "link": "https://hagizra.news/#msg-adb4fc63ce92",
+      "body": "בהצלחה | כוחותינו בפעילות הלילה בעיירה תורמוס איה, מצפון לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b594ccd41f67.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "493f6324003a",
+      "title": "פעילות מוצלחת | כוח צה''ל פשטו על בית וביצעו מעצרים בעיירה סעיר, מצפון לחברון.",
+      "link": "https://hagizra.news/#msg-493f6324003a",
+      "body": "פעילות מוצלחת | כוח צה''ל פשטו על בית וביצעו מעצרים בעיירה סעיר, מצפון לחברון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/78bcb7debe59.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "3ec431338899",
+      "title": "מרחב שכם | כוח צה''ל יורה רימוני גז במהלך פעילות הצהריים בבית פוריק ממזרח לשכם.",
+      "link": "https://hagizra.news/#msg-3ec431338899",
+      "body": "מרחב שכם | כוח צה''ל יורה רימוני גז במהלך פעילות הצהריים בבית פוריק ממזרח לשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6a9ca7daf13f.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2d2d97f739b4.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "9ee914c57707",
+      "title": "קלקיליה | פעילות כוחותינו הצהריים בעיר.",
+      "link": "https://hagizra.news/#msg-9ee914c57707",
+      "body": "קלקיליה | פעילות כוחותינו הצהריים בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1e40fee082f9.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "72829b795786",
+      "title": "מעצר | כוח צה''ל במעצר הצהריים בכביש אלון, מזרחית לאל-מור'ייר, צפונית-מזרחית לרמאללה.",
+      "link": "https://hagizra.news/#msg-72829b795786",
+      "body": "מעצר | כוח צה''ל במעצר הצהריים בכביש אלון, מזרחית לאל-מור'ייר, צפונית-מזרחית לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f25d0d090bb4.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 18,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
+    },
+    {
+      "id": "4289d648e741",
+      "title": "רצועת עזה | רגע אחרי שחיל האוויר תקף הצהריים מצפון מזרח לחאן יונס.",
+      "link": "https://hagizra.news/#msg-4289d648e741",
+      "body": "רצועת עזה | רגע אחרי שחיל האוויר תקף הצהריים מצפון מזרח לחאן יונס.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/94058ccfdace.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 19,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-05T05:19:22.385Z"
     }
   ],
   "errors": [
