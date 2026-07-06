@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T20:22:23.954Z",
+  "generatedAt": "2026-07-06T21:55:04.956Z",
   "sources": [
     {
       "id": "blackcat",
@@ -406,7 +406,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -424,7 +424,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -442,7 +442,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -451,10 +451,62 @@
       "firstSeen": "2026-07-06T20:22:23.954Z"
     },
     {
-      "id": "1c52aef607b1",
-      "title": "אווירא דארץ ישראל | אריאל סנדר, מנהל המפלגה הרפובליקנית בישראל: \"ארה\"ב הייתה צריכה את ישראל כמו אוויר לנשימה\".",
-      "link": "https://hagizra.news/#msg-1c52aef607b1",
-      "body": "אווירא דארץ ישראל | אריאל סנדר, מנהל המפלגה הרפובליקנית בישראל: \"ארה\"ב הייתה צריכה את ישראל כמו אוויר לנשימה\". (גלי ישראל)",
+      "id": "571d0e6a132c",
+      "title": "מחסור הדלק ברוסיה | המחסור בדלק ברוסיה ובשטחים הכבושים באוקראינה מתרחב בעקביות מאז מאי-יוני 2026, ופוגע כבר בכ-78 מתוך 8",
+      "link": "https://hagizra.news/#msg-571d0e6a132c",
+      "body": "מחסור הדלק ברוסיה | המחסור בדלק ברוסיה ובשטחים הכבושים באוקראינה מתרחב בעקביות מאז מאי-יוני 2026, ופוגע כבר בכ-78 מתוך 83 מחוזות. הירידה באספקה הובילה לביקוש שיא, לעליית מחירים ולתורים ארוכים, מה שחייב את הרשויות וחברות הדלק ב-48 מחוזות להטיל הגבלות מכירה רשמיות על בנזין וסולר. המשבר צפוי להתפשט בקרוב גם לחמשת המחוזות הבודדים שטרם נפגעו (אינגושטיה, קלמיקיה, צ'צ'ניה, צ'וקוטקה וננץ).",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/fdfe466d8bdb.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-06T21:55:04.956Z"
+    },
+    {
+      "id": "33e61ab2be85",
+      "title": "ערב הסעודית | גשמים עזים וטמפרטורות קור קיצוניות פקדו את דרום המדינה המדברית.",
+      "link": "https://hagizra.news/#msg-33e61ab2be85",
+      "body": "ערב הסעודית | גשמים עזים וטמפרטורות קור קיצוניות פקדו את דרום המדינה המדברית.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e1c344c21a77.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0335c02756e5.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-06T21:55:04.956Z"
+    },
+    {
+      "id": "20814a2f0e61",
+      "title": "התחזית למחר - יום שלישי | מעונן חלקית, עם ירידה קלה בטמפרטורות, בעיקר בהרים ובפנים הארץ והן תהיינה מעט נמוכות מהממוצע לע",
+      "link": "https://hagizra.news/#msg-20814a2f0e61",
+      "body": "התחזית למחר - יום שלישי | מעונן חלקית, עם ירידה קלה בטמפרטורות, בעיקר בהרים ובפנים הארץ והן תהיינה מעט נמוכות מהממוצע לעונה. בבוקר ייתכן טפטוף עד גשם מקומי קל, בצפון הארץ ולאורך מישור החוף.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-06T21:55:04.956Z"
+    },
+    {
+      "id": "6ab89b174087",
+      "title": "לא יצטרף לפוטין | נשיא בלארוס אלכסנדר לוקשנקו אמר כי צבאו לא ישתתף בפלישה הרוסית לאוקראינה, ובכך דחה למעשה את החששות בנו",
+      "link": "https://hagizra.news/#msg-6ab89b174087",
+      "body": "לא יצטרף לפוטין | נשיא בלארוס אלכסנדר לוקשנקו אמר כי צבאו לא ישתתף בפלישה הרוסית לאוקראינה, ובכך דחה למעשה את החששות בנושא שהעלה בימים האחרונים זלנסקי. לוקשנקו אמר בפני קצינים בכירים ובוגרי מוסדות צבאיים: \"אני מדגיש שוב, חברים יקרים, שאף אחד לא עומד לשלוח אתכם למרחץ הדמים הזה. אנחנו לא צריכים מלחמה, וחבל שהמלחמה נמשכת. אנחנו תומכים בפתרון עניינים בדרכי שלום\". (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -463,13 +515,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "0d3820eb48d2",
-      "title": "איזה פחדדד | מזכיר המועצה העליונה לביטחון לאומי של איראן עונה לטראמפ: \"אני אומר לנשיא האמריקני שאיים על 91 מיליון אזרחי ",
-      "link": "https://hagizra.news/#msg-0d3820eb48d2",
-      "body": "איזה פחדדד | מזכיר המועצה העליונה לביטחון לאומי של איראן עונה לטראמפ: \"אני אומר לנשיא האמריקני שאיים על 91 מיליון אזרחי איראן - בעבר כבר השתמשת בשפה דומה, ואמרת על הכחדת הציוויליזציה האיראנית העתיקה בת אלפי שנים, והתוצאה עבורכם הייתה רק כישלון, ייאוש ובקשה לשיחות ולהפסקת אש. העם האיראני זר לשפה של איומים. לכן, דבר עם איראן בכבוד, אחרת נענה לכם בשפה אחרת\". (ליפקין)",
+      "id": "717e1c45d475",
+      "title": "שער יתד 👇 | העיתון המלא: 7-7-26.pdf",
+      "link": "https://hagizra.news/#msg-717e1c45d475",
+      "body": "שער יתד 👇 | העיתון המלא: 7-7-26.pdf",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/98f815823026.jpeg"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -478,13 +533,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "d1d01837d645",
-      "title": "אתם בחרתם לא להשתתף...",
-      "link": "https://hagizra.news/#msg-d1d01837d645",
-      "body": "אתם בחרתם לא להשתתף... | יו\"ר סיעת הדמוקרטים חה\"כ אפרת רייטן על אישור החוק להקמת ועדת חקירה פוליטית ל-7 באוקטובר בקריאה ראשונה: \"במקום ועדת חקירה ממלכתית על פי דין הם המציאו מנגנון שקר שמאפשר לנחקרים למנות את החוקרים של עצמם. מה הם לא יעשו כדי להימלט מאחריות ולמחוק את הזיכרון. ההצבעה מול כיסאות ריקים בכנסת, היא סמל לניתוק וההפקרה. זו תהיה מורשתם\". (ליאל)",
+      "id": "5702ebaa525e",
+      "title": "מה קורה כשערבים מתגייסים?",
+      "link": "https://hagizra.news/#msg-5702ebaa525e",
+      "body": "מה קורה כשערבים מתגייסים? | כעת ניתן לפרסם: הגדוד שכיכב בהברחות הסחורות לעזה בהיקפי ענק: גדוד הסיור הבדואי. 8 חיילים בכל שרשרת הפיקוד נאשמים בפרשות שונות של הברחת סחורות לעזה. מדובר בפרשות שונות, כאשר רוב המעורבים לא ידעו שגם חבריהם לגדוד מבריחים בעצמם. באחת ההברחות - החיילים קיבלו אלף שקל במזומן על כל סיגריה. באחת ההברחות הוברח לעזה אופנוע שלם. הנאשמים הכניסו במצטבר לכיסם עשרות מיליוני שקלים. (אב",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -493,13 +548,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "dbf6f122e9a4",
-      "title": "מתכחש | נשיא לבנון ג'וזף עון בריאיון לעיתון א-נהאר הלבנוני: אין אמת בדיווחים על פגישה עם נתניהו, לא שוקל זאת ולא אענה לכ",
-      "link": "https://hagizra.news/#msg-dbf6f122e9a4",
-      "body": "מתכחש | נשיא לבנון ג'וזף עון בריאיון לעיתון א-נהאר הלבנוני: אין אמת בדיווחים על פגישה עם נתניהו, לא שוקל זאת ולא אענה לכך - כל עוד נמשכות התקיפות הישראליות נגד אזרחי לבנון וההפרות בשטחם. היה ויזדמן לנו להיפגש באותו חדר, אעזוב מיד.",
+      "id": "299d8206d077",
+      "title": "אושר ✅ | המליאה אישרה כעת פה אחד גם את חוק מימון המפלגות בקריאה ראשונה.",
+      "link": "https://hagizra.news/#msg-299d8206d077",
+      "body": "אושר ✅ | המליאה אישרה כעת פה אחד גם את חוק מימון המפלגות בקריאה ראשונה. (שלום שטיין)",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -508,13 +563,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "d0b20cddbd0c",
-      "title": "באיום רשמי | יו\"ר הפרלמנט האיראני קאליבאף: \"מימוש ההבטחה האלוהית הוא ודאי, והתוקפים את שטחה של איראן והרוצחים של החללים ",
-      "link": "https://hagizra.news/#msg-d0b20cddbd0c",
-      "body": "באיום רשמי | יו\"ר הפרלמנט האיראני קאליבאף: \"מימוש ההבטחה האלוהית הוא ודאי, והתוקפים את שטחה של איראן והרוצחים של החללים בארץ הזו, ובמיוחד של מנהיג האומה - ייתנו את הדין על מעשיהם, והצעד הסופי של הנקמה מהכובשים יתממש בשחרור ירושלים הקדושה\". (ליפקין)",
+      "id": "d4c5e53e402a",
+      "title": "עוקץ | ח\"כ פרוש על פיצול תפקיד היועמ\"ש: \"רחמנות על הערבים, כל יום רצח והיועמ\"שית לא פועלת.",
+      "link": "https://hagizra.news/#msg-d4c5e53e402a",
+      "body": "עוקץ | ח\"כ פרוש על פיצול תפקיד היועמ\"ש: \"רחמנות על הערבים, כל יום רצח והיועמ\"שית לא פועלת. היא קורסת מעומס. בואו נעזור לה\".",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -523,13 +578,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "66b030dfff72",
-      "title": "משחק בנדמה לי | מיכאל שמש: בנט לדני בולר: אם אהיה רה״מ שר הביטחון יהיה ליברמן או איזנקוט.",
-      "link": "https://hagizra.news/#msg-66b030dfff72",
-      "body": "משחק בנדמה לי | מיכאל שמש: בנט לדני בולר: אם אהיה רה״מ שר הביטחון יהיה ליברמן או איזנקוט.",
+      "id": "b0f1cf78ce46",
+      "title": "חוק פיצול היועמ”שית | מליאת הכנסת אישרה את החלטת ועדת החוקה לפיצול הצעת חוק היועמ\"ש והתובע הכללי.",
+      "link": "https://hagizra.news/#msg-b0f1cf78ce46",
+      "body": "חוק פיצול היועמ”שית | מליאת הכנסת אישרה את החלטת ועדת החוקה לפיצול הצעת חוק היועמ\"ש והתובע הכללי. 59 חברי כנסת תמכו, 45 התנגדו.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -538,13 +593,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "099dd6cb8e40",
-      "title": "ציטוט 💬...",
-      "link": "https://hagizra.news/#msg-099dd6cb8e40",
-      "body": "ציטוט 💬... או שלא | יו\"ר הדמוקרטים יאיר גולן על אישור החוק להקמת ועדת חקירה ל-7 לאוקטובר בקריאה ראשונה: \"שיהיה ברור: משפחות 7 באוקטובר יקבלו את מה שמגיע להן - את חקר האמת. שום ועדת טיוח של ממשלה כושלת ומושחתת לא תמחק את המחדל, ושום הצבעה בכנסת לא תציל את האחראים מלשאת באחריות\".",
+      "id": "5ed53716b396",
+      "title": "ממש ממש מעניין למה |",
+      "link": "https://hagizra.news/#msg-5ed53716b396",
+      "body": "ממש ממש מעניין למה |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5c56b11c2d05.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -553,15 +611,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "b921d2f1b1b3",
-      "title": "סקר הפטריוטים |",
-      "link": "https://hagizra.news/#msg-b921d2f1b1b3",
-      "body": "סקר הפטריוטים |",
+      "id": "fb8ad001d5ad",
+      "title": "מחר ביתד | מכתב הקורא להימנע ממעבר במוקד הפריצות בטבריה.",
+      "link": "https://hagizra.news/#msg-fb8ad001d5ad",
+      "body": "מחר ביתד | מכתב הקורא להימנע ממעבר במוקד הפריצות בטבריה.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5b62efe45dfb.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e4caec8d6f3e.png"
       ],
       "time": null,
       "channelName": null,
@@ -571,15 +629,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "65e77884e47e",
-      "title": "הרוסי גם קופץ | ואחרון \"חביב\" | מר נפתלי בנט: ״בלי חקירה אין תיקון.",
-      "link": "https://hagizra.news/#msg-65e77884e47e",
-      "body": "הרוסי גם קופץ | ואחרון \"חביב\" | מר נפתלי בנט: ״בלי חקירה אין תיקון. ממשלה שבורחת מחקירה גוזרת על ישראל עוד ועוד אסונות. בממשלה הבאה נקים ועדת חקירה ממלכתית שתאפשר לתקן את ישראל״.",
+      "id": "4dcdbbe7ace6",
+      "title": "בתאבון | נשיא צרפת עמנואל מקרון בארוחת ערב בדמשק עם נשיא סוריה אחמד א-שרע.",
+      "link": "https://hagizra.news/#msg-4dcdbbe7ace6",
+      "body": "בתאבון | נשיא צרפת עמנואל מקרון בארוחת ערב בדמשק עם נשיא סוריה אחמד א-שרע.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/86608330472d.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3cbd43f31455.png"
       ],
       "time": null,
       "channelName": null,
@@ -589,16 +647,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "0869e294607a",
-      "title": "נהגים שימו לב | לוחמי מג\"ב החלו להפעיל את רכב השטח איזי ריידר בכביש 443.",
-      "link": "https://hagizra.news/#msg-0869e294607a",
-      "body": "נהגים שימו לב | לוחמי מג\"ב החלו להפעיל את רכב השטח איזי ריידר בכביש 443. הכלי החדש נועד לשפר את הניידות והתגובה המהירה של הכוחות בשטח. (הפרגוד)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/53f439e933e5.bin"
-      ],
+      "id": "7d67738bc393",
+      "title": "לא לסגן ערבי | נציג דגה\"ת מיכי אלפר מבהיר מדוע לא יתמוך בהצבעה למינוי סגן ראש עיר ערבי בחיפה: \"העיר חיפה בקדנציה הנוכחית",
+      "link": "https://hagizra.news/#msg-7d67738bc393",
+      "body": "לא לסגן ערבי | נציג דגה\"ת מיכי אלפר מבהיר מדוע לא יתמוך בהצבעה למינוי סגן ראש עיר ערבי בחיפה: \"העיר חיפה בקדנציה הנוכחית תחת יהב וסגניו נמצאת בשפל חסר תקדים ומככבת כשיאנית בכל מדד שלילי. רק השבוע התפרסמו נתוני הלמ״ס וחיפה נמצאת במקום האחרון באמון התושבים בעירייה. מציאות זו היא תוצאה ישירה של הפקרות והעדר ניהול של יהב וסגניו\".",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -607,16 +662,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "015580b89c52",
-      "title": "רצועת עזה | דיווח על ירי פצצות תאורה בצפון הרצועה.",
-      "link": "https://hagizra.news/#msg-015580b89c52",
-      "body": "רצועת עזה | דיווח על ירי פצצות תאורה בצפון הרצועה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7e7148d40e7e.bin"
-      ],
+      "id": "5360e050483c",
+      "title": "סיכום חדשות היום | (הגיזרה) ✈️ חיל האוויר הישראלי קיים תרגיל משותף עם חיל האוויר היווני כאות מפגן מול טורקיה.",
+      "link": "https://hagizra.news/#msg-5360e050483c",
+      "body": "סיכום חדשות היום | (הגיזרה) ✈️ חיל האוויר הישראלי קיים תרגיל משותף עם חיל האוויר היווני כאות מפגן מול טורקיה. במסגרת התרגיל - מטוס תדלוק ישראלי תועד מתדלק F16 יווני מעל הים האגאי. 🕵️ פרשיית ריגול חדשה: כתב אישום הוגש נגד שוהה בלתי חוקי מטג'יקיסטן בגין ריגול עבור איראן. 🫢 ממשלת חמאס ברצועת עזה הודיעה על התפטרותה כצעד מקדים לפני כניסת ממשלת הטכנוקרטים (ללא שלטון חמאס) בהתאם למתווה \"מועצת השלום\" של",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -625,13 +677,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "b2dc0b885e41",
-      "title": "עדכון | יעקב הרשקוביץ: בשעה טובה הפעוטה שוחררה לקבורה.",
-      "link": "https://hagizra.news/#msg-b2dc0b885e41",
-      "body": "עדכון | יעקב הרשקוביץ: בשעה טובה הפעוטה שוחררה לקבורה.",
+      "id": "2abb24648804",
+      "title": "זובחי אדם - שוורים יישקו | דגל ענק הקורא להשמדת ישראל נפרש במרוץ השוורים בספרד.",
+      "link": "https://hagizra.news/#msg-2abb24648804",
+      "body": "זובחי אדם - שוורים יישקו | דגל ענק הקורא להשמדת ישראל נפרש במרוץ השוורים בספרד.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f73da392f719.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -640,15 +695,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "db4fd3008e84",
-      "title": "🤭 | כחול לבן בסרטון חדש מגיבים ליאיר גולן: ״משנה דעתו כתחביב״.",
-      "link": "https://hagizra.news/#msg-db4fd3008e84",
-      "body": "🤭 | כחול לבן בסרטון חדש מגיבים ליאיר גולן: ״משנה דעתו כתחביב״.",
+      "id": "8995ee6899b0",
+      "title": "שטפונות בסין | גשמים עזים בעיר גויאנג גרמו להצפות ענק.",
+      "link": "https://hagizra.news/#msg-8995ee6899b0",
+      "body": "שטפונות בסין | גשמים עזים בעיר גויאנג גרמו להצפות ענק. הרשויות המקומיות הפעילו אמצעי חירום ומפנות בדחיפות תושבים מאזורי סכנה.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/330342b2d599.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/526daa8ef7df.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fd59dce2e8b5.bin"
       ],
       "time": null,
       "channelName": null,
@@ -658,13 +714,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     },
     {
-      "id": "d323bdfe9361",
-      "title": "דובר צה''ל | לפני זמן קצר, התקבל דיווח על מספר אזרחים ישראלים שנכנסו במכוון לקלקיליה שבחטיבת אפרים.",
-      "link": "https://hagizra.news/#msg-d323bdfe9361",
-      "body": "דובר צה''ל | לפני זמן קצר, התקבל דיווח על מספר אזרחים ישראלים שנכנסו במכוון לקלקיליה שבחטיבת אפרים. עם קבלת הדיווח, כוחות צה״ל ומג״ב הגיעו למרחב, יצרו קשר עם האזרחים ואיתרו אותם. האזרחים חולצו מהמרחב בבטחה. צה\"ל מדגיש כי הכניסה לשטחי A אסורה ומסוכנת לישראלים ומהווה עבירה על החוק.",
+      "id": "439332a26790",
+      "title": "ושוב ירי נגד שוטרים | אירוע האלימות בתל שבע: כוח משטרה זיהה עימות אלים בין משפחות מסוכסכות במקום, שעל פי החשד לווה בירי.",
+      "link": "https://hagizra.news/#msg-439332a26790",
+      "body": "ושוב ירי נגד שוטרים | אירוע האלימות בתל שבע: כוח משטרה זיהה עימות אלים בין משפחות מסוכסכות במקום, שעל פי החשד לווה בירי. עם הגעת הכוח למקום, בוצע ירי לעבר השוטרים, וכמה קליעים פגעו ברכב המשטרה. כוח המשטרה הגיב מיד והשיב בירי לעבר מקור הירי. במקום לפחות פצוע אחד.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a270cb2663ee.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 16,
@@ -673,58 +732,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
-    },
-    {
-      "id": "22cdbba11bfe",
-      "title": "האם טראמפ ייתן F35 לטורקיה?👀 | ברק בטש: מחר ב-15:15: פגישת טראמפ וארדואן באנקרה.",
-      "link": "https://hagizra.news/#msg-22cdbba11bfe",
-      "body": "האם טראמפ ייתן F35 לטורקיה?👀 | ברק בטש: מחר ב-15:15: פגישת טראמפ וארדואן באנקרה.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
-    },
-    {
-      "id": "1f20af1db827",
-      "title": "כרגיל | מרדכי הלפרין: ושוב אתכם: עימותים במתחם עבודות הרכבת הקלה ברחוב בר אילן, ירושלים.",
-      "link": "https://hagizra.news/#msg-1f20af1db827",
-      "body": "כרגיל | מרדכי הלפרין: ושוב אתכם: עימותים במתחם עבודות הרכבת הקלה ברחוב בר אילן, ירושלים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6dbf4c5fbc05.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
-    },
-    {
-      "id": "cf24258adb58",
-      "title": "הרוסי גם קופץ |",
-      "link": "https://hagizra.news/#msg-cf24258adb58",
-      "body": "הרוסי גם קופץ |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/48c8218a823e.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-06T20:22:23.954Z"
+      "firstSeen": "2026-07-06T21:55:04.956Z"
     }
   ],
   "errors": [
