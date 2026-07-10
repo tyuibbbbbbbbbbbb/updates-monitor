@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T00:08:31.999Z",
+  "generatedAt": "2026-07-10T04:11:43.174Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,6 +24,26 @@
     }
   ],
   "items": [
+    {
+      "id": "4a8b9b99d990",
+      "title": "שערי יתד נאמן השבוע |",
+      "link": "https://hagizra.news/#msg-4a8b9b99d990",
+      "body": "שערי יתד נאמן השבוע |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/af4f0ebff951.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/dd55672b145f.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/50f8add0e32a.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 18,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-06-12T04:59:58.759Z"
+    },
     {
       "id": "d41d8cd98f00",
       "title": "תמונה",
@@ -373,88 +393,10 @@
       "firstSeen": "2026-07-09T21:50:12.211Z"
     },
     {
-      "id": "3a3ab478b05c",
-      "title": "אירוע הירי באיראן | ערוץ מתנגד למשטר האיראני: הגיבורים שפתחו באש לעבר אנשי כוחות הביטחון היו לבושים במדים צבאיים ופתחו ב",
-      "link": "https://hagizra.news/#msg-3a3ab478b05c",
-      "body": "אירוע הירי באיראן | ערוץ מתנגד למשטר האיראני: הגיבורים שפתחו באש לעבר אנשי כוחות הביטחון היו לבושים במדים צבאיים ופתחו באש באמצעות אקדחים.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
-    },
-    {
-      "id": "2441fc15016d",
-      "title": "חוזרים לרפיסות | רויטרס, מצטטת גורם אמריקאי רשמי בנושא איראן: וושינגטון נותרה מחויבת למציאת פתרון ושיחות טכניות נמשכות.",
-      "link": "https://hagizra.news/#msg-2441fc15016d",
-      "body": "חוזרים לרפיסות | רויטרס, מצטטת גורם אמריקאי רשמי בנושא איראן: וושינגטון נותרה מחויבת למציאת פתרון ושיחות טכניות נמשכות.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
-    },
-    {
-      "id": "f80def095396",
-      "title": "למה טראמפ מחכה?",
-      "link": "https://hagizra.news/#msg-f80def095396",
-      "body": "למה טראמפ מחכה? | וול סטריט ג'ורנל: ישראל שיתפה עם ארצות הברית מידע מודיעיני שלדבריה מראה על תוכנית איראנית חדשה להתנקש בנשיא ארצות הברית דונלד טראמפ.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
-    },
-    {
-      "id": "de2ffea1f3e9",
-      "title": "איומים ישירים | \"אם זה היה תלוי בי, הייתי הולך להתנקש בטראמפ בעצמי\".",
-      "link": "https://hagizra.news/#msg-de2ffea1f3e9",
-      "body": "איומים ישירים | \"אם זה היה תלוי בי, הייתי הולך להתנקש בטראמפ בעצמי\". הסתה בטלוויזיה הממלכתית האיראנית מגיעה לשיאים חדשים על רקע הלווייתו של עלי ח'מינאי. אמיר-חוסיין טהמאסבי, מנחה בערוץ 3 של משטר המולות מצהיר בשידור חי ובטון לוחמני כי הוא מוכן לצאת בעצמו לביצוע משימת התנקשות בנשיא ארה\"ב, דונלד טראמפ. (חננאל אביב)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1c4e8573ca0b.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
-    },
-    {
-      "id": "e6439febbdd9",
-      "title": "לבקשת גולשים רבים | ראיון ראש הממשלה בנימין נתניהו לפודקאסט של בן בן ברוך.",
-      "link": "https://hagizra.news/#msg-e6439febbdd9",
-      "body": "לבקשת גולשים רבים | ראיון ראש הממשלה בנימין נתניהו לפודקאסט של בן בן ברוך. ראיון נוסף | ראש הממשלה אצל העיתונאי שרון גל. לנוחיותכם | כדאי להוריד למחשב להאזנה נוחה יותר.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
-    },
-    {
-      "id": "c4d6c1eacab6",
-      "title": "הראיון נמחק עקב דרישת כשרות",
-      "link": "https://hagizra.news/#msg-c4d6c1eacab6",
-      "body": "הראיון נמחק עקב דרישת כשרות",
+      "id": "ab49a76d1072",
+      "title": "מגיפת האבולה | מספר מקרי האבולה ברפובליקה הדמוקרטית של קונגו עלה ל-1,792.",
+      "link": "https://hagizra.news/#msg-ab49a76d1072",
+      "body": "מגיפת האבולה | מספר מקרי האבולה ברפובליקה הדמוקרטית של קונגו עלה ל-1,792. (12)",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -463,13 +405,154 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
+      "firstSeen": "2026-07-10T00:08:31.999Z"
     },
     {
-      "id": "ee07b590c2d7",
-      "title": "נתפסו | משרד ההגנה הסורי מודיע כי נתפסו מארגני הפיגוע בדמשק ביום שלישי בקרבת מקום שהותו של נשיא צרפת מקרון.",
-      "link": "https://hagizra.news/#msg-ee07b590c2d7",
-      "body": "נתפסו | משרד ההגנה הסורי מודיע כי נתפסו מארגני הפיגוע בדמשק ביום שלישי בקרבת מקום שהותו של נשיא צרפת מקרון.",
+      "id": "0cd4460af4b0",
+      "title": "גזירת הגיוס | בשבת הקרובה ישהו בכלא הצבאי 37 בחורים ואברכים.",
+      "link": "https://hagizra.news/#msg-0cd4460af4b0",
+      "body": "גזירת הגיוס | בשבת הקרובה ישהו בכלא הצבאי 37 בחורים ואברכים. (קובי ישראל)",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "93adaa411aea",
+      "title": "התחזית | (ליאור סודרי)היום מעונן חלקית עד בהיר, עם טמפרטורות ועומסי חום מתונים יחסית לעונה.רוח בים התיכון: דרום מערבית ע",
+      "link": "https://hagizra.news/#msg-93adaa411aea",
+      "body": "התחזית | (ליאור סודרי)היום מעונן חלקית עד בהיר, עם טמפרטורות ועומסי חום מתונים יחסית לעונה.רוח בים התיכון: דרום מערבית עד צפון מערבית 15-40 קמ\"ש.מצב הים התיכון: גלי עד גבה גלי 70-150 ס\"מ, ומסוכן לרחצה. הטמפרטורות החזויות להיום והלילה:קריית שמונה 34-22, קצרין 30-20 צפת 27-18 טבריה 34-25, נצרת 29-20 חיפה 29-25תל אביב 29-25, מודיעין 31-22, ירושלים 29-20, אריאל 28-20, אשקלון 29-25, עין גדי 38-28,באר ש",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "4f96e30c53a6",
+      "title": "הקטל בכבישים | כבאות והצלה: לוחמי האש חילצו לכוד ללא רוח חיים בתאונת דרכים בכביש 90 בין רכב פרטי למשאית סמוך לצומת מנחת ",
+      "link": "https://hagizra.news/#msg-4f96e30c53a6",
+      "body": "הקטל בכבישים | כבאות והצלה: לוחמי האש חילצו לכוד ללא רוח חיים בתאונת דרכים בכביש 90 בין רכב פרטי למשאית סמוך לצומת מנחת ספיר.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9ee4e94efc8e.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f146cd47409c.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "733c617369d4",
+      "title": "רמאללה | כוח צה''ל בפעילות הלילה במספר כפרים במרחב.",
+      "link": "https://hagizra.news/#msg-733c617369d4",
+      "body": "רמאללה | כוח צה''ל בפעילות הלילה במספר כפרים במרחב. ירי רימוני גז מתבצע לעבר מתפרעים. הסהר האדום מטפל בהם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/346ff4df80b0.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6c60b3973e53.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fabb836f9a9e.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "b23f92f2abf4",
+      "title": "רביד לא נרדם🤭 | ברק רביד: שני בכירים אמריקנים אמרו כי המידע שהעבירה ישראל לא היה על תכנית מסודרת ספציפית ומפורטת, אלא ה",
+      "link": "https://hagizra.news/#msg-b23f92f2abf4",
+      "body": "רביד לא נרדם🤭 | ברק רביד: שני בכירים אמריקנים אמרו כי המידע שהעבירה ישראל לא היה על תכנית מסודרת ספציפית ומפורטת, אלא היה ידיעה בודדת על שיח כללי בנושא בין גורמים איראנים ללא אימות נוסף.",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "da9d60548b06",
+      "title": "אל-בירה | כוחותינו בפעילות הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-da9d60548b06",
+      "body": "אל-בירה | כוחותינו בפעילות הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7aad5674f179.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "7051197d88d5",
+      "title": "שכם | תיעוד ערבי נוסף מפעילות כוחותינו הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-7051197d88d5",
+      "body": "שכם | תיעוד ערבי נוסף מפעילות כוחותינו הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/877ae2a61f69.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "8e123f93d4c7",
+      "title": "תנו בראש 💪🏻 | תיעוד נוסף של מעצרים ע\"י כוחותינו הלילה בכפר דיר ג'ריר, מזרחית לרמאללה.",
+      "link": "https://hagizra.news/#msg-8e123f93d4c7",
+      "body": "תנו בראש 💪🏻 | תיעוד נוסף של מעצרים ע\"י כוחותינו הלילה בכפר דיר ג'ריר, מזרחית לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4b4555906ad7.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-10T04:11:43.174Z"
+    },
+    {
+      "id": "cee794c2ff2a",
+      "title": "בשטח | כוחות צה''ל עצרו צעיר בכפר דיר ג'ריר, מזרחית לרמאללה במהלך פעילות הלילה.",
+      "link": "https://hagizra.news/#msg-cee794c2ff2a",
+      "body": "בשטח | כוחות צה''ל עצרו צעיר בכפר דיר ג'ריר, מזרחית לרמאללה במהלך פעילות הלילה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e434b565fe07.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 8,
@@ -478,13 +561,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T23:01:09.666Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "cd4edee2d293",
-      "title": "דרום לבנון | צה\"ל תוקף כעת בעיירה אל חיאם.",
-      "link": "https://hagizra.news/#msg-cd4edee2d293",
-      "body": "דרום לבנון | צה\"ל תוקף כעת בעיירה אל חיאם.",
+      "id": "9af8a25a5efc",
+      "title": "טרור ערבי | מחבל ידה אבנים לעבר חיילנו הצהריים במהלך פעילות בכפר מאליק הסמוך לרמאללה, במקום התפתח עימותים מול מתפרעים ער",
+      "link": "https://hagizra.news/#msg-9af8a25a5efc",
+      "body": "טרור ערבי | מחבל ידה אבנים לעבר חיילנו הצהריים במהלך פעילות בכפר מאליק הסמוך לרמאללה, במקום התפתח עימותים מול מתפרעים ערבים לעבר כוחותינו שהגיבו בירי חי.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cb0bcc6d0bc9.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -493,15 +579,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T23:01:09.666Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "3e14847570b5",
-      "title": "מצטרפים למאבק הישראלי | שר ההגנה של יוון ניקוס דנדיאס אומר כי ארצו \"תעשה כל שביכולתה\" על מנת למנוע מכירת מטוסי קרב מדגם ",
-      "link": "https://hagizra.news/#msg-3e14847570b5",
-      "body": "מצטרפים למאבק הישראלי | שר ההגנה של יוון ניקוס דנדיאס אומר כי ארצו \"תעשה כל שביכולתה\" על מנת למנוע מכירת מטוסי קרב מדגם F-35 לטורקיה.בדומה לישראל, גם ליוון כבר יש מטוסי F-35 והיא לא מעוניינת לוותר על היתרון הזה. (בן יניב)",
+      "id": "a9592b7a0f92",
+      "title": "שכם | פשיטה של כוחותינו במרכז העיר כעת.",
+      "link": "https://hagizra.news/#msg-a9592b7a0f92",
+      "body": "שכם | פשיטה של כוחותינו במרכז העיר כעת.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7c78b03a42da.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6e2242e21e43.bin"
       ],
       "time": null,
       "channelName": null,
@@ -511,13 +597,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T23:01:09.666Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "e089c94a936c",
-      "title": "נפל להם האסימון | דיווח ב-CNN מפי גורם אמריקני: מזכר ההבנות מבוסס על עמידה בהתחייבויות, והתנהלותה של איראן מהווה כישלון ",
-      "link": "https://hagizra.news/#msg-e089c94a936c",
-      "body": "נפל להם האסימון | דיווח ב-CNN מפי גורם אמריקני: מזכר ההבנות מבוסס על עמידה בהתחייבויות, והתנהלותה של איראן מהווה כישלון ברמה שאינה מתקבלת על הדעת. התקיפות האיראניות נגד כלי שיט אזרחיים הן מעשי טרור.",
+      "id": "5043e7f08aa2",
+      "title": "בהצלחה | תיעוד ערבי מפעילות חיילנו כעת בשכונת אל-ג'בריאת, במחנה ג'נין.",
+      "link": "https://hagizra.news/#msg-5043e7f08aa2",
+      "body": "בהצלחה | תיעוד ערבי מפעילות חיילנו כעת בשכונת אל-ג'בריאת, במחנה ג'נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f8ca19a80f91.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -526,15 +615,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T23:01:09.666Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "51338026e7c6",
-      "title": "רִמָּה וְתוֹלֵעָה | סופית: נקבר פגרו המאוס של המנהיג העליון של איראן ומי שרדף את היהודים בארץ ובעולם ופעל להשמידם האייתו",
-      "link": "https://hagizra.news/#msg-51338026e7c6",
-      "body": "רִמָּה וְתוֹלֵעָה | סופית: נקבר פגרו המאוס של המנהיג העליון של איראן ומי שרדף את היהודים בארץ ובעולם ופעל להשמידם האייתוללא עלי חמינאי ימ\"ש.בעז\"ה בקרוב ילכו כל שונאי ישראל בעקבותיו היישר אל המדור התחתון בגהינם.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d00cc2989be5.jpeg"
+      "id": "725f966c4282",
+      "title": "חברון | כוח צהל ירה רימוני גז במהלך פעילות מבצעית הצהריים באזור קיזון בעיר.",
+      "link": "https://hagizra.news/#msg-725f966c4282",
+      "body": "חברון | כוח צהל ירה רימוני גז במהלך פעילות מבצעית הצהריים באזור קיזון בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cbcef263ae9b.bin"
       ],
       "time": null,
       "channelName": null,
@@ -544,13 +633,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T23:01:09.666Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "5a53db909582",
-      "title": "הסתדר | לידיעת הגולשים והמאזינים: ב\"ה תוקנה התקלה המעצבנת שאירעה היום בקו המבזקים של הגיזרה.",
-      "link": "https://hagizra.news/#msg-5a53db909582",
-      "body": "הסתדר | לידיעת הגולשים והמאזינים: ב\"ה תוקנה התקלה המעצבנת שאירעה היום בקו המבזקים של הגיזרה. כעת ניתן לשמוע את המבזקים בקול יותר נורמלי.בעתיד בעז\"ה העניין ישופר לקול אנושי ומסודר יותר. המספרים כעת להאזנה: 077-814-0053 / 0733-510-267ניתן לשמוע בקו גם את הראיון עם ראש הממשלה.",
+      "id": "855a8deae042",
+      "title": "מוצלח | כוח רגלי צה''לי בפעילות הצהריים בעיירה יאמון, ממערב לג'נין.",
+      "link": "https://hagizra.news/#msg-855a8deae042",
+      "body": "מוצלח | כוח רגלי צה''לי בפעילות הצהריים בעיירה יאמון, ממערב לג'נין. במהלך הפעילות נורו רימוני גז לעבר מתפרעים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b67ff3b3b912.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -559,130 +651,76 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-09T23:01:09.666Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "ab49a76d1072",
-      "title": "מגיפת האבולה | מספר מקרי האבולה ברפובליקה הדמוקרטית של קונגו עלה ל-1,792.",
-      "link": "https://hagizra.news/#msg-ab49a76d1072",
-      "body": "מגיפת האבולה | מספר מקרי האבולה ברפובליקה הדמוקרטית של קונגו עלה ל-1,792. (12)",
-      "time": null,
-      "channelName": null,
-      "position": 0,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
-    },
-    {
-      "id": "affee6e22beb",
-      "title": "יתראה בציבור?",
-      "link": "https://hagizra.news/#msg-affee6e22beb",
-      "body": "יתראה בציבור? | המנהיג העליון של איראן מוג'טאבה חמינאי, יקיים תפילת הנצחה לאביו עלי חמינאי, במקדש של פתמה מסאמה מחר. כך על פי הטלוויזיה האיראנית. בעצם לא | בטלוויזיה האיראנית מעדכנים כי האירוע יתקיים \"מטעם\" מוג'טבה חמינאי, וכי הוא לא יגיע באופן אישי.עוד התחמקות מביכה של שרידי מוג'תבא.",
-      "time": null,
-      "channelName": null,
-      "position": 1,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
-    },
-    {
-      "id": "dc92f9ab2ca3",
-      "title": "יתראה בציבור?",
-      "link": "https://hagizra.news/#msg-dc92f9ab2ca3",
-      "body": "יתראה בציבור? | המנהיג העליון של איראן מוג'טאבה חמינאי, יקיים תפילת הנצחה לאביו עלי חמינאי, במקדש של פתמה מסאמה מחר. כך על פי הטלוויזיה האיראנית.",
-      "time": null,
-      "channelName": null,
-      "position": 2,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
-    },
-    {
-      "id": "73958ea6ec31",
-      "title": "המלחמה הלא נגמרת | ראש עיריית מוסקבה, סרגיי סוביאנין: שישה רחפנים שהיו בדרכם לכיוון מוסקבה הושמדו.",
-      "link": "https://hagizra.news/#msg-73958ea6ec31",
-      "body": "המלחמה הלא נגמרת | ראש עיריית מוסקבה, סרגיי סוביאנין: שישה רחפנים שהיו בדרכם לכיוון מוסקבה הושמדו.",
-      "time": null,
-      "channelName": null,
-      "position": 3,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
-    },
-    {
-      "id": "db538c6944c4",
-      "title": "\"ותהיינה...",
-      "link": "https://hagizra.news/#msg-db538c6944c4",
-      "body": "\"ותהיינה... לנשים\" הסגולה הבדוקה לנערות מבוגרות- להתארס עד שמחת תורה תשפ\"ז! מרן עמוד התפילה הגאון רבי יצחק קולדצקי שליט\"א בעדות מסעירה:בעת קריאת פרשת נישואי בנות צלפחד – שהצעירה שבהן היתה בגיל 40, ישנה שעת רצון מיוחדת וסגולה בדוקה לתפילה על שידוך הגון.בעקבות הגילוי: שלשת בני משפחת מרן זצ\"ל יערכו תפילה מיוחדת בסיום קריאת התורה בשבת הקרובה- לשידוך עד שמחת תורה תשפ\"זמרן שר התורה אמר שזו סגולה בדוקה ו",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/71c97764056f.png"
+      "id": "203f048f8ac2",
+      "title": "לכלא | חיילנו במעצר הצהריים בכניסה לכפר אל-מור'ייר, צפונית-מזרחית לרמאללה.",
+      "link": "https://hagizra.news/#msg-203f048f8ac2",
+      "body": "לכלא | חיילנו במעצר הצהריים בכניסה לכפר אל-מור'ייר, צפונית-מזרחית לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e26d7502a66f.bin"
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "3f9be4e4b85c",
-      "title": "אל תפספסו את ההזדמנות👇 | מכירים מישהי מהסביבה הקרובה שלכם.",
-      "link": "https://hagizra.news/#msg-3f9be4e4b85c",
-      "body": "אל תפספסו את ההזדמנות👇 | מכירים מישהי מהסביבה הקרובה שלכם. אחות או דודה או כל אחת שחשובה לכם שצריכה שידוך. זה הזמן שלכם לעשות את הסגולה הבדוקה של מרן שר התורה הגר\"ח קניבסקי זצוק\"ל.",
+      "id": "d5584c1c1bc9",
+      "title": "אנחנו בעלי הבית | דגל ישראל הונף על פסגת הר עיבל, המשקיף על העיר שכם.",
+      "link": "https://hagizra.news/#msg-d5584c1c1bc9",
+      "body": "אנחנו בעלי הבית | דגל ישראל הונף על פסגת הר עיבל, המשקיף על העיר שכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/aca21ded4e71.bin"
+      ],
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "660f7d0ffe71",
-      "title": "טמטום | בכיר בבית הלבן טוען בשיחה עם FOX: דיוני הצוותים הטכניים עם איראן יימשכו על אף חילופי האש.",
-      "link": "https://hagizra.news/#msg-660f7d0ffe71",
-      "body": "טמטום | בכיר בבית הלבן טוען בשיחה עם FOX: דיוני הצוותים הטכניים עם איראן יימשכו על אף חילופי האש. (בן יניב)",
+      "id": "a73cf612aea2",
+      "title": "משילות | כוח צה''ל בפעילות הריסה של בית לא חוקי היום במרחב חברון.",
+      "link": "https://hagizra.news/#msg-a73cf612aea2",
+      "body": "משילות | כוח צה''ל בפעילות הריסה של בית לא חוקי היום במרחב חברון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d9fb4fa30ae8.bin"
+      ],
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     },
     {
-      "id": "8f29c00df5eb",
-      "title": "רמז משופשף | מזכ״ל נאט״ו נשאל מה יקרה אם תפרוץ מלחמה בין טורקיה לישראל- זה מה שהיה לו להשיב:מראיינת: אם יתרחש סכסוך בין ",
-      "link": "https://hagizra.news/#msg-8f29c00df5eb",
-      "body": "רמז משופשף | מזכ״ל נאט״ו נשאל מה יקרה אם תפרוץ מלחמה בין טורקיה לישראל- זה מה שהיה לו להשיב:מראיינת: אם יתרחש סכסוך בין טורקיה לישראל בסוריה, למשל, האם זה יפעיל את סעיף 5?מארק רוטה, מזכ״ל נאט״ו: הנשיא ארדואן הוא נשיא חכם ביותר. הוא נמצא שנים בתפקיד הזה, והוא יימנע מלהגיע למצב שיצא משליטה.מראיינת: מה אם נתניהו יהפוך סכסוך לבלתי נמנע?רוטה: בואו לא נשער מה יכול לקרות. בואו לא נשכח את ה-7 באוקטובר 202",
+      "id": "b7d9d77e4379",
+      "title": "מקור נאמן ✒️ | המדור הפופולרי של כתב יתד נאמן אריה זיסמן.",
+      "link": "https://hagizra.news/#msg-b7d9d77e4379",
+      "body": "מקור נאמן ✒️ | המדור הפופולרי של כתב יתד נאמן אריה זיסמן. מקור נאמן-1.pdf",
       "time": null,
       "channelName": null,
-      "position": 7,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-10T00:08:31.999Z"
+      "firstSeen": "2026-07-10T04:11:43.174Z"
     }
   ],
   "errors": [
