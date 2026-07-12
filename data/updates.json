@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:38:28.692Z",
+  "generatedAt": "2026-07-12T11:33:05.382Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,24 +25,6 @@
   ],
   "items": [
     {
-      "id": "1fa7f690c913",
-      "title": "הכי חזק עד עכשיו |",
-      "link": "https://hagizra.news/#msg-1fa7f690c913",
-      "body": "הכי חזק עד עכשיו |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f095dd076e66.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 1,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-13T21:38:15.361Z"
-    },
-    {
       "id": "d41d8cd98f00",
       "title": "תמונה",
       "link": "https://black-cat.thechats.click/#msg-d41d8cd98f00",
@@ -52,64 +34,13 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 13,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-07-08T18:19:10.221Z"
-    },
-    {
-      "id": "55520bed6a3d",
-      "title": "גם ציפור מצאה בית ודרור קן לה",
-      "link": "https://black-cat.thechats.click/#msg-55520bed6a3d",
-      "body": "גם ציפור מצאה בית ודרור קן לה",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7b04d9506fc7.bin"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 20,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-07-09T18:26:42.767Z"
-    },
-    {
-      "id": "23ece85a19a2",
-      "title": "ארזת לבד ?",
-      "link": "https://black-cat.thechats.click/#msg-23ece85a19a2",
-      "body": "ארזת לבד ? מישהו ביקש ממך להעביר משהו חשוד?",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/19c5f3ac4b2e.bin"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 19,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-07-09T20:19:34.678Z"
-    },
-    {
-      "id": "7a3db5c3f237",
-      "title": "דיווח: ישראל נסתה לחסל את דובר חמאס ושיגרה לעברו קאסם, אבל בסוף חאזם קאסם לא חוסל אבל הצליחה להוריד את הראש של השומר ראש",
-      "link": "https://black-cat.thechats.click/#msg-7a3db5c3f237",
-      "body": "דיווח: ישראל נסתה לחסל את דובר חמאס ושיגרה לעברו קאסם, אבל בסוף חאזם קאסם לא חוסל אבל הצליחה להוריד את הראש של השומר ראש(הגר\"ח שחור)",
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-07-09T21:50:12.211Z"
     },
     {
       "id": "817788b9088f",
@@ -121,7 +52,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -136,7 +67,7 @@
       "body": "⛔️ מכירים נערה מבוגרת שממתינה לזיווג? את ההזדמנות הזו אסור לכם לפספס! ⛔️ \"ותהיינה... לנשים\" הסגולה הבדוקה לנערות מבוגרות- להתארס עד שמחת תורה תשפ\"ז!💍 מרן עמוד התפילה הגאון רבי יצחק קולדצקי שליט\"א בעדות מסעירה:מרן שר התורה אמר שזו סגולה בדוקה והרבה עשו ועלתה בידן, ובכל שנה ושנה היה מעורר להעתיר על זה כישועה מובטחת!בעת קריאת פרשת נישואי בנות צלפחד – שהצעירה שבהן היתה בגיל 40,ישנה שעת רצון מיוחדת וס",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 19,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -151,7 +82,7 @@
       "body": "בנט מתנדנד בסקרים (דוד ברעם)",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -166,7 +97,7 @@
       "body": "משתלם לשלם 💰 כדי לשמור על שלום",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -184,7 +115,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 11,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -202,7 +133,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -220,7 +151,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -238,7 +169,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -256,7 +187,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -274,7 +205,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -292,7 +223,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -310,7 +241,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -325,7 +256,7 @@
       "body": "נפגעי השנ\"צ של שבת חייגו לבזק",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -343,7 +274,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -361,7 +292,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -370,10 +301,82 @@
       "firstSeen": "2026-07-12T08:38:28.692Z"
     },
     {
-      "id": "584ac6dbf981",
-      "title": "אוהב ישראל גדול | יוסי דגן מספיד את לינדזי גרהאם: \"אוהב ישראל ואידיאליסט אמיתי, אבדה גדולה לעולם הנאור\".ראש מועצת שומרון",
-      "link": "https://hagizra.news/#msg-584ac6dbf981",
-      "body": "אוהב ישראל גדול | יוסי דגן מספיד את לינדזי גרהאם: \"אוהב ישראל ואידיאליסט אמיתי, אבדה גדולה לעולם הנאור\".ראש מועצת שומרון יוסי דגן מביע צער עמוק על פטירתו הפתאומית של ידידו הוותיק, הסנאטור האמריקני שהלך לעולמו: \"לינדזי היה חבר אמת של מדינת ישראל ושל ההתיישבות בשומרון. רק לפני כחודש אירח גרהאם בגבעת הקפיטול את כנס התמיכה הענק בשומרון. ביטחון ישראל והחיבור לארצות הברית היו משימת חייו. לא היסס להתעמת ",
+      "id": "0c7cd4e514f1",
+      "title": "סדנת גמילה מאלכוהול",
+      "link": "https://black-cat.thechats.click/#msg-0c7cd4e514f1",
+      "body": "סדנת גמילה מאלכוהול",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e787d130582a.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-07-12T11:33:05.382Z"
+    },
+    {
+      "id": "45e124ccce34",
+      "title": "עובר ירך אמו",
+      "link": "https://black-cat.thechats.click/#msg-45e124ccce34",
+      "body": "עובר ירך אמו",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3e908a7e1624.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 1,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-07-12T11:33:05.382Z"
+    },
+    {
+      "id": "a0a692bca444",
+      "title": "בנט מנסה לבקוע את הירדן לשניים",
+      "link": "https://black-cat.thechats.click/#msg-a0a692bca444",
+      "body": "בנט מנסה לבקוע את הירדן לשניים",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fbbfe4b82de8.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 2,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-07-12T11:33:05.382Z"
+    },
+    {
+      "id": "59d69cbf056f",
+      "title": "טרמאפ עצבני החליט לתפוס את מטוסו האישי ולהפתיע את האירנים במצירי הורמוז",
+      "link": "https://black-cat.thechats.click/#msg-59d69cbf056f",
+      "body": "טרמאפ עצבני החליט לתפוס את מטוסו האישי ולהפתיע את האירנים במצירי הורמוז",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/58f7532dd01e.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 3,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-07-12T11:33:05.382Z"
+    },
+    {
+      "id": "175b0e72f269",
+      "title": "לא חשוב על מה | קיצוניים מפגינים כעת כמידי יום ברח' בר אילן בירושלים נגד עבודות הרכבת הקלה ההולכות ונשלמות.",
+      "link": "https://hagizra.news/#msg-175b0e72f269",
+      "body": "לא חשוב על מה | קיצוניים מפגינים כעת כמידי יום ברח' בר אילן בירושלים נגד עבודות הרכבת הקלה ההולכות ונשלמות.",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -382,16 +385,31 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "1a612c1c1b7f",
-      "title": "איראן התנקשה בלינדזי גרהאם?",
-      "link": "https://hagizra.news/#msg-1a612c1c1b7f",
-      "body": "איראן התנקשה בלינדזי גרהאם? | האירנים חוגגים את המוות של לינדזי גרהאם ומאיימים כי הוא רק הראשון בסדרת ההתנקשות שלהם, האם יש פה לקחת אחריות? (יאיר גולדבלט)",
+      "id": "ba46bc925e38",
+      "title": "חביב | מקורות לבנוניים מדווחים על דליקות בכפר תבנית למרגלות רכס עלי א-טאהר בנפת נבטיה בעקבות ירי ארטילרי של צה\"ל.",
+      "link": "https://hagizra.news/#msg-ba46bc925e38",
+      "body": "חביב | מקורות לבנוניים מדווחים על דליקות בכפר תבנית למרגלות רכס עלי א-טאהר בנפת נבטיה בעקבות ירי ארטילרי של צה\"ל. (אבו עלי)",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f7c5da9b86e9.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/603f726c4d89.png"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-12T11:33:05.382Z"
+    },
+    {
+      "id": "b602eb6af0c5",
+      "title": "עדכון | ראש הממשלה נתניהו יתראיין בעוד מספר דקות לפוקס ניוז.",
+      "link": "https://hagizra.news/#msg-b602eb6af0c5",
+      "body": "עדכון | ראש הממשלה נתניהו יתראיין בעוד מספר דקות לפוקס ניוז.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -400,16 +418,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "23bdff80d0b5",
-      "title": "אירוע הזוי ברובע ז’ באשדוד | אברך חסיד גור הוכה באלימות קשה ונאזק בידיו וברגליו על ידי המשטרה.",
-      "link": "https://hagizra.news/#msg-23bdff80d0b5",
-      "body": "אירוע הזוי ברובע ז’ באשדוד | אברך חסיד גור הוכה באלימות קשה ונאזק בידיו וברגליו על ידי המשטרה. לאחר זמן קצר התברר לשוטרים כי מדובר בטעות בזיהוי - והאברך שוחרר כשהוא זרוק על הרצפה ללא שום התנצלות.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b3ef752ce59a.bin"
-      ],
+      "id": "3d81327fd585",
+      "title": "מצפים לאישור מלא | ח\"כ מאיר פרוש: בשעה זו אישרנו בוועדת החוץ והביטחון את הצעת החוק המפסיקה את מעצרם הנפשע של לומדי התורה",
+      "link": "https://hagizra.news/#msg-3d81327fd585",
+      "body": "מצפים לאישור מלא | ח\"כ מאיר פרוש: בשעה זו אישרנו בוועדת החוץ והביטחון את הצעת החוק המפסיקה את מעצרם הנפשע של לומדי התורה.אישור הצעת החוק הוא מסר כי רוב העם היהודי בארץ ישראל מתנגד למעצר לומדי תורה, דבר שמקטרג חלילה על ארץ ישראל.אנו מצפים לאישור החוק בעזרת ה' באופן סופי במליאת הכנסת עוד השבוע.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -418,13 +433,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "b9736e6e0655",
-      "title": "בניגוד לפרסומים | ח״כ ינון אזולאי בוועדת הכספים: ״אני לא מכיר את זה שהולכים עם אייזנקוט.״ (שלום שטיין)",
-      "link": "https://hagizra.news/#msg-b9736e6e0655",
-      "body": "בניגוד לפרסומים | ח״כ ינון אזולאי בוועדת הכספים: ״אני לא מכיר את זה שהולכים עם אייזנקוט.״ (שלום שטיין)",
+      "id": "5d099513857e",
+      "title": "תיעוד | משמרות המהפכה מפרסמים את הירי למדינות המפרץ.",
+      "link": "https://hagizra.news/#msg-5d099513857e",
+      "body": "תיעוד | משמרות המהפכה מפרסמים את הירי למדינות המפרץ.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a513f077b41c.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -433,13 +451,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "a12896d6680c",
-      "title": "הארכת מצב חירום | הממשלה מאריכה במשאל טלפוני דחוף את הארכת ההכרזה על המצב המיוחד בעורף עד ה-28 ביולי, כאשר לפי גורמי ביט",
-      "link": "https://hagizra.news/#msg-a12896d6680c",
-      "body": "הארכת מצב חירום | הממשלה מאריכה במשאל טלפוני דחוף את הארכת ההכרזה על המצב המיוחד בעורף עד ה-28 ביולי, כאשר לפי גורמי ביטחון קיימת סבירות גבוהה למתקפה על העורף האזרחי. (גילי כהן)",
+      "id": "47289bff3f36",
+      "title": "בשורה לעולם התורה | ועדת החוץ והביטחון אישרה כעת את חוק הקפאת המעצרים בקריאה שנייה ושלישית.",
+      "link": "https://hagizra.news/#msg-47289bff3f36",
+      "body": "בשורה לעולם התורה | ועדת החוץ והביטחון אישרה כעת את חוק הקפאת המעצרים בקריאה שנייה ושלישית. (שלום שטיין)",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -448,13 +466,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "349767619ec1",
-      "title": "ניסיון בריחה | דוברות שירות בתי הסוהר: לפני זמן קצר בבית מעצר ניצן במרכז בריאות הנפש, עצור במהלך שהייתו במסדרון טיפס אל ",
-      "link": "https://hagizra.news/#msg-349767619ec1",
-      "body": "ניסיון בריחה | דוברות שירות בתי הסוהר: לפני זמן קצר בבית מעצר ניצן במרכז בריאות הנפש, עצור במהלך שהייתו במסדרון טיפס אל חלל התקרה תוך שהוא שובר חלק מהתקרה האקוסטית.לוחמי הכליאה זיהו את האירוע, השתלטו על העצור, הוא הועבר לתאו וינקטו כנגדו צעדים משמעתיים.לא נשקפה סכנת בריחה.מפקד מחוז מרכז גונדר שלומי שגיא הנחה על הקמת קצין בודק.",
+      "id": "f2de45e1e44c",
+      "title": "נחמד ממש | דיווח ערבי: כטב\"ם ישראלי תקף שלוש פעמים ברחוב א-סנאעה במערב העיר עזה.",
+      "link": "https://hagizra.news/#msg-f2de45e1e44c",
+      "body": "נחמד ממש | דיווח ערבי: כטב\"ם ישראלי תקף שלוש פעמים ברחוב א-סנאעה במערב העיר עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d637cfb3e468.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -463,13 +484,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "904fc8ce220a",
-      "title": "איראן התנקשה בחייו?",
-      "link": "https://hagizra.news/#msg-904fc8ce220a",
-      "body": "איראן התנקשה בחייו? | לורה לומר, משפיענית יהודיה בולטת בימין האמריקאי תוהה מה עומד מאחורי מותו בחטף של לינדזי גרהאם:לפני חמישה ימים קראו משמרות המהפכה של איראן בפומבי להתנקש בחייו של הסנאטור לינדזי גרהאם.בימים האחרונים הוא שהה בחו\"ל, באזור מלחמה, בניסיון לסייע לסיום המלחמה בין אוקראינה לרוסיה.הוא שב לארצות הברית לפני פחות מיממה, והלילה הודיעו אנשי צוותו כי נפטר בעקבות \"מחלה קצרה ופתאומית\".האם הורע",
+      "id": "73ada4547cb2",
+      "title": "ממשיכים | בכלי התקשורת האיראנים צוהלים על מותו של לינדזי גרהאם: \"הלך לגיהינום, הוא רוצח ילדים\".",
+      "link": "https://hagizra.news/#msg-73ada4547cb2",
+      "body": "ממשיכים | בכלי התקשורת האיראנים צוהלים על מותו של לינדזי גרהאם: \"הלך לגיהינום, הוא רוצח ילדים\". (ישראל היום)",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -478,13 +499,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "a632012094e3",
-      "title": "מגנה | משרד החוץ הכוויתי: כווית מגנה את המתקפות האיראניות על שטחה, ומכנה אותן \"הסלמה מסוכנת\".",
-      "link": "https://hagizra.news/#msg-a632012094e3",
-      "body": "מגנה | משרד החוץ הכוויתי: כווית מגנה את המתקפות האיראניות על שטחה, ומכנה אותן \"הסלמה מסוכנת\". (12)",
+      "id": "f0286fba5212",
+      "title": "עולם הפוך | התנועה לאיכות השלטון דורשת לפתוח בחקירה פלילית נגד ראש השב\"כ דוד זיני בחשד להפרת אמונים בפרשת הפגישה עם יעקב",
+      "link": "https://hagizra.news/#msg-f0286fba5212",
+      "body": "עולם הפוך | התנועה לאיכות השלטון דורשת לפתוח בחקירה פלילית נגד ראש השב\"כ דוד זיני בחשד להפרת אמונים בפרשת הפגישה עם יעקב ברדוגו וחקירת ההדלפה נגד ערוץ 12. (ערוץ 12 🫣)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -493,13 +514,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "45c24a7a9218",
-      "title": "ראש הממשלה מתאבל | ראש הממשלה בנימין נתניהו: שרה ואני מתאבלים עם העם האמריקאי על אובדן חברנו היקר, הסנאטור לינדזי גרהם.ב",
-      "link": "https://hagizra.news/#msg-45c24a7a9218",
-      "body": "ראש הממשלה מתאבל | ראש הממשלה בנימין נתניהו: שרה ואני מתאבלים עם העם האמריקאי על אובדן חברנו היקר, הסנאטור לינדזי גרהם.בפגישתנו האחרונה אמרתי, \"לינדזי הוא חבר גדול של ישראל וחבר יקר שלי. אין לנו חבר טוב יותר מלינדזי.\"לינדזי הבין שביטחון ישראל ואמריקה הם בלתי נפרדים. הוא הקדיש את חייו להגנה על אמריקה, לחיזוק הברית שלנו ולעמידה על העולם החופשי.ישראל איבדה אחת מחבריה הגדולים ביותר. אמריקה איבדה פטריו",
+      "id": "d3bd255ebf19",
+      "title": "רדיפת המתיישבים | לאחר למעלה מחודש במעצר הורה בית משפט השלום בנתניה לפני זמן קצר על שחרורו של החוואי אוריה כהן מחוות צפנ",
+      "link": "https://hagizra.news/#msg-d3bd255ebf19",
+      "body": "רדיפת המתיישבים | לאחר למעלה מחודש במעצר הורה בית משפט השלום בנתניה לפני זמן קצר על שחרורו של החוואי אוריה כהן מחוות צפנת בשומרון שיצא לחפש את העדר שנגנב ממנו והותקף בידי פורעים ערבים המכפר חווארה. עו\"ד עדי קידר מארגון חוננו מייצג את אוריה.עו\"ד קידר מסר: \"בית המשפט אמר את דברו. מעצרו הממושך של אוריה היה לכל הדעות מיותר ומגמתי. ש להגן על החוואים בכל דרך ואנו נמשיך לפעול בנחישות לעשות כן\". (אלישע יר",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -508,13 +529,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "f10d1e6dda99",
-      "title": "אופסס | תושבים בבני ברק מדווחים כי קיבלו התרעה מקדימה מפיקוד העורף.",
-      "link": "https://hagizra.news/#msg-f10d1e6dda99",
-      "body": "אופסס | תושבים בבני ברק מדווחים כי קיבלו התרעה מקדימה מפיקוד העורף. נבדק אם זו תקלה. בהמשך להתרעות בפלאפון לתושבים בבני ברק | דובר צה\"ל: בעקבות תקלה טכנית, הופצה הנחייה מקדימה לטלפונים ניידים במרכז הארץ. כאמור, מדובר בתקלה. אין חשש לאירוע ביטחוני, האירוע מתוחקר.",
+      "id": "8549e8ef4d82",
+      "title": "\"אעזור לכם עד שזמני בעולם תם\" | הסנאטור לינדזי גרהאם, מגדולי התומכים של ישראל שמת במפתיע מ''דום לב''.",
+      "link": "https://hagizra.news/#msg-8549e8ef4d82",
+      "body": "\"אעזור לכם עד שזמני בעולם תם\" | הסנאטור לינדזי גרהאם, מגדולי התומכים של ישראל שמת במפתיע מ''דום לב''. (מתוך הריאיון המיוחד לערוץ 7 ב-2024)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/54f005e7132d.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -523,13 +547,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "0aaabc0c2dd5",
-      "title": "מתאבלים | טראמפ: הסנאטור לינדזי גרהם, אחד האנשים והסנאטורים הגדולים ביותר שהכרתי אי פעם, מת!",
-      "link": "https://hagizra.news/#msg-0aaabc0c2dd5",
-      "body": "מתאבלים | טראמפ: הסנאטור לינדזי גרהם, אחד האנשים והסנאטורים הגדולים ביותר שהכרתי אי פעם, מת! הוא תמיד עבד, והיה פטריוט אמריקאי אמיתי. לינדזי יחסר מאוד!!! פרטים וסידורים יבואו בהמשך. כל כך עצוב! הנשיא דונלד ג'יי טראמפ. (אריאל כהנא)שר הביטחון, ישראל כ\"ץ:אני מביע צער עמוק על לכתו של הסנאטור לינדזי גרהאם, ידיד אמת של מדינת ישראל ואחד מתומכיה החזקים, הנאמנים והעקביים ביותר.לאורך השנים עמד הסנאטור גרהאם",
+      "id": "ce69bb54c176",
+      "title": "מנהיג נחוש | וולדימיר זלנסקי, נשיא אוקראינה ואחד האנשים האחרונים שנפגשו עם גראהם לפני מותו: לינדזי היה מגן אמיתי של החיר",
+      "link": "https://hagizra.news/#msg-ce69bb54c176",
+      "body": "מנהיג נחוש | וולדימיר זלנסקי, נשיא אוקראינה ואחד האנשים האחרונים שנפגשו עם גראהם לפני מותו: לינדזי היה מגן אמיתי של החירות ושל הערכים שהופכים את עולמנו לבטוח יותר. אמריקה והעולם איבדו מנהיג נחוש. (בן יניב)",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -538,13 +562,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "210e57dfd614",
-      "title": "מה הוא רצה להגיד שם?",
-      "link": "https://hagizra.news/#msg-210e57dfd614",
-      "body": "מה הוא רצה להגיד שם? | הסנאטור גראהם היה מתוכנן להתראיין היום לתוכנית פגוש את העיתונות של NBC. (בן יניב)",
+      "id": "76b069b0ad0f",
+      "title": "הצלחות | כוח צה''ל בפעילות כעת בשכונת רפידיה בשכם.",
+      "link": "https://hagizra.news/#msg-76b069b0ad0f",
+      "body": "הצלחות | כוח צה''ל בפעילות כעת בשכונת רפידיה בשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5a51d9fee433.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -553,16 +580,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "7a23ea324326",
-      "title": "האזעקות באיחוד האמירויות | איחוד האמירויות: איום הטילים (האיראני) שזוהה הבוקר באיחוד האמירויות היה מחוץ לגבולות המדינה.",
-      "link": "https://hagizra.news/#msg-7a23ea324326",
-      "body": "האזעקות באיחוד האמירויות | איחוד האמירויות: איום הטילים (האיראני) שזוהה הבוקר באיחוד האמירויות היה מחוץ לגבולות המדינה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/83e2e12734a6.jpeg"
-      ],
+      "id": "30182feda737",
+      "title": "מכירים זוג ללא ילדים?",
+      "link": "https://hagizra.news/#msg-30182feda737",
+      "body": "מכירים זוג ללא ילדים? הסגולה המופלאה של בית האישה השונמית! 🍼מחר, יום שני כ\"ח בתמוזנוסע מרן הגאון רבי שמעון גלאי שליט\"אלבית האישה השונמיתלהתחנן בפני בורא עולם להביא את הישועה המובטחת מפי הנביא במקום הזה לחשוכי בנים ולכל הזקוקים לישועה להעברת שמות >>>",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -571,15 +595,18 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "a68ab53dbd8a",
-      "title": "היסטוריה | עמית סגל: היום לפני 20 שנה בדיוק: חזבאללה פתח במתקפת הפתע על סיור צה״לי, חטף את אהוד גולדווסר ואלדד רגב - והו",
-      "link": "https://hagizra.news/#msg-a68ab53dbd8a",
-      "body": "היסטוריה | עמית סגל: היום לפני 20 שנה בדיוק: חזבאללה פתח במתקפת הפתע על סיור צה״לי, חטף את אהוד גולדווסר ואלדד רגב - והוביל לפרוץ מלחמת לבנון השנייה.",
+      "id": "1a100e131d3d",
+      "title": "המצב בקרשים | מקצת מהתלונות שהתקבלו ע\"י תושבי העיר הסובלים סבל יומיומי.",
+      "link": "https://hagizra.news/#msg-1a100e131d3d",
+      "body": "המצב בקרשים | מקצת מהתלונות שהתקבלו ע\"י תושבי העיר הסובלים סבל יומיומי. התגובות ממשיכות לזרום |",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/196b65c463a4.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/be91b7392f2f.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b5599ddc62d4.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/31a360169479.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c0b5e51d9e2c.png"
       ],
       "time": null,
       "channelName": null,
@@ -589,15 +616,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "7052a22be365",
-      "title": "אבידה גדולה לעם היהודי | קרן למורשת הכותל המערבי: אבידה גדולה לעם היהודי, למדינת ישראל ולאומה האמריקנית.הסנאטור לינדזי ג",
-      "link": "https://hagizra.news/#msg-7052a22be365",
-      "body": "אבידה גדולה לעם היהודי | קרן למורשת הכותל המערבי: אבידה גדולה לעם היהודי, למדינת ישראל ולאומה האמריקנית.הסנאטור לינדזי גרהאם ביקר פעמים רבות בכותל המערבי. גם במהלך מלחמת \"חרבות ברזל\", לאחר מתקפת ה־7 באוקטובר, הגיע לכותל המערבי.במהלך ביקורו אמר: \"אינכם לבד. ארצות הברית עומדת לצידכם\". מילים שביטאו את מחויבותו העמוקה לישראל ואת תמיכתו הבלתי מתפשרת בעם היהודי.",
+      "id": "8203dbeaac1d",
+      "title": "תעלומה | הפרגוד: הנעדר מבית שמש אהרון ברקמן מתהלך ברמה ד' בבית שמש בשבת בבוקר בשעה 12.",
+      "link": "https://hagizra.news/#msg-8203dbeaac1d",
+      "body": "תעלומה | הפרגוד: הנעדר מבית שמש אהרון ברקמן מתהלך ברמה ד' בבית שמש בשבת בבוקר בשעה 12.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/253811cfa6d8.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/48a30d708dec.bin"
       ],
       "time": null,
       "channelName": null,
@@ -607,16 +634,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "4b3fdf035813",
-      "title": "הבטיח וקיים | לינדזי גרהאם: ישראל, אני אתכם בכל דרך.",
-      "link": "https://hagizra.news/#msg-4b3fdf035813",
-      "body": "הבטיח וקיים | לינדזי גרהאם: ישראל, אני אתכם בכל דרך. לכל האנטישמים והמחרימים - אני לא אתכם. אני עם ישראל עד יום מותי.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/afb196d9a7ab.bin"
-      ],
+      "id": "f76fdb10faa1",
+      "title": "נועדו יחדיו | לקראת הדיון הערב בועדת החוקה של הליכוד: ראש הממשלה נתניהו נפגש כעת עם השר חיים כץ.",
+      "link": "https://hagizra.news/#msg-f76fdb10faa1",
+      "body": "נועדו יחדיו | לקראת הדיון הערב בועדת החוקה של הליכוד: ראש הממשלה נתניהו נפגש כעת עם השר חיים כץ. (שלום שטיין)",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -625,16 +649,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "3441cc0b921f",
-      "title": "פרטים על פטירתו | דיווח ב-NBC: הסנאטור לינדזי גרהאם שב בסוף השבוע מביקור באוקראינה, שם נפגש ביום שישי עם הנשיא זלנסקי.",
-      "link": "https://hagizra.news/#msg-3441cc0b921f",
-      "body": "פרטים על פטירתו | דיווח ב-NBC: הסנאטור לינדזי גרהאם שב בסוף השבוע מביקור באוקראינה, שם נפגש ביום שישי עם הנשיא זלנסקי. בשבת בערב הגיעו לביתו בוושי... התמונה האחרונה | תמונה מביקורו של גרהאם במפעל ליצור כטב”מים באוקראינה בשישי האחרון.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/38150d97d54f.jpg"
-      ],
+      "id": "ff8eb878ddec",
+      "title": "נתניה | בן 60 איבד את ההכרה במהלך עבודתו ברחוב הרב קוק בעיר, חובשי איחוד הצלה ביצעו בו פעולות החייאה תוך מתן 4 שוקים חשמ",
+      "link": "https://hagizra.news/#msg-ff8eb878ddec",
+      "body": "נתניה | בן 60 איבד את ההכרה במהלך עבודתו ברחוב הרב קוק בעיר, חובשי איחוד הצלה ביצעו בו פעולות החייאה תוך מתן 4 שוקים חשמליים מדפיברילטור (מפעם וְהֵן אֵ־ל כַּבִּיר לֹא יִמְאָס תְּפִלַּת רַבִּים | בהמשך להחייאה לפני זמן קצר בנתניה, מבקשים מהציבור להתפלל ולקרוע שערי שמים לרפואת אברהם בן רחל לרפואה שלמה. מצבו מוגדר אנוש.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -643,13 +664,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "2cc8fac0e240",
-      "title": "פרטים על פטירתו | דיווח ב-NBC: הסנאטור לינדזי גרהאם שב בסוף השבוע מביקור באוקראינה, שם נפגש ביום שישי עם הנשיא זלנסקי.",
-      "link": "https://hagizra.news/#msg-2cc8fac0e240",
-      "body": "פרטים על פטירתו | דיווח ב-NBC: הסנאטור לינדזי גרהאם שב בסוף השבוע מביקור באוקראינה, שם נפגש ביום שישי עם הנשיא זלנסקי. בשבת בערב הגיעו לביתו בוושינגטון צוותי חירום בשל דיווח על דום לב. ב-NBC מדווחים כי ראו תמונות של פרמדיקים מפנים אדם על אלונקה מביתו של גרהאם לתוך אמבולנס שהמתין במקום. (רוזנצווייג)",
+      "id": "f62b3c837f8e",
+      "title": "מביש | בחור ישיבה שהתייצב להסדיר את מעמדו, נתון מאז יום רביעי להתנהלות מזעזעת מצד המשטרה הצבאית - במשך 3 ימים לא אפשרו ל",
+      "link": "https://hagizra.news/#msg-f62b3c837f8e",
+      "body": "מביש | בחור ישיבה שהתייצב להסדיר את מעמדו, נתון מאז יום רביעי להתנהלות מזעזעת מצד המשטרה הצבאית - במשך 3 ימים לא אפשרו לו להכניס עבורו תפילין, ובנוסף ניסו ליצור קשר עם הוריו בליל שבת, אף שידעו כי הוא חרדי. הוא מוחזק בכלא לצד נאשמים בריגול לטובת איראן. בדובר צה״ל מסרבים להגיב. (מנדי ריזל)",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -658,13 +679,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     },
     {
-      "id": "b6d810fcaa07",
-      "title": "פטירתו של לינדזי גראהם | גם שר החוץ גדעון סער יור\" הכנסת אמיר אוחנה וחה\"כ מיקי זוהר וניר ברקת הוציאו הודעת אבל.",
-      "link": "https://hagizra.news/#msg-b6d810fcaa07",
-      "body": "פטירתו של לינדזי גראהם | גם שר החוץ גדעון סער יור\" הכנסת אמיר אוחנה וחה\"כ מיקי זוהר וניר ברקת הוציאו הודעת אבל.",
+      "id": "252658abdb29",
+      "title": "למרות הסערה שהתחוללה שבוע שעבר | מס הכנסה ממשיך בסיורים שלו גם הבוקר בקריית ויז'ניץ בב\"ב.",
+      "link": "https://hagizra.news/#msg-252658abdb29",
+      "body": "למרות הסערה שהתחוללה שבוע שעבר | מס הכנסה ממשיך בסיורים שלו גם הבוקר בקריית ויז'ניץ בב\"ב. (הפרגוד)",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -673,7 +694,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T08:38:28.692Z"
+      "firstSeen": "2026-07-12T11:33:05.382Z"
     }
   ],
   "errors": [
