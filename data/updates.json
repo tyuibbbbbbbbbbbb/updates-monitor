@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T23:10:25.352Z",
+  "generatedAt": "2026-07-12T00:10:06.710Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,6 +24,24 @@
     }
   ],
   "items": [
+    {
+      "id": "6709c3216f2c",
+      "title": "בנדר עבאס |",
+      "link": "https://hagizra.news/#msg-6709c3216f2c",
+      "body": "בנדר עבאס |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/34d0415717a9.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-07T22:00:26.051Z"
+    },
     {
       "id": "d41d8cd98f00",
       "title": "תמונה",
@@ -352,40 +370,13 @@
       "firstSeen": "2026-07-11T21:15:13.350Z"
     },
     {
-      "id": "ea56da7ebca8",
-      "title": "לא מאומת | דיווחים ראשוניים על כך שאיראן ירתה לעבר ספינה במצר הורמוז.",
-      "link": "https://hagizra.news/#msg-ea56da7ebca8",
-      "body": "לא מאומת | דיווחים ראשוניים על כך שאיראן ירתה לעבר ספינה במצר הורמוז. הדיווחים מגיעים בתגובה לאולטימטום שהציבה ארה\"ב.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T22:10:53.710Z"
-    },
-    {
-      "id": "8e0b2a2ab71a",
-      "title": "רעיון חזק שרץ ברשת | כשתתחדש המלחמה מול איראן, אחד היעדים הראשונים של חיל האויר (כמובן אחרי גרעין, טילים ואיומים מידייים",
-      "link": "https://hagizra.news/#msg-8e0b2a2ab71a",
-      "body": "רעיון חזק שרץ ברשת | כשתתחדש המלחמה מול איראן, אחד היעדים הראשונים של חיל האויר (כמובן אחרי גרעין, טילים ואיומים מידייים) צריך להיות הקבר של חמינאי. מוטב שלא יישאר ממנו זכר.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T22:10:53.710Z"
-    },
-    {
-      "id": "5643aeb88188",
-      "title": "מיצר הורמוז | משמרות המהפכה מודיעים ברשת הקשר הימית לכל כלי השיט במרחב הים הערבי ומחוצה לו שלא להתקרב להורמוז - גם לא לכ",
-      "link": "https://hagizra.news/#msg-5643aeb88188",
-      "body": "מיצר הורמוז | משמרות המהפכה מודיעים ברשת הקשר הימית לכל כלי השיט במרחב הים הערבי ומחוצה לו שלא להתקרב להורמוז - גם לא לכלי שיט שכבר אושרו לשוט בנתיב האיראן.",
+      "id": "71fcc16eee0a",
+      "title": "תקרית נוספת במצרי הורמוז | אוניית מכולות נפגעה סמוך לחופי עומאן.",
+      "link": "https://hagizra.news/#msg-71fcc16eee0a",
+      "body": "תקרית נוספת במצרי הורמוז | אוניית מכולות נפגעה סמוך לחופי עומאן. נגרם נזק. (UKMTO).",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ae6fc5dac33e.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 0,
@@ -394,16 +385,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "e99f29b46662",
-      "title": "הסתיימה השבעה של הרב הגאון רבי אלעזר סאלאם😭💔 שהלך לבית עולמו לאחר שנתיים וחצי של המחלה, והוא בן 50 בלבד.",
-      "link": "https://hagizra.news/#msg-e99f29b46662",
-      "body": "הסתיימה השבעה של הרב הגאון רבי אלעזר סאלאם😭💔 שהלך לבית עולמו לאחר שנתיים וחצי של המחלה, והוא בן 50 בלבד. הותיר 8 יתומים רכים, כשהקטן בן 8 בלבד... כמה כואב |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/725bfc9d3d90.png"
-      ],
+      "id": "742ff1879649",
+      "title": "לילה אש | דיווח על הפעלת מערכות ההגנה האווירית בטהראן.",
+      "link": "https://hagizra.news/#msg-742ff1879649",
+      "body": "לילה אש | דיווח על הפעלת מערכות ההגנה האווירית בטהראן. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -412,13 +400,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "caf33dd99313",
-      "title": "הסתיימה השבעה של הרב הגאון רבי אלעזר סאלאם😭💔 שהלך לבית עולמו לאחר שנתיים וחצי של המחלה, והוא בן 50 בלבד.",
-      "link": "https://hagizra.news/#msg-caf33dd99313",
-      "body": "הסתיימה השבעה של הרב הגאון רבי אלעזר סאלאם😭💔 שהלך לבית עולמו לאחר שנתיים וחצי של המחלה, והוא בן 50 בלבד. הותיר 8 יתומים רכים, כשהקטן בן 8 בלבד! כשנודע לו על מחלתו הקשה זעק בכאב: \"אבל מה יהיה עם הילדים?? מי ידאג לילדים??\" רב השכונה, הגאון רבי ישראל זיכרמן שליט\"א, שליווה את המשפחה מקרובקרא בלוויה לציבור לעמוד לעזר לאלמנה וליתומים שנותרו כספינה בלב ים. נתגייס לטובת האלמנה ושמונת הילדים הרכים, יתן ל",
+      "id": "fd1af898c0a7",
+      "title": "ממשיכים | משמרות המהפכה תקפו כעת ספינה נוספת במצר הורמוז באמצעות טילים.",
+      "link": "https://hagizra.news/#msg-fd1af898c0a7",
+      "body": "ממשיכים | משמרות המהפכה תקפו כעת ספינה נוספת במצר הורמוז באמצעות טילים.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -427,13 +415,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "a8e62515d9e2",
-      "title": "טרור ההצתות | ליל שבת: ערבים מהכפר חיזמה הציתו שריפה בשטחים הסמוכים לחווה שליד הישוב אדם.",
-      "link": "https://hagizra.news/#msg-a8e62515d9e2",
-      "body": "טרור ההצתות | ליל שבת: ערבים מהכפר חיזמה הציתו שריפה בשטחים הסמוכים לחווה שליד הישוב אדם. בחווה אומרים כי זו הצתה שניה בשבוע ופעם רביעית מאז תחילת הקיץ באותו אזור.",
+      "id": "fe76a3eb4724",
+      "title": "הספינה שהותקפה | קפריסין: קיבלנו דיווח על ספינה בבעלותנו שהותקפה בהורמוז - היא תקועה ללא יכולת להתקדם ואחד מאנשי הצוות נ",
+      "link": "https://hagizra.news/#msg-fe76a3eb4724",
+      "body": "הספינה שהותקפה | קפריסין: קיבלנו דיווח על ספינה בבעלותנו שהותקפה בהורמוז - היא תקועה ללא יכולת להתקדם ואחד מאנשי הצוות נהרג ונעדר בקרקעית הים.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -442,16 +430,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "9954ef81cc11",
-      "title": "בדרך לכלא | תיעוד ערבי ממעצר של כוחותינו כעת במחנה קלנדיה מצפון לירושלים.",
-      "link": "https://hagizra.news/#msg-9954ef81cc11",
-      "body": "בדרך לכלא | תיעוד ערבי ממעצר של כוחותינו כעת במחנה קלנדיה מצפון לירושלים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/16f09055b132.bin"
-      ],
+      "id": "253cb7cd78ea",
+      "title": "כעת | פיצוצים נמשכים בעיר צ׳אבהאר, דרום איראן.",
+      "link": "https://hagizra.news/#msg-253cb7cd78ea",
+      "body": "כעת | פיצוצים נמשכים בעיר צ׳אבהאר, דרום איראן.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -460,13 +445,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "c629414b0c00",
-      "title": "בין המצרים | דיווחים ראשוניים ולא מאומתים על חילופי אש באזור מצרי הורמוז.",
-      "link": "https://hagizra.news/#msg-c629414b0c00",
-      "body": "בין המצרים | דיווחים ראשוניים ולא מאומתים על חילופי אש באזור מצרי הורמוז.",
+      "id": "3d913e281bfb",
+      "title": "הופה💥 | ברקע גל תקיפות של ארה״ב באיראן- פיט הגסת׳, מזכיר המלחמה כותב: איראן לקחה החלטה אומללה- עכשיו הזמן לשלם.",
+      "link": "https://hagizra.news/#msg-3d913e281bfb",
+      "body": "הופה💥 | ברקע גל תקיפות של ארה״ב באיראן- פיט הגסת׳, מזכיר המלחמה כותב: איראן לקחה החלטה אומללה- עכשיו הזמן לשלם.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bd6e9761125b.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -475,13 +463,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "0458351b68e2",
-      "title": "ואיום לקינוח | משמרות המהפכה מאיימים לתקוף בסיסים אמריקאים חדשים באזור אם איראן תהיה נתונה לתוקפנות כלשהי.",
-      "link": "https://hagizra.news/#msg-0458351b68e2",
-      "body": "ואיום לקינוח | משמרות המהפכה מאיימים לתקוף בסיסים אמריקאים חדשים באזור אם איראן תהיה נתונה לתוקפנות כלשהי.",
+      "id": "a8621a6b3d8b",
+      "title": "עדיין לא עלו שלב | בכיר אמריקני: בין המטרות המותקפות - מכ\"מים למעקב אווירי, מתקנים לאחסון טילים וכטב\"מים, אתרי שיגור טיל",
+      "link": "https://hagizra.news/#msg-a8621a6b3d8b",
+      "body": "עדיין לא עלו שלב | בכיר אמריקני: בין המטרות המותקפות - מכ\"מים למעקב אווירי, מתקנים לאחסון טילים וכטב\"מים, אתרי שיגור טילים וכטב\"מים, מכ\"מים למעקב ימי, משגרי טילי קרקע-אוויר.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -490,13 +478,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "1807ebdcad0b",
-      "title": "טראמפ מצייץ | שוחחתי עכשיו עם מנהיגי איראן – אנשים קשוחים מאוד, אבל הם מתים עליי!",
-      "link": "https://hagizra.news/#msg-1807ebdcad0b",
-      "body": "טראמפ מצייץ | שוחחתי עכשיו עם מנהיגי איראן – אנשים קשוחים מאוד, אבל הם מתים עליי! הם אמרו לי שהם סוגרים את מצר הורמוז, סגור לחלוטין, הרמטי... אבל רק לכמה ימים! סך הכל חופשה קצרה! הם נואשים לעשות עסקה, אף אחד לא רוצה לדבר ולנהל משא ומתן יותר מהם. התקדמות ענקית, בטוח מאוד!.",
+      "id": "17d8db1fb904",
+      "title": "מאשרים | גורם אמריקאי רשמי: ארה”ב תוקפת מטרות באיראן ההודעה האמריקאית | פיקוד המרכז האמריקני: בשעה 19:15 שעון מזרח ארה\"ב",
+      "link": "https://hagizra.news/#msg-17d8db1fb904",
+      "body": "מאשרים | גורם אמריקאי רשמי: ארה”ב תוקפת מטרות באיראן ההודעה האמריקאית | פיקוד המרכז האמריקני: בשעה 19:15 שעון מזרח ארה\"ב היום, כוחות הפיקוד המרכזי של ארה\"ב החלו בסבב התקיפות השלישי השבוע נגד איראן לאחר שכוחות משמרות המהפכה האסלאמית תקפו באופן בוטה את ספינת המכולות GFS Galaxy, אוניית מכולות הנושאת דגל קפריסין שעוברת דרך מצר הורמוז.איש צוות אזרחי נעדר והספינה אינה מסוגלת להמשיך במסע עקב שריפה על הסי",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -505,13 +493,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "0eaeecaa1a81",
-      "title": "מאשרים | בכיר אמריקני: משמרות המהפכה שיגרו טיל לעבר אוניית סוחר שעברה במצר הורמוז.",
-      "link": "https://hagizra.news/#msg-0eaeecaa1a81",
-      "body": "מאשרים | בכיר אמריקני: משמרות המהפכה שיגרו טיל לעבר אוניית סוחר שעברה במצר הורמוז. הספינה נפגעה.",
+      "id": "dad5b20b52aa",
+      "title": "כצפוי | משרד החוץ האיראני: התקיפות האמריקאיות האחרונות לא יישארו ללא מענה.",
+      "link": "https://hagizra.news/#msg-dad5b20b52aa",
+      "body": "כצפוי | משרד החוץ האיראני: התקיפות האמריקאיות האחרונות לא יישארו ללא מענה.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -520,13 +508,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "1f0c0ef277d9",
-      "title": "טראמפ תחזיר את הכבוד האבוד שלך | משמרות המהפכה מוסיפים: פגענו לפני מספר שעות בכלי שיט שפעל בניגוד להנחיות שלנו.",
-      "link": "https://hagizra.news/#msg-1f0c0ef277d9",
-      "body": "טראמפ תחזיר את הכבוד האבוד שלך | משמרות המהפכה מוסיפים: פגענו לפני מספר שעות בכלי שיט שפעל בניגוד להנחיות שלנו.",
+      "id": "e1d480b1c76a",
+      "title": "מאשרים | גורם אמריקאי רשמי: ארה”ב תוקפת מטרות באיראן",
+      "link": "https://hagizra.news/#msg-e1d480b1c76a",
+      "body": "מאשרים | גורם אמריקאי רשמי: ארה”ב תוקפת מטרות באיראן",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -535,13 +523,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "bd7a1c03150a",
-      "title": "סקר חשוב |האם אנחנו לקראת חזרה לחימה 💥 זהו כלו כל הקיצין.",
-      "link": "https://hagizra.news/#msg-bd7a1c03150a",
-      "body": "סקר חשוב |האם אנחנו לקראת חזרה לחימה 💥 זהו כלו כל הקיצין. האיראנים השפילו את טראמפ עד עפר🤕 יתן תגובה קטנה. וינסה לחזור למשא ומתן שוב.🤬 נמאס לי כבר לנסות להבין את טראמפ.",
+      "id": "f7897937f643",
+      "title": "הולכים על תחנות משטרה?",
+      "link": "https://hagizra.news/#msg-f7897937f643",
+      "body": "הולכים על תחנות משטרה? | מפקדת המשטרה באספהאן שבאיראן הותקפה.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -550,16 +538,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "db4d3a1087b1",
-      "title": "שער יתד של מחר |",
-      "link": "https://hagizra.news/#msg-db4d3a1087b1",
-      "body": "שער יתד של מחר |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bf4fa29a5de3.jpg"
-      ],
+      "id": "3046853ef3b3",
+      "title": "האיראנים מדווחים | מטה המשטרה באהוואז, בירת מחוז ח'וזסטן, הושמד בתקיפה אווירית.",
+      "link": "https://hagizra.news/#msg-3046853ef3b3",
+      "body": "האיראנים מדווחים | מטה המשטרה באהוואז, בירת מחוז ח'וזסטן, הושמד בתקיפה אווירית.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -568,31 +553,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "2d5dc1535ba1",
-      "title": "בהצלחה רבה | כוחותינו בפעילות כעת בבית פוריק ממזרח לעיר שכם.",
-      "link": "https://hagizra.news/#msg-2d5dc1535ba1",
-      "body": "בהצלחה רבה | כוחותינו בפעילות כעת בבית פוריק ממזרח לעיר שכם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8e16dffa12bc.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
-    },
-    {
-      "id": "dc223032ae2d",
-      "title": "בוםםםם💥 | משמרות המהפכה בהודעה רשמית: מצר הורמוז נסגר.",
-      "link": "https://hagizra.news/#msg-dc223032ae2d",
-      "body": "בוםםםם💥 | משמרות המהפכה בהודעה רשמית: מצר הורמוז נסגר. עד לסיום ההתערבות האמריקאית.",
+      "id": "0e9a09ef2aa5",
+      "title": "👀👀👀",
+      "link": "https://hagizra.news/#msg-0e9a09ef2aa5",
+      "body": "👀👀👀",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -601,13 +568,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "d389ceb73a86",
-      "title": "קיבל את השיעור | אל\"מ חזי נחמה בחצות בזירת החדשות: לא מציע לאף אחד להיכנס לראשו של טראמפ, השיקולים שלו מגוונים וטוב עשתה",
-      "link": "https://hagizra.news/#msg-d389ceb73a86",
-      "body": "קיבל את השיעור | אל\"מ חזי נחמה בחצות בזירת החדשות: לא מציע לאף אחד להיכנס לראשו של טראמפ, השיקולים שלו מגוונים וטוב עשתה ישראל שלא התערבה במו\"מ והמתינה בסבלנות. טראמפ קיבל את השיעור ע\"כ שאין עם מי לעבוד ועל מי לסמוך ומה שיעבוד מולם זה הרבה כוח.",
+      "id": "3cb36b7ad56c",
+      "title": "מעניין | תיעוד מראה על שיגורים מבחריין לעבר איראן.",
+      "link": "https://hagizra.news/#msg-3cb36b7ad56c",
+      "body": "מעניין | תיעוד מראה על שיגורים מבחריין לעבר איראן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a2851aeb5e14.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -616,16 +586,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "61eeec988465",
-      "title": "ג'נין | מפעילות כוחותינו כעת באזור הכיכר של משרד הפנים בעיר.",
-      "link": "https://hagizra.news/#msg-61eeec988465",
-      "body": "ג'נין | מפעילות כוחותינו כעת באזור הכיכר של משרד הפנים בעיר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/67bcb65e20b4.bin"
-      ],
+      "id": "a5df7f9753cd",
+      "title": "מיקומי ההפצצות בנתיים | דיווח על פיצוצים באזור בושהר.פיצוצים נשמעים בעיר עסלויה, שבדרום איראן.פיצוצים בבנדר עבאס ובנדר ק",
+      "link": "https://hagizra.news/#msg-a5df7f9753cd",
+      "body": "מיקומי ההפצצות בנתיים | דיווח על פיצוצים באזור בושהר.פיצוצים נשמעים בעיר עסלויה, שבדרום איראן.פיצוצים בבנדר עבאס ובנדר קנגאן, אהוואז.",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -634,16 +601,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "3f7d60e976ec",
-      "title": "בשטח | חיילנו במעצר רכב חשוד במהלך פעילות בשכונת אל-ג'בריאת, ליד מחנה ג'נין.",
-      "link": "https://hagizra.news/#msg-3f7d60e976ec",
-      "body": "בשטח | חיילנו במעצר רכב חשוד במהלך פעילות בשכונת אל-ג'בריאת, ליד מחנה ג'נין.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fc1379593df5.bin"
-      ],
+      "id": "61cde995130f",
+      "title": "והנה זה התחיל💥 | ארה\"ב תוקפת בדרום איראן.",
+      "link": "https://hagizra.news/#msg-61cde995130f",
+      "body": "והנה זה התחיל💥 | ארה\"ב תוקפת בדרום איראן.",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -652,16 +616,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     },
     {
-      "id": "9b6fe7fcb6a4",
-      "title": "אוויר נקי יותר | אחרי 5 שנים שהמזבלה הערבית הפיראטית הזו זיהמה בכל יום את האזור, החרים צה\"ל השבת טרקטור ערבי מהכפר בורקא",
-      "link": "https://hagizra.news/#msg-9b6fe7fcb6a4",
-      "body": "אוויר נקי יותר | אחרי 5 שנים שהמזבלה הערבית הפיראטית הזו זיהמה בכל יום את האזור, החרים צה\"ל השבת טרקטור ערבי מהכפר בורקא ששימש כמשאית זבל. כל הכבוד לחטיבת בנימין! אלפי תושבים בכוכב יעקב, מגרון ורמת מגרון יוכלו סוף סוף בזכותכם לנשום אוויר נקי יותר. (אלישע ירד)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f3325e636e0b.bin"
-      ],
+      "id": "202a2f32f2f1",
+      "title": "רוחות מלחמה | ״החלו שיבושי GPS נרחבים במדינות המפרץ.״",
+      "link": "https://hagizra.news/#msg-202a2f32f2f1",
+      "body": "רוחות מלחמה | ״החלו שיבושי GPS נרחבים במדינות המפרץ.״",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -670,7 +631,40 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-12T00:10:06.710Z"
+    },
+    {
+      "id": "1f67bc86aede",
+      "title": "מגוחך | אל־ערביה: שר החוץ של פקיסטן מקיים כעת שיחות עם ארצות הברית ועם איראן במטרה להפחית את המתיחות.",
+      "link": "https://hagizra.news/#msg-1f67bc86aede",
+      "body": "מגוחך | אל־ערביה: שר החוץ של פקיסטן מקיים כעת שיחות עם ארצות הברית ועם איראן במטרה להפחית את המתיחות.",
+      "time": null,
+      "channelName": null,
+      "position": 18,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-12T00:10:06.710Z"
+    },
+    {
+      "id": "0d4196a266ec",
+      "title": "נזכיר | הנשיא טראמפ איים אחרי התקיפות האמריקניות בחמישי האחרון שאם איראן תירה שוב על ספינות במיצרי הורמוז \"זה יהיה \"הרבה",
+      "link": "https://hagizra.news/#msg-0d4196a266ec",
+      "body": "נזכיר | הנשיא טראמפ איים אחרי התקיפות האמריקניות בחמישי האחרון שאם איראן תירה שוב על ספינות במיצרי הורמוז \"זה יהיה \"הרבה יותר גרוע!\".",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/174aba8e6fac.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 19,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-12T00:10:06.710Z"
     }
   ],
   "errors": [
