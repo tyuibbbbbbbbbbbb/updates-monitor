@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T23:08:35.455Z",
+  "generatedAt": "2026-07-13T00:10:36.197Z",
   "sources": [
     {
       "id": "blackcat",
@@ -38,6 +38,24 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-07-11T21:15:13.350Z"
+    },
+    {
+      "id": "db4d3a1087b1",
+      "title": "שער יתד של מחר |",
+      "link": "https://hagizra.news/#msg-db4d3a1087b1",
+      "body": "שער יתד של מחר |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5d502cc6e175.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-11T23:10:25.352Z"
     },
     {
       "id": "c1873f32dba4",
@@ -398,91 +416,13 @@
       "firstSeen": "2026-07-12T21:14:14.790Z"
     },
     {
-      "id": "2c25e29a3051",
-      "title": "דיווחים באיראן | בסיסי משמרות המהפכה בח'נדאב, באראכ ובצ'אהבהאר תחת אש אמריקאית כבדה ברגעים אלה.",
-      "link": "https://hagizra.news/#msg-2c25e29a3051",
-      "body": "דיווחים באיראן | בסיסי משמרות המהפכה בח'נדאב, באראכ ובצ'אהבהאר תחת אש אמריקאית כבדה ברגעים אלה.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T22:10:13.393Z"
-    },
-    {
-      "id": "dbfdf5d87b43",
-      "title": "לחימה עזה | דיווחים איראנים על שיגור טילי שיוט לעבר מטרות במצרי הורמוז.",
-      "link": "https://hagizra.news/#msg-dbfdf5d87b43",
-      "body": "לחימה עזה | דיווחים איראנים על שיגור טילי שיוט לעבר מטרות במצרי הורמוז.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T22:10:13.393Z"
-    },
-    {
-      "id": "ddc926c69383",
-      "title": "האיראנים בהודעה | משרד החוץ האיראני: \"המשא ומתן במסקט התמקד בעיקר בהסדרי ניהול מצר הורמוז ובנתיבי התנועה ולמרבה הצער, אר",
-      "link": "https://hagizra.news/#msg-ddc926c69383",
-      "body": "האיראנים בהודעה | משרד החוץ האיראני: \"המשא ומתן במסקט התמקד בעיקר בהסדרי ניהול מצר הורמוז ובנתיבי התנועה ולמרבה הצער, ארה\"ב מנעה השגת תוצאות בעניין זה באמצעות לחצים גלויים וסמויים על עומאן. המקור והמוצא של התקיפות נגד איראן - יהוו מטרה לגיטימית למכות הגנתיות של הכוחות המזוינים של איראן\"",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T22:10:13.393Z"
-    },
-    {
-      "id": "b045ae1200b2",
-      "title": "סיריק | דרום איראן.",
-      "link": "https://hagizra.news/#msg-b045ae1200b2",
-      "body": "סיריק | דרום איראן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/250b5b852450.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T22:10:13.393Z"
-    },
-    {
-      "id": "69ee41f1a5a3",
-      "title": "האיראנים מגנים🤭 | משרד החוץ האיראני: אנו מגנים בחריפות את התקיפות האגרסיביות של ארה\"ב נגד איראן ב-24 השעות האחרונות.",
-      "link": "https://hagizra.news/#msg-69ee41f1a5a3",
-      "body": "האיראנים מגנים🤭 | משרד החוץ האיראני: אנו מגנים בחריפות את התקיפות האגרסיביות של ארה\"ב נגד איראן ב-24 השעות האחרונות.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T22:10:13.393Z"
-    },
-    {
       "id": "b0cd94db2d3c",
       "title": "גם שם מופצץ | כתב אל-מיאדין בטהרן: תקיפות אמריקאיות כוונו לעבר אהוואז והעיר מאהשאהר שבמחוז ח'וזסתאן, שבו מרוכזות תעשיות ",
       "link": "https://hagizra.news/#msg-b0cd94db2d3c",
       "body": "גם שם מופצץ | כתב אל-מיאדין בטהרן: תקיפות אמריקאיות כוונו לעבר אהוואז והעיר מאהשאהר שבמחוז ח'וזסתאן, שבו מרוכזות תעשיות הפטרוכימיה החשובות ביותר באיראן.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -497,7 +437,7 @@
       "body": "מיצר הורמוז בנתיים פתוח | בכיר אמריקאי: ב־24 השעות האחרונות כ־20 כלי שיט מסחריים עברו במצר הורמוז בתיאום עם צבא ארה\"ב. בנוסף, כמה כלי שיט נוספים חצו את המצר ללא תיאום עם הכוחות האמריקאיים. (ברק בטש)",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -512,7 +452,7 @@
       "body": "האיראנים זועמים | מקורות איראניים: התקיפות הלילה הן כמו הכרזת מלחמה. אנו שוקלים כעת את צעדינו הבאים.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -527,7 +467,7 @@
       "body": "דיווחים | פיצוצים בכרמאנשאה, מערב איראן.",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -542,7 +482,7 @@
       "body": "נקווה שהוא צודק | עיתונאי האופוזיציה האיראנית אומיד דאנה טוען: \"כל התקיפות של צבא ארה\"ב בדרום איראן וחופיה אינם באים בחלל ריק - אלא הם הכנה מפורשת לכיבוש קרקעי של איים איראנים ובראשם האי חארג'.\"",
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -551,13 +491,94 @@
       "firstSeen": "2026-07-12T23:08:35.455Z"
     },
     {
-      "id": "63bc452d7822",
-      "title": "תיעוד | הפעלת מערכות ההגנה האווירית בעיר כרמאנשאה.",
-      "link": "https://hagizra.news/#msg-63bc452d7822",
-      "body": "תיעוד | הפעלת מערכות ההגנה האווירית בעיר כרמאנשאה.",
+      "id": "8c7b5c0dbacb",
+      "title": "שוד אופניים בכביש 446 | בליל שישי האחרון, בכביש 446 סמוך לכיכר ניל\"י, פועל זר (תאילנדי) שרכב על אופניו החשמליים נשדד על ",
+      "link": "https://hagizra.news/#msg-8c7b5c0dbacb",
+      "body": "שוד אופניים בכביש 446 | בליל שישי האחרון, בכביש 446 סמוך לכיכר ניל\"י, פועל זר (תאילנדי) שרכב על אופניו החשמליים נשדד על ידי ערבים שנמלטו מהמקום. הפועל לא נפגע, הוגשה תלונה במשטרה.",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T00:10:36.197Z"
+    },
+    {
+      "id": "54192378b10f",
+      "title": "פיגוע הרעלה קשה בשומרון | מחבלים מהכפר קוצרא חדרו היום לשטחי המרעה של גבעת תל תלפיות בשומרון, ופיזרו רעל קטלני.כלבי השמי",
+      "link": "https://hagizra.news/#msg-54192378b10f",
+      "body": "פיגוע הרעלה קשה בשומרון | מחבלים מהכפר קוצרא חדרו היום לשטחי המרעה של גבעת תל תלפיות בשומרון, ופיזרו רעל קטלני.כלבי השמירה של הגבעה שהלכו לפני העדר, נפלו קרבן לרעל שהוטמן בשאריות אוכל ומתו בתוך זמן קצר. טרם דווח על חשודים שנעצרו. הרועה שהבחין כי הכלבים מתחילים לפרכס ולהוציא קצף מהפה, הבין מיד כי מדובר בהרעלה והרחיק את עדר הצאן, אך לפני שהספיק להעניק לשני הכלבים טיפול רפואי נפחו אלו את נשמתם. טרם ד",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8969a8162886.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/07b1857ecc74.bin"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T00:10:36.197Z"
+    },
+    {
+      "id": "4efa3812b84e",
+      "title": "רוצח על הכביש | נהג פלסטיני מתעד את עצמו נוסע בנהיגה פרועה ומסכנת חיים בכביש 60, בקטע שבין סינג'יל לשילה.",
+      "link": "https://hagizra.news/#msg-4efa3812b84e",
+      "body": "רוצח על הכביש | נהג פלסטיני מתעד את עצמו נוסע בנהיגה פרועה ומסכנת חיים בכביש 60, בקטע שבין סינג'יל לשילה. בתיעוד ניתן לראות אותו דוהר במהירות מופרזת שחוצה את ה-200 קמ\"ש. מפגש של נהג כזה עם רכב משפחתי יכול להסתיים בטרגדיה נוראית.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0ede5a21fc8c.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T00:10:36.197Z"
+    },
+    {
+      "id": "b86380b27139",
+      "title": "איראן ממשיכה לחטוף |",
+      "link": "https://hagizra.news/#msg-b86380b27139",
+      "body": "איראן ממשיכה לחטוף |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9945309151a2.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T00:10:36.197Z"
+    },
+    {
+      "id": "4244bd4dc007",
+      "title": "התעוררו | גורמים איראניים מאיימים: \"עכשיו תורנו - שבו וצפו\".",
+      "link": "https://hagizra.news/#msg-4244bd4dc007",
+      "body": "התעוררו | גורמים איראניים מאיימים: \"עכשיו תורנו - שבו וצפו\".",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T00:10:36.197Z"
+    },
+    {
+      "id": "f8a0ea1a585c",
+      "title": "תאונות הדרכים | הולך רגל נפגע מרכב הערב בכביש 1 סמוך לכפר אדומים.",
+      "link": "https://hagizra.news/#msg-f8a0ea1a585c",
+      "body": "תאונות הדרכים | הולך רגל נפגע מרכב הערב בכביש 1 סמוך לכפר אדומים. חובשים העניקו לו טיפול רפואי ופינו לבי\"ח הדסה הר הצופים, נער בן 13 במצב קשה עם חבלות בראש ובאגן.בנוסף, הולכת רגל נפגעה מרכב ברחוב הרב משה חלפון הכהן בנתיבות. חובשים העניקו לה טיפול רפואי ופינו לבי\"ח סורוקה, אישה כבת 65 במצב קשה עם חבלה רב מערכתית, מורדמת ומונשמת.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -566,31 +587,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "d2f2a89b52e8",
-      "title": "התקיפות באיראן נמשכות כל העת |",
-      "link": "https://hagizra.news/#msg-d2f2a89b52e8",
-      "body": "התקיפות באיראן נמשכות כל העת |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8fd46fc6a7a8.png"
+      "id": "37d590bc7a6a",
+      "title": "שכם | תיעוד ערבי מפעילות כוחותינו הצהריים בעיר.",
+      "link": "https://hagizra.news/#msg-37d590bc7a6a",
+      "body": "שכם | תיעוד ערבי מפעילות כוחותינו הצהריים בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f1a792ad3c78.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/412b058ccc5a.bin"
       ],
-      "time": null,
-      "channelName": null,
-      "position": 6,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
-    },
-    {
-      "id": "36eed466b6ba",
-      "title": "דיווח באיראן | איראן שיגרה כעת כטב\"מים לעבר ירדן, כווית, בחריין, עומאן ואיחוד האמירויות.",
-      "link": "https://hagizra.news/#msg-36eed466b6ba",
-      "body": "דיווח באיראן | איראן שיגרה כעת כטב\"מים לעבר ירדן, כווית, בחריין, עומאן ואיחוד האמירויות.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -599,13 +606,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "cb3432d189e9",
-      "title": "לא רק מטרות צבאיות | כתב ערוץ \"אל-מיאדין\" בטהרן: ההתקפות האמריקאיות אינן מכוונות רק לאתרים צבאיים, אלא מתמקדות באזורים ו",
-      "link": "https://hagizra.news/#msg-cb3432d189e9",
-      "body": "לא רק מטרות צבאיות | כתב ערוץ \"אל-מיאדין\" בטהרן: ההתקפות האמריקאיות אינן מכוונות רק לאתרים צבאיים, אלא מתמקדות באזורים ובמתקנים כלכליים.",
+      "id": "f47c7ef5c4e9",
+      "title": "השיגורים מהמפרץ | באיראן טוענים כי חלק מהתקיפות בדרום איראן בוצעו באמצעות טילים ששוגרו מכמה ממדינות המפרץ.",
+      "link": "https://hagizra.news/#msg-f47c7ef5c4e9",
+      "body": "השיגורים מהמפרץ | באיראן טוענים כי חלק מהתקיפות בדרום איראן בוצעו באמצעות טילים ששוגרו מכמה ממדינות המפרץ.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -614,13 +621,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "512e12ab278f",
-      "title": "הג’חנון התעורר | משרד החוץ של החות’ים: אנו מאשרים שוב שתימן עומדת לצד איראן ואנו נמצאים בקשר רציף.",
-      "link": "https://hagizra.news/#msg-512e12ab278f",
-      "body": "הג’חנון התעורר | משרד החוץ של החות’ים: אנו מאשרים שוב שתימן עומדת לצד איראן ואנו נמצאים בקשר רציף.",
+      "id": "706d57e2c94b",
+      "title": "מחיר המלחמה | מחירי הנפט זינקו ביותר מ-3% על רקע חידוש הלחימה במצרי הורמוז .",
+      "link": "https://hagizra.news/#msg-706d57e2c94b",
+      "body": "מחיר המלחמה | מחירי הנפט זינקו ביותר מ-3% על רקע חידוש הלחימה במצרי הורמוז .",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -629,13 +636,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "c8833e37ca00",
-      "title": "עוד מהתקיפות העוצמתיות | בסיס גולף באהוואז, שבו אוחסנו כמויות גדולות של אמצעי לחימה וטילי אוויר־קרקע, הותקף.לפי הדיווח, ",
-      "link": "https://hagizra.news/#msg-c8833e37ca00",
-      "body": "עוד מהתקיפות העוצמתיות | בסיס גולף באהוואז, שבו אוחסנו כמויות גדולות של אמצעי לחימה וטילי אוויר־קרקע, הותקף.לפי הדיווח, כלל אמצעי הלחימה והטילים שהיו במתחם הושמדו.",
+      "id": "426101481265",
+      "title": "איראן הלילה | הערים שהותקפו על ידי ארה\"ב בדרום איראן עד כה: קישםסיריקבנדר עבאסג'אסקבושהרחנדאבבנדר מהשארבהבהאןאנדימשקדזפו",
+      "link": "https://hagizra.news/#msg-426101481265",
+      "body": "איראן הלילה | הערים שהותקפו על ידי ארה\"ב בדרום איראן עד כה: קישםסיריקבנדר עבאסג'אסקבושהרחנדאבבנדר מהשארבהבהאןאנדימשקדזפולאהוואזאבאדאןכורמשאר",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -644,13 +651,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "24f0783927a1",
-      "title": "דיווח מעניין | דיווחים שמטוסים אמריקאים שהמריאו מבסיסים בפקיסטן משתתפים בתקיפות.כזכור, איראן התחייבה לתקוף כל מדינה שיצא",
-      "link": "https://hagizra.news/#msg-24f0783927a1",
-      "body": "דיווח מעניין | דיווחים שמטוסים אמריקאים שהמריאו מבסיסים בפקיסטן משתתפים בתקיפות.כזכור, איראן התחייבה לתקוף כל מדינה שיצאו ממנה תקיפות.",
+      "id": "c9bf4c5b83da",
+      "title": "לילה עצים | ניו יורק טיימס על פי בכיר אמריקאי: תצפו היום לגל גדול יותר של תקיפות אמריקאיות נגד איראן, בהשוואה לימים האחר",
+      "link": "https://hagizra.news/#msg-c9bf4c5b83da",
+      "body": "לילה עצים | ניו יורק טיימס על פי בכיר אמריקאי: תצפו היום לגל גדול יותר של תקיפות אמריקאיות נגד איראן, בהשוואה לימים האחרונים.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -659,13 +666,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "692c3c0489e4",
-      "title": "חשד לנסיון חדירה לישוב בשומרון | ראשוני - לפני זמן קצר זוהה חשוד ערבי מתגנב בציר הגישה ליישוב שא-נור.רבש\"ץ היישוב הגיע ל",
-      "link": "https://hagizra.news/#msg-692c3c0489e4",
-      "body": "חשד לנסיון חדירה לישוב בשומרון | ראשוני - לפני זמן קצר זוהה חשוד ערבי מתגנב בציר הגישה ליישוב שא-נור.רבש\"ץ היישוב הגיע למקום ועצר את החשוד.כוחות צה\"ל הוקפצו לצורך תיחקור החשוד וסריקות לשלילת הימצאותם של חשודים נוספים.לא הוכרז אביר לילה ג׳ נכון לעת עתה משיקולים מבצעיים. (אליה אביב)",
+      "id": "112a9c26d608",
+      "title": "מזרח התיכון בעוד לילה ססגוני | למעלה משעתיים של תקיפות עצימות באיראן.",
+      "link": "https://hagizra.news/#msg-112a9c26d608",
+      "body": "מזרח התיכון בעוד לילה ססגוני | למעלה משעתיים של תקיפות עצימות באיראן. בנוסף לעליית מדרגה דרסטית באיכות ובמיקומי התקיפות.",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -674,13 +681,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "ea295c02c0b1",
-      "title": "עוד תקיפות | מתקן המים הכבדים באראכ הותקף.",
-      "link": "https://hagizra.news/#msg-ea295c02c0b1",
-      "body": "עוד תקיפות | מתקן המים הכבדים באראכ הותקף. כזכור, המתקן הותקף גם בעם כלביא וגם בשאגת הארי.המעניין הוא שלטענת גורמי אופוזיציה איראנים לא מדובר בתקיפה אמריקאית.",
+      "id": "f10ac3ea1da8",
+      "title": "מעמיקים את התקיפות | סוכנות הידיעות מהר, מפי מושל מחוז מרכזי באיראן: האויב תקף אזורים מחוץ לעיר ח'נדאב שבמרכז איראן.",
+      "link": "https://hagizra.news/#msg-f10ac3ea1da8",
+      "body": "מעמיקים את התקיפות | סוכנות הידיעות מהר, מפי מושל מחוז מרכזי באיראן: האויב תקף אזורים מחוץ לעיר ח'נדאב שבמרכז איראן.",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -689,13 +696,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     },
     {
-      "id": "9b53c7f54712",
-      "title": "הלחימה במיצרי הורמוז | גורם צבאי ל-CNN: בשעה האחרונה, כוחות משמרות המהפכה ירו לעבר ספינות מסחריות שעברו במצרי הורמוז.",
-      "link": "https://hagizra.news/#msg-9b53c7f54712",
-      "body": "הלחימה במיצרי הורמוז | גורם צבאי ל-CNN: בשעה האחרונה, כוחות משמרות המהפכה ירו לעבר ספינות מסחריות שעברו במצרי הורמוז. מטוסים אמריקאים הצליחו להפיל טיל שיוט איראני ורחפן נפץ.",
+      "id": "8da686a1429c",
+      "title": "גל תקיפות נרחב🔥 | גם בדקות אלו ארה\"ב תוקפת מגוון יעדים בדרום איראן.",
+      "link": "https://hagizra.news/#msg-8da686a1429c",
+      "body": "גל תקיפות נרחב🔥 | גם בדקות אלו ארה\"ב תוקפת מגוון יעדים בדרום איראן.",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -704,7 +711,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T23:08:35.455Z"
+      "firstSeen": "2026-07-13T00:10:36.197Z"
     }
   ],
   "errors": [
