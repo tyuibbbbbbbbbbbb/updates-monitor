@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:16:04.244Z",
+  "generatedAt": "2026-07-13T23:16:39.699Z",
   "sources": [
     {
       "id": "blackcat",
@@ -34,7 +34,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -421,121 +421,10 @@
       "firstSeen": "2026-07-13T21:20:59.736Z"
     },
     {
-      "id": "9ac09528e0dc",
-      "title": "הלילה התחיל!",
-      "link": "https://hagizra.news/#msg-9ac09528e0dc",
-      "body": "הלילה התחיל! | פיקוד המרכז האמריקני: התחלנו לתקוף באיראן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/555451990c2b.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "6b07c1bcbf28",
-      "title": "אמירה דרמטית | טראמפ: אנחנו הולכים לחסל את הר פיקקס (הר המכוש מתכוננים לפלישה קרקעית?",
-      "link": "https://hagizra.news/#msg-6b07c1bcbf28",
-      "body": "אמירה דרמטית | טראמפ: אנחנו הולכים לחסל את הר פיקקס (הר המכוש מתכוננים לפלישה קרקעית? | תמיר מורג: יש שתי אפשרויות בלבד (למיטב ידיעתי) להשמיד את המתקן בפיקאקס: פצצה גרעינית טקטית מונחית B-61 (לא יקרה בחיים), או פעולה קרקעית. GBU-57 (הפצצות שהשמידו את פורדו) לא יעבדו בפיקאקס, המתקן עמוק מדי.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "2dac69de6b37",
-      "title": "אמירה דרמטית | טראמפ: אנחנו הולכים לחסל את הר פיקקס (הר המכוש).",
-      "link": "https://hagizra.news/#msg-2dac69de6b37",
-      "body": "אמירה דרמטית | טראמפ: אנחנו הולכים לחסל את הר פיקקס (הר המכוש). תגיד לאיראנים להיות מוכנים. תודיע להם שאנחנו באים, בסדר? אין שום דבר שהם יכולים לעשות בנידון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3c7f15a9ce13.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "5a8f0727c556",
-      "title": "ולכן כדאי לחתום שוב...",
-      "link": "https://hagizra.news/#msg-5a8f0727c556",
-      "body": "ולכן כדאי לחתום שוב... | טראמפ הגיע לתובנה מפתיעה: \"מבחינת האירנים - הסכמים נועדו כדי להפר אותם״.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "9ce5f02db39c",
-      "title": "העיקר לפני בחירות האמצע | טראמפ: חידוש הלחימה עלול להיערך בין שבועיים לשלוש.",
-      "link": "https://hagizra.news/#msg-9ce5f02db39c",
-      "body": "העיקר לפני בחירות האמצע | טראמפ: חידוש הלחימה עלול להיערך בין שבועיים לשלוש.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "0bdee3f8a1c2",
-      "title": "מתקן הגרעין המבוצר ביותר | טראמפ אומר כי ארה\"ב עשויה לתקוף בהר המכוש, האתר החשוד כאתר גרעין שלא נחשף מעולם לסוכנות הבין-",
-      "link": "https://hagizra.news/#msg-0bdee3f8a1c2",
-      "body": "מתקן הגרעין המבוצר ביותר | טראמפ אומר כי ארה\"ב עשויה לתקוף בהר המכוש, האתר החשוד כאתר גרעין שלא נחשף מעולם לסוכנות הבין-לאומית לאנרגיה אטומית: \"הר המכוש הוא יעד אפשרי, אתם יודעים, יעד אפשרי למכה אחת יפה, גדולה ושמנה ממש בדלת הקדמית. ואני חושב שאולי תראו את זה\".",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "b7cecfd73da2",
-      "title": "יש מחליפה לגרהאם | לבקשת טראמפ: מושל קרוליינה הדרומית הנרי מקמסטר הודיע כי דרלין גרהאם נורדון, אחותו של לינדזי גרהאם, תש",
-      "link": "https://hagizra.news/#msg-b7cecfd73da2",
-      "body": "יש מחליפה לגרהאם | לבקשת טראמפ: מושל קרוליינה הדרומית הנרי מקמסטר הודיע כי דרלין גרהאם נורדון, אחותו של לינדזי גרהאם, תשמש ממלאת מקום בתפקידו עד לסוף הקדנציה שלו בינואר.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "bc6d7f242d53",
-      "title": "גם אנחנו לא | טראמפ נשאל על מועמדים שאינם נתניהו בבחירות הקרובות: ״לא מכיר אותם״.",
-      "link": "https://hagizra.news/#msg-bc6d7f242d53",
-      "body": "גם אנחנו לא | טראמפ נשאל על מועמדים שאינם נתניהו בבחירות הקרובות: ״לא מכיר אותם״.",
+      "id": "e2279b63de41",
+      "title": "במקביל לתקיפות | דיווחים ראשוניים על שיגורים מאיראן למדינות המפרץ.",
+      "link": "https://hagizra.news/#msg-e2279b63de41",
+      "body": "במקביל לתקיפות | דיווחים ראשוניים על שיגורים מאיראן למדינות המפרץ.",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -544,28 +433,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
+      "firstSeen": "2026-07-13T22:16:04.244Z"
     },
     {
-      "id": "5a6f995f78ed",
-      "title": "”ביבי יודע מי הבוס” | טראמפ: אני מסתדר עם נתניהו היטב.",
-      "link": "https://hagizra.news/#msg-5a6f995f78ed",
-      "body": "”ביבי יודע מי הבוס” | טראמפ: אני מסתדר עם נתניהו היטב. לפעמים אני לא מסכים איתו ואני דואג להבהיר לו את זה.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T21:20:59.736Z"
-    },
-    {
-      "id": "e2279b63de41",
-      "title": "במקביל לתקיפות | דיווחים ראשוניים על שיגורים מאיראן למדינות המפרץ.",
-      "link": "https://hagizra.news/#msg-e2279b63de41",
-      "body": "במקביל לתקיפות | דיווחים ראשוניים על שיגורים מאיראן למדינות המפרץ.",
+      "id": "8472ac0d99c2",
+      "title": "לאחר הספין הפוליטי של זמיר | ועדת החוץ והביטחון אישרה כעת לקריאה שנייה ושלישית את הוראת השעה להותרת משך השירות הסדיר על ",
+      "link": "https://hagizra.news/#msg-8472ac0d99c2",
+      "body": "לאחר הספין הפוליטי של זמיר | ועדת החוץ והביטחון אישרה כעת לקריאה שנייה ושלישית את הוראת השעה להותרת משך השירות הסדיר על 32 חודשים. 8 תומכים, 1 מתנגדים. (הלל ביטון רוזן)",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -574,15 +448,34 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "18339ddef89d",
-      "title": "המתקפה הלילה באיראן |",
-      "link": "https://hagizra.news/#msg-18339ddef89d",
-      "body": "המתקפה הלילה באיראן |",
+      "id": "38a9028d0523",
+      "title": "ירי בשידור חי | ידידיה אפשטיין מדווח מהירי הבלתי פוסק בקרית ארבע.",
+      "link": "https://hagizra.news/#msg-38a9028d0523",
+      "body": "ירי בשידור חי | ידידיה אפשטיין מדווח מהירי הבלתי פוסק בקרית ארבע. שוב פעם תושבי קרית ארבע תחת מתקפת ירי של פל0טינאים שמבצעים ירי אחד נגד השני, רק בשבוע שעבר ילדים ירדו למקלטים בעקבות ריבי חמולות מהכפרים הסובבים את הישוב.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b3bd6637fcab.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e33204cdcb02.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "17d00edf7d60",
+      "title": "יתד של מחר |",
+      "link": "https://hagizra.news/#msg-17d00edf7d60",
+      "body": "יתד של מחר |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9a7bc6002a1f.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7ab09d12a1df.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -592,13 +485,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "7a444239096e",
-      "title": "יעד נוסף | פיצוצים כעת גם באי קאשם שבדרום איראן.",
-      "link": "https://hagizra.news/#msg-7a444239096e",
-      "body": "יעד נוסף | פיצוצים כעת גם באי קאשם שבדרום איראן.",
+      "id": "90fa165f532a",
+      "title": "ביתר עילית | לפני זמן קצר אירעה תאונה עצמית ברחוב כנסת יחזקאל בעיר, רכב התהפך במקום.",
+      "link": "https://hagizra.news/#msg-90fa165f532a",
+      "body": "ביתר עילית | לפני זמן קצר אירעה תאונה עצמית ברחוב כנסת יחזקאל בעיר, רכב התהפך במקום. כונני איחוד הצלה שהוזעקו למקום העניקו טיפול רפואי לפצוע אחד במצב קל.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f0a2513de811.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -607,13 +503,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "a2639d66ba96",
-      "title": "הודעת מערכת | הוספת אימוג'ים שליליים לפרסומות פוגעת ישירות באתר ובשותפים העסקיים שלנו.",
-      "link": "https://hagizra.news/#msg-a2639d66ba96",
-      "body": "הודעת מערכת | הוספת אימוג'ים שליליים לפרסומות פוגעת ישירות באתר ובשותפים העסקיים שלנו. נשמח אם תימנעו מכך כדי לעזור לנו להמשיך לספק לכם תוכן ללא עלות. תודה!.",
+      "id": "23e4f342ed41",
+      "title": "אחרי ההתעקשות של החרדים | הקואליציה החליטה להעלות את חוק הקפאת המעצרים ראשון לפני החוקים של הציונות הדתית.החוק יעלה בשעה",
+      "link": "https://hagizra.news/#msg-23e4f342ed41",
+      "body": "אחרי ההתעקשות של החרדים | הקואליציה החליטה להעלות את חוק הקפאת המעצרים ראשון לפני החוקים של הציונות הדתית.החוק יעלה בשעה 2:20 ולאחריו המליאה תצא להפסקה עד 9 בבוקר.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -622,13 +518,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "b2bc26a9c3ae",
-      "title": "הטעיה כרגיל | טראמפ: ״התקיפות יהיו מוגבלות, מחושבות ומתוכננות.",
-      "link": "https://hagizra.news/#msg-b2bc26a9c3ae",
-      "body": "הטעיה כרגיל | טראמפ: ״התקיפות יהיו מוגבלות, מחושבות ומתוכננות. כוחות קרקע לא ישתתפו בפעולות הללו נגד איראן״.",
+      "id": "1a1a77a61d8b",
+      "title": "האיראנים מאיימים על ישראל | בכיר איראני מאיים ישירות על ישראל: \"אם ארה״ב תממש את הבטחתה ותתקוף במרכז איראן את אתרי הגרעי",
+      "link": "https://hagizra.news/#msg-1a1a77a61d8b",
+      "body": "האיראנים מאיימים על ישראל | בכיר איראני מאיים ישירות על ישראל: \"אם ארה״ב תממש את הבטחתה ותתקוף במרכז איראן את אתרי הגרעין - הישות הציונית (ישראל) לא תישאר חסינה!\".",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -637,13 +533,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "8bdbfcc10ad1",
-      "title": "מתקן הגרעין המבוצר ביותר | טראמפ אומר כי ארה\"ב עשויה לתקוף בהר המכוש, האתר החשוד כאתר גרעין שלא נחשף מעולם לסוכנות הבין-",
-      "link": "https://hagizra.news/#msg-8bdbfcc10ad1",
-      "body": "מתקן הגרעין המבוצר ביותר | טראמפ אומר כי ארה\"ב עשויה לתקוף בהר המכוש, האתר החשוד כאתר גרעין שלא נחשף מעולם לסוכנות הבין-לאומית לאנרגיה אטומית: \"הר... פיצוץ של הוכחה | דורון קדוש: אם ארה״ב אכן תתקוף את המתקן בהר המכוש - זו תהיה עדות לכך שאיראן אכן מחזיקה שם מתקן גרעיני חשוב ומקדמת בו את תכנית הגרעין שלה.",
+      "id": "e88f3d94dfff",
+      "title": "עוד תקרית במפרץ | מרכז הסחר הימי הבריטי עדכן כי קיבל דיווח על תקרית ביטחונית במרחק של 40 מילים ימיים מצפון-מזרח לעומאן.",
+      "link": "https://hagizra.news/#msg-e88f3d94dfff",
+      "body": "עוד תקרית במפרץ | מרכז הסחר הימי הבריטי עדכן כי קיבל דיווח על תקרית ביטחונית במרחק של 40 מילים ימיים מצפון-מזרח לעומאן. אנשי הצוות לא נפגעו ולא דווח על נזק סביבתי.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e17bae656ad7.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -652,13 +551,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "ecb76222615c",
-      "title": "גרים בבית שמש?",
-      "link": "https://hagizra.news/#msg-ecb76222615c",
-      "body": "גרים בבית שמש? מתעניינים בחשיפות דרמטיות מהעיר? אתם חייבים להיות כאן ערוץ \"מיין שמש\" מביא לכם את החדשות והעדכונים הכי חמים בעיר, בזמן אמת ובאיכות... https://myshemesh.co.il/",
+      "id": "a51c1932249d",
+      "title": "דיווח ראשוני על פיצוצים באבו דאבי | גם בבחריין וכווית |",
+      "link": "https://hagizra.news/#msg-a51c1932249d",
+      "body": "דיווח ראשוני על פיצוצים באבו דאבי | גם בבחריין וכווית |",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -667,13 +566,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "85d4c2af55c0",
-      "title": "לראשונה מפברואר | פיצוצים נשמעים גם במשהד- העיר השנייה בגודלה באיראן.",
-      "link": "https://hagizra.news/#msg-85d4c2af55c0",
-      "body": "לראשונה מפברואר | פיצוצים נשמעים גם במשהד- העיר השנייה בגודלה באיראן.",
+      "id": "95312bc7e34b",
+      "title": "דיווח ראשוני על פיצוצים באבו דאבי |",
+      "link": "https://hagizra.news/#msg-95312bc7e34b",
+      "body": "דיווח ראשוני על פיצוצים באבו דאבי |",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -682,13 +581,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "89e41bbb911d",
-      "title": "דיווחים מאיראן | שישה פיצוצים נשמעו בערים קונאראק וצ'בהאר בדרום מזרח איראן.",
-      "link": "https://hagizra.news/#msg-89e41bbb911d",
-      "body": "דיווחים מאיראן | שישה פיצוצים נשמעו בערים קונאראק וצ'בהאר בדרום מזרח איראן.",
+      "id": "080dc7074048",
+      "title": "ושוב האיראנים מאיימים | עם הכיתוב ’אנו נתנקם בפושעים’.",
+      "link": "https://hagizra.news/#msg-080dc7074048",
+      "body": "ושוב האיראנים מאיימים | עם הכיתוב ’אנו נתנקם בפושעים’.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2e83b2d8c3b2.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -697,13 +599,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     },
     {
-      "id": "9f2a88dc3904",
-      "title": "לילה של תקיפות לפנינו💥 | דיווחים איראנים על פיצוצים עזים שנשמעו באי סיריק.",
-      "link": "https://hagizra.news/#msg-9f2a88dc3904",
-      "body": "לילה של תקיפות לפנינו💥 | דיווחים איראנים על פיצוצים עזים שנשמעו באי סיריק. ובבושהר.",
+      "id": "4c9eb43e0e68",
+      "title": "תתקפו כבר | משרד ההגנה של איחוד האמירויות: אנו מגנים את המתקפה הבוטה על שתי המכליות, המהווה הפרה חמורה וברורה של החוק הב",
+      "link": "https://hagizra.news/#msg-4c9eb43e0e68",
+      "body": "תתקפו כבר | משרד ההגנה של איחוד האמירויות: אנו מגנים את המתקפה הבוטה על שתי המכליות, המהווה הפרה חמורה וברורה של החוק הבינלאומי ומאיימת על ביטחון ויציבות האזור. אנו שומרים לעצמנו את מלוא הזכות להגיב להסלמה ולנקוט את כל הצעדים הנדרשים להגנת שטחנו.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -712,7 +614,112 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-13T22:16:04.244Z"
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "f1e6b2cb4690",
+      "title": "עוד תקיפות במיצרי הורמוז | משרד ההגנה של איחוד האמירויות: שתי המכליות הלאומיות, \"מומבסה\" ואל-באהיה הותקפו בשני טילי שיוט",
+      "link": "https://hagizra.news/#msg-f1e6b2cb4690",
+      "body": "עוד תקיפות במיצרי הורמוז | משרד ההגנה של איחוד האמירויות: שתי המכליות הלאומיות, \"מומבסה\" ואל-באהיה הותקפו בשני טילי שיוט איראניים במעבר הדרומי של ... יש נפגעים | משרד ההגנה של איחוד האמירויות: איש צוות אחד במכלית של איחוד האמירויות נהרג, ו־8 נוספים נפצעו, בהם 4 באורח קשה, בעקבות פגיעה משני טילים איראניים.",
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "95e82b121f5a",
+      "title": "דרמטי 💥💥 | **למרות שנראה בפומבי בשבוע שעבר: ארבעה בכירים איראנים אמרו לניו יורק טיימס כי הנשיא לשעבר מחמוד אחמדינז'אד ",
+      "link": "https://hagizra.news/#msg-95e82b121f5a",
+      "body": "דרמטי 💥💥 | **למרות שנראה בפומבי בשבוע שעבר: ארבעה בכירים איראנים אמרו לניו יורק טיימס כי הנשיא לשעבר מחמוד אחמדינז'אד נעצר ומוחזק במעצר בית ... לא חשבנו אחרת | לשכתו של נשיא איראן לשעבר מחמוד אחמדינז'אד מכחישה בתוקף את הדיווחים על גיוסו בידי המוסד. (גילי כהן)",
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "3d78cb356e01",
+      "title": "​דרדל’ה | טראמפ: המטרה שלנו בגל החדש של התקיפות ההרסניות נגד איראן היא להחליש את היכולת המבצעית שלהם במצר הורמוז.",
+      "link": "https://hagizra.news/#msg-3d78cb356e01",
+      "body": "​דרדל’ה | טראמפ: המטרה שלנו בגל החדש של התקיפות ההרסניות נגד איראן היא להחליש את היכולת המבצעית שלהם במצר הורמוז.",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "799318ad4790",
+      "title": "הכל אצלו זה כסף | טראמפ אמר לכתבים בחדר הסגלגל כי הוא רוצה שמדינות המפרץ יפצו את ארצות הברית על הסיוע בהגנה על מצר הורמו",
+      "link": "https://hagizra.news/#msg-799318ad4790",
+      "body": "הכל אצלו זה כסף | טראמפ אמר לכתבים בחדר הסגלגל כי הוא רוצה שמדינות המפרץ יפצו את ארצות הברית על הסיוע בהגנה על מצר הורמוז.",
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "6aa67dcffa42",
+      "title": "איך הוא עדיין מאמין בעסקה?!",
+      "link": "https://hagizra.news/#msg-6aa67dcffa42",
+      "body": "איך הוא עדיין מאמין בעסקה?! | טראמפ: פועלים לדיכוי היכולות ההתקפיות של איראן. אני חושב שאפשרי להגיע לעסקה.",
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "05fe854e4222",
+      "title": "עוד לא מורגש | טראמפ: השמדנו 92% מיכולת ייצור הכטב\"מים של איראן, וכן בין 80% ל־90% מיכולת ייצור הטילים שלה.",
+      "link": "https://hagizra.news/#msg-05fe854e4222",
+      "body": "עוד לא מורגש | טראמפ: השמדנו 92% מיכולת ייצור הכטב\"מים של איראן, וכן בין 80% ל־90% מיכולת ייצור הטילים שלה.",
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
+    },
+    {
+      "id": "db79b7b264f8",
+      "title": "עוד תקיפות במיצרי הורמוז | משרד ההגנה של איחוד האמירויות: שתי המכליות הלאומיות, \"מומבסה\" ואל-באהיה הותקפו בשני טילי שיוט",
+      "link": "https://hagizra.news/#msg-db79b7b264f8",
+      "body": "עוד תקיפות במיצרי הורמוז | משרד ההגנה של איחוד האמירויות: שתי המכליות הלאומיות, \"מומבסה\" ואל-באהיה הותקפו בשני טילי שיוט איראניים במעבר הדרומי של מצר הורמוז, במים הטריטוריאליים של עומאן.",
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-13T23:16:39.699Z"
     }
   ],
   "errors": [
