@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:18:24.731Z",
+  "generatedAt": "2026-07-17T03:43:16.012Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,24 +24,6 @@
     }
   ],
   "items": [
-    {
-      "id": "672429feafa9",
-      "title": "שמי בחריין |",
-      "link": "https://hagizra.news/#msg-672429feafa9",
-      "body": "שמי בחריין |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/95ae326ab8aa.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 0,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-06-28T01:42:50.025Z"
-    },
     {
       "id": "508c0250adad",
       "title": "בחיים הכל עובר",
@@ -397,46 +379,133 @@
       "firstSeen": "2026-07-16T21:19:47.163Z"
     },
     {
-      "id": "cee6a1ca00fd",
-      "title": "עוד מבושהר |",
-      "link": "https://hagizra.news/#msg-cee6a1ca00fd",
-      "body": "עוד מבושהר |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2a0a3141666f.bin"
-      ],
+      "id": "fc514a78f59b",
+      "title": "כל המציל נפש אחת מישראל | רמת גן: גבר כבן 60 התמוטט באוטובוס ברחוב ז'בוטינסקי בעיר, בוצע בו פעולות החייאה מתקדמות אשר כל",
+      "link": "https://hagizra.news/#msg-fc514a78f59b",
+      "body": "כל המציל נפש אחת מישראל | רמת גן: גבר כבן 60 התמוטט באוטובוס ברחוב ז'בוטינסקי בעיר, בוצע בו פעולות החייאה מתקדמות אשר כללו עיסויים, מתן סיוע נשימתי, ומתן שוקים חשמליים ממכשיר דפיברילטור, והוא פונה תוך כדי המשך פעולות החייאה לקבלת טיפול רפואי בחדר ההלם בבית החולים איכילוב בתל אביב.",
       "time": null,
       "channelName": null,
-      "position": 18,
+      "position": 0,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T22:22:00.087Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "26d416692308",
-      "title": "בושהר כעת |",
-      "link": "https://hagizra.news/#msg-26d416692308",
-      "body": "בושהר כעת |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/71530beaded4.bin"
-      ],
+      "id": "b8eeb8163790",
+      "title": "רועש | גם בדוחא נשמעו פיצוצים נוספים, ככל הנראה בשל מתקפה איראנית.",
+      "link": "https://hagizra.news/#msg-b8eeb8163790",
+      "body": "רועש | גם בדוחא נשמעו פיצוצים נוספים, ככל הנראה בשל מתקפה איראנית. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
-      "position": 19,
+      "position": 1,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T22:22:00.087Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "074ec9b882e0",
-      "title": "גם בחריין חטפו הלילה | צבא איראן טוען: \"תקפנו באמצעות כטב\"מים - מסוקים וכלי טיס בבסיס אמריקני בבחרין\" - כך על פי דיווח ב",
-      "link": "https://hagizra.news/#msg-074ec9b882e0",
-      "body": "גם בחריין חטפו הלילה | צבא איראן טוען: \"תקפנו באמצעות כטב\"מים - מסוקים וכלי טיס בבסיס אמריקני בבחרין\" - כך על פי דיווח בתסנים.",
+      "id": "d1081e22ddff",
+      "title": "עיר שומרת שבת | גם השבת צפויות להתקיים הפגנות סוערות בצפת בעקבות חילולי שבת בתחבורה הציבורית.",
+      "link": "https://hagizra.news/#msg-d1081e22ddff",
+      "body": "עיר שומרת שבת | גם השבת צפויות להתקיים הפגנות סוערות בצפת בעקבות חילולי שבת בתחבורה הציבורית. צפי להשתתפות המונים ששוהים בעיר לנופש.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T03:43:16.012Z"
+    },
+    {
+      "id": "4f9f6f16e387",
+      "title": "רמאללה | כוח צה''ל יורה רימוני גז במהלך פעילות בעיר הלילה.",
+      "link": "https://hagizra.news/#msg-4f9f6f16e387",
+      "body": "רמאללה | כוח צה''ל יורה רימוני גז במהלך פעילות בעיר הלילה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/73003084aa80.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T03:43:16.012Z"
+    },
+    {
+      "id": "9ab41839fd4e",
+      "title": "בפעם השניה הלילה | אזעקות נשמעות כעת בבחריין.",
+      "link": "https://hagizra.news/#msg-9ab41839fd4e",
+      "body": "בפעם השניה הלילה | אזעקות נשמעות כעת בבחריין. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T03:43:16.012Z"
+    },
+    {
+      "id": "a6e4788f6b1f",
+      "title": "זה מול זה | גם ח״כ משה סולומון ניסה לסחוט מיו״ר הקואליציה חוק שלו, אופיר כץ השיב לו: ״שהסיעה שלך תדרוש את זה.״ כזכור, סו",
+      "link": "https://hagizra.news/#msg-a6e4788f6b1f",
+      "body": "זה מול זה | גם ח״כ משה סולומון ניסה לסחוט מיו״ר הקואליציה חוק שלו, אופיר כץ השיב לו: ״שהסיעה שלך תדרוש את זה.״ כזכור, סולומון פרש מהציונות הדתית. (שלום שטיין)",
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T03:43:16.012Z"
+    },
+    {
+      "id": "274e1e9b5044",
+      "title": "עוד מהטרלול שהיה כאן במהלך הלילה | ח״כ אליהו רביבו איים שלא להצביע עם הקואליציה עד שיקבל את החוק להנצחת רבי נחמן מברסלב ",
+      "link": "https://hagizra.news/#msg-274e1e9b5044",
+      "body": "עוד מהטרלול שהיה כאן במהלך הלילה | ח״כ אליהו רביבו איים שלא להצביע עם הקואליציה עד שיקבל את החוק להנצחת רבי נחמן מברסלב בקריאה ראשונה, לבסוף ראש הממשלה נכנע והחוק אושר בקריאה הראשונה. (שטיין)",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T03:43:16.012Z"
+    },
+    {
+      "id": "1e48a2dea6d7",
+      "title": "זעם בליבו | רה\"מ נתניהו רתח על דרעי שנעדר מההצבעה.",
+      "link": "https://hagizra.news/#msg-1e48a2dea6d7",
+      "body": "זעם בליבו | רה\"מ נתניהו רתח על דרעי שנעדר מההצבעה. נתניהו פנה לחברי הכנסת של ש\"ס וסינן בזעם: הוא היה צריך להיות פה! הוא היה צריך להיות פה! שלחתי אליו מישהו במיוחד. (קסטל)",
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T03:43:16.012Z"
+    },
+    {
+      "id": "8436b48a7f28",
+      "title": "נזק | באיראן מדווחים: 5 גשרים הותקפו בסה\"כ בגל התקיפות האמריקני הלילה.",
+      "link": "https://hagizra.news/#msg-8436b48a7f28",
+      "body": "נזק | באיראן מדווחים: 5 גשרים הותקפו בסה\"כ בגל התקיפות האמריקני הלילה.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -445,13 +514,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "1a130637dc4a",
-      "title": "מאשרים | גורם אמריקני מאשר לוול סטריט ג׳ורנל: תקפנו גשרים במהלך גל התקיפות הלילה.",
-      "link": "https://hagizra.news/#msg-1a130637dc4a",
-      "body": "מאשרים | גורם אמריקני מאשר לוול סטריט ג׳ורנל: תקפנו גשרים במהלך גל התקיפות הלילה. תקיפת הגשרים נועדה בין היתר לנתק את האספקה לבנדר עבאס, שמשמשת את איראן לתקיפת ספינות.",
+      "id": "5aca8938cb23",
+      "title": "תאונות הדרכים | תאונה במעורבות 4 כלי רכב בכביש 471: נער בן 18 נפצע קשה וגבר בן 46 נפצע בינוני בתאונה שהתרחשה סמוך למחלף ",
+      "link": "https://hagizra.news/#msg-5aca8938cb23",
+      "body": "תאונות הדרכים | תאונה במעורבות 4 כלי רכב בכביש 471: נער בן 18 נפצע קשה וגבר בן 46 נפצע בינוני בתאונה שהתרחשה סמוך למחלף שעריה. צוותי רפואה שהגיעו לזירה טיפלו בהם ופינו אותם לבתי החולים שיבא ובילינסון. מצבו של הנער לא יציב והוא סובל מחבלות בגפיים.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -460,13 +529,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "89e828807fc3",
-      "title": "מי התערב בבחירות?",
-      "link": "https://hagizra.news/#msg-89e828807fc3",
-      "body": "מי התערב בבחירות? | בן יניב: בעוד כשעתיים תחת ההצהרה המיוחדת של הנשיא טראמפ לאומה האמריקאית בעניין התערבות זרה בבחירות 2020. רשתות הענק הארציות NBC ו-ABC הודיעו כי הן מסרבות להעביר את האירוע בשידור חי ומלא.",
+      "id": "600ffbbe0e04",
+      "title": "ג'נין | כוח צה''ל הלילה בפעילות בכפרי המרחב.",
+      "link": "https://hagizra.news/#msg-600ffbbe0e04",
+      "body": "ג'נין | כוח צה''ל הלילה בפעילות בכפרי המרחב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/73593acead16.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -475,15 +547,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "bd9f95759100",
-      "title": "חלת פרידה | הכנסת מחלקת לחכי\"ם וליועצים חלות לשבת מחוץ למליאה - בלילה (אולי) האחרון של הכנסת ה-25.",
-      "link": "https://hagizra.news/#msg-bd9f95759100",
-      "body": "חלת פרידה | הכנסת מחלקת לחכי\"ם וליועצים חלות לשבת מחוץ למליאה - בלילה (אולי) האחרון של הכנסת ה-25.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c91dfe63d8b5.jpg"
+      "id": "c64497b8749a",
+      "title": "שכם | פעילות כוח צה''ל הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-c64497b8749a",
+      "body": "שכם | פעילות כוח צה''ל הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/47db50e6640b.bin"
       ],
       "time": null,
       "channelName": null,
@@ -493,13 +565,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "875fd8f039e1",
-      "title": "שר לביטחון לאומי - ערבי?!",
-      "link": "https://hagizra.news/#msg-875fd8f039e1",
-      "body": "שר לביטחון לאומי - ערבי?! | מנסור עבאס: ״ברשותנו תוכנית למאבק בפשיעה ובאלימות בחברה הערבית, ואנו נכפה את התוכנית הזאת על הממשלה הבאה. אנחנו נהיה אלה שיקבעו מי יהיה השר לביטחון לאומי הבא״.",
+      "id": "adc3357fbcef",
+      "title": "אש | הבסיס האמריקאי בכווית עדיין בוער.",
+      "link": "https://hagizra.news/#msg-adc3357fbcef",
+      "body": "אש | הבסיס האמריקאי בכווית עדיין בוער.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/368fbc10bfd0.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -508,16 +583,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "845d1b4831e3",
-      "title": "כווית תחת מתקפה קשה |",
-      "link": "https://hagizra.news/#msg-845d1b4831e3",
-      "body": "כווית תחת מתקפה קשה |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7d1202801094.bin"
-      ],
+      "id": "a67b8091a22d",
+      "title": "גניבה דיגיטלית | במהלך נאומו טען הנשיא כי סין גנבה פרטים על 220 מיליון מצבעים אמריקניים.",
+      "link": "https://hagizra.news/#msg-a67b8091a22d",
+      "body": "גניבה דיגיטלית | במהלך נאומו טען הנשיא כי סין גנבה פרטים על 220 מיליון מצבעים אמריקניים. הוא האשים גורמי מודיעין בארה\"ב ש\"עבדו כדי להמעיט בהיקף ההתערבות המרושעת של סין\".",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -526,16 +598,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "517224a69072",
-      "title": "רצועת עזה | מסוק קרב תקף באופן ממוקד במערב העיר עזה.",
-      "link": "https://hagizra.news/#msg-517224a69072",
-      "body": "רצועת עזה | מסוק קרב תקף באופן ממוקד במערב העיר עזה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/edee340c3721.jpg"
-      ],
+      "id": "ab6f9631ba31",
+      "title": "בקטאר מדווחים | ילד נפצע מיירוט מתקפת הטילים האיראנית.",
+      "link": "https://hagizra.news/#msg-ab6f9631ba31",
+      "body": "בקטאר מדווחים | ילד נפצע מיירוט מתקפת הטילים האיראנית.",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -544,16 +613,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "92d2443e3793",
-      "title": "עוד תיעוד | סנטקום הודיעה על ידי שידור סרטון שהנחתים האמריקאים תפסו אחר הצהריים את מכלית הנפט M/T Wen שהובילה נפט איראני",
-      "link": "https://hagizra.news/#msg-92d2443e3793",
-      "body": "עוד תיעוד | סנטקום הודיעה על ידי שידור סרטון שהנחתים האמריקאים תפסו אחר הצהריים את מכלית הנפט M/T Wen שהובילה נפט איראני בים הערבי.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9f724c6b4d78.bin"
-      ],
+      "id": "12a18995802d",
+      "title": "עשרות מטרות צבאיות הופצצו | צבא ארה\"ב הודיע כי סיים את גל התקיפות הנוכחי באיראן.",
+      "link": "https://hagizra.news/#msg-12a18995802d",
+      "body": "עשרות מטרות צבאיות הופצצו | צבא ארה\"ב הודיע כי סיים את גל התקיפות הנוכחי באיראן.",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -562,16 +628,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "102b907d66a2",
-      "title": "תיעוד מהשתלטות על ספינה | פיקוד מרכז האמריקאי משחרר תמונות מהשתלטות של חיל הנחתים האמריקאי על ספינת סוחר איראנית שניסתה ",
-      "link": "https://hagizra.news/#msg-102b907d66a2",
-      "body": "תיעוד מהשתלטות על ספינה | פיקוד מרכז האמריקאי משחרר תמונות מהשתלטות של חיל הנחתים האמריקאי על ספינת סוחר איראנית שניסתה לשבור את המצור.מתחילת המצור חיל הנחתים הפנה 3 ספינות והשבית נוספת, לאחר שניסו לעגון בנמלים באיראן.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/73f4394c44ae.bin"
-      ],
+      "id": "948fb01b80b2",
+      "title": "עוד מטראמפ | ״הערכות מודיעין מאשרות כי לרוסיה, סין, איראן וצפון קוריאה יש את היכולת לפרוץ למערכת הבחירות שלנו.״הווה אומר",
+      "link": "https://hagizra.news/#msg-948fb01b80b2",
+      "body": "עוד מטראמפ | ״הערכות מודיעין מאשרות כי לרוסיה, סין, איראן וצפון קוריאה יש את היכולת לפרוץ למערכת הבחירות שלנו.״הווה אומר, שבבחירות הקרובות בארה”ב בבחירות האמצע בנוב׳, יש להן היכולת לפרוץ למערכות הבחירות של באמריקאים ויש להם אפשרות לחבל בבחירות.",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -580,13 +643,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "f431bea56bc5",
-      "title": "ושוב פיצוצים בכווית |",
-      "link": "https://hagizra.news/#msg-f431bea56bc5",
-      "body": "ושוב פיצוצים בכווית |",
+      "id": "2603b18bba4a",
+      "title": "טראמפ באמירה דרמטית | ״סין התערבה מעשית בהליך הבחירות ב-2020.",
+      "link": "https://hagizra.news/#msg-2603b18bba4a",
+      "body": "טראמפ באמירה דרמטית | ״סין התערבה מעשית בהליך הבחירות ב-2020. היא הקימה יחידה מיוחדת שניצלה נתונים של בוחרים אמריקאים שנגנבו, ורתמה אותם לפעולות חתרניות.״",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -595,100 +658,37 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-16T23:18:25.628Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "50faa1dcaa66",
-      "title": "הצעת חוק לפיזור הכנסת | הכנסת מתחילה כעת להצביע על החוק למימון מפלגות שכולל בתוכו את הסעיף של החוק לפיזור הכנסת.",
-      "link": "https://hagizra.news/#msg-50faa1dcaa66",
-      "body": "הצעת חוק לפיזור הכנסת | הכנסת מתחילה כעת להצביע על החוק למימון מפלגות שכולל בתוכו את הסעיף של החוק לפיזור הכנסת. מכיוון שהחוק צריך לעבור בתמיכה של לפחות 61 ח”כים, נתניהו הוזעק למליאה והוא נכנס כעת למליאה להצביע בעד החוק. (קובי ישראל)",
+      "id": "1dc6506c6991",
+      "title": "ההתערבות בבחירות בארה”ב | טראמפ: ״סין השיגה במהלך הבחירות בשנת 2020 מידע רגיש על כ-20 מיליון אמריקאים.״",
+      "link": "https://hagizra.news/#msg-1dc6506c6991",
+      "body": "ההתערבות בבחירות בארה”ב | טראמפ: ״סין השיגה במהלך הבחירות בשנת 2020 מידע רגיש על כ-20 מיליון אמריקאים.״",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T00:18:24.731Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     },
     {
-      "id": "3140f1641fa0",
-      "title": "ירדן |",
-      "link": "https://hagizra.news/#msg-3140f1641fa0",
-      "body": "ירדן |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2b92548c1fc2.bin"
-      ],
+      "id": "e98a47bb9d31",
+      "title": "ניצחון מוחלט?",
+      "link": "https://hagizra.news/#msg-e98a47bb9d31",
+      "body": "ניצחון מוחלט? | טראמפ: ״אנחנו משיגים ניצחונות גדולים בכל הנוגע לאיראן, ואתם תראו את תוצאות המאמץ הזה בקרוב מאוד.״",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T00:18:24.731Z"
-    },
-    {
-      "id": "772b0d589eb4",
-      "title": "פגרת הבחירות | במהלך הפגרה הממשלה תוכל להמשיך לקדם הצעות חוק גם בקריאה ראשונה, שנייה ושלישית, אך כינוס רוב ועדות הכנסת י",
-      "link": "https://hagizra.news/#msg-772b0d589eb4",
-      "body": "פגרת הבחירות | במהלך הפגרה הממשלה תוכל להמשיך לקדם הצעות חוק גם בקריאה ראשונה, שנייה ושלישית, אך כינוס רוב ועדות הכנסת יותנה באישור ועדת ההסכמות של הקואליציה והאופוזיציה. במקביל, ועדת הכספים תוכל לקיים דיון אחד בנושא העברות תקציביות במהלך השבועיים הראשונים של הפגרה ללא צורך באישור ועדת ההסכמות. (קובי ישראל)",
-      "time": null,
-      "channelName": null,
-      "position": 4,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T00:18:24.731Z"
-    },
-    {
-      "id": "79e3bdc511d9",
-      "title": "הכנסת יוצאת לפגרת בחירות | ועדת הכנסת אישרה את נוהל הפגרה, שתחל מחר בבוקר ותימשך עד לכינון הכנסת ה־26.",
-      "link": "https://hagizra.news/#msg-79e3bdc511d9",
-      "body": "הכנסת יוצאת לפגרת בחירות | ועדת הכנסת אישרה את נוהל הפגרה, שתחל מחר בבוקר ותימשך עד לכינון הכנסת ה־26. בתקופה זו הקואליציה והאופוזיציה יקיימו ועדת הסכמות בראשות ח”כ אופיר כץ וח”כ מירב בן ארי, שתאשר את כינוס ועדות הכנסת. הממשלה תוכל להעלות הצעות חוק למליאה, ו־25 חברי כנסת יוכלו לדרוש דיון בהצעה לסדר. בנוסף, ועדת הכספים תוכל להתכנס ללא אישור ועדת ההסכמות במהלך השבועיים הקרובים. (קובי ישראל)",
-      "time": null,
-      "channelName": null,
-      "position": 5,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T00:18:24.731Z"
-    },
-    {
-      "id": "676febbe35d5",
-      "title": "מתרחב | פיצוצים נוספים כעת בכווית ובירדן.",
-      "link": "https://hagizra.news/#msg-676febbe35d5",
-      "body": "מתרחב | פיצוצים נוספים כעת בכווית ובירדן.",
-      "time": null,
-      "channelName": null,
-      "position": 6,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T00:18:24.731Z"
-    },
-    {
-      "id": "9aa531abfc1f",
-      "title": "שוב | פיצוצים כעת בבחריין.",
-      "link": "https://hagizra.news/#msg-9aa531abfc1f",
-      "body": "שוב | פיצוצים כעת בבחריין.",
-      "time": null,
-      "channelName": null,
-      "position": 7,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T00:18:24.731Z"
+      "firstSeen": "2026-07-17T03:43:16.012Z"
     }
   ],
   "errors": [
