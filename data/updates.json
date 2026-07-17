@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T14:25:48.895Z",
+  "generatedAt": "2026-07-17T15:54:45.826Z",
   "sources": [
     {
       "id": "blackcat",
@@ -41,24 +41,6 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-07-04T21:41:26.509Z"
-    },
-    {
-      "id": "8d80b1c1919b",
-      "title": "🎯",
-      "link": "https://hagizra.news/#msg-8d80b1c1919b",
-      "body": "🎯",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a741d1276f27.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T18:45:40.145Z"
     },
     {
       "id": "dca94d691c1b",
@@ -397,10 +379,10 @@
       "firstSeen": "2026-07-17T11:48:33.075Z"
     },
     {
-      "id": "8331d92b717d",
-      "title": "לא רק הרוגים | דיווח על עוד 19 פצועים בתקיפה.",
-      "link": "https://hagizra.news/#msg-8331d92b717d",
-      "body": "לא רק הרוגים | דיווח על עוד 19 פצועים בתקיפה.",
+      "id": "d73d76754e27",
+      "title": "משחק בקוביא | הנשיא טראמפ: \"איראן מפסידה בצורה קשה מאוד, אנחנו מחזיקים בכל הקלפים\".",
+      "link": "https://hagizra.news/#msg-d73d76754e27",
+      "body": "משחק בקוביא | הנשיא טראמפ: \"איראן מפסידה בצורה קשה מאוד, אנחנו מחזיקים בכל הקלפים\".",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -409,13 +391,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "8030e0b45212",
-      "title": "קיבלו שכל | צה\"ל תקף בהלווית טרור שהתקיימה ברצועת עזה ובתקיפה נהרגו שישה מחבלים.",
-      "link": "https://hagizra.news/#msg-8030e0b45212",
-      "body": "קיבלו שכל | צה\"ל תקף בהלווית טרור שהתקיימה ברצועת עזה ובתקיפה נהרגו שישה מחבלים. עולה | כעת מדווח על 7 הרוגים בתקיפה.",
+      "id": "33ee2201e8fe",
+      "title": "רעש לבן | עימות בין חמולות בחלב - סוריה, כוחות ה'ביטחון' המקומיים לא מצליחים להשתלט על האירוע.",
+      "link": "https://hagizra.news/#msg-33ee2201e8fe",
+      "body": "רעש לבן | עימות בין חמולות בחלב - סוריה, כוחות ה'ביטחון' המקומיים לא מצליחים להשתלט על האירוע.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b5b408ab0752.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 1,
@@ -424,16 +409,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "bb2a70d0b05c",
-      "title": "ערוץ 13 הצטרפ/ה | הטלוויזיה התימנית מפרסמת תמונות מהפגנה של מליון איש נגד ישראל בצנעא.",
-      "link": "https://hagizra.news/#msg-bb2a70d0b05c",
-      "body": "ערוץ 13 הצטרפ/ה | הטלוויזיה התימנית מפרסמת תמונות מהפגנה של מליון איש נגד ישראל בצנעא.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/672e5b14508d.png"
-      ],
+      "id": "f7c06e4f4185",
+      "title": "באיראן מדווחים | מכלית נפט שעגנה באי חארג נפגעה שוב מטילים אמריקניים.",
+      "link": "https://hagizra.news/#msg-f7c06e4f4185",
+      "body": "באיראן מדווחים | מכלית נפט שעגנה באי חארג נפגעה שוב מטילים אמריקניים. (ישראל היום)",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -442,13 +424,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "7a3534169e15",
-      "title": "אויב | נשיא לבנון עאון הדגיש במהלך שיחתו עם טראמפ כי הפעילות הישראלית היא הגורמת הישירה להמשך המתיחות בלבנון ובסוריה.",
-      "link": "https://hagizra.news/#msg-7a3534169e15",
-      "body": "אויב | נשיא לבנון עאון הדגיש במהלך שיחתו עם טראמפ כי הפעילות הישראלית היא הגורמת הישירה להמשך המתיחות בלבנון ובסוריה.",
+      "id": "85789824c009",
+      "title": "הרס | תיעוד נוסף של מסילת הרכבת וגשר שהותקפו על ידי ארה\"ב הלילה באזור בנדר עבאס בדרום איראן.",
+      "link": "https://hagizra.news/#msg-85789824c009",
+      "body": "הרס | תיעוד נוסף של מסילת הרכבת וגשר שהותקפו על ידי ארה\"ב הלילה באזור בנדר עבאס בדרום איראן. המלצה לאמריקאים: לתקוף את הגשר בכמה נקודות לכל אורכו ולא רק בנקודה אחת - האיראנים יודעים לתקן מהר...!(אבו עלי)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8e29097d6e7d.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -457,13 +442,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "eae06d640785",
-      "title": "קיבלו שכל | צה\"ל תקף בהלווית טרור שהתקיימה ברצועת עזה ובתקיפה נהרגו שישה מחבלים.",
-      "link": "https://hagizra.news/#msg-eae06d640785",
-      "body": "קיבלו שכל | צה\"ל תקף בהלווית טרור שהתקיימה ברצועת עזה ובתקיפה נהרגו שישה מחבלים.",
+      "id": "dca8faef923c",
+      "title": "ממעוף הציפור | ההרס בבינת ג'בייל היום.",
+      "link": "https://hagizra.news/#msg-dca8faef923c",
+      "body": "ממעוף הציפור | ההרס בבינת ג'בייל היום. (ניצן שפירא)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7976857d2484.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -472,16 +460,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "29183db1ca2f",
-      "title": "נוסעים בכביש 6?",
-      "link": "https://hagizra.news/#msg-29183db1ca2f",
-      "body": "נוסעים בכביש 6? | מערכת הביטחון מעמידה את חייכם כנראה בסכנה. (הלל ביטון רוזן)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1d9078d7958b.bin"
-      ],
+      "id": "c6cfc40b639e",
+      "title": "נפילה מגובה | גבר בן 37 נפצע בינוני לאחר שנפל מגובה ברמלה.",
+      "link": "https://hagizra.news/#msg-c6cfc40b639e",
+      "body": "נפילה מגובה | גבר בן 37 נפצע בינוני לאחר שנפל מגובה ברמלה. חובשים ופרמדיקים של מד\"א העניקו לו טיפול רפואי ופינו אותו לבית החולים שמיר אסף הרופא עם חבלות בגפיים.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -490,13 +475,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "60b6118f0b48",
-      "title": "לחסל ללא ספק | עימותים פרצו במהלך פעילות בעיירה \"סילוואד\" מצפון-מזרח לרמאללה, כוחותינו מגיבים באש חיה לעבר המתפרעים.",
-      "link": "https://hagizra.news/#msg-60b6118f0b48",
-      "body": "לחסל ללא ספק | עימותים פרצו במהלך פעילות בעיירה \"סילוואד\" מצפון-מזרח לרמאללה, כוחותינו מגיבים באש חיה לעבר המתפרעים.",
+      "id": "9f1f009d921a",
+      "title": "מאיימים על קווים | מקורות סורים: ילדים סורים חוסמים כביש כדי למנוע פלישות צה\"ל באזור הכפר אל-ארדה באזור הכפרי של דרעא.",
+      "link": "https://hagizra.news/#msg-9f1f009d921a",
+      "body": "מאיימים על קווים | מקורות סורים: ילדים סורים חוסמים כביש כדי למנוע פלישות צה\"ל באזור הכפר אל-ארדה באזור הכפרי של דרעא.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/77995ed26548.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -505,15 +493,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "77773f2f5f2b",
-      "title": "לבנון | כלי תקשורת מקומיים פרסמו תיעודים של פיצוצים מבוקרים שכוחות צה\"ל מבצעים בעיירה בינת ג'בייל שבתחומי רצועת הביטחון ",
-      "link": "https://hagizra.news/#msg-77773f2f5f2b",
-      "body": "לבנון | כלי תקשורת מקומיים פרסמו תיעודים של פיצוצים מבוקרים שכוחות צה\"ל מבצעים בעיירה בינת ג'בייל שבתחומי רצועת הביטחון בדרום המדינה.",
+      "id": "7ae17430082a",
+      "title": "שפל של 3 שבועות בתעבורה הימית במיצר הורמוז | אתמול חצו את הורמוז רק 8 כלי שיט, לעומת 15 יום קודם לכן.",
+      "link": "https://hagizra.news/#msg-7ae17430082a",
+      "body": "שפל של 3 שבועות בתעבורה הימית במיצר הורמוז | אתמול חצו את הורמוז רק 8 כלי שיט, לעומת 15 יום קודם לכן. כל כלי השיט עברו דרך הנתיב האיראני שמאושר ע״י משמרות המהפכה ואף כלי שיט לא חצה דרך הנתיב הקרוב לעומאן שבו איראן מאיימת לתקוף כלי שיט.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/716306b17065.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5b769d363335.bin"
       ],
       "time": null,
       "channelName": null,
@@ -523,13 +511,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "002a950ba075",
-      "title": "תקלה חריגה בלונדון | נוסעי 'ישראייר' הורדו אתמול מהמטוס, אחר שרכב שירות הגורר את המטוס בשדה התעופה, פגע במטוס וגרם לנזק.",
-      "link": "https://hagizra.news/#msg-002a950ba075",
-      "body": "תקלה חריגה בלונדון | נוסעי 'ישראייר' הורדו אתמול מהמטוס, אחר שרכב שירות הגורר את המטוס בשדה התעופה, פגע במטוס וגרם לנזק. שומרי השבת נתקעו שבת בלונדון.",
+      "id": "56ce609a7e94",
+      "title": "נמנע אסון | יאיר לוי: אמש הגיע דיווח למשטרת ירושלים על צעיר שהודיע שעושה דרכו לירושלים בכדי להרוג את המקובל הרב מורגנשטר",
+      "link": "https://hagizra.news/#msg-56ce609a7e94",
+      "body": "נמנע אסון | יאיר לוי: אמש הגיע דיווח למשטרת ירושלים על צעיר שהודיע שעושה דרכו לירושלים בכדי להרוג את המקובל הרב מורגנשטרן, אנשי המודיעין במשטרת ירושלים עלו במהירות על זהותו של הצעיר, ביצעו איכון סלולרי למכשירו, שהצביע על הימצאותו בנס ציונה כוחות משטרה הגיעו למקום והצעיר נלקח למעצר.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -538,15 +526,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "654c5532b393",
-      "title": "מברך | הרב אליקים לבנון רב השומרון פרסם בעקבות אישור חוק הכשרות החדש - \"מדובר במהפכה של ממש\" .הרב הודה על השיתוף פעולה ב",
-      "link": "https://hagizra.news/#msg-654c5532b393",
-      "body": "מברך | הרב אליקים לבנון רב השומרון פרסם בעקבות אישור חוק הכשרות החדש - \"מדובר במהפכה של ממש\" .הרב הודה על השיתוף פעולה בין נציגי הציונות הדתית לשס \"השר סמוטריץ ח\"כ אוהד טל ומנכל משרד לשירותי דת יהודה אבידן\". החוק החדש מבטל את הכשלים של רפורמת מתן כהנא וקובע נהלים אחידים בכשרות ומסדיר את מעמד משגיח הכשרות.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e9d2b2a26468.bin"
+      "id": "7489cdd1e661",
+      "title": "לא בלתי מעניין | שורה ארוכה של ח״כים מהאופוזיציה שנכחו במליאת הכנסת ולא התנגדו להארכת השירות הסדיר בצה״ל חלקם בשל דרישת ",
+      "link": "https://hagizra.news/#msg-7489cdd1e661",
+      "body": "לא בלתי מעניין | שורה ארוכה של ח״כים מהאופוזיציה שנכחו במליאת הכנסת ולא התנגדו להארכת השירות הסדיר בצה״ל חלקם בשל דרישת מערכת הביטחון. (שמש)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/58e0b03a4eb4.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -556,15 +544,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "ae86b215e007",
-      "title": "כוויית - איראן | צבא כוויית מפרסם תמונות מביקור שערך רמטכ\"ל צבא כוויית, ח'אלד דרג' סעד א-שריעאן, ביחד עם סגנו בבית-חולים",
-      "link": "https://hagizra.news/#msg-ae86b215e007",
-      "body": "כוויית - איראן | צבא כוויית מפרסם תמונות מביקור שערך רמטכ\"ל צבא כוויית, ח'אלד דרג' סעד א-שריעאן, ביחד עם סגנו בבית-חולים בו אושפזו חיילים מצבא כוויית שנפצעו הבוקר בעקבות פגיעות של \"כטב\"מים עויינים\" לעבר מתקנים ובסיסים של צבא כוויית. (11)",
+      "id": "60fdf0c529cc",
+      "title": "נחמד | צה\"ל מפוצץ בתים סמוך לחאן יונס.",
+      "link": "https://hagizra.news/#msg-60fdf0c529cc",
+      "body": "נחמד | צה\"ל מפוצץ בתים סמוך לחאן יונס.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3b555f636783.jpg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/90e215414f4d.png"
       ],
       "time": null,
       "channelName": null,
@@ -574,15 +562,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "0187ee0064e7",
-      "title": "כלי מלחמה | אתר החדשות \"Lebanon debate\" מפרסם תמונה המתעדת לטענתו רכב משוריין מונע מרחוק (\"רובוט\") של צה\"ל (המשמש במקרים",
-      "link": "https://hagizra.news/#msg-0187ee0064e7",
-      "body": "כלי מלחמה | אתר החדשות \"Lebanon debate\" מפרסם תמונה המתעדת לטענתו רכב משוריין מונע מרחוק (\"רובוט\") של צה\"ל (המשמש במקרים רבים לביצוע פיצוצים מבוקרים) שהתקרב למחסום של צבא לבנון בכפר אל-מנסורי שבגזרה המערבית. לפי הדיווח הרכב שהה בקרבת המחסום כחצי שעה עד שחזר כלעומת שבא. (11)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/413310928dff.jpg"
+      "id": "6045dba47350",
+      "title": "מטריד ממש | מפקדי צבא טורקיים מבקרים בסומליה ומחזקים את הצבא המקומי.",
+      "link": "https://hagizra.news/#msg-6045dba47350",
+      "body": "מטריד ממש | מפקדי צבא טורקיים מבקרים בסומליה ומחזקים את הצבא המקומי.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/addaf099fff3.bin"
       ],
       "time": null,
       "channelName": null,
@@ -592,15 +580,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "d41602a232af",
-      "title": "לבנון | מקורות לבנוניים מדווחים כי צה\"ל תקף באש ארטילרית את שיפולי רכס עלי טאהר החולש על העיר נבטייה.",
-      "link": "https://hagizra.news/#msg-d41602a232af",
-      "body": "לבנון | מקורות לבנוניים מדווחים כי צה\"ל תקף באש ארטילרית את שיפולי רכס עלי טאהר החולש על העיר נבטייה. (11)",
+      "id": "746b370c812c",
+      "title": "בינת ג'ביל | כוחותינו ממשיכים לפוצץ בתים ותשתיות טרור.בערוצי האויב זועמים על ראש ממשלת לבנון ונשיא לבנון על שהם מאפשרים ",
+      "link": "https://hagizra.news/#msg-746b370c812c",
+      "body": "בינת ג'ביל | כוחותינו ממשיכים לפוצץ בתים ותשתיות טרור.בערוצי האויב זועמים על ראש ממשלת לבנון ונשיא לבנון על שהם מאפשרים לצה\"ל לעשות ככל העולה על רוחו בדרום המדינה.",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/add2acccd865.jpg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/206c5d39f61c.png"
       ],
       "time": null,
       "channelName": null,
@@ -610,13 +598,28 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "921ff3aea09c",
-      "title": "זה לא ציפור?",
-      "link": "https://hagizra.news/#msg-921ff3aea09c",
-      "body": "זה לא ציפור? | דובר צה\"ל: לפני זמן קצר, שוגר מיירט לעבר מטרת שווא בדרום רצועת עזה. לא הופעלו התרעות על פי מדיניות. אין חשש לאירוע ביטחוני, האירוע מתוחקר.",
+      "id": "442b6e0418bc",
+      "title": "דרום מקסיקו | רעידת אדמה בעוצמה 7.4 הכתה בחופי דרום מקסיקו, סמוך לגבול גואטמלה.",
+      "link": "https://hagizra.news/#msg-442b6e0418bc",
+      "body": "דרום מקסיקו | רעידת אדמה בעוצמה 7.4 הכתה בחופי דרום מקסיקו, סמוך לגבול גואטמלה. פורסמה אזהרת צונאמי אזורית.",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-17T15:54:45.826Z"
+    },
+    {
+      "id": "15577c36bffd",
+      "title": "המצב באיראן | אחרי התקיפות אתמול נגד גשרים ומסילות רכבת באזור בנדר עבאס בדרום איראן, נראה כי צבא ארה\"ב מתמקד שוב בתקיפת ",
+      "link": "https://hagizra.news/#msg-15577c36bffd",
+      "body": "המצב באיראן | אחרי התקיפות אתמול נגד גשרים ומסילות רכבת באזור בנדר עבאס בדרום איראן, נראה כי צבא ארה\"ב מתמקד שוב בתקיפת ערוצי האנרגיה של המשטר האיראני, כאשר בהמשך לחסימת מיצרי הורמוז, הם גם תוקפים את כל הגשרים ומסילות הרכבת המובילים לעיר הנמל העיקרית בנדר עבאס ולמעשה מנתקים אותה כליל (לפחות למספר מכובד של שעות) ממערכת הכבישים, מה שגורם למאות עד אלפי משאיות המובילות מיכלי נפט לשוב על עקבותם ולנסות ",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -625,15 +628,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "0daa02d1118a",
-      "title": "אייזנקוט | גם מנסור שמח.",
-      "link": "https://hagizra.news/#msg-0daa02d1118a",
-      "body": "אייזנקוט | גם מנסור שמח. נתניהו ממשיך עם ההפרד ומשול. (ינון מגל)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c40f56160dc0.jpg"
+      "id": "99eec92b1ae5",
+      "title": "נשיונל ג'יאוגרפיק 🫠 | הטלוויזיה האיראנית בתמונות ניו בורן לגשרים שהופצצו אמש בדרום איראן.",
+      "link": "https://hagizra.news/#msg-99eec92b1ae5",
+      "body": "נשיונל ג'יאוגרפיק 🫠 | הטלוויזיה האיראנית בתמונות ניו בורן לגשרים שהופצצו אמש בדרום איראן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0cf3d734d418.bin"
       ],
       "time": null,
       "channelName": null,
@@ -643,13 +646,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "b322d3e44637",
-      "title": "דנמרק | אדם פתח באש לעבר כוחות משטרה בעיר אולבורג (Aalborg) שבצפון המדינה, שהשיבו באש.",
-      "link": "https://hagizra.news/#msg-b322d3e44637",
-      "body": "דנמרק | אדם פתח באש לעבר כוחות משטרה בעיר אולבורג (Aalborg) שבצפון המדינה, שהשיבו באש. ישנם שלושה פצועים, ביניהם קצין משטרה, החשוד בירי ואדם נוסף, כך דווח בסוכנות הידיעות AP. (כאן חדשות)",
+      "id": "22cb1be6bff0",
+      "title": "נפגעים באיראן | ילד נפצע בתקיפה באזור \"גבעת אללה אכבר\" בעיר בנדר עבאס.",
+      "link": "https://hagizra.news/#msg-22cb1be6bff0",
+      "body": "נפגעים באיראן | ילד נפצע בתקיפה באזור \"גבעת אללה אכבר\" בעיר בנדר עבאס. אמו נהרגה באותה התקיפה.",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -658,16 +661,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "c4cbc506812c",
-      "title": "בבחינת יוסף מוקיר שבת | דייג מצא חלקי מזל\"ט אמריקאי במימי המפרץ הפרסי‌‌.",
-      "link": "https://hagizra.news/#msg-c4cbc506812c",
-      "body": "בבחינת יוסף מוקיר שבת | דייג מצא חלקי מזל\"ט אמריקאי במימי המפרץ הפרסי‌‌.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7cf99a165e4a.bin"
-      ],
+      "id": "ce9ab4d7fdb8",
+      "title": "טבריה | ילדה בת 11 נעקצה ע\"י עקרב ברחוב אהבת ציון בעיר.",
+      "link": "https://hagizra.news/#msg-ce9ab4d7fdb8",
+      "body": "טבריה | ילדה בת 11 נעקצה ע\"י עקרב ברחוב אהבת ציון בעיר. פונתה במצב קל בשלב זה באמבולנס איחוד הצלה לבית החולים להמשך טיפול.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -676,16 +676,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "7d4b25983def",
-      "title": "מדהים | (ינון מגל)",
-      "link": "https://hagizra.news/#msg-7d4b25983def",
-      "body": "מדהים | (ינון מגל)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/93983e0deaac.jpg"
-      ],
+      "id": "a7aee0f95b2d",
+      "title": "המקביל להרוגים בתקיפה | משרד ה'בריאות' העזתי מפרסם על 25 הרוגים בפחות מ 72 שעות.",
+      "link": "https://hagizra.news/#msg-a7aee0f95b2d",
+      "body": "המקביל להרוגים בתקיפה | משרד ה'בריאות' העזתי מפרסם על 25 הרוגים בפחות מ 72 שעות. מתוכם 14 רק מהבוקר.",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -694,13 +691,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     },
     {
-      "id": "95badf6d8e4d",
-      "title": "מילים גבוהות | איש דת איראני בכיר בתיפלת יום שישי באהוואז: \"נקמת דמו של עלי ח'אמנאי לא מוגבלת לאדם אחד או שניים, היא כול",
-      "link": "https://hagizra.news/#msg-95badf6d8e4d",
-      "body": "מילים גבוהות | איש דת איראני בכיר בתיפלת יום שישי באהוואז: \"נקמת דמו של עלי ח'אמנאי לא מוגבלת לאדם אחד או שניים, היא כוללת רשימה של פושעים\".",
+      "id": "9037cc54c9c1",
+      "title": "מאיימים | פיקוד חיל הים של משמרות המהפכה: תנועותיו וציודו של צבא הטרור האמריקאי נמצאים תחת פיקוח יחידות חיל הים של הרפוב",
+      "link": "https://hagizra.news/#msg-9037cc54c9c1",
+      "body": "מאיימים | פיקוד חיל הים של משמרות המהפכה: תנועותיו וציודו של צבא הטרור האמריקאי נמצאים תחת פיקוח יחידות חיל הים של הרפובליקה האסלאמית.האמריקאים מתקרבים לשעת האפס של פעולות נגד יחידות חיל הים של CENTCOM במימי האזור בכל רגע.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a49443ded61e.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 19,
@@ -709,7 +709,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-17T14:25:48.895Z"
+      "firstSeen": "2026-07-17T15:54:45.826Z"
     }
   ],
   "errors": [
