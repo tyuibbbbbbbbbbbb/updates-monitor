@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T01:16:05.553Z",
+  "generatedAt": "2026-07-19T04:38:56.402Z",
   "sources": [
     {
       "id": "blackcat",
@@ -92,24 +92,6 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-07-08T18:19:10.221Z"
-    },
-    {
-      "id": "0066b2b3758b",
-      "title": "דרום איראן |",
-      "link": "https://hagizra.news/#msg-0066b2b3758b",
-      "body": "דרום איראן |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9f5f970949bf.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 1,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T16:13:27.568Z"
     },
     {
       "id": "3546b3d016ea",
@@ -394,202 +376,69 @@
       "firstSeen": "2026-07-18T21:08:46.163Z"
     },
     {
-      "id": "37d776d1f9cf",
-      "title": "חוששים מפלישה קרקעית?",
-      "link": "https://hagizra.news/#msg-37d776d1f9cf",
-      "body": "חוששים מפלישה קרקעית? | באיראן קושרים תיעוד זה לכך שמשמרות המהפכה מעבירים טנקים וכלי צבא לדרום המדינה. (גולדבלט)",
+      "id": "06cb47c1d4c3",
+      "title": "כווית | מערכת HIMARS בפעולה.",
+      "link": "https://hagizra.news/#msg-06cb47c1d4c3",
+      "body": "כווית | מערכת HIMARS בפעולה.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/70693688c188.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/bf343099e166.bin"
       ],
       "time": null,
       "channelName": null,
-      "position": 8,
+      "position": 0,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "e5756042a67a",
-      "title": "שריפת מטה | שריפה גדולה פרצה במטה של קבוצת בדלנים בעיר ארביל.",
-      "link": "https://hagizra.news/#msg-e5756042a67a",
-      "body": "שריפת מטה | שריפה גדולה פרצה במטה של קבוצת בדלנים בעיר ארביל.",
+      "id": "46ef9bf61313",
+      "title": "בתגובה | צבא איראן הודיע כי הוא תוקף מטרות צבא אמריקניות בכווית.",
+      "link": "https://hagizra.news/#msg-46ef9bf61313",
+      "body": "בתגובה | צבא איראן הודיע כי הוא תוקף מטרות צבא אמריקניות בכווית.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "0a44bd35b78b",
+      "title": "נתניה | רימון הלם הושלך הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-0a44bd35b78b",
+      "body": "נתניה | רימון הלם הושלך הלילה בעיר.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8174174feec7.jpg"
+      ],
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/858721013a45.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/62ea73c16d5b.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e8dbbfaff465.bin"
       ],
       "time": null,
       "channelName": null,
-      "position": 9,
+      "position": 2,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "71b1ea6e1b1f",
-      "title": "תקיפה בדוהוק | בוצעו תקיפות ישירות בעיר דוהוק שבחבל כורדיסטן העיראקי.",
-      "link": "https://hagizra.news/#msg-71b1ea6e1b1f",
-      "body": "תקיפה בדוהוק | בוצעו תקיפות ישירות בעיר דוהוק שבחבל כורדיסטן העיראקי.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3d3b7c487c5b.bin"
+      "id": "8bdfec9846bb",
+      "title": "דרמה לילית שוב בגבולות ב\"ב | שריפה בחצר בית ברחוב התפוצות ברמת גן, ללא נפגעים, עשן נראה מבני ברק.",
+      "link": "https://hagizra.news/#msg-8bdfec9846bb",
+      "body": "דרמה לילית שוב בגבולות ב\"ב | שריפה בחצר בית ברחוב התפוצות ברמת גן, ללא נפגעים, עשן נראה מבני ברק.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/002fcc0b97b7.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b729fa61a90e.jpg"
       ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "201946c64bc0",
-      "title": "האיראנים ממשיכים לתקוף | פיצוצים נשמעו בדוהוק שבכורדיסטן העיראקית.",
-      "link": "https://hagizra.news/#msg-201946c64bc0",
-      "body": "האיראנים ממשיכים לתקוף | פיצוצים נשמעו בדוהוק שבכורדיסטן העיראקית.",
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "b598c8c1f376",
-      "title": "ועוד תקיפה | דיווח על פיצוץ שנשמע בבנדר לנגה, דרום איראן.",
-      "link": "https://hagizra.news/#msg-b598c8c1f376",
-      "body": "ועוד תקיפה | דיווח על פיצוץ שנשמע בבנדר לנגה, דרום איראן.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "e8e5e8f65350",
-      "title": "עוד מטרה | תקיפות אמריקאיות גם באי קשם.",
-      "link": "https://hagizra.news/#msg-e8e5e8f65350",
-      "body": "עוד מטרה | תקיפות אמריקאיות גם באי קשם.",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "c81798df8e35",
-      "title": "מתרחב | האיראנים מדווחים על פיצוץ שנשמע באהוואז, איראן.",
-      "link": "https://hagizra.news/#msg-c81798df8e35",
-      "body": "מתרחב | האיראנים מדווחים על פיצוץ שנשמע באהוואז, איראן.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "2d42faeac584",
-      "title": "מטריל | בעקבות התקיפות באיראן: איזנקוט וברק סרי שוחחו.",
-      "link": "https://hagizra.news/#msg-2d42faeac584",
-      "body": "מטריל | בעקבות התקיפות באיראן: איזנקוט וברק סרי שוחחו. (ינון מגל)",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "7296d4c2aad2",
-      "title": "התקיפות באיראן | דיווח על פיצוצים בסיריק שבדרום איראן.",
-      "link": "https://hagizra.news/#msg-7296d4c2aad2",
-      "body": "התקיפות באיראן | דיווח על פיצוצים בסיריק שבדרום איראן. ממעיטים | סוכנות הידיעות מהר: התקיפה לא כוונה נגד תשתיות העיר ולא גרמה לנפגעים.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "c9cc89933b9c",
-      "title": "התקיפות באיראן | דיווח על פיצוצים בסיריק שבדרום איראן.",
-      "link": "https://hagizra.news/#msg-c9cc89933b9c",
-      "body": "התקיפות באיראן | דיווח על פיצוצים בסיריק שבדרום איראן. עוד | שני פיצוצים בעיר שיראז, פיצוצים בבנדר עבאס, באי קיש בסיריק.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "4246114b202a",
-      "title": "התקיפות באיראן | דיווח על פיצוצים בסיריק שבדרום איראן.",
-      "link": "https://hagizra.news/#msg-4246114b202a",
-      "body": "התקיפות באיראן | דיווח על פיצוצים בסיריק שבדרום איראן.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "9c932a531ee1",
-      "title": "מפקדה נפגעה | פגיעה ישירה באחת ממפקדות האופוזיציה האיראניות בארביל.",
-      "link": "https://hagizra.news/#msg-9c932a531ee1",
-      "body": "מפקדה נפגעה | פגיעה ישירה באחת ממפקדות האופוזיציה האיראניות בארביל.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b0b0bcb95020.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T22:58:50.387Z"
-    },
-    {
-      "id": "aa72686c4f82",
-      "title": "הפורד לא כאן | תמיר מורג: מסתובבים ברשת כל מיני דיווחים, חלקם מיוחסים בצדק או שלא לרויטרס, לפיהם נושאת המטוסים פורד הגיע",
-      "link": "https://hagizra.news/#msg-aa72686c4f82",
-      "body": "הפורד לא כאן | תמיר מורג: מסתובבים ברשת כל מיני דיווחים, חלקם מיוחסים בצדק או שלא לרויטרס, לפיהם נושאת המטוסים פורד הגיעה לישראל או עושה את דרכה לכאן ותגיע בימים הקרובים.הפורד נמצאת כעת בסבב תחזוקה בנמל נורפוק, וירג'יניה, שצפוי להימשך יותר משנה. היא סיימה את הפריסה הארוכה ביותר של נושאת מטוסים כלשהי מאז המלחמה הקרה (326 ימים), הצוות שלה שחוק, המערכות שלה דורשות טיפולים דחופים - בקיצור, היא לא כאן ",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -598,13 +447,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T23:46:34.317Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "3dd990241cba",
-      "title": "אחרי האיומים האמריקאים | התקיפות האמריקאיות הלילה נותרו בטווח התקיפות של הלילות הקודמים ולא נרשמו תקיפות חריגות.",
-      "link": "https://hagizra.news/#msg-3dd990241cba",
-      "body": "אחרי האיומים האמריקאים | התקיפות האמריקאיות הלילה נותרו בטווח התקיפות של הלילות הקודמים ולא נרשמו תקיפות חריגות.",
+      "id": "1e414f38334b",
+      "title": "בשטח | פעילות כוח צה''ל הלילה בחוסאן, ממערב לבית לחם.",
+      "link": "https://hagizra.news/#msg-1e414f38334b",
+      "body": "בשטח | פעילות כוח צה''ל הלילה בחוסאן, ממערב לבית לחם. סמוך לעיר ביתר עילית. במהלך הפעילות בוצעו מעצרים במקום ונורו רימוני הלם לעבר מתפרעים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/40556fb40137.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/51ce734c2223.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 4,
@@ -613,13 +466,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T23:46:34.317Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "d42ef0e2c179",
-      "title": "התרחבות התקיפות | דיווחים על תקיפות אמריקאיות כעת בעיר חאג'י אבאד, דרום איראן.",
-      "link": "https://hagizra.news/#msg-d42ef0e2c179",
-      "body": "התרחבות התקיפות | דיווחים על תקיפות אמריקאיות כעת בעיר חאג'י אבאד, דרום איראן.",
+      "id": "6e6f8a47851b",
+      "title": "מסכלים טרור | פשיטה על מוסך רכבים במהלך פעילות בשכונת \"ראס חמיס\", מצפון לירושלים.",
+      "link": "https://hagizra.news/#msg-6e6f8a47851b",
+      "body": "מסכלים טרור | פשיטה על מוסך רכבים במהלך פעילות בשכונת \"ראס חמיס\", מצפון לירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f4975a4c8ec1.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -628,13 +484,19 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T23:46:34.317Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "2282fdcada21",
-      "title": "בשעה זו | איראן יורה כטב״מים וטילים נוספים אל עבר הערים מוסול וארביל שבעיראק.",
-      "link": "https://hagizra.news/#msg-2282fdcada21",
-      "body": "בשעה זו | איראן יורה כטב״מים וטילים נוספים אל עבר הערים מוסול וארביל שבעיראק. בארביל דווח כי משה״מ פגעו בכמה יעדים כורדיים בעיר.",
+      "id": "0501b31b3c0b",
+      "title": "שאריות | בדאחייה בביירות מדווחים לפני זמן קצר על קריסת חלק מבניין שהותקף ע״י ישראל באחת התקיפות בעבר.",
+      "link": "https://hagizra.news/#msg-0501b31b3c0b",
+      "body": "שאריות | בדאחייה בביירות מדווחים לפני זמן קצר על קריסת חלק מבניין שהותקף ע״י ישראל באחת התקיפות בעבר.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ccefb4be0c2a.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ddb1f458ca0b.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -643,15 +505,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T23:46:34.317Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "4433a5515ddf",
-      "title": "דרום לבנון ממשיכה להימחק | כוחותינו מבצעים כעת פיצוצי מבנים בכפר השיעי חדאתא, דרום לבנון.",
-      "link": "https://hagizra.news/#msg-4433a5515ddf",
-      "body": "דרום לבנון ממשיכה להימחק | כוחותינו מבצעים כעת פיצוצי מבנים בכפר השיעי חדאתא, דרום לבנון.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6e8cca36eeb0.png"
+      "id": "ece34fa7383c",
+      "title": "לילה רועש | מסוקי קרב ישראליים יורים לעבר האזורים המזרחיים של מחנה ג'באליה בצפון רצועת עזה.",
+      "link": "https://hagizra.news/#msg-ece34fa7383c",
+      "body": "לילה רועש | מסוקי קרב ישראליים יורים לעבר האזורים המזרחיים של מחנה ג'באליה בצפון רצועת עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7a3752517e05.bin"
       ],
       "time": null,
       "channelName": null,
@@ -661,37 +523,212 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-18T23:46:34.317Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "7bf75f806673",
-      "title": "המתקפה האמריקאית | לפי דיווחים איראנים התקיפות מתרכזות כעת ב 4 נקודותהאי קשם.הורמוזגאן.בנדר עבאס.בבושהר.לפי הדיווחים העו",
-      "link": "https://hagizra.news/#msg-7bf75f806673",
-      "body": "המתקפה האמריקאית | לפי דיווחים איראנים התקיפות מתרכזות כעת ב 4 נקודותהאי קשם.הורמוזגאן.בנדר עבאס.בבושהר.לפי הדיווחים העוצמות עולות בשעה האחרונה.",
+      "id": "598f8b2e70ac",
+      "title": "מוצלח | מפעילות כוח צה''ל כעת בעיירה אל-מור'ייר, צפונית-מזרחית לרמאללה.",
+      "link": "https://hagizra.news/#msg-598f8b2e70ac",
+      "body": "מוצלח | מפעילות כוח צה''ל כעת בעיירה אל-מור'ייר, צפונית-מזרחית לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/12f11a257c41.bin"
+      ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 8,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-19T01:16:05.553Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     },
     {
-      "id": "64eeeec88682",
-      "title": "ושוב פיצוצים בבנדר עבאס |",
-      "link": "https://hagizra.news/#msg-64eeeec88682",
-      "body": "ושוב פיצוצים בבנדר עבאס |",
+      "id": "4725c8ae937e",
+      "title": "בהצלחה | כוחות מג\"ב בפעילות כעת בשכונת ראס חמיס, מצפון לירושלים.",
+      "link": "https://hagizra.news/#msg-4725c8ae937e",
+      "body": "בהצלחה | כוחות מג\"ב בפעילות כעת בשכונת ראס חמיס, מצפון לירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b84b44eefdb7.bin"
+      ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 9,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-19T01:16:05.553Z"
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "8e15fdde3dbe",
+      "title": "למרות חילופי האש | המסדרון האווירי מעל סוריה עדיין ממשיך כרגיל.",
+      "link": "https://hagizra.news/#msg-8e15fdde3dbe",
+      "body": "למרות חילופי האש | המסדרון האווירי מעל סוריה עדיין ממשיך כרגיל.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/326b9178ba74.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "14a39e5b98eb",
+      "title": "הלילה | ה' באב מציינים את הילולת האר\"י הקדוש.",
+      "link": "https://hagizra.news/#msg-14a39e5b98eb",
+      "body": "הלילה | ה' באב מציינים את הילולת האר\"י הקדוש. המונים פוקדים את ציונו הקדוש שבבית העלמין העתיק בצפת.",
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "87a57b9851c9",
+      "title": "עלה באש | עשן כבד מעל מוסקבה כתוצאה מתקיפת מתקן לוגיסטי של חברת Wildberries.",
+      "link": "https://hagizra.news/#msg-87a57b9851c9",
+      "body": "עלה באש | עשן כבד מעל מוסקבה כתוצאה מתקיפת מתקן לוגיסטי של חברת Wildberries.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1783738056e0.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "5e2dfb07af18",
+      "title": "דרמה לילית בבני ברק | נעדר בשם אליהו ישראל אבא שאול, בן ה-60 מבני ברק, אותר במצב קשה.",
+      "link": "https://hagizra.news/#msg-5e2dfb07af18",
+      "body": "דרמה לילית בבני ברק | נעדר בשם אליהו ישראל אבא שאול, בן ה-60 מבני ברק, אותר במצב קשה. כוחות הרפואה מבצעים בו כעת פעולות החייאה מאומצות על מנת להציל את חייו. עדכון נוסף בהמשך.",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "c82f95564e70",
+      "title": "ההצתות באיו\"ש | ביתה של יעל שבח בחוות גלעד נשרף כליל בשריפה שפרצה בשומרון.",
+      "link": "https://hagizra.news/#msg-c82f95564e70",
+      "body": "ההצתות באיו\"ש | ביתה של יעל שבח בחוות גלעד נשרף כליל בשריפה שפרצה בשומרון. שבח היא אלמנתו של הרב רזיאל שבח, שנרצח בפיגוע ירי לפני כשמונה שנים. [i... חסרת כל | זה הבית של יעל שבח בחוות גלעד. אין מילים: ניסינו לפרוס שם צנרת ולהתחיל לכבות אבל האש קפצה בתוך שניות וסגרה עלינו משלושה כיוונים בעוצמה לא נורמלית. עוד הספקתי רק לוודא שאין אף אחד בבית ואחרי כמה רגעים הוא כבר עלה באש. אותי ואת הבן שלי הציל שם",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6548fb20c456.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "26a2cf56172a",
+      "title": "מסוכן | תיעוד מאלעד הלילה: תאונה עצמית ברחוב בן זכאי, בנס ללא נפגעים.",
+      "link": "https://hagizra.news/#msg-26a2cf56172a",
+      "body": "מסוכן | תיעוד מאלעד הלילה: תאונה עצמית ברחוב בן זכאי, בנס ללא נפגעים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/12d7056581b1.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "d5927a134cd1",
+      "title": "אש ללא הפסקה | אוקראינה הודיעה היום שתקפה עוד 13 ספינות של רוסיה.",
+      "link": "https://hagizra.news/#msg-d5927a134cd1",
+      "body": "אש ללא הפסקה | אוקראינה הודיעה היום שתקפה עוד 13 ספינות של רוסיה. מאז 6 ביולי הותקפו לפחות 172 ספינות רוסיות - 118 בים אזוב ו-54 בים השחור. (אסף רוזנצוויג)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f71fe2b0ac68.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 16,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "425f06ebbf3f",
+      "title": "מבט מהאוויר | השרפה במחסני חברת Wildberries בפאתי מוסקווה.",
+      "link": "https://hagizra.news/#msg-425f06ebbf3f",
+      "body": "מבט מהאוויר | השרפה במחסני חברת Wildberries בפאתי מוסקווה. (אסף רוזנצוויג נזק עצום | וול סטריט ג'ורנל: ההערכה שהמתקפה של אוקראינה במחסני חברת Wildberries בפאתי מוסקווה גרמה לנזק של יותר ממיליארד דולר. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 17,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "9c0eeedfdf23",
+      "title": "מלחמת רוסיה & אוקראינה | דיווח על מתקפה אווירית של רוסיה באוקראינה.",
+      "link": "https://hagizra.news/#msg-9c0eeedfdf23",
+      "body": "מלחמת רוסיה & אוקראינה | דיווח על מתקפה אווירית של רוסיה באוקראינה. כתב פייננשל טיימס בקייב מדווח כי בניגוד לשבועות האחרונים, הלילה ניתן לשמוע בקייב שיגורי של מיירטי פטריוט לאחר שהגיע בימים האחרונים משלוח חדש.",
+      "time": null,
+      "channelName": null,
+      "position": 18,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
+    },
+    {
+      "id": "375714db2c1c",
+      "title": "זירה נוספת הלילה | רוסיה שיגרה כ-40-30 טילים לעבר אוקראינה, בעיקר לבירה קייב.",
+      "link": "https://hagizra.news/#msg-375714db2c1c",
+      "body": "זירה נוספת הלילה | רוסיה שיגרה כ-40-30 טילים לעבר אוקראינה, בעיקר לבירה קייב.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b2f288de581f.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/89c5137ca016.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 19,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T04:38:56.402Z"
     }
   ],
   "errors": [
