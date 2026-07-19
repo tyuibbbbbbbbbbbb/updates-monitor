@@ -1,0 +1,16 @@
+{
+  "name": "mitmachim-scraper",
+  "version": "1.0.0",
+  "description": "Downloads the entire content of the mitmachim.top NodeBB forum via its read API and saves it as structured JSON.",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "bin": {
+    "mitmachim-scraper": "scrape.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
