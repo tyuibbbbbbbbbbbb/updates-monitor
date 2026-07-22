@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T23:38:17.188Z",
+  "generatedAt": "2026-07-22T01:03:28.737Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,30 +25,12 @@
   ],
   "items": [
     {
-      "id": "0066b2b3758b",
-      "title": "דרום איראן |",
-      "link": "https://hagizra.news/#msg-0066b2b3758b",
-      "body": "דרום איראן |",
+      "id": "9ba3930e2dea",
+      "title": "עוד מאיראן |",
+      "link": "https://hagizra.news/#msg-9ba3930e2dea",
+      "body": "עוד מאיראן |",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f58700e8072c.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-12T16:13:27.568Z"
-    },
-    {
-      "id": "e73468d4ffd2",
-      "title": "שער יתד |",
-      "link": "https://hagizra.news/#msg-e73468d4ffd2",
-      "body": "שער יתד |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/68f1f7f7cf0f.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9d24ee5ea492.bin"
       ],
       "time": null,
       "channelName": null,
@@ -58,7 +40,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-19T23:13:04.576Z"
+      "firstSeen": "2026-07-07T22:00:26.051Z"
     },
     {
       "id": "f847792fd44e",
@@ -406,10 +388,10 @@
       "firstSeen": "2026-07-21T23:38:17.188Z"
     },
     {
-      "id": "b3dc77a739be",
-      "title": "גם שם תקפו?",
-      "link": "https://hagizra.news/#msg-b3dc77a739be",
-      "body": "גם שם תקפו? | מערכות ההגנה האווירית בטהרן הופעלו לפני זמן קצר.",
+      "id": "6ddd2f8f2440",
+      "title": "מטריד ביותר | וול סטריט ג'ורנל: טראמפ אישר את הסכם הגרעין ההיסטורי עם ערב הסעודית.",
+      "link": "https://hagizra.news/#msg-6ddd2f8f2440",
+      "body": "מטריד ביותר | וול סטריט ג'ורנל: טראמפ אישר את הסכם הגרעין ההיסטורי עם ערב הסעודית.",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -418,15 +400,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "a417855198ec",
-      "title": "הנה זה בא | פיקוד המרכז של ארה\"ב הודיע על תחילת התקיפות הליליות באיראן.",
-      "link": "https://hagizra.news/#msg-a417855198ec",
-      "body": "הנה זה בא | פיקוד המרכז של ארה\"ב הודיע על תחילת התקיפות הליליות באיראן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/56e81a433496.png"
+      "id": "0d94ddcfea43",
+      "title": "בעקבות התקיפות | שריפות פרצו בעיר בהבהאן במחוז ח'וזסטן.",
+      "link": "https://hagizra.news/#msg-0d94ddcfea43",
+      "body": "בעקבות התקיפות | שריפות פרצו בעיר בהבהאן במחוז ח'וזסטן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/550f4a804f01.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b3482653377a.bin"
       ],
       "time": null,
       "channelName": null,
@@ -436,13 +419,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "852c9c9e63db",
-      "title": "מתרחב | פיצוצים בסיריק, דרום איראן.",
-      "link": "https://hagizra.news/#msg-852c9c9e63db",
-      "body": "מתרחב | פיצוצים בסיריק, דרום איראן.",
+      "id": "46f56b73ecd2",
+      "title": "עוד מהודעת סנטקום | נכסי CENTCOM כוונו נגד מרכזי מבצעים צבאיים איראניים, יכולות ימיות, האנגרים של מטוסים, מתקני אחסון רח",
+      "link": "https://hagizra.news/#msg-46f56b73ecd2",
+      "body": "עוד מהודעת סנטקום | נכסי CENTCOM כוונו נגד מרכזי מבצעים צבאיים איראניים, יכולות ימיות, האנגרים של מטוסים, מתקני אחסון רחפנים ותשתיות לוגיסטיות צבאיות כדי לפגוע ביכולתה של איראן לאיים על ספנות מסחרית במצרי הורמוז.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -451,13 +434,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "a8979584d1da",
-      "title": "שוב | פיצוצים נשמעים בבושהר.",
-      "link": "https://hagizra.news/#msg-a8979584d1da",
-      "body": "שוב | פיצוצים נשמעים בבושהר.",
+      "id": "7b61f8d63a20",
+      "title": "איום מטופש | משמרות המהפכה: בהוראת מר מוג'טבה חמינאי, הטילים והרחפנים של המנהיג העליון יפגעו בקרוב ביוקרה של בסיסי האויב",
+      "link": "https://hagizra.news/#msg-7b61f8d63a20",
+      "body": "איום מטופש | משמרות המהפכה: בהוראת מר מוג'טבה חמינאי, הטילים והרחפנים של המנהיג העליון יפגעו בקרוב ביוקרה של בסיסי האויב האמריקאים באזור.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -466,16 +449,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "dd358fc19cad",
-      "title": "הרעשה כבדה | כך נשמעו הפיצוצים בדרום איראן.",
-      "link": "https://hagizra.news/#msg-dd358fc19cad",
-      "body": "הרעשה כבדה | כך נשמעו הפיצוצים בדרום איראן.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/17cf8cd86fea.bin"
-      ],
+      "id": "234cf2b58e9e",
+      "title": "זהו?",
+      "link": "https://hagizra.news/#msg-234cf2b58e9e",
+      "body": "זהו? | פיקוד מרכז של ארה\"ב: השלמנו את גל התקיפות בלילה ה 11.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -484,13 +464,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "e273e0dc997d",
-      "title": "סיכום ביניים | שמונה פיצוצים נשמעו בתבריז, שלושה בבנדר עבאס, אחד במחשהר ואחד בהבחאן.צבא ארה\"ב עדיין לא הודיע על התקיפות.",
-      "link": "https://hagizra.news/#msg-e273e0dc997d",
-      "body": "סיכום ביניים | שמונה פיצוצים נשמעו בתבריז, שלושה בבנדר עבאס, אחד במחשהר ואחד בהבחאן.צבא ארה\"ב עדיין לא הודיע על התקיפות.",
+      "id": "e95c85a50b65",
+      "title": "עוד עיר לרשימה | הפעלת הגנה אווירית כעת באספהאן.",
+      "link": "https://hagizra.news/#msg-e95c85a50b65",
+      "body": "עוד עיר לרשימה | הפעלת הגנה אווירית כעת באספהאן.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -499,16 +479,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "6d1b7c90ee4a",
-      "title": "הפיצוצים בתבריז 🔊 |",
-      "link": "https://hagizra.news/#msg-6d1b7c90ee4a",
-      "body": "הפיצוצים בתבריז 🔊 |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7bfa288b8c5a.bin"
-      ],
+      "id": "a48963d4c497",
+      "title": "מה שלא מובן | אם כרגע אין תקיפות בטהרן, למה ההגנה האווירית מופעלת בטהרן בקנה מידה מטורף?",
+      "link": "https://hagizra.news/#msg-a48963d4c497",
+      "body": "מה שלא מובן | אם כרגע אין תקיפות בטהרן, למה ההגנה האווירית מופעלת בטהרן בקנה מידה מטורף?",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -517,15 +494,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "b3bd19814464",
-      "title": "עצמאות תרופתית | טראמפ: החל מ-1 באוגוסט, על כל התרופות הגנריות המיובאות לארצות הברית ימשיך לחול מכס של אפס אחוזים לתקופה",
-      "link": "https://hagizra.news/#msg-b3bd19814464",
-      "body": "עצמאות תרופתית | טראמפ: החל מ-1 באוגוסט, על כל התרופות הגנריות המיובאות לארצות הברית ימשיך לחול מכס של אפס אחוזים לתקופה של שנתיים, ולאחריה יועלה המכס ל-100% לתקופה של שנה, ולאחר מכן ל-200%. צעד זה מבוצע על מנת להחזיר את ייצור התרופות הגנריות לארה\"ב, תוך הענשת אותן חברות שיחליטו שלא להקים מפעלים וציוד בתוך פרק הזמן שניתן להן. (12)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/394a47439bb9.png"
+      "id": "ec1acbbc7008",
+      "title": "עוד משמי טהרן |",
+      "link": "https://hagizra.news/#msg-ec1acbbc7008",
+      "body": "עוד משמי טהרן |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8fd9d49c7f87.bin"
       ],
       "time": null,
       "channelName": null,
@@ -535,28 +512,31 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "d496a6a619bc",
-      "title": "גם בצפון | פיצוצים נשמעו בעיר אורמיה בצפון מערב איראן.",
-      "link": "https://hagizra.news/#msg-d496a6a619bc",
-      "body": "גם בצפון | פיצוצים נשמעו בעיר אורמיה בצפון מערב איראן.",
+      "id": "0cbe91eeeacd",
+      "title": "הגנה אווירית בטהרן |",
+      "link": "https://hagizra.news/#msg-0cbe91eeeacd",
+      "body": "הגנה אווירית בטהרן |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/29a95ec1756d.bin"
+      ],
       "time": null,
       "channelName": null,
-      "position": 8,
+      "position": 9,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "739775d7209b",
-      "title": "סיכום חדשות היום | (הגיזרה) ✈️ פנטזיה | בפגישה בבית הלבן הודיע הנשיא טראמפ כי ארה\"ב תאפשר לכל חברות התעופה האמריקניות לה",
-      "link": "https://hagizra.news/#msg-739775d7209b",
-      "body": "סיכום חדשות היום | (הגיזרה) ✈️ פנטזיה | בפגישה בבית הלבן הודיע הנשיא טראמפ כי ארה\"ב תאפשר לכל חברות התעופה האמריקניות להפעיל מחדש טיסות ישירות ללבנון. 💥 תקרית בדרום בלבנון | צבא לבנון דיווח כי צה\"ל ירה לעבר חייליו במהלך פריסה באחד מאזורי הפיילוט. מנגד, צה\"ל הבהיר כי מדובר בירי הרחקה לאחר שהכוחות חצו לאזור אסור בניגוד להסכמות. 💰 עלות המערכה מול איראן | שר ההגנה האמריקני פיט הגסת' ציין כי העלויות ",
+      "id": "9afb45709b10",
+      "title": "מה הולך שם?",
+      "link": "https://hagizra.news/#msg-9afb45709b10",
+      "body": "מה הולך שם? | מערכת ההגנה האווירית הופעלה ברוב אזורי טהרן.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -565,13 +545,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "70a759361df9",
-      "title": "בנוסף | פיצוצים נשמעו באזור נרמק בטהרן, אך הסיבות לכך אינן ידועות.",
-      "link": "https://hagizra.news/#msg-70a759361df9",
-      "body": "בנוסף | פיצוצים נשמעו באזור נרמק בטהרן, אך הסיבות לכך אינן ידועות. אחרי כל הספקולציות | ככל הנראה בסוף מדובר רק בפיצוץ גז בדירה.עדיין כל תרבות פיצוצי הגז נראית קצת לא הגיונית...",
+      "id": "e509685c0aec",
+      "title": "עד כה | פיצוצים נשמעו ב-8 ערים ב-5 מחוזות איראניים.",
+      "link": "https://hagizra.news/#msg-e509685c0aec",
+      "body": "עד כה | פיצוצים נשמעו ב-8 ערים ב-5 מחוזות איראניים.",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -580,13 +560,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "faa8c0a08c61",
-      "title": "וזה מתרחב | פיצוצים נשמעו באי תבריז ובאי קשם.",
-      "link": "https://hagizra.news/#msg-faa8c0a08c61",
-      "body": "וזה מתרחב | פיצוצים נשמעו באי תבריז ובאי קשם.",
+      "id": "03918614b950",
+      "title": "הפיצוצים בטהרן |",
+      "link": "https://hagizra.news/#msg-03918614b950",
+      "body": "הפיצוצים בטהרן |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b251779bdf87.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -595,13 +578,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "2e14f083bc6f",
-      "title": "וזה כבר רציני | שלושה פיצוצים נשמעו בבנדר עבאס.",
-      "link": "https://hagizra.news/#msg-2e14f083bc6f",
-      "body": "וזה כבר רציני | שלושה פיצוצים נשמעו בבנדר עבאס.",
+      "id": "76ccdda34b92",
+      "title": "\"קורקינט זה כלי מוות\" | סרטון חשוב לקראת בין הזמנים.",
+      "link": "https://hagizra.news/#msg-76ccdda34b92",
+      "body": "\"קורקינט זה כלי מוות\" | סרטון חשוב לקראת בין הזמנים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fbc5eb6c2488.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -610,13 +596,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "00fc0522f511",
-      "title": "עוד לא אומת | ערוצים מקומיים: טילים ששוגרו מכווית לעבר הרפובליקה האסלאמית של איראן.",
-      "link": "https://hagizra.news/#msg-00fc0522f511",
-      "body": "עוד לא אומת | ערוצים מקומיים: טילים ששוגרו מכווית לעבר הרפובליקה האסלאמית של איראן.",
+      "id": "7d387018bfda",
+      "title": "זוכה ורואה בבניינה | שער מגזין משפחה.",
+      "link": "https://hagizra.news/#msg-7d387018bfda",
+      "body": "זוכה ורואה בבניינה | שער מגזין משפחה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9ae08c3dad2b.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 15,
@@ -625,13 +614,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "580d15c635d9",
-      "title": "עוד | שני פיצוצים נשמעו בבהבאהאן, ח'וזסטן.",
-      "link": "https://hagizra.news/#msg-580d15c635d9",
-      "body": "עוד | שני פיצוצים נשמעו בבהבאהאן, ח'וזסטן.",
+      "id": "8dc167f21c09",
+      "title": "עוד מהתקיפות | פיצוצים נשמעו בעיר זנג'אן.",
+      "link": "https://hagizra.news/#msg-8dc167f21c09",
+      "body": "עוד מהתקיפות | פיצוצים נשמעו בעיר זנג'אן.",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -640,13 +629,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "831cb51d67b0",
-      "title": "התקיפות האמריקאיות החלו?",
-      "link": "https://hagizra.news/#msg-831cb51d67b0",
-      "body": "התקיפות האמריקאיות החלו? | פיצוץ במחשאהר ובבנדר אימאם במחוז ח'וזסטן, שבדרום איראן.",
+      "id": "83bf5928a3a0",
+      "title": "וזה נמשך | גורם רשמי במחוז ח'וזסטן: מתקפת טילים אמריקאית כיוונה לאזורים הסמוכים לערים בהבאהן ואומידייה בדרום מערב איראן.",
+      "link": "https://hagizra.news/#msg-83bf5928a3a0",
+      "body": "וזה נמשך | גורם רשמי במחוז ח'וזסטן: מתקפת טילים אמריקאית כיוונה לאזורים הסמוכים לערים בהבאהן ואומידייה בדרום מערב איראן.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -655,13 +644,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "6b0b1131afab",
-      "title": "עדכון חשוב לגולשים | כמו בשנים עברו, כך גם השנה, אם לצערנו לא נזכה ונצטרך לצום ביום ט' באב, מכניסת הצום ועד יום ט' באב ב",
-      "link": "https://hagizra.news/#msg-6b0b1131afab",
-      "body": "עדכון חשוב לגולשים | כמו בשנים עברו, כך גם השנה, אם לצערנו לא נזכה ונצטרך לצום ביום ט' באב, מכניסת הצום ועד יום ט' באב בחצות, העדכונים יהיו במתכונת מצומצמת של מקבצי דיווחים פעם בשעה.בין מקבצי העדכונים, יעלו תכנים, עדכונים ושיעורים מעניין היום.באם יתרחש אירוע חריג כמובן שנפרוץ ונעדכן על כך.בתקווה לביאת משיח צדקנו במהרה ושיהפך היום לששון ולשמחה.",
+      "id": "ed932a2fbd87",
+      "title": "מטורף | התקיפות במאהשאהר, מחוז ח'וזסטן.",
+      "link": "https://hagizra.news/#msg-ed932a2fbd87",
+      "body": "מטורף | התקיפות במאהשאהר, מחוז ח'וזסטן.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c88c05083a05.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 18,
@@ -670,16 +662,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     },
     {
-      "id": "9a1c3b38b488",
-      "title": "ראשוני | ערוץ איראני טוען כי מערכות ההגנה האווירית בטהרן הופעלו.",
-      "link": "https://hagizra.news/#msg-9a1c3b38b488",
-      "body": "ראשוני | ערוץ איראני טוען כי מערכות ההגנה האווירית בטהרן הופעלו.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ceb7150f48f5.png"
-      ],
+      "id": "f25bd0b3ff71",
+      "title": "אזורי תקיפה חדשים | סוכנות הידיעות טסנים: מתקפת טילים אמריקאית כוונה לעבר אזור בעיר קנגאוור במחוז קרמאנשאה, במערב איראן.",
+      "link": "https://hagizra.news/#msg-f25bd0b3ff71",
+      "body": "אזורי תקיפה חדשים | סוכנות הידיעות טסנים: מתקפת טילים אמריקאית כוונה לעבר אזור בעיר קנגאוור במחוז קרמאנשאה, במערב איראן.",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -688,7 +677,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-21T23:38:17.188Z"
+      "firstSeen": "2026-07-22T01:03:28.737Z"
     }
   ],
   "errors": [
