@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T01:03:28.737Z",
+  "generatedAt": "2026-07-22T04:26:31.239Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,24 +24,6 @@
     }
   ],
   "items": [
-    {
-      "id": "9ba3930e2dea",
-      "title": "עוד מאיראן |",
-      "link": "https://hagizra.news/#msg-9ba3930e2dea",
-      "body": "עוד מאיראן |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9d24ee5ea492.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-07T22:00:26.051Z"
-    },
     {
       "id": "f847792fd44e",
       "title": "החתול השחור האתר הכי ויראלי בציבור החרדי עושה היסטוריה ומגיע למספרים דמיוניים..מספרים שמראים על קהל איכותי שהולך איתנו ע",
@@ -388,10 +370,10 @@
       "firstSeen": "2026-07-21T23:38:17.188Z"
     },
     {
-      "id": "6ddd2f8f2440",
-      "title": "מטריד ביותר | וול סטריט ג'ורנל: טראמפ אישר את הסכם הגרעין ההיסטורי עם ערב הסעודית.",
-      "link": "https://hagizra.news/#msg-6ddd2f8f2440",
-      "body": "מטריד ביותר | וול סטריט ג'ורנל: טראמפ אישר את הסכם הגרעין ההיסטורי עם ערב הסעודית.",
+      "id": "781259cb9a8e",
+      "title": "תאונות הדרכים | ירושלים: כבן 20 שרכב על אופניים נפצע בינוני עד קשה בתאונת דרכים עם מעורבות רכב מסחרי ברחוב הרב צבי יהודה",
+      "link": "https://hagizra.news/#msg-781259cb9a8e",
+      "body": "תאונות הדרכים | ירושלים: כבן 20 שרכב על אופניים נפצע בינוני עד קשה בתאונת דרכים עם מעורבות רכב מסחרי ברחוב הרב צבי יהודה. חדרה | רוכב אופנוע כבן 30 נפצע בתאונה עצמית (התנגש ברכב) בשדרות מנחם בגין. פונה במצב קשה עם חבלות בראש ובגפיים. (איחוד הצלה)",
       "time": null,
       "channelName": null,
       "position": 0,
@@ -400,17 +382,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "0d94ddcfea43",
-      "title": "בעקבות התקיפות | שריפות פרצו בעיר בהבהאן במחוז ח'וזסטן.",
-      "link": "https://hagizra.news/#msg-0d94ddcfea43",
-      "body": "בעקבות התקיפות | שריפות פרצו בעיר בהבהאן במחוז ח'וזסטן.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/550f4a804f01.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b3482653377a.bin"
-      ],
+      "id": "b442d4461149",
+      "title": "ראש העין | הולכת רגל כבת 30 נפצעה קשה אחרי שנפגעה מרכב בעיר.",
+      "link": "https://hagizra.news/#msg-b442d4461149",
+      "body": "ראש העין | הולכת רגל כבת 30 נפצעה קשה אחרי שנפגעה מרכב בעיר. צוות רפואה שהגיע לזירה העניק לה טיפול רפואי ופינה אותה כשהיא סובלת מחבלה רב-מערכתית לביה\"ח בילינסון בפתח תקווה.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -419,13 +397,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "46f56b73ecd2",
-      "title": "עוד מהודעת סנטקום | נכסי CENTCOM כוונו נגד מרכזי מבצעים צבאיים איראניים, יכולות ימיות, האנגרים של מטוסים, מתקני אחסון רח",
-      "link": "https://hagizra.news/#msg-46f56b73ecd2",
-      "body": "עוד מהודעת סנטקום | נכסי CENTCOM כוונו נגד מרכזי מבצעים צבאיים איראניים, יכולות ימיות, האנגרים של מטוסים, מתקני אחסון רחפנים ותשתיות לוגיסטיות צבאיות כדי לפגוע ביכולתה של איראן לאיים על ספנות מסחרית במצרי הורמוז.",
+      "id": "fb34c3442a2f",
+      "title": "בית לחם | כוח צה''ל ממשיך בפעילות ומעצרים באזור דוחא בעיר.",
+      "link": "https://hagizra.news/#msg-fb34c3442a2f",
+      "body": "בית לחם | כוח צה''ל ממשיך בפעילות ומעצרים באזור דוחא בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1627e79c1418.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 2,
@@ -434,13 +415,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "7b61f8d63a20",
-      "title": "איום מטופש | משמרות המהפכה: בהוראת מר מוג'טבה חמינאי, הטילים והרחפנים של המנהיג העליון יפגעו בקרוב ביוקרה של בסיסי האויב",
-      "link": "https://hagizra.news/#msg-7b61f8d63a20",
-      "body": "איום מטופש | משמרות המהפכה: בהוראת מר מוג'טבה חמינאי, הטילים והרחפנים של המנהיג העליון יפגעו בקרוב ביוקרה של בסיסי האויב האמריקאים באזור.",
+      "id": "640dabe6a8b6",
+      "title": "הצפות כבדות בצ'ילה | 7 נהרגו ממזג האוויר הסוער בצפון המדינה, אלפים נעקרו מבתיהם.",
+      "link": "https://hagizra.news/#msg-640dabe6a8b6",
+      "body": "הצפות כבדות בצ'ילה | 7 נהרגו ממזג האוויר הסוער בצפון המדינה, אלפים נעקרו מבתיהם.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0337f562b15a.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -449,13 +433,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "234cf2b58e9e",
-      "title": "זהו?",
-      "link": "https://hagizra.news/#msg-234cf2b58e9e",
-      "body": "זהו? | פיקוד מרכז של ארה\"ב: השלמנו את גל התקיפות בלילה ה 11.",
+      "id": "b86951a5b90d",
+      "title": "אפשר לעבור ל\"סערה\" הבאה?",
+      "link": "https://hagizra.news/#msg-b86951a5b90d",
+      "body": "אפשר לעבור ל\"סערה\" הבאה? |",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -464,13 +448,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "e95c85a50b65",
-      "title": "עוד עיר לרשימה | הפעלת הגנה אווירית כעת באספהאן.",
-      "link": "https://hagizra.news/#msg-e95c85a50b65",
-      "body": "עוד עיר לרשימה | הפעלת הגנה אווירית כעת באספהאן.",
+      "id": "9918028538a7",
+      "title": "מלחמה בים | דיווח בוושינגטון פוסט: ספינת מטען גדולה שהייתה בדרכה לסעודיה עם משלוח רכבים מסין שינתה כיוון לאחר ש\"מרכז התי",
+      "link": "https://hagizra.news/#msg-9918028538a7",
+      "body": "מלחמה בים | דיווח בוושינגטון פוסט: ספינת מטען גדולה שהייתה בדרכה לסעודיה עם משלוח רכבים מסין שינתה כיוון לאחר ש\"מרכז התיאום ההומניטרי של החות'ים\" שלח הודעת דוא\"ל למפעילת האונייה הסינית, והזהיר כי המשך ההפלגה לנמלי סעודיה יחשוף אותה ל\"תקיפה בכל מקום שנמצא בטווח הפעילות של הכוחות המזוינים של תימן\". עוד נמסר כי אישור המעבר של האונייה בוטל. בנוסף, גם שתי מכליות נפט שהיו בדרכן לנמל ינבוע בסעודיה ביצעו ",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -479,13 +463,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "a48963d4c497",
-      "title": "מה שלא מובן | אם כרגע אין תקיפות בטהרן, למה ההגנה האווירית מופעלת בטהרן בקנה מידה מטורף?",
-      "link": "https://hagizra.news/#msg-a48963d4c497",
-      "body": "מה שלא מובן | אם כרגע אין תקיפות בטהרן, למה ההגנה האווירית מופעלת בטהרן בקנה מידה מטורף?",
+      "id": "ca7e01fb787f",
+      "title": "התחזית | היום לאחר התפזרות ענני הבוקר לאורך החוף, ייעשה בהיר, חם מעט מהרגיל ויבש בהרים ובפנים הארץ, הביל במישור ‏החוף .ר",
+      "link": "https://hagizra.news/#msg-ca7e01fb787f",
+      "body": "התחזית | היום לאחר התפזרות ענני הבוקר לאורך החוף, ייעשה בהיר, חם מעט מהרגיל ויבש בהרים ובפנים הארץ, הביל במישור ‏החוף .רוח בים התיכון: דרום מערבית עד צפון מערבית 15-35 קמ\"ש.מצב הים התיכון: גלי 50-120 ס\"מ. הטמפרטורות החזויות להיום והלילה:קריית שמונה 38-24, קצרין 35-21 צפת 31-22 טבריה 38-24, נצרת 34-22 חיפה 32-26תל אביב 31-24, מודיעין 35-23, ירושלים 33-23, אריאל 33-22, אשקלון 30-27, עין גדי 43-31,בא",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -494,15 +478,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "ec1acbbc7008",
-      "title": "עוד משמי טהרן |",
-      "link": "https://hagizra.news/#msg-ec1acbbc7008",
-      "body": "עוד משמי טהרן |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8fd9d49c7f87.bin"
+      "id": "851d996b131f",
+      "title": "עוד נשוב לכאן | שומרים כבר יש.",
+      "link": "https://hagizra.news/#msg-851d996b131f",
+      "body": "עוד נשוב לכאן | שומרים כבר יש.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e1a508aa8789.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -512,15 +496,37 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "0cbe91eeeacd",
-      "title": "הגנה אווירית בטהרן |",
-      "link": "https://hagizra.news/#msg-0cbe91eeeacd",
-      "body": "הגנה אווירית בטהרן |",
+      "id": "f3f3f2939c0f",
+      "title": "רמאללה | כוח צה''ל בפעילות הלילה בכפרי המרחב.",
+      "link": "https://hagizra.news/#msg-f3f3f2939c0f",
+      "body": "רמאללה | כוח צה''ל בפעילות הלילה בכפרי המרחב.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/29a95ec1756d.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/62cd4375d294.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-22T04:26:31.239Z"
+    },
+    {
+      "id": "a36d74956962",
+      "title": "טובאס | כוח צה''ל הלילה בעיירה טמון.",
+      "link": "https://hagizra.news/#msg-a36d74956962",
+      "body": "טובאס | כוח צה''ל הלילה בעיירה טמון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6524b2055a8e.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/03493d52f355.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ccd125407896.bin"
       ],
       "time": null,
       "channelName": null,
@@ -530,13 +536,35 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "9afb45709b10",
-      "title": "מה הולך שם?",
-      "link": "https://hagizra.news/#msg-9afb45709b10",
-      "body": "מה הולך שם? | מערכת ההגנה האווירית הופעלה ברוב אזורי טהרן.",
+      "id": "a54edc70436d",
+      "title": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-a54edc70436d",
+      "body": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4f31dcd76669.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a9fa99d823c1.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-22T04:26:31.239Z"
+    },
+    {
+      "id": "cad674cf1e55",
+      "title": "בהצלחה רבה | כוח צה''ל בעיירה ביר נבאללה, צפונית-מערבית לירושלים.",
+      "link": "https://hagizra.news/#msg-cad674cf1e55",
+      "body": "בהצלחה רבה | כוח צה''ל בעיירה ביר נבאללה, צפונית-מערבית לירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fa1bc9bb59e9.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -545,13 +573,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "e509685c0aec",
-      "title": "עד כה | פיצוצים נשמעו ב-8 ערים ב-5 מחוזות איראניים.",
-      "link": "https://hagizra.news/#msg-e509685c0aec",
-      "body": "עד כה | פיצוצים נשמעו ב-8 ערים ב-5 מחוזות איראניים.",
+      "id": "22158b08cef3",
+      "title": "לפני ואחרי | צילומי ההריסה בקנה מידה גדול שביצעו כוחותינו בכפרי דרום לבנון.",
+      "link": "https://hagizra.news/#msg-22158b08cef3",
+      "body": "לפני ואחרי | צילומי ההריסה בקנה מידה גדול שביצעו כוחותינו בכפרי דרום לבנון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d8ef5d6b0505.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -560,15 +591,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "03918614b950",
-      "title": "הפיצוצים בטהרן |",
-      "link": "https://hagizra.news/#msg-03918614b950",
-      "body": "הפיצוצים בטהרן |",
+      "id": "647b7e96509e",
+      "title": "ג'נין | כוחות צה''ל יורה רימוני הלם לעבר מתפרעים והקים מחסום בכיכר הקולנוע בעיר.",
+      "link": "https://hagizra.news/#msg-647b7e96509e",
+      "body": "ג'נין | כוחות צה''ל יורה רימוני הלם לעבר מתפרעים והקים מחסום בכיכר הקולנוע בעיר.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b251779bdf87.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/862e6350ccad.bin"
       ],
       "time": null,
       "channelName": null,
@@ -578,15 +609,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "76ccdda34b92",
-      "title": "\"קורקינט זה כלי מוות\" | סרטון חשוב לקראת בין הזמנים.",
-      "link": "https://hagizra.news/#msg-76ccdda34b92",
-      "body": "\"קורקינט זה כלי מוות\" | סרטון חשוב לקראת בין הזמנים.",
+      "id": "9090e5c89ab8",
+      "title": "מוצלח | כוח צה''ל במעצר במהלך פעילות בקבטיה, מדרום לג'נין.",
+      "link": "https://hagizra.news/#msg-9090e5c89ab8",
+      "body": "מוצלח | כוח צה''ל במעצר במהלך פעילות בקבטיה, מדרום לג'נין.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fbc5eb6c2488.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/69ac5a7a3025.bin"
       ],
       "time": null,
       "channelName": null,
@@ -596,15 +627,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "7d387018bfda",
-      "title": "זוכה ורואה בבניינה | שער מגזין משפחה.",
-      "link": "https://hagizra.news/#msg-7d387018bfda",
-      "body": "זוכה ורואה בבניינה | שער מגזין משפחה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9ae08c3dad2b.jpg"
+      "id": "6296c0c23e4e",
+      "title": "בדרך לכלא | חיילנו במעצר מבוקש במהלך פעילות במחנה הפליטים דהיישה בבית לחם.",
+      "link": "https://hagizra.news/#msg-6296c0c23e4e",
+      "body": "בדרך לכלא | חיילנו במעצר מבוקש במהלך פעילות במחנה הפליטים דהיישה בבית לחם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5dc49bba9358.bin"
       ],
       "time": null,
       "channelName": null,
@@ -614,13 +645,19 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "8dc167f21c09",
-      "title": "עוד מהתקיפות | פיצוצים נשמעו בעיר זנג'אן.",
-      "link": "https://hagizra.news/#msg-8dc167f21c09",
-      "body": "עוד מהתקיפות | פיצוצים נשמעו בעיר זנג'אן.",
+      "id": "36e2a69d9a5f",
+      "title": "רמאללה | פעילות כוח צה''ל הלילה בעיר ביתוניא, ממערב לרמאללה.",
+      "link": "https://hagizra.news/#msg-36e2a69d9a5f",
+      "body": "רמאללה | פעילות כוח צה''ל הלילה בעיר ביתוניא, ממערב לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0983093578e1.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6f428852e2e8.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f4afee7ba5e5.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e5997b3125ec.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 16,
@@ -629,13 +666,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "83bf5928a3a0",
-      "title": "וזה נמשך | גורם רשמי במחוז ח'וזסטן: מתקפת טילים אמריקאית כיוונה לאזורים הסמוכים לערים בהבאהן ואומידייה בדרום מערב איראן.",
-      "link": "https://hagizra.news/#msg-83bf5928a3a0",
-      "body": "וזה נמשך | גורם רשמי במחוז ח'וזסטן: מתקפת טילים אמריקאית כיוונה לאזורים הסמוכים לערים בהבאהן ואומידייה בדרום מערב איראן.",
+      "id": "daa7173d96f7",
+      "title": "תצליחו | פעילות כוחותינו במחנה אל-ערוב, מצפון לחברון.",
+      "link": "https://hagizra.news/#msg-daa7173d96f7",
+      "body": "תצליחו | פעילות כוחותינו במחנה אל-ערוב, מצפון לחברון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0c3e63bf4017.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 17,
@@ -644,15 +684,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "ed932a2fbd87",
-      "title": "מטורף | התקיפות במאהשאהר, מחוז ח'וזסטן.",
-      "link": "https://hagizra.news/#msg-ed932a2fbd87",
-      "body": "מטורף | התקיפות במאהשאהר, מחוז ח'וזסטן.",
+      "id": "f49dcf69d6ec",
+      "title": "בשטח | כוח צה''ל פושט על מס' בתים במהלך פעילות בעיירה ביתה, מדרום לשכם.",
+      "link": "https://hagizra.news/#msg-f49dcf69d6ec",
+      "body": "בשטח | כוח צה''ל פושט על מס' בתים במהלך פעילות בעיירה ביתה, מדרום לשכם.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c88c05083a05.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6e7c35be5225.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e74ab7e217e7.bin"
       ],
       "time": null,
       "channelName": null,
@@ -662,13 +703,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
-      "id": "f25bd0b3ff71",
-      "title": "אזורי תקיפה חדשים | סוכנות הידיעות טסנים: מתקפת טילים אמריקאית כוונה לעבר אזור בעיר קנגאוור במחוז קרמאנשאה, במערב איראן.",
-      "link": "https://hagizra.news/#msg-f25bd0b3ff71",
-      "body": "אזורי תקיפה חדשים | סוכנות הידיעות טסנים: מתקפת טילים אמריקאית כוונה לעבר אזור בעיר קנגאוור במחוז קרמאנשאה, במערב איראן.",
+      "id": "8cd49c633978",
+      "title": "חברון | מפעילות כוח צה''ל הלילה בכפרי המרחב.",
+      "link": "https://hagizra.news/#msg-8cd49c633978",
+      "body": "חברון | מפעילות כוח צה''ל הלילה בכפרי המרחב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/42bc31c01dc1.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 19,
@@ -677,7 +721,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T01:03:28.737Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     }
   ],
   "errors": [
