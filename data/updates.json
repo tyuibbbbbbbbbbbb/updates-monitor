@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T01:07:09.387Z",
+  "generatedAt": "2026-07-23T04:29:39.913Z",
   "sources": [
     {
       "id": "blackcat",
@@ -357,72 +357,6 @@
       "firstSeen": "2026-07-22T23:33:22.732Z"
     },
     {
-      "id": "2e1b71c4b313",
-      "title": "לֹא הֶאֱמִינוּ...",
-      "link": "https://hagizra.news/#msg-2e1b71c4b313",
-      "body": "לֹא הֶאֱמִינוּ... כִּי יָבֹא צַר וְאוֹיֵב בְּשַׁעֲרֵי יְרוּשָׁלָ⁠͏ִם\" | מרן פוסק הדור הגאון רבי יצחק זילברשטיין שליט\"א במאמר קינה ונהי על חורבן בית המקדש. (בינינו)",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T23:33:22.732Z"
-    },
-    {
-      "id": "f250198e56c4",
-      "title": "ליל תשעה באב | מקבץ חדשות לשעה 2:00 ● באופן רשמי | צבא ארה\"ב: בשעה 17:30 לפי שעון החוף המזרחי של ארצות הברית היום, הכוחו",
-      "link": "https://hagizra.news/#msg-f250198e56c4",
-      "body": "ליל תשעה באב | מקבץ חדשות לשעה 2:00 ● באופן רשמי | צבא ארה\"ב: בשעה 17:30 לפי שעון החוף המזרחי של ארצות הברית היום, הכוחות האמריקאיים החלו בגל נוסף של תקיפות נגד מטרות צבאיות איראניות, בהנחיית המפקד העליון. המשימה תימשך במטרה להמשיך ולפגוע ביכולתה של איראן לאיים על ימאים אזרחיים ועל ספינות מסחר החוצות את המים הטריטוריאליים. ● עליית מדרגה | באיראן טוענים: ארה״ב תקפה תחנת חשמל הסמוכה לתחנת הכור הגרעי",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T23:33:22.732Z"
-    },
-    {
-      "id": "ee0c0cb0adc2",
-      "title": "השיבנו ה' אליך | ישיבת חברון מקוננת על חורבן הבית (צילום: אהרן סבר)",
-      "link": "https://hagizra.news/#msg-ee0c0cb0adc2",
-      "body": "השיבנו ה' אליך | ישיבת חברון מקוננת על חורבן הבית (צילום: אהרן סבר)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/df61d9cbf337.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T23:33:22.732Z"
-    },
-    {
-      "id": "b2823c3cec84",
-      "title": "אוי לנו על גלות השכינה | המקובל רבי יעקב עדס בחצר מערת המכפלה בחברון.",
-      "link": "https://hagizra.news/#msg-b2823c3cec84",
-      "body": "אוי לנו על גלות השכינה | המקובל רבי יעקב עדס בחצר מערת המכפלה בחברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5e89554f6502.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T23:33:22.732Z"
-    },
-    {
       "id": "17e513d64769",
       "title": "שפכי כמים לבך נוכח פני השםכתב מיוזיק אונליין הלך לתעד לנו את הכותל בשעה זו...🥹🥹🥹",
       "link": "https://black-cat.thechats.click/#msg-17e513d64769",
@@ -447,7 +381,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -462,7 +396,7 @@
       "body": "התקיפה במעבר הגבול | האיראנים מדווחים על 3 הרוגים. צפי לעלייה דרסטית של מספר הנפגעים.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -480,7 +414,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -498,7 +432,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -516,7 +450,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -534,7 +468,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -543,12 +477,115 @@
       "firstSeen": "2026-07-23T01:07:09.387Z"
     },
     {
-      "id": "4cb2d331ea01",
-      "title": "עוד מכרמאנשאה |",
-      "link": "https://hagizra.news/#msg-4cb2d331ea01",
-      "body": "עוד מכרמאנשאה |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6b0f927231a3.png"
+      "id": "279a038d4103",
+      "title": "תשעה באב | מקבץ חדשות לשעה 07:00 לראשונה מזה זמן | צבא ארצות הברית השתמש ביום שלישי במפציץ האסטרטגי ארוך־הטווח B-1 כדי ל",
+      "link": "https://hagizra.news/#msg-279a038d4103",
+      "body": "תשעה באב | מקבץ חדשות לשעה 07:00 לראשונה מזה זמן | צבא ארצות הברית השתמש ביום שלישי במפציץ האסטרטגי ארוך־הטווח B-1 כדי לתקוף מטרות של משמרות המהפכה באיראן, כך מסרו בכירים אמריקנים. זו הפעם הראשונה שארה\"ב מפעילה מפציץ B-1 מאז חידוש הלחימה עם איראן לפני 12 ימים (12). **האמריקאים חוטפים | בכיר אמריקאי לניו יורק טיימס: 12 חיילים נפצעו קשה כתוצאה מהתקפות טילים וכלי טיס בלתי מאוישים (רחפנים) של איראן בי",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c51ff70a18f0.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-23T04:29:39.913Z"
+    },
+    {
+      "id": "f99fab6c0f1c",
+      "title": "התחזית | (ליאור סודרי)היום תחול עליה קלה בטמפרטורות, ויהיה חם ויבש מהרגיל בהרים ובפנים הארץ, הביל במישור ‏החוף.רוח בים ה",
+      "link": "https://hagizra.news/#msg-f99fab6c0f1c",
+      "body": "התחזית | (ליאור סודרי)היום תחול עליה קלה בטמפרטורות, ויהיה חם ויבש מהרגיל בהרים ובפנים הארץ, הביל במישור ‏החוף.רוח בים התיכון: דרום מערבית עד צפון מערבית 15-40 קמ\"ש.מצב הים התיכון: גלי עד גבה גלי 60-140 ס\"מ. הטמפרטורות החזויות להיום והלילה:קריית שמונה 38-24, קצרין 36-23 צפת 32-22 טבריה 39-26, נצרת 35-24 חיפה 32-26תל אביב 32-26, מודיעין 35-24, ירושלים 33-22, אריאל 34-22, אשקלון 31-27, עין גדי 43-30",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-23T04:29:39.913Z"
+    },
+    {
+      "id": "cdd47bdbc266",
+      "title": "אש בלב ים | בסעודיה מאשרים: אונייה בבעלות סעודית הותקפה בים האדום.",
+      "link": "https://hagizra.news/#msg-cdd47bdbc266",
+      "body": "אש בלב ים | בסעודיה מאשרים: אונייה בבעלות סעודית הותקפה בים האדום. שרפה פרצה בחלק הקדמי של הספינה. כל אנשי הצוות בריאים ושלמים.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-23T04:29:39.913Z"
+    },
+    {
+      "id": "dab35079bb95",
+      "title": "עוד מג'נין | תגבור צבאי צה''לי לאחר שיחידה מיוחדת שחדרה לבית התגלתה במחנה אל-מרה.",
+      "link": "https://hagizra.news/#msg-dab35079bb95",
+      "body": "עוד מג'נין | תגבור צבאי צה''לי לאחר שיחידה מיוחדת שחדרה לבית התגלתה במחנה אל-מרה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ce7f8cc8c0db.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-23T04:29:39.913Z"
+    },
+    {
+      "id": "4b1269d44e31",
+      "title": "ג'נין | כוח צה''ל הלילה בפעילות בעיר.",
+      "link": "https://hagizra.news/#msg-4b1269d44e31",
+      "body": "ג'נין | כוח צה''ל הלילה בפעילות בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e83ac0e13667.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-23T04:29:39.913Z"
+    },
+    {
+      "id": "191fc4ff3160",
+      "title": "טול כרם | פעילות כוח צה''ל הלילה בכפרי המרחב.",
+      "link": "https://hagizra.news/#msg-191fc4ff3160",
+      "body": "טול כרם | פעילות כוח צה''ל הלילה בכפרי המרחב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b8b0f046616d.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ae8909154aba.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-23T04:29:39.913Z"
+    },
+    {
+      "id": "34d18d39fbc7",
+      "title": "רעש מרגיע | צה''ל יורה יריה ארטילרי לאזור שבין העיירות נבטיה אל-פוקה למיפדון בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-34d18d39fbc7",
+      "body": "רעש מרגיע | צה''ל יורה יריה ארטילרי לאזור שבין העיירות נבטיה אל-פוקה למיפדון בדרום לבנון.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d967fc7e20a7.bin"
       ],
       "time": null,
       "channelName": null,
@@ -558,15 +595,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "7208c56c2a75",
-      "title": "🔊",
-      "link": "https://hagizra.news/#msg-7208c56c2a75",
-      "body": "🔊",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/89d546748dea.png"
+      "id": "687e85806d28",
+      "title": "קלקיליה | מפעילות כוח צה''ל הלילה בשכונת אל-נקקר בעיר.",
+      "link": "https://hagizra.news/#msg-687e85806d28",
+      "body": "קלקיליה | מפעילות כוח צה''ל הלילה בשכונת אל-נקקר בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/85366315cbf0.bin"
       ],
       "time": null,
       "channelName": null,
@@ -576,16 +613,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "55d06a365da2",
-      "title": "לראשונה משאגת הארי🔥 | תקיפות אוויריות אמריקאיות על כרמאנשאה, איראן.",
-      "link": "https://hagizra.news/#msg-55d06a365da2",
-      "body": "לראשונה משאגת הארי🔥 | תקיפות אוויריות אמריקאיות על כרמאנשאה, איראן.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/582dbc15b32a.bin"
-      ],
+      "id": "645aa5f711b2",
+      "title": "ביתר עילית | בעקבות אירועי יידוי אבנים שבוצעו על ידי ילדים לעבר רכבים ואוטובוסים, ובאישור משרד התחבורה קווי השירות לא עב",
+      "link": "https://hagizra.news/#msg-645aa5f711b2",
+      "body": "ביתר עילית | בעקבות אירועי יידוי אבנים שבוצעו על ידי ילדים לעבר רכבים ואוטובוסים, ובאישור משרד התחבורה קווי השירות לא עברו ברחובות המגיד ממעזריטש, החוזה מלובלין ודרכי איש עד לסיום השירות הלילי.במקביל, כוחות האכיפה העירונית פעלו בסמוך למוקדים שבהם אירעו מקרי יידוי האבנים, למניעת הישנות המקרים.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -594,15 +628,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "717e8a36b2fa",
-      "title": "עַל אֵלּה אֲנִי בוֹכִיָּה | יהודים מכל החוגים מקוננים על החורבן ב\"רבי ישעי'לעס הויז\" בקרעסטיר.",
-      "link": "https://hagizra.news/#msg-717e8a36b2fa",
-      "body": "עַל אֵלּה אֲנִי בוֹכִיָּה | יהודים מכל החוגים מקוננים על החורבן ב\"רבי ישעי'לעס הויז\" בקרעסטיר. (ויסברג)",
+      "id": "b74fa077d972",
+      "title": "תצליחו | מפעילות כוח צה''ל הלילה בבית פג'אר, מדרום לבית לחם.",
+      "link": "https://hagizra.news/#msg-b74fa077d972",
+      "body": "תצליחו | מפעילות כוח צה''ל הלילה בבית פג'אר, מדרום לבית לחם.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/172a3d70b228.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/98035f564253.bin"
       ],
       "time": null,
       "channelName": null,
@@ -612,15 +646,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "dcb08963310c",
-      "title": "תיעוד ממעבר הגבול שהותקף |",
-      "link": "https://hagizra.news/#msg-dcb08963310c",
-      "body": "תיעוד ממעבר הגבול שהותקף |",
+      "id": "e367a39edaa8",
+      "title": "בשטח | פעילות ומעצרים לפנות ערב בעיירה קבטיה, מדרום לג'נין.",
+      "link": "https://hagizra.news/#msg-e367a39edaa8",
+      "body": "בשטח | פעילות ומעצרים לפנות ערב בעיירה קבטיה, מדרום לג'נין.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/44aa85df512b.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f8921e2d0de5.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/389a3bdff07e.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/26cac8acbdd3.bin"
       ],
       "time": null,
       "channelName": null,
@@ -630,13 +666,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "b15c022396ef",
-      "title": "האיראניים מדווחים | כלי תקשורת איראניים: שני בני אדם נהרגו בתקיפה האמריקאית על מעבר הגבול שלמצ'ה.",
-      "link": "https://hagizra.news/#msg-b15c022396ef",
-      "body": "האיראניים מדווחים | כלי תקשורת איראניים: שני בני אדם נהרגו בתקיפה האמריקאית על מעבר הגבול שלמצ'ה. המספר צפוי לעלות.",
+      "id": "8b12df809bb6",
+      "title": "בהצלחה | חיילי צה''ל בפעילות כעת במחנה הפליטים עאידה, מצפון לבית לחם.",
+      "link": "https://hagizra.news/#msg-8b12df809bb6",
+      "body": "בהצלחה | חיילי צה''ל בפעילות כעת במחנה הפליטים עאידה, מצפון לבית לחם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a0209743221a.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -645,13 +684,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "52d82d75726d",
-      "title": "יעד חדש💥 | ערוצים עיראקים מדווחים על תקיפה משמעותית במעבר הגבול \"שלמצ'ה\" - מדובר במעבר גבול מרכזי בין איראן לעיראק.",
-      "link": "https://hagizra.news/#msg-52d82d75726d",
-      "body": "יעד חדש💥 | ערוצים עיראקים מדווחים על תקיפה משמעותית במעבר הגבול \"שלמצ'ה\" - מדובר במעבר גבול מרכזי בין איראן לעיראק. לפי הדיווחים ישנם מס' הרוגים בתקיפה. עוד דווח כי היעד הוא כנראה מפקדה של משמר הגבול האיראני.",
+      "id": "696cae8ab4a8",
+      "title": "חברון | פעילות כוח צה''ל בעיר לפנות ערב.",
+      "link": "https://hagizra.news/#msg-696cae8ab4a8",
+      "body": "חברון | פעילות כוח צה''ל בעיר לפנות ערב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/81dbacfc4c5d.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -660,19 +702,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     },
     {
-      "id": "3bb2516eabeb",
-      "title": "דש מחיילינו בכפר ביתא | (ינון מגל) מגילת איכה בלבנון | וואו 🥲 | האבן הזאת שנמצאה בחפירות מתחת לרחבת הכותל היא מאבני בבי",
-      "link": "https://hagizra.news/#msg-3bb2516eabeb",
-      "body": "דש מחיילינו בכפר ביתא | (ינון מגל) מגילת איכה בלבנון | וואו 🥲 | האבן הזאת שנמצאה בחפירות מתחת לרחבת הכותל היא מאבני בבית המקדש. (ינון מגל)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9e83535a0631.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/89349b9f36e0.jpg"
-      ],
+      "id": "776a4db66f6d",
+      "title": "מקדמים התיישבות | ר\"מ שומרון יוסי דגן בפרגון לשר שיקלי: ״שותף אמיתי של ארץ ישראל!",
+      "link": "https://hagizra.news/#msg-776a4db66f6d",
+      "body": "מקדמים התיישבות | ר\"מ שומרון יוסי דגן בפרגון לשר שיקלי: ״שותף אמיתי של ארץ ישראל! תמיד זמין, נכון ומסור. לא רואה אף אחד ממטר!אכפת לך ממדינת ישראל ובכל אזורי זירת העימות אתה תמיד נמצא ראשון. אנחנו צריכים אותך חזק!השר שיקלי ליוסי דגן: ״אנחנו בפיתחן של בחירות גורליות לעתיד השומרון. המהפכה שאתה מוביל כאן חייבת להימשך.״",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b88ec31fcd8f.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/2af10414fb5f.bin"
       ],
       "time": null,
       "channelName": null,
@@ -682,37 +720,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
-    },
-    {
-      "id": "ea27931ffce6",
-      "title": "טראמפ שומע?",
-      "link": "https://hagizra.news/#msg-ea27931ffce6",
-      "body": "טראמפ שומע? | משמרות המהפכה: אף מכלית לא תעבור במצר הורמוז ללא תיאום איתנו. לטענתם, שתי מכליות נפט שבו על עקבותיהן היום - ובאחת נוספת פרצה אש לאחר שתקפו אותה.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
-    },
-    {
-      "id": "5b4d50ca49a1",
-      "title": "התקיפות האיראניות | לפני זמן קצר זוהו מספר שיגורים מאיראן למרחב עקבה שבירדן, מיירטים יצאו לעברם מאילת מחשש לזליגה לעבר ש",
-      "link": "https://hagizra.news/#msg-5b4d50ca49a1",
-      "body": "התקיפות האיראניות | לפני זמן קצר זוהו מספר שיגורים מאיראן למרחב עקבה שבירדן, מיירטים יצאו לעברם מאילת מחשש לזליגה לעבר שטח ישראל.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-23T01:07:09.387Z"
+      "firstSeen": "2026-07-23T04:29:39.913Z"
     }
   ],
   "errors": [
