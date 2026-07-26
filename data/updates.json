@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T01:13:26.505Z",
+  "generatedAt": "2026-07-26T04:43:50.436Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,40 +25,22 @@
   ],
   "items": [
     {
-      "id": "8d80b1c1919b",
-      "title": "🎯",
-      "link": "https://hagizra.news/#msg-8d80b1c1919b",
-      "body": "🎯",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c800537a4bc9.jpg"
+      "id": "a54edc70436d",
+      "title": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-a54edc70436d",
+      "body": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/267cc2136fb9.bin"
       ],
       "time": null,
       "channelName": null,
-      "position": 9,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-05T18:45:40.145Z"
-    },
-    {
-      "id": "db4d3a1087b1",
-      "title": "שער יתד של מחר |",
-      "link": "https://hagizra.news/#msg-db4d3a1087b1",
-      "body": "שער יתד של מחר |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/79c215501a38.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
+      "firstSeen": "2026-07-22T04:26:31.239Z"
     },
     {
       "id": "58070ed5ab7b",
@@ -433,10 +415,177 @@
       "firstSeen": "2026-07-25T22:33:06.138Z"
     },
     {
-      "id": "51c5efbd6e80",
-      "title": "ירי לאוויר הריאות עדיף | כביש 60: בין רחלים לעלי בצומת הכפר ס-אוויה, ערבים רגמו רכבים באבנים.",
-      "link": "https://hagizra.news/#msg-51c5efbd6e80",
-      "body": "ירי לאוויר הריאות עדיף | כביש 60: בין רחלים לעלי בצומת הכפר ס-אוויה, ערבים רגמו רכבים באבנים. חייל הגיב בירי לאוויר. אין נפגעים.",
+      "id": "537e372e54d4",
+      "title": "מיתון | על פי דיווח ב-CNN: גם סגן הנשיא ג'יי-די ואנס לחץ על טראמפ שלא לפתוח בתקיפות רחבות באיראן.",
+      "link": "https://hagizra.news/#msg-537e372e54d4",
+      "body": "מיתון | על פי דיווח ב-CNN: גם סגן הנשיא ג'יי-די ואנס לחץ על טראמפ שלא לפתוח בתקיפות רחבות באיראן. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "ea64bdae50dc",
+      "title": "בפעם השנייה ברציפות | צבא ארה\"ב לא תקף הלילה באיראן.",
+      "link": "https://hagizra.news/#msg-ea64bdae50dc",
+      "body": "בפעם השנייה ברציפות | צבא ארה\"ב לא תקף הלילה באיראן.",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "9f0a680f9d66",
+      "title": "דיווחים בתימן | לפחות שבעה לוחמים של החות'ים ושלושה אנשי השבטים המקומיים נהרגו הלילה בעימותים חמושים בין הצדדים במחוז אל",
+      "link": "https://hagizra.news/#msg-9f0a680f9d66",
+      "body": "דיווחים בתימן | לפחות שבעה לוחמים של החות'ים ושלושה אנשי השבטים המקומיים נהרגו הלילה בעימותים חמושים בין הצדדים במחוז אל-ג'וף במזרח המדינה. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "02caaf3eb24c",
+      "title": "דיווח בפוליטיקו | גדלים הפערים והמחלוקות בין מדינות ערב בנוגע לעתיד היחסים והמלחמה עם איראן, ולמרות שלכולן יש אינטרס משו",
+      "link": "https://hagizra.news/#msg-02caaf3eb24c",
+      "body": "דיווח בפוליטיקו | גדלים הפערים והמחלוקות בין מדינות ערב בנוגע לעתיד היחסים והמלחמה עם איראן, ולמרות שלכולן יש אינטרס משותף לשמור על פתיחת מצר הורמוז, סדרי העדיפויות השונים שלהן מקשים על השגת התקדמות. הבדלי הגישות נובעים בין היתר מכך שלחלק מהמדינות יש חלופות לייצוא דרך מצר הורמוז, אחרות קשורות יותר לכלכלה האיראנית, וחלקן סופגות פגיעה כלכלית קשה יותר מהמשבר. אחד הביטויים הבולטים לקרע הפנימי היה פריש",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "5f4cfd07ff7a",
+      "title": "מסתכלים לטרור בעיניים | כוחות הביטחון מיפו בכפר תל את בתיהם של שניים מהמחבלים שביצעו את פיגוע הירי סמוך לכפר שלשום, לקרא",
+      "link": "https://hagizra.news/#msg-5f4cfd07ff7a",
+      "body": "מסתכלים לטרור בעיניים | כוחות הביטחון מיפו בכפר תל את בתיהם של שניים מהמחבלים שביצעו את פיגוע הירי סמוך לכפר שלשום, לקראת אטימתם והריסתם. בנוסף, הכוחות מיפו את ביתו של המחבל שחטף את הנשק בפיגוע, ונעצר לאחר מכן בידי לוחמי דובדבן בפעילות בשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/bbd4082392ec.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "2e62b86b7650",
+      "title": "התחזית | היום מעונן חלקית, תחול ירידה בטמפרטורות, בעיקר בפנים הארץ ובהרים, ותורגש הקלה ‏בעומסי החום.",
+      "link": "https://hagizra.news/#msg-2e62b86b7650",
+      "body": "התחזית | היום מעונן חלקית, תחול ירידה בטמפרטורות, בעיקר בפנים הארץ ובהרים, ותורגש הקלה ‏בעומסי החום. בצפון הארץ ולאורך החוף,ייתכן בבוקר טפטוף. ‏בשעות אחר הצהריים ינשבו בהרים רוחות ‏ערות.רוח בים התיכון: מערבית עד צפון מערבית 15-35 קמ\"ש.מצב הים התיכון: גלי עד גבה גלי 100-200 ס\"מ, ומסוכן לרחצה. הטמפרטורות החזויות להיום והלילה:קריית שמונה 34-24, קצרין 33-21 צפת 27-19 טבריה 34-25, נצרת 29-22 חיפה 30-26",
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "664d224406fd",
+      "title": "שיבושים בתנועת הרכבות | תנועת הרכבות בין ת\"א ולוד הופסקה בשל תקלה ברשת החשמל.",
+      "link": "https://hagizra.news/#msg-664d224406fd",
+      "body": "שיבושים בתנועת הרכבות | תנועת הרכבות בין ת\"א ולוד הופסקה בשל תקלה ברשת החשמל. צוות של רכבת ישראל פועל כעת לתקן את התקלה.",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "d6b00874780d",
+      "title": "בצל הגבלת הכניסות המאושרות | תיעוד ערבי של יהודים בכניסה לכפר חראס בשומרון.",
+      "link": "https://hagizra.news/#msg-d6b00874780d",
+      "body": "בצל הגבלת הכניסות המאושרות | תיעוד ערבי של יהודים בכניסה לכפר חראס בשומרון. בנסיון להיכנס לקברו של יהושע בן נון הקבור בכפר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/227f449c9d7d.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/70fda6e437ff.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "54276e1048bc",
+      "title": "ג'נין | כוח צהל בפעילות הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-54276e1048bc",
+      "body": "ג'נין | כוח צהל בפעילות הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6ca12d6fe8c8.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f7b9fb775af0.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "fb360060308c",
+      "title": "תג מחיר | מתיישבים ריססו גרפיטי עם סיסמאות על גל הפיגועים בכפר בית פוריק, מזרחית לשכם.",
+      "link": "https://hagizra.news/#msg-fb360060308c",
+      "body": "תג מחיר | מתיישבים ריססו גרפיטי עם סיסמאות על גל הפיגועים בכפר בית פוריק, מזרחית לשכם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/465cef04076f.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T04:43:50.436Z"
+    },
+    {
+      "id": "13711631f7a9",
+      "title": "טול כרם | חיילנו בפעילות הלילה במרחב.",
+      "link": "https://hagizra.news/#msg-13711631f7a9",
+      "body": "טול כרם | חיילנו בפעילות הלילה במרחב.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/200b6b3ec8a1.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -445,15 +594,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "1c5cfca38c27",
-      "title": "🏗 סמוטריץ' מכריז על מהלך היסטורי | היישוב עלי יוכפל פי שלושה ויורחב לזכר הנופלים: מועצת התכנון העליונה (מת\"ע) תקדם הקמה",
-      "link": "https://hagizra.news/#msg-1c5cfca38c27",
-      "body": "🏗 סמוטריץ' מכריז על מהלך היסטורי | היישוב עלי יוכפל פי שלושה ויורחב לזכר הנופלים: מועצת התכנון העליונה (מת\"ע) תקדם הקמה של 763 יחידות דיור חדשות, כאשר עיקר הבנייה תתמקד ביישוב עלי שבמועצת בנימין.התוכניות כוללות את הרחבת שכונת אלירז (לזכר אלירז פרץ) ל-917 יח\"ד ואת הקמת \"מורדות היובל\" בשכונת היובל (\"שכונת הגיבורים\") ל-820 יח\"ד, לצד תוכנית נוספת ל-90 יח\"ד במועצת הר אדר. שר האוצר והשר במשרד הביטחון, ",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ec7d42a7bc1c.jpg"
+      "id": "51e3a4a2df0a",
+      "title": "'שישרף להם הכפר' | שריפה פרצה כתוצאה מירי פצצות גז של כוחות צה''ל בכפר מאליק, צפונית-מזרחית לרמאללה.",
+      "link": "https://hagizra.news/#msg-51e3a4a2df0a",
+      "body": "'שישרף להם הכפר' | שריפה פרצה כתוצאה מירי פצצות גז של כוחות צה''ל בכפר מאליק, צפונית-מזרחית לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/828cbe058c17.bin"
       ],
       "time": null,
       "channelName": null,
@@ -463,13 +612,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "4e66df65eeb8",
-      "title": "תאונות הדרכים | הולך רגל נפגע ממשאית בכביש 6 לצפון סמוך למחלף בית קמה.",
-      "link": "https://hagizra.news/#msg-4e66df65eeb8",
-      "body": "תאונות הדרכים | הולך רגל נפגע ממשאית בכביש 6 לצפון סמוך למחלף בית קמה. חובשים מעניקים טיפול רפואי ומפנים לבי\"ח סורוקה גבר בן 27 במצב קשה, עם חבלה בראש ובגפיים, ו-1 קל.",
+      "id": "3b2e85f46d81",
+      "title": "מצור על האויב | צה''ל הגביל הלילה את התנועה למשך שעות, מאות כלי רכב פלסטיניים עמדו בפקקים במחסום ג'בע, שמצפון לירושלים.",
+      "link": "https://hagizra.news/#msg-3b2e85f46d81",
+      "body": "מצור על האויב | צה''ל הגביל הלילה את התנועה למשך שעות, מאות כלי רכב פלסטיניים עמדו בפקקים במחסום ג'בע, שמצפון לירושלים.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3e06e1f4cbdb.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -478,28 +630,36 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "d5f5d34a9601",
-      "title": "סיכום חדשות השבת והערב | (זירת החדשות) לראשונה מזה 13 לילות: ארה\"ב לא תקפה אמש באיראן מלבד ירי לעבר ספינה שניסתה לפרוץ א",
-      "link": "https://hagizra.news/#msg-d5f5d34a9601",
-      "body": "סיכום חדשות השבת והערב | (זירת החדשות) לראשונה מזה 13 לילות: ארה\"ב לא תקפה אמש באיראן מלבד ירי לעבר ספינה שניסתה לפרוץ את המצור; טראמפ בוחן אפשרות להפסקת אש וייפגש עם נתניהו ביום שלישי. הממשלה צפויה לאשר מחר את הארכת המצב המיוחד בעורף עד 11 באוגוסט. נשיא אוקראינה זלנסקי: מעקב לווייני מראה כי רוסיה מסייעת לאיראן לתקוף מדינות במזרח התיכון. סעודיה תקפה אמש מטרות של החות'ים בנמל חודיידה, החות'ים תקפו ",
+      "id": "ea68745349c6",
+      "title": "טובאס | פעילות מסיבית של כוחותינו בכפרי המרחב והעיר הלילה.",
+      "link": "https://hagizra.news/#msg-ea68745349c6",
+      "body": "טובאס | פעילות מסיבית של כוחותינו בכפרי המרחב והעיר הלילה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/00f4c7d98686.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cc9e933b352e.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4ba9aa05d0ee.bin"
+      ],
       "time": null,
       "channelName": null,
-      "position": 13,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "5ea370e97698",
-      "title": "לא מאבדים תקווה | אור הלר: חרף הדחייה, בישראל מעריכים: טראמפ יורה על תקיפה נרחבת באיראן.",
-      "link": "https://hagizra.news/#msg-5ea370e97698",
-      "body": "לא מאבדים תקווה | אור הלר: חרף הדחייה, בישראל מעריכים: טראמפ יורה על תקיפה נרחבת באיראן.",
+      "id": "7dda601c246f",
+      "title": "לאחר הצו מבית המשפט | בשעות האחרונות פירקו את שטיבלך 'זיו יהודה' ברחוב חי טייב בעיר ב\"ב.",
+      "link": "https://hagizra.news/#msg-7dda601c246f",
+      "body": "לאחר הצו מבית המשפט | בשעות האחרונות פירקו את שטיבלך 'זיו יהודה' ברחוב חי טייב בעיר ב\"ב.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d9402de088e2.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 15,
@@ -508,18 +668,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "8fb6c6702979",
-      "title": "🔥 בני ברק, תתכוננו!",
-      "link": "https://hagizra.news/#msg-8fb6c6702979",
-      "body": "🔥 בני ברק, תתכוננו! מחר זה קורה! 🔥 החנות האהובה מבית שמש מגיעה אליכם – ובענק! 🎉 הפתיחה הגדולה של הסניף החדש! 📐 200 מ\"ר של אולם תצוגה מטורף 🚲 אופניים, קורקינטים, השכרות ושירות ברמה אחרת 🎁 מבצעי השקה מטורפים שחבל לפספס!",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a1a0bf6df935.jpeg"
-      ],
+      "id": "e0db9a426857",
+      "title": "\"דם יהודי אינו הפקר\" | מתיישבים הציתו מסגד וריססו גרפיטי 'נקמה' בעיר קוסרה, מדרום לשכם.",
+      "link": "https://hagizra.news/#msg-e0db9a426857",
+      "body": "\"דם יהודי אינו הפקר\" | מתיישבים הציתו מסגד וריססו גרפיטי 'נקמה' בעיר קוסרה, מדרום לשכם.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6fe291409dc5.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/98d72f99ce6b.bin"
       ],
       "time": null,
       "channelName": null,
@@ -529,13 +686,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "41095ef07341",
-      "title": "סקר מוצ\"ש | מהי העדפתכם לגבי מלחמה בין ישראל לאיראן?",
-      "link": "https://hagizra.news/#msg-41095ef07341",
-      "body": "סקר מוצ\"ש | מהי העדפתכם לגבי מלחמה בין ישראל לאיראן? 😔 חכו לאחרי בין הזמנים 🙃 מלחמה עכשיו! (מוטב יבטל בין הזמנים אחד מאשר בין הזמנים הרבה...) 😰 ה' ישמור! מי בכלל צריך מלחמות?? 😶 אין לי דעה / דעתי אינה רלוונטית",
+      "id": "82b2ae536a5e",
+      "title": "צהל בעונש קולקטיבי לתושבי גוש עציון | מוקדם יותר הלילה צה''ל חסם את ציר 60 למעבר ליהודים והערבים כאחד בתגובה להפגנות שמת",
+      "link": "https://hagizra.news/#msg-82b2ae536a5e",
+      "body": "צהל בעונש קולקטיבי לתושבי גוש עציון | מוקדם יותר הלילה צה''ל חסם את ציר 60 למעבר ליהודים והערבים כאחד בתגובה להפגנות שמתיישבים באזור לאחר שפרסמתי את המקרה מהר מאוד הציר נפתח, אבל אסור להתרגל לזה! צהל באופן חריג מעניש את היהודים בתגובה להפגנות שעשו וחוסמים את המעבר גם ליהודים.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0a9bb75d4202.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 17,
@@ -544,13 +704,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "af91cae9f88f",
-      "title": "המלחמה שלא נגמרת | מתקפת טילים רוסית כעת על קייב.",
-      "link": "https://hagizra.news/#msg-af91cae9f88f",
-      "body": "המלחמה שלא נגמרת | מתקפת טילים רוסית כעת על קייב. לפחות חמישה טילים פגעו בעיר בדקות האחרונות, וההתרעות על הגעת טילים נוספים נמשכות גם כעת. (יאיר נבות)",
+      "id": "7659a5f8ed42",
+      "title": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: ",
+      "link": "https://hagizra.news/#msg-7659a5f8ed42",
+      "body": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: \"הנחתי את גופי המודיעין של... חלק מההוכחות | \"מאז תחילת יולי תיעדנו פעילות אינטנסיבית של לווייני ריגול רוסיים מעל מדינות המפרץ ומתקנים צבאיים אמריקניים הממוקמים בהן. התמונות הללו מגיעות לידי איראן\", אמר זלנסקי. \"במקביל, קיימת התאמה ברורה בין צילומי הלוויין הרוסיים של האתרים הללו ",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -559,16 +719,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     },
     {
-      "id": "fbe79a2819a8",
-      "title": "דרום לבנון |",
-      "link": "https://hagizra.news/#msg-fbe79a2819a8",
-      "body": "דרום לבנון |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/577e63892815.png"
-      ],
+      "id": "f6e1a8002019",
+      "title": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: ",
+      "link": "https://hagizra.news/#msg-f6e1a8002019",
+      "body": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: \"הנחתי את גופי המודיעין שלנו לשתף את שותפינו עם המידע שיש ברשותנו על כך\". (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -577,142 +734,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T22:33:06.138Z"
-    },
-    {
-      "id": "b3f24a84f030",
-      "title": "הסיבה האמיתית🫤 | טראמפ לא יסלים את חזית איראן בקרוב מכיוון שהאיראנים השמידו אחוז ניכר ממערך ההגנה במפרץ.",
-      "link": "https://hagizra.news/#msg-b3f24a84f030",
-      "body": "הסיבה האמיתית🫤 | טראמפ לא יסלים את חזית איראן בקרוב מכיוון שהאיראנים השמידו אחוז ניכר ממערך ההגנה במפרץ. (ניו יורק טיימס).",
-      "time": null,
-      "channelName": null,
-      "position": 3,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T23:36:03.473Z"
-    },
-    {
-      "id": "f0bcb4a9590a",
-      "title": "פיצוצים עוצמתיים הלילה בדרום | מדובר בהשמדת מבנים במזרח רצועת עזה, פיצוצים מבוקרים של כוחות צה\"ל.",
-      "link": "https://hagizra.news/#msg-f0bcb4a9590a",
-      "body": "פיצוצים עוצמתיים הלילה בדרום | מדובר בהשמדת מבנים במזרח רצועת עזה, פיצוצים מבוקרים של כוחות צה\"ל. ככל הנראה צפויים פיצוצים נוספים בהמשך הלילה.",
-      "time": null,
-      "channelName": null,
-      "position": 4,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T23:36:03.473Z"
-    },
-    {
-      "id": "bea241f6cfae",
-      "title": "עוד מהרופסנים | ניו יורק טיימס: רבים מיועציו של מר טראמפ, כולל ג'ארד קושנר, אומרים שיש אלטרנטיבה הגיונית ופחות מסוכנת: ל",
-      "link": "https://hagizra.news/#msg-bea241f6cfae",
-      "body": "עוד מהרופסנים | ניו יורק טיימס: רבים מיועציו של מר טראמפ, כולל ג'ארד קושנר, אומרים שיש אלטרנטיבה הגיונית ופחות מסוכנת: להמשיך במשא ומתן ובלחץ הכלכלי על איראן לתקופה ארוכה יותר.",
-      "time": null,
-      "channelName": null,
-      "position": 5,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T23:36:03.473Z"
-    },
-    {
-      "id": "0157db2143b5",
-      "title": "גם לכם זה מזכיר קצת את רוסיה?",
-      "link": "https://hagizra.news/#msg-0157db2143b5",
-      "body": "גם לכם זה מזכיר קצת את רוסיה? | מה העולם חשב ומה למעיישה....",
-      "time": null,
-      "channelName": null,
-      "position": 6,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T23:36:03.473Z"
-    },
-    {
-      "id": "355dad567513",
-      "title": "כשהמעצמה הגדולה בעולם מתקפלת | יוסי יהושוע: דיווח בניו יורק טיימס :טראמפ הקפיא בשלב זה את התוכניות להסלמה משמעותית באירא",
-      "link": "https://hagizra.news/#msg-355dad567513",
-      "body": "כשהמעצמה הגדולה בעולם מתקפלת | יוסי יהושוע: דיווח בניו יורק טיימס :טראמפ הקפיא בשלב זה את התוכניות להסלמה משמעותית באיראן. יו״ר המטות המשולבים, הגנרל דן קיין, הזהיר כי חידוש הלחימה עלול לדלל באופן מסוכן את מלאי מיירטי הפטריוט ואמצעי ההגנה האווירית של ארה״ב במזרח התיכון.",
-      "time": null,
-      "channelName": null,
-      "position": 7,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T23:36:03.473Z"
-    },
-    {
-      "id": "71790ac41143",
-      "title": "גל פיגועים | האויב מרים ראש: לפני זמן קצר בוצע ירי לעבר מחבלת עם סכין שהתקרבה לכוחותינו במחסום קלנדיה.",
-      "link": "https://hagizra.news/#msg-71790ac41143",
-      "body": "גל פיגועים | האויב מרים ראש: לפני זמן קצר בוצע ירי לעבר מחבלת עם סכין שהתקרבה לכוחותינו במחסום קלנדיה. אין נפגעים.",
-      "time": null,
-      "channelName": null,
-      "position": 8,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-25T23:36:03.473Z"
-    },
-    {
-      "id": "9210160a042a",
-      "title": "במקביל לתדרוכים | שבעה מטוסי תובלה אמריקאים ענקיים מדגם C-17 ומטוס תדלוק מדגם KC-135 נמצאים בדרכם למזרח התיכון כחלק מהתע",
-      "link": "https://hagizra.news/#msg-9210160a042a",
-      "body": "במקביל לתדרוכים | שבעה מטוסי תובלה אמריקאים ענקיים מדגם C-17 ומטוס תדלוק מדגם KC-135 נמצאים בדרכם למזרח התיכון כחלק מהתעצמות הכוחות הנוכחית.",
-      "time": null,
-      "channelName": null,
-      "position": 0,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T01:13:26.505Z"
-    },
-    {
-      "id": "07732f59a35f",
-      "title": "הסיבה האמיתית🫤 | טראמפ לא יסלים את חזית איראן בקרוב מכיוון שהאיראנים השמידו אחוז ניכר ממערך ההגנה במפרץ.",
-      "link": "https://hagizra.news/#msg-07732f59a35f",
-      "body": "הסיבה האמיתית🫤 | טראמפ לא יסלים את חזית איראן בקרוב מכיוון שהאיראנים השמידו אחוז ניכר ממערך ההגנה במפרץ. (ניו יורק טיימס עוד מהדיווח | ניו יורק טיימס: טראמפ ירד בינתיים מהתוכניות שלו להסלים את המלחמה עם איראן. היועצים הבכירים שלו הזהירו אותו שמבצע צבאי גדול יותר עלול לרוקן בצורה מסוכנת את מאגרי טילי ההגנה האווירית של ארצות הברית, במיוחד מיירטי פטריוט, טילי ההגנה שצריך בשביל להגן על הכוחות האמריקא",
-      "time": null,
-      "channelName": null,
-      "position": 1,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T01:13:26.505Z"
-    },
-    {
-      "id": "a2e7bd1f4d96",
-      "title": "ארגון טרור שפל | ערוצי אופוזיציה איראנים: הצבא האיראני ערך אימוני ירי והדרכות לשימוש בנשק לילדים בכיכר איזדי בטהראן.",
-      "link": "https://hagizra.news/#msg-a2e7bd1f4d96",
-      "body": "ארגון טרור שפל | ערוצי אופוזיציה איראנים: הצבא האיראני ערך אימוני ירי והדרכות לשימוש בנשק לילדים בכיכר איזדי בטהראן.",
-      "time": null,
-      "channelName": null,
-      "position": 2,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T01:13:26.505Z"
+      "firstSeen": "2026-07-26T04:43:50.436Z"
     }
   ],
   "errors": [
