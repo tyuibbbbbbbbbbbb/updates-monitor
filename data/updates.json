@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:43:50.436Z",
+  "generatedAt": "2026-07-26T07:22:41.208Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,48 +25,12 @@
   ],
   "items": [
     {
-      "id": "a54edc70436d",
-      "title": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
-      "link": "https://hagizra.news/#msg-a54edc70436d",
-      "body": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/267cc2136fb9.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-22T04:26:31.239Z"
-    },
-    {
       "id": "58070ed5ab7b",
       "title": "אמר רבי בנימין דקות לפני מציאת הילדהסגולה עובדת ואו",
       "link": "https://black-cat.thechats.click/#msg-58070ed5ab7b",
       "body": "אמר רבי בנימין דקות לפני מציאת הילדהסגולה עובדת ואו",
       "videos": [
         "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e014db4ffd60.bin"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 19,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-07-24T14:35:18.074Z"
-    },
-    {
-      "id": "b7d460b0c77f",
-      "title": "הטרלול התחיל",
-      "link": "https://black-cat.thechats.click/#msg-b7d460b0c77f",
-      "body": "הטרלול התחיל",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/522399fff7d7.png"
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
@@ -88,7 +52,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 18,
+      "position": 19,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -106,7 +70,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 16,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -124,7 +88,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -142,7 +106,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -160,7 +124,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -175,7 +139,7 @@
       "body": "# פחות מ40 דקות לסיום ההצבעה על היצירות של תשעה באב..",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -193,7 +157,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -211,7 +175,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 11,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -229,7 +193,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 13,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -247,7 +211,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -265,7 +229,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -283,7 +247,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -301,7 +265,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -319,7 +283,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 1,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -334,7 +298,7 @@
       "body": "וגם בדקות אלו עלה טור נוסף של המדור האהוב דקה של שפיותכנסו לקרואתמשיכו לשלוח לנו תגובות על המדור, והאם אהבתם",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 2,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -352,7 +316,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 3,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -370,7 +334,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -388,7 +352,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -406,7 +370,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -415,10 +379,31 @@
       "firstSeen": "2026-07-25T22:33:06.138Z"
     },
     {
-      "id": "537e372e54d4",
-      "title": "מיתון | על פי דיווח ב-CNN: גם סגן הנשיא ג'יי-די ואנס לחץ על טראמפ שלא לפתוח בתקיפות רחבות באיראן.",
-      "link": "https://hagizra.news/#msg-537e372e54d4",
-      "body": "מיתון | על פי דיווח ב-CNN: גם סגן הנשיא ג'יי-די ואנס לחץ על טראמפ שלא לפתוח בתקיפות רחבות באיראן. (אסף רוזנצוויג)",
+      "id": "023b79f63dec",
+      "title": "בינתיים אברכי השנה ראשונה בהודעה חריגה",
+      "link": "https://black-cat.thechats.click/#msg-023b79f63dec",
+      "body": "בינתיים אברכי השנה ראשונה בהודעה חריגה",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/194ea3a71f1f.png"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-07-26T07:22:41.208Z"
+    },
+    {
+      "id": "8b0051a1dc94",
+      "title": "חיים בקליפ | השער של עיתון כיהאן האיראני שמקורב למשטר הבוקר: \"תימן פתחה את שערי הגיהנום על סעודיה\".",
+      "link": "https://hagizra.news/#msg-8b0051a1dc94",
+      "body": "חיים בקליפ | השער של עיתון כיהאן האיראני שמקורב למשטר הבוקר: \"תימן פתחה את שערי הגיהנום על סעודיה\". (ליפקין)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/175d2998b6b9.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 0,
@@ -427,13 +412,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "ea64bdae50dc",
-      "title": "בפעם השנייה ברציפות | צבא ארה\"ב לא תקף הלילה באיראן.",
-      "link": "https://hagizra.news/#msg-ea64bdae50dc",
-      "body": "בפעם השנייה ברציפות | צבא ארה\"ב לא תקף הלילה באיראן.",
+      "id": "1615c237666b",
+      "title": "האנטישמיות בבריטניה | יענקי פרבר: מספר כלי רכב בבעלות יהודים בעיר מנצ'סטר בבריטניה, הושחתו בליל שבת בלב שכונה חרדית.",
+      "link": "https://hagizra.news/#msg-1615c237666b",
+      "body": "האנטישמיות בבריטניה | יענקי פרבר: מספר כלי רכב בבעלות יהודים בעיר מנצ'סטר בבריטניה, הושחתו בליל שבת בלב שכונה חרדית. המשטרה חוקרת.",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -442,13 +427,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "9f0a680f9d66",
-      "title": "דיווחים בתימן | לפחות שבעה לוחמים של החות'ים ושלושה אנשי השבטים המקומיים נהרגו הלילה בעימותים חמושים בין הצדדים במחוז אל",
-      "link": "https://hagizra.news/#msg-9f0a680f9d66",
-      "body": "דיווחים בתימן | לפחות שבעה לוחמים של החות'ים ושלושה אנשי השבטים המקומיים נהרגו הלילה בעימותים חמושים בין הצדדים במחוז אל-ג'וף במזרח המדינה. (אסף רוזנצוויג)",
+      "id": "d7edc54fd639",
+      "title": "לסל וחסל 🚮 | צה\"ל חיסל בשבוע שעבר את המחבל פארס אלמצרי, ראש מדור במטה הייצור של חמאס.",
+      "link": "https://hagizra.news/#msg-d7edc54fd639",
+      "body": "לסל וחסל 🚮 | צה\"ל חיסל בשבוע שעבר את המחבל פארס אלמצרי, ראש מדור במטה הייצור של חמאס. בתקיפה נוספת בצפון הרצועה חוסל מחמד אבו שכיאן, מחבל נוח'בה בארגון. השניים פעלו בעת האחרונה לקידום מתווי טרור נגד כוחות צה\"ל ואזרחי מדינת ישראל - וחוסלו להסרת האיום.",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -457,13 +442,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "02caaf3eb24c",
-      "title": "דיווח בפוליטיקו | גדלים הפערים והמחלוקות בין מדינות ערב בנוגע לעתיד היחסים והמלחמה עם איראן, ולמרות שלכולן יש אינטרס משו",
-      "link": "https://hagizra.news/#msg-02caaf3eb24c",
-      "body": "דיווח בפוליטיקו | גדלים הפערים והמחלוקות בין מדינות ערב בנוגע לעתיד היחסים והמלחמה עם איראן, ולמרות שלכולן יש אינטרס משותף לשמור על פתיחת מצר הורמוז, סדרי העדיפויות השונים שלהן מקשים על השגת התקדמות. הבדלי הגישות נובעים בין היתר מכך שלחלק מהמדינות יש חלופות לייצוא דרך מצר הורמוז, אחרות קשורות יותר לכלכלה האיראנית, וחלקן סופגות פגיעה כלכלית קשה יותר מהמשבר. אחד הביטויים הבולטים לקרע הפנימי היה פריש",
+      "id": "ec9ad608e26f",
+      "title": "העזיבות ביש עתיד נמשכות | ח״כ רון כץ מצטרף לבועז טופורובסקי, ירון לוי ועידן רול שהודיעו אף הם על התפטרות או פרישה על רקע",
+      "link": "https://hagizra.news/#msg-ec9ad608e26f",
+      "body": "העזיבות ביש עתיד נמשכות | ח״כ רון כץ מצטרף לבועז טופורובסקי, ירון לוי ועידן רול שהודיעו אף הם על התפטרות או פרישה על רקע ההיחלשות בסקרים של \"ביחד\"... הוגש מכתב ההתפטרות |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7eb85740ef37.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 3,
@@ -472,16 +460,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "5f4cfd07ff7a",
-      "title": "מסתכלים לטרור בעיניים | כוחות הביטחון מיפו בכפר תל את בתיהם של שניים מהמחבלים שביצעו את פיגוע הירי סמוך לכפר שלשום, לקרא",
-      "link": "https://hagizra.news/#msg-5f4cfd07ff7a",
-      "body": "מסתכלים לטרור בעיניים | כוחות הביטחון מיפו בכפר תל את בתיהם של שניים מהמחבלים שביצעו את פיגוע הירי סמוך לכפר שלשום, לקראת אטימתם והריסתם. בנוסף, הכוחות מיפו את ביתו של המחבל שחטף את הנשק בפיגוע, ונעצר לאחר מכן בידי לוחמי דובדבן בפעילות בשכם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/bbd4082392ec.bin"
-      ],
+      "id": "b8f96a22bf75",
+      "title": "עוקצים | דובר צבא איראן: \"ייתכן שהאמריקנים מחפשים אסטרטגיית יציאה מהמלחמה, אם הציונים יאפשרו זאת.",
+      "link": "https://hagizra.news/#msg-b8f96a22bf75",
+      "body": "עוקצים | דובר צבא איראן: \"ייתכן שהאמריקנים מחפשים אסטרטגיית יציאה מהמלחמה, אם הציונים יאפשרו זאת. אפשרות אחרת היא שתחת לחץ של המשטר הציוני, תבוצע מתקפה אווירית נרחבת. אפשרות נוספת היא פעולה קרקעית. גם על האפשרות הזו דיברנו פעמים רבות בעבר, ואמרנו שאם זה יקרה, רמת הפגיעות של האמריקנים תגדל משמעותית\". (ליפקין)",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -490,13 +475,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "2e62b86b7650",
-      "title": "התחזית | היום מעונן חלקית, תחול ירידה בטמפרטורות, בעיקר בפנים הארץ ובהרים, ותורגש הקלה ‏בעומסי החום.",
-      "link": "https://hagizra.news/#msg-2e62b86b7650",
-      "body": "התחזית | היום מעונן חלקית, תחול ירידה בטמפרטורות, בעיקר בפנים הארץ ובהרים, ותורגש הקלה ‏בעומסי החום. בצפון הארץ ולאורך החוף,ייתכן בבוקר טפטוף. ‏בשעות אחר הצהריים ינשבו בהרים רוחות ‏ערות.רוח בים התיכון: מערבית עד צפון מערבית 15-35 קמ\"ש.מצב הים התיכון: גלי עד גבה גלי 100-200 ס\"מ, ומסוכן לרחצה. הטמפרטורות החזויות להיום והלילה:קריית שמונה 34-24, קצרין 33-21 צפת 27-19 טבריה 34-25, נצרת 29-22 חיפה 30-26",
+      "id": "02751affa636",
+      "title": "לבטל את הצווים הדרקוניים | 13 ח\"כים ושרים מהליכוד, הציונות דתית ועוצמה יהודית פנו לשר הביטחון ישראל כ\"ץ בקריאה לבטל את ה",
+      "link": "https://hagizra.news/#msg-02751affa636",
+      "body": "לבטל את הצווים הדרקוניים | 13 ח\"כים ושרים מהליכוד, הציונות דתית ועוצמה יהודית פנו לשר הביטחון ישראל כ\"ץ בקריאה לבטל את הצווים המנהליים נגד מתיישבים מיהודה ושומרון ולשחרר את טל ינון דרדיק ששובת רעב אחרי שנעצר. (ליאל)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/8fbaa7e03708.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -505,13 +493,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "664d224406fd",
-      "title": "שיבושים בתנועת הרכבות | תנועת הרכבות בין ת\"א ולוד הופסקה בשל תקלה ברשת החשמל.",
-      "link": "https://hagizra.news/#msg-664d224406fd",
-      "body": "שיבושים בתנועת הרכבות | תנועת הרכבות בין ת\"א ולוד הופסקה בשל תקלה ברשת החשמל. צוות של רכבת ישראל פועל כעת לתקן את התקלה.",
+      "id": "11e2d14aabbe",
+      "title": "גל השריפות בדרום אירופה | דליקות ענק בספרד וצרפת - כ 300 אלף איש פונו מבתיהם (200 אלף בצרפת ו - 100 אלף בספרד)בצרפת עלו ",
+      "link": "https://hagizra.news/#msg-11e2d14aabbe",
+      "body": "גל השריפות בדרום אירופה | דליקות ענק בספרד וצרפת - כ 300 אלף איש פונו מבתיהם (200 אלף בצרפת ו - 100 אלף בספרד)בצרפת עלו באש 979 אלף דונם של יערות - שר הפנים הצרפתי: זהו הפינוי הגדול ביותר בהיסטוריה צרפת בעיתות שלום.בספרד- השריפה הגדולה ביותר מתקרבת לבתי התושבים במדריד. ישנן שריפות נוספות באווילה ובגואדלחרה.בצרפת - השריפה הגדולה ביותר היא באזור מחוז ז'ירונד בדרום מערב המדינה, סמוך לבורודו. (אבו עלי",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1e8cf032af7b.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -520,16 +511,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "d6b00874780d",
-      "title": "בצל הגבלת הכניסות המאושרות | תיעוד ערבי של יהודים בכניסה לכפר חראס בשומרון.",
-      "link": "https://hagizra.news/#msg-d6b00874780d",
-      "body": "בצל הגבלת הכניסות המאושרות | תיעוד ערבי של יהודים בכניסה לכפר חראס בשומרון. בנסיון להיכנס לקברו של יהושע בן נון הקבור בכפר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/227f449c9d7d.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/70fda6e437ff.bin"
+      "id": "499376c704c1",
+      "title": "😵‍💫🥴",
+      "link": "https://hagizra.news/#msg-499376c704c1",
+      "body": "😵‍💫🥴",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a2084454f760.png"
       ],
       "time": null,
       "channelName": null,
@@ -539,17 +529,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "54276e1048bc",
-      "title": "ג'נין | כוח צהל בפעילות הלילה בעיר.",
-      "link": "https://hagizra.news/#msg-54276e1048bc",
-      "body": "ג'נין | כוח צהל בפעילות הלילה בעיר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6ca12d6fe8c8.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f7b9fb775af0.bin"
-      ],
+      "id": "8a4ebfd513a9",
+      "title": "אווירה באופזיציה | עמית סגל: בסביבת ח״כ רון כץ (יש עתיד) טוענים אחרי שהתפטר היום מהכנסת: ״הופעלו עליו לחצים מכיוון בנט ש",
+      "link": "https://hagizra.news/#msg-8a4ebfd513a9",
+      "body": "אווירה באופזיציה | עמית סגל: בסביבת ח״כ רון כץ (יש עתיד) טוענים אחרי שהתפטר היום מהכנסת: ״הופעלו עליו לחצים מכיוון בנט שימשיך עד הבחירות - כי לא טוב עכשיו לקמפיין שייכנס מוסלמי לרשימה״.מי שיכהן כח״כ במקום כץ, הוא מוחמד שוקו אבו אלהיגא מטמרה.יש עתיד: ״זה שקר״.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -558,15 +544,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "fb360060308c",
-      "title": "תג מחיר | מתיישבים ריססו גרפיטי עם סיסמאות על גל הפיגועים בכפר בית פוריק, מזרחית לשכם.",
-      "link": "https://hagizra.news/#msg-fb360060308c",
-      "body": "תג מחיר | מתיישבים ריססו גרפיטי עם סיסמאות על גל הפיגועים בכפר בית פוריק, מזרחית לשכם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/465cef04076f.bin"
+      "id": "b20bff3219a1",
+      "title": "עוד שותף של איזנקוט |",
+      "link": "https://hagizra.news/#msg-b20bff3219a1",
+      "body": "עוד שותף של איזנקוט |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2384ae988182.png"
       ],
       "time": null,
       "channelName": null,
@@ -576,15 +562,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "13711631f7a9",
-      "title": "טול כרם | חיילנו בפעילות הלילה במרחב.",
-      "link": "https://hagizra.news/#msg-13711631f7a9",
-      "body": "טול כרם | חיילנו בפעילות הלילה במרחב.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/200b6b3ec8a1.bin"
+      "id": "b17f054d5b63",
+      "title": "מצא את האשמים 🤮🤮 |",
+      "link": "https://hagizra.news/#msg-b17f054d5b63",
+      "body": "מצא את האשמים 🤮🤮 |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9e706e7e828c.png"
       ],
       "time": null,
       "channelName": null,
@@ -594,16 +580,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "51e3a4a2df0a",
-      "title": "'שישרף להם הכפר' | שריפה פרצה כתוצאה מירי פצצות גז של כוחות צה''ל בכפר מאליק, צפונית-מזרחית לרמאללה.",
-      "link": "https://hagizra.news/#msg-51e3a4a2df0a",
-      "body": "'שישרף להם הכפר' | שריפה פרצה כתוצאה מירי פצצות גז של כוחות צה''ל בכפר מאליק, צפונית-מזרחית לרמאללה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/828cbe058c17.bin"
-      ],
+      "id": "f1050e4985a4",
+      "title": "מיצרי הורמוז | כתב של סוכנות הידיעות האיראנית תסנים במיצר הורמוז: חיל הים של משמרות המהפכה מהדק את אחיזתו במפרץ הפרסי וב",
+      "link": "https://hagizra.news/#msg-f1050e4985a4",
+      "body": "מיצרי הורמוז | כתב של סוכנות הידיעות האיראנית תסנים במיצר הורמוז: חיל הים של משמרות המהפכה מהדק את אחיזתו במפרץ הפרסי ובמצר הורמוז, כאשר ביממה האחרונה נאלצו שש ספינות לעגון ולהישמע להנחיות לאחר שקיבלו אזהרות תקיפות, תוך שאיראן מבהירה כי לא תאפשר לכלים ימיים לעבור בניגוד לנהליה אף אם יזכו לגיבוי מארצות הברית.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -612,15 +595,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "3b2e85f46d81",
-      "title": "מצור על האויב | צה''ל הגביל הלילה את התנועה למשך שעות, מאות כלי רכב פלסטיניים עמדו בפקקים במחסום ג'בע, שמצפון לירושלים.",
-      "link": "https://hagizra.news/#msg-3b2e85f46d81",
-      "body": "מצור על האויב | צה''ל הגביל הלילה את התנועה למשך שעות, מאות כלי רכב פלסטיניים עמדו בפקקים במחסום ג'בע, שמצפון לירושלים.",
+      "id": "e83b60dd08ea",
+      "title": "תשובה לגל הפיגועים | את רון כץ צפוי להחליף מוחמד אבו אל-היג'א, שיכהן כח\"כ הערבי הראשון מטעם יש עתיד.",
+      "link": "https://hagizra.news/#msg-e83b60dd08ea",
+      "body": "תשובה לגל הפיגועים | את רון כץ צפוי להחליף מוחמד אבו אל-היג'א, שיכהן כח\"כ הערבי הראשון מטעם יש עתיד. (דביר ג'ברה)",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3e06e1f4cbdb.jpg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2fef9dfe75d1.png"
       ],
       "time": null,
       "channelName": null,
@@ -630,18 +613,28 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "ea68745349c6",
-      "title": "טובאס | פעילות מסיבית של כוחותינו בכפרי המרחב והעיר הלילה.",
-      "link": "https://hagizra.news/#msg-ea68745349c6",
-      "body": "טובאס | פעילות מסיבית של כוחותינו בכפרי המרחב והעיר הלילה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/00f4c7d98686.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/cc9e933b352e.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4ba9aa05d0ee.bin"
-      ],
+      "id": "09b0a715c752",
+      "title": "משפחה מורחבת 🤭 | ראש האופוזיציה יאיר לפיד על התפטרותו של כץ: \"רון, חבר ותיק ביש עתיד ומעמודי התווך של מנגנון השטח המפלג",
+      "link": "https://hagizra.news/#msg-09b0a715c752",
+      "body": "משפחה מורחבת 🤭 | ראש האופוזיציה יאיר לפיד על התפטרותו של כץ: \"רון, חבר ותיק ביש עתיד ומעמודי התווך של מנגנון השטח המפלגתי, חבר שלי וימשיך להיות חבר במשפחתנו המורחבת. מודה על שנים של שירות לציבור הישראלי. מאחל לו בהצלחה בהמשך דרכו\".",
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-26T07:22:41.208Z"
+    },
+    {
+      "id": "4f4027f31b90",
+      "title": "אצבע בעין | דובר הכוחות המזוינים של איראן, גנרל-מג\"ד שקארצ'י, תוקף בחריפות את וושינגטון וטוען כי ארה\"ב נכשלה במאמציה להח",
+      "link": "https://hagizra.news/#msg-4f4027f31b90",
+      "body": "אצבע בעין | דובר הכוחות המזוינים של איראן, גנרל-מג\"ד שקארצ'י, תוקף בחריפות את וושינגטון וטוען כי ארה\"ב נכשלה במאמציה להחליש את איראן ולהשיג שליטה במצר הורמוז, כאשר לדבריו הממשל האמריקני שרוי בכאוס ומחפש אסטרטגיה חדשה שתוצאותיה תלויות באישור ישראלי, ובמקביל מזהיר כי לקראת ביקור ראש ממשלת ישראל בארה\"ב גוברת הסבירות לתקיפה אווירית או קרקעית, תרחישים שאליהם איראן ערוכה ומוכנה באופן מלא.",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -650,16 +643,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "7dda601c246f",
-      "title": "לאחר הצו מבית המשפט | בשעות האחרונות פירקו את שטיבלך 'זיו יהודה' ברחוב חי טייב בעיר ב\"ב.",
-      "link": "https://hagizra.news/#msg-7dda601c246f",
-      "body": "לאחר הצו מבית המשפט | בשעות האחרונות פירקו את שטיבלך 'זיו יהודה' ברחוב חי טייב בעיר ב\"ב.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d9402de088e2.jpg"
-      ],
+      "id": "4f247c0af588",
+      "title": "בוקר טוב לצה\"ל | יוסי יהושוע: כוחות צה״ל הגיעו לזירת הצתת המסגד בכפר קוסרה, איתרו את כתובות הגרפיטי ופתחו בסריקות אחר הח",
+      "link": "https://hagizra.news/#msg-4f247c0af588",
+      "body": "בוקר טוב לצה\"ל | יוסי יהושוע: כוחות צה״ל הגיעו לזירת הצתת המסגד בכפר קוסרה, איתרו את כתובות הגרפיטי ופתחו בסריקות אחר החשודים שנמלטו.משטרת מחוז ש״י תאסוף ממצאים, ובמערכת הביטחון מגנים את האירוע ומבטיחים למצות את הדין עם המעורבים.",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -668,16 +658,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "e0db9a426857",
-      "title": "\"דם יהודי אינו הפקר\" | מתיישבים הציתו מסגד וריססו גרפיטי 'נקמה' בעיר קוסרה, מדרום לשכם.",
-      "link": "https://hagizra.news/#msg-e0db9a426857",
-      "body": "\"דם יהודי אינו הפקר\" | מתיישבים הציתו מסגד וריססו גרפיטי 'נקמה' בעיר קוסרה, מדרום לשכם.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/98d72f99ce6b.bin"
-      ],
+      "id": "c1f7b061fbf2",
+      "title": "אומה רצחנית | יוסף חדאד: בשנת 1972 גולדה מאיר בראיון אמרה את המשפט המפורסם ביחס לפלסטינים: \"אם הערבים יניחו את נשקם, לא ",
+      "link": "https://hagizra.news/#msg-c1f7b061fbf2",
+      "body": "אומה רצחנית | יוסף חדאד: בשנת 1972 גולדה מאיר בראיון אמרה את המשפט המפורסם ביחס לפלסטינים: \"אם הערבים יניחו את נשקם, לא תהיה יותר מלחמה. אם ישראל תניח את נשקה, לא תהיה יותר מדינת ישראל\".אגב היא בכוונה נמנעה מלקרוא להם פלסטינים, זהות שאימצו רק כמה שנים לפני כן כשאש\"ף קם, כי היא תמיד אמרה שאין דבר כזה עם פלסטיני וגם לה עצמה הייתה ת.ז \"פלסטינית\" כי כך נקרא האיזור באותו זמן תחת המנדט הבריטי: פלשתינה-א",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -686,16 +673,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "82b2ae536a5e",
-      "title": "צהל בעונש קולקטיבי לתושבי גוש עציון | מוקדם יותר הלילה צה''ל חסם את ציר 60 למעבר ליהודים והערבים כאחד בתגובה להפגנות שמת",
-      "link": "https://hagizra.news/#msg-82b2ae536a5e",
-      "body": "צהל בעונש קולקטיבי לתושבי גוש עציון | מוקדם יותר הלילה צה''ל חסם את ציר 60 למעבר ליהודים והערבים כאחד בתגובה להפגנות שמתיישבים באזור לאחר שפרסמתי את המקרה מהר מאוד הציר נפתח, אבל אסור להתרגל לזה! צהל באופן חריג מעניש את היהודים בתגובה להפגנות שעשו וחוסמים את המעבר גם ליהודים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0a9bb75d4202.jpg"
-      ],
+      "id": "dc2ffc7377a3",
+      "title": "שיכור מטרלול | השר עמיחי שיקלי לאדמקר וישראל כהן בקול ברמה: \"יאיר גולן שיכור מכח מתלהב מהפריימריז של נבחרת המטורללים שלו",
+      "link": "https://hagizra.news/#msg-dc2ffc7377a3",
+      "body": "שיכור מטרלול | השר עמיחי שיקלי לאדמקר וישראל כהן בקול ברמה: \"יאיר גולן שיכור מכח מתלהב מהפריימריז של נבחרת המטורללים שלו, אחד יותר דפוק מהשני ובתוך האקלים של הקנאות המטורפת מרשה לעצמו להשתלח בציבור המתישבים ביו\"ש\".",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -704,13 +688,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "7659a5f8ed42",
-      "title": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: ",
-      "link": "https://hagizra.news/#msg-7659a5f8ed42",
-      "body": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: \"הנחתי את גופי המודיעין של... חלק מההוכחות | \"מאז תחילת יולי תיעדנו פעילות אינטנסיבית של לווייני ריגול רוסיים מעל מדינות המפרץ ומתקנים צבאיים אמריקניים הממוקמים בהן. התמונות הללו מגיעות לידי איראן\", אמר זלנסקי. \"במקביל, קיימת התאמה ברורה בין צילומי הלוויין הרוסיים של האתרים הללו ",
+      "id": "01b2da0642bd",
+      "title": "העזיבות ביש עתיד נמשכות | ח״כ רון כץ מצטרף לבועז טופורובסקי, ירון לוי ועידן רול שהודיעו אף הם על התפטרות או פרישה על רקע",
+      "link": "https://hagizra.news/#msg-01b2da0642bd",
+      "body": "העזיבות ביש עתיד נמשכות | ח״כ רון כץ מצטרף לבועז טופורובסקי, ירון לוי ועידן רול שהודיעו אף הם על התפטרות או פרישה על רקע ההיחלשות בסקרים של \"ביחד\"... ריאליזם | השכל הישר אומר, שגם אילו הם היו מתמודדים בבחירות הקרובות ברשימת ביחד, הם לא היו נכנסים לכנסת, ככה שהם לא הפסידו כלום בפרישתם.",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -719,13 +703,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     },
     {
-      "id": "f6e1a8002019",
-      "title": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: ",
-      "link": "https://hagizra.news/#msg-f6e1a8002019",
-      "body": "רוסיה עוזרת לאיראן | נשיא אוקראינה וולודימיר זלנסקי מאשר את הדיווחים על כך שרוסיה מסייעת לאיראן לפגוע בנכסים אמריקניים: \"הנחתי את גופי המודיעין שלנו לשתף את שותפינו עם המידע שיש ברשותנו על כך\". (אסף רוזנצוויג)",
+      "id": "b95362345e12",
+      "title": "תימן | קרבות קרקעיים בין החות'ים לנאמני סעודיה: ערוצים שיעים מדווחים הלילה על עימותים וחילופי אש בין החות'ים ובין הכוחות",
+      "link": "https://hagizra.news/#msg-b95362345e12",
+      "body": "תימן | קרבות קרקעיים בין החות'ים לנאמני סעודיה: ערוצים שיעים מדווחים הלילה על עימותים וחילופי אש בין החות'ים ובין הכוחות הנאמנים לסעודיה באזור מחוז אלג'וף - שם תקפה אתמול סעודיה מהאוויר.מחוז אלג'וף נושק למחוז צנעא - הבירה החות'ית והמרכז השלטוני שלהם.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f09026c6fa55.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 19,
@@ -734,7 +721,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T04:43:50.436Z"
+      "firstSeen": "2026-07-26T07:22:41.208Z"
     }
   ],
   "errors": [
