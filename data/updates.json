@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T23:51:04.993Z",
+  "generatedAt": "2026-07-27T01:24:28.647Z",
   "sources": [
     {
       "id": "blackcat",
@@ -43,24 +43,6 @@
       "firstSeen": "2026-07-08T18:19:10.221Z"
     },
     {
-      "id": "db4d3a1087b1",
-      "title": "שער יתד של מחר |",
-      "link": "https://hagizra.news/#msg-db4d3a1087b1",
-      "body": "שער יתד של מחר |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/72edd9d9c2ae.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-11T23:10:25.352Z"
-    },
-    {
       "id": "fedcdfb6ac93",
       "title": "אירביל |",
       "link": "https://hagizra.news/#msg-fedcdfb6ac93",
@@ -70,7 +52,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -421,203 +403,6 @@
       "firstSeen": "2026-07-26T21:49:59.399Z"
     },
     {
-      "id": "976387eeadeb",
-      "title": "אופס...",
-      "link": "https://hagizra.news/#msg-976387eeadeb",
-      "body": "אופס... הגעת למגבלת התמונות של היום | טראמפ ממשיך בציוצים:",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/cf9dbac966d8.png",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bd0d182b85c7.jpeg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b20bce2ecc23.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T21:49:59.399Z"
-    },
-    {
-      "id": "3f86399be3f3",
-      "title": "מרן ראש הישיבה שליט\"א בזעקה גדולה ודחופה: \"לשמור את היתומים מבושה וצער\" מרן ראש ישיבת סלבודקא הגאון הגדול רבי משה הלל הי",
-      "link": "https://hagizra.news/#msg-3f86399be3f3",
-      "body": "מרן ראש הישיבה שליט\"א בזעקה גדולה ודחופה: \"לשמור את היתומים מבושה וצער\" מרן ראש ישיבת סלבודקא הגאון הגדול רבי משה הלל הירש שליט\"אנחשף למקרים הקשים של 93 היתומים והיתומותהניצבים לפני חתונתם עם אפס יכולת לממן את ההוצאות.מרן שליט\"א: \"התורמים יזכו במידה כנגד מידה להינצל גם הם בימי בין הזמנים מכל צרה ופגע\" לעזרה ל-93 חתנים וכלות הקליקו כאן>>> https://www.kupat.org.il/Project/2492/?source=gizra",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/40cf91863661.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T21:49:59.399Z"
-    },
-    {
-      "id": "d8c44e58076d",
-      "title": "צודק!",
-      "link": "https://hagizra.news/#msg-d8c44e58076d",
-      "body": "צודק! | ניו יורק פוסט: הסנאטור האמריקאי ג'ון קנדי: טראמפ אוהב את הרעיון של תקיפות יומיות נגד איראן.צריך להגביר עליהם את הלחץ במקום לעצור את התקיפות בשביל משא ומתן, לפעמים צריך להרוג כמה תרנגולות כדי להפחיד את הקופים.",
-      "time": null,
-      "channelName": null,
-      "position": 7,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "75023e2abf5e",
-      "title": "האיראנים מאיימים במשוואות | יו\"ר הוועדה לביטחון לאומי ומדיניות החוץ בפרלמנט האיראני אבראהים עזיזי: \"כל תקיפה נגד איראן ת",
-      "link": "https://hagizra.news/#msg-75023e2abf5e",
-      "body": "האיראנים מאיימים במשוואות | יו\"ר הוועדה לביטחון לאומי ומדיניות החוץ בפרלמנט האיראני אבראהים עזיזי: \"כל תקיפה נגד איראן תמיד כרוכה במחיר, וזה נכון גם היום. ארה\"ב וישראל מודעות לכך היטב. גם אוקראינה עשויה להבין בקרוב שאיראן אינה מניחה לפעולות לעבור ללא תגובה. רשימת אלו שטעו בחישוב ממשיכה לגדול\". (ספיר ליפקין)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/831d28553d2c.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 8,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "1383cbd2f8ff",
-      "title": "האמריקאים מוכנים למלחמה | הוול סטריט ג'ורנל: הצבא האמריקני הכין תוכנית צבאית מקיפה למלחמה כוללת נגד איראן, שאמורה להתחיל",
-      "link": "https://hagizra.news/#msg-1383cbd2f8ff",
-      "body": "האמריקאים מוכנים למלחמה | הוול סטריט ג'ורנל: הצבא האמריקני הכין תוכנית צבאית מקיפה למלחמה כוללת נגד איראן, שאמורה להתחיל בכל רגע נתון שטראמפ יבחר ולפי הוראתו הישירה של טראמפ!",
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "94daec8b7eb8",
-      "title": "לקיים בנו חכמי ישראל | במהלך מעמד כבוד התורה לתלמידי ישיבת 'אהבת ישראל' מאלעד שהתקיים במעונו של האדמו\"ר מויז'ניץ במושב א",
-      "link": "https://hagizra.news/#msg-94daec8b7eb8",
-      "body": "לקיים בנו חכמי ישראל | במהלך מעמד כבוד התורה לתלמידי ישיבת 'אהבת ישראל' מאלעד שהתקיים במעונו של האדמו\"ר מויז'ניץ במושב אורה, חש האדמו\"ר בחולשה קלה ונכנס לחדרו. האדמו\"ר שוהה כעת בדירתו במושב אורה. הרבו בתפילה על האדמו\"ר רבי ישראל בן לאה אסתר. (נתי קאליש)",
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "ee30e61becbe",
-      "title": "שער המבשר | שנה למעצרים.",
-      "link": "https://hagizra.news/#msg-ee30e61becbe",
-      "body": "שער המבשר | שנה למעצרים. מזכירים את שביתת הרעב של חה״כ פרוש.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2f21548acb13.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "85d778edfbfd",
-      "title": "הקול קול יעקב, והידיים ידי עשו | לוחמינו היקרים שאף אחד לא יבלבל אתכם - אתם משרתים בצבא ההגנה לישראל ולא צבא ההגנה לישמע",
-      "link": "https://hagizra.news/#msg-85d778edfbfd",
-      "body": "הקול קול יעקב, והידיים ידי עשו | לוחמינו היקרים שאף אחד לא יבלבל אתכם - אתם משרתים בצבא ההגנה לישראל ולא צבא ההגנה לישמעאל. (הלל ביטון רוזן)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/84750643c9d9.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "0c01d4009c6c",
-      "title": "מתחמק | צה״ל מודה הערב כי הטיול שעבר בכפר הפלסטיני תל ביום שישי בבוקר, היה ידוע לצה״ל שעות לפני שיצא לדרך - ולמרות זאת כ",
-      "link": "https://hagizra.news/#msg-0c01d4009c6c",
-      "body": "מתחמק | צה״ל מודה הערב כי הטיול שעבר בכפר הפלסטיני תל ביום שישי בבוקר, היה ידוע לצה״ל שעות לפני שיצא לדרך - ולמרות זאת כוחות הצבא לא פעלו למנוע את הטיול או לאבטח אותו.הדברים נאמרו הבוקר בידי יעל שבח מחוות גלעד בראיון לרינו צרור, והערב דובר צה״ל מאשר: ״התקבל מידע אודות הטיול מספר שעות לפני יציאתו״. ועם זאת מדגישים בצה״ל, כי הטיול לא אושר או תואם בצירים הנדרשים, וכי נדרש לקיים תהליך אישור סדור כדי ל",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "0c1e8dd7635f",
-      "title": "אז למה הוא מחכה?",
-      "link": "https://hagizra.news/#msg-0c1e8dd7635f",
-      "body": "אז למה הוא מחכה? | גורמים רשמיים אמרו לוול סטריט ג'ורנל כי מפקד סנטקום אדמירל בראד קופר העריך כי במקרה של תקיפה רחבה באיראן - ארה\"ב תוכל להתמודד עם המחסור היחסי בטילי פטריוט בכך שמלכתחילה תפגע בצורה קשה ביכולת של איראן לשגר טילים במספרים גדולים.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "c74194094a37",
-      "title": "סיכום חדשות היום | (זירת החדשות) באיראן אומרים: נמשכים חילופי המסרים עם ארה\"ב; נפסיק את התקיפות אם היא לא תתקוף.",
-      "link": "https://hagizra.news/#msg-c74194094a37",
-      "body": "סיכום חדשות היום | (זירת החדשות) באיראן אומרים: נמשכים חילופי המסרים עם ארה\"ב; נפסיק את התקיפות אם היא לא תתקוף. שגריר ארה\"ב לאו\"ם מייק וולץ: טראמפ נותן מרחב לשיחות עם איראן. נשיא סוריה א-שרע: פועלים לגבש הסכם ביטחוני שיסלול את הדרך לשלום עם ישראל, אין לנו עניין בעימות. תוצאות הפריימריז בציונות הדתית: סמוטריץ', סטרוק, רוטמן, סוכות וטל בחמישיה הראשונה. הקבינט אישר להכניס את מועצת השלום לרצועת עזה, ",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
-      "id": "2a6ac6cb1806",
-      "title": "האנטישמיות בעולם | משטרת טורונטו חוקרת אירוע ירי לעבר סניף של רשת מאפיות.",
-      "link": "https://hagizra.news/#msg-2a6ac6cb1806",
-      "body": "האנטישמיות בעולם | משטרת טורונטו חוקרת אירוע ירי לעבר סניף של רשת מאפיות. סניף נוסף הושחת וחלון נופץ. נגרם נזק גדול, אין נפגעים. (פרבר)",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T22:48:18.872Z"
-    },
-    {
       "id": "aae763015ee7",
       "title": "תמונה",
       "link": "https://black-cat.thechats.click/#msg-aae763015ee7",
@@ -642,7 +427,7 @@
       "body": "מגיפת האבולה | רויטרס: קונגו מודיעה כי מקרי אבולה מאומתים עלו ל-3,200, כולל 1,405 מקרי מוות.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -660,7 +445,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -675,7 +460,7 @@
       "body": "שביתת נשק? | כטב\"ם איראני תקף את מפקדות המפלגות הבדלניות (הכורדים) ליד הבסיס האמריקאי בארביל - עיראק.",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -693,7 +478,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -708,7 +493,7 @@
       "body": "בקשה מהגולשים | כדי שנדע לתקן הודעות במקרה של מכשולות רוחניים ח\"ו העולים בשגגה או במקרה של טעויות הקלדה או הודעות לא מובנות, אנא דווחו לנו על ההודעה ע\"י הקשה על לחצן ה 🏳️ שמעל לכל הודעה.שימו לב: אנו קוראים כל דיווח ומשתדלים לתקן את כל הטעון תיקון.תודה על שיתוף הפעולה.",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -717,10 +502,130 @@
       "firstSeen": "2026-07-26T23:51:04.993Z"
     },
     {
-      "id": "cc61c5b3dbca",
-      "title": "הבהרה והתנצלות | היום אחה\"צ עלתה לאתר הודעה ובה מונח קלוקל שאינו עולה בקנה אחד עם הרמה הרוחנית המתבקשת ואף חמור מזה.אנו ",
-      "link": "https://hagizra.news/#msg-cc61c5b3dbca",
-      "body": "הבהרה והתנצלות | היום אחה\"צ עלתה לאתר הודעה ובה מונח קלוקל שאינו עולה בקנה אחד עם הרמה הרוחנית המתבקשת ואף חמור מזה.אנו מתנצלים מעומק הלב על התקלה החמורה ונפעל להבא להיזהר בכפליים כדי שח\"ו לא תארע תקלה על ידינו.בתקווה להבנה - המנהלים והמעדכנים.",
+      "id": "653323cfc301",
+      "title": "מוצלח | חיילנו בפעילות ומעצרים בכפר דיר ג'ריר, מזרחית לרמאללה.",
+      "link": "https://hagizra.news/#msg-653323cfc301",
+      "body": "מוצלח | חיילנו בפעילות ומעצרים בכפר דיר ג'ריר, מזרחית לרמאללה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e5fdfb6f3360.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0cac826e8b20.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ea097627ff20.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "ae16d5211017",
+      "title": "תנו בראש | מקבץ תיעודים ערביים מפעילות נרחבת של כוחותינו הלילה בתוקוע, מדרום-מזרח לבית לחם.",
+      "link": "https://hagizra.news/#msg-ae16d5211017",
+      "body": "תנו בראש | מקבץ תיעודים ערביים מפעילות נרחבת של כוחותינו הלילה בתוקוע, מדרום-מזרח לבית לחם.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d32c6089778e.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7065c5e74e7e.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/224d8ab843af.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/813cd7e3edfc.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "8fa0749e1966",
+      "title": "חברון | מפעילות כוח צה''ל במחנה אל-ערוב, מצפון לעיר.",
+      "link": "https://hagizra.news/#msg-8fa0749e1966",
+      "body": "חברון | מפעילות כוח צה''ל במחנה אל-ערוב, מצפון לעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/558a1a74066e.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fad447406a71.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "a0318cbd33bd",
+      "title": "בשטח | כוח צה''ל בפעילות בעיירה כפר קדום, מזרחית לקלקיליה.",
+      "link": "https://hagizra.news/#msg-a0318cbd33bd",
+      "body": "בשטח | כוח צה''ל בפעילות בעיירה כפר קדום, מזרחית לקלקיליה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ff083cb086d3.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "b784014c40ad",
+      "title": "ויהי אור | ארטילריה ישראלית לעבר האזורים המזרחיים של שכונת זייתון, דרום-מזרחית לעיר עזה.",
+      "link": "https://hagizra.news/#msg-b784014c40ad",
+      "body": "ויהי אור | ארטילריה ישראלית לעבר האזורים המזרחיים של שכונת זייתון, דרום-מזרחית לעיר עזה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b95e2d85c7fd.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "a3b887b90cb1",
+      "title": "ג'נין | פעילות כוח צה''ל במרכז העיר.",
+      "link": "https://hagizra.news/#msg-a3b887b90cb1",
+      "body": "ג'נין | פעילות כוח צה''ל במרכז העיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/930350fedde5.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5c547135155e.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "ea8aabda60db",
+      "title": "לחסל ללא היסוס | ראשוני: מחבל חוסל בכניסה למחנה הפליטים בשועפט.",
+      "link": "https://hagizra.news/#msg-ea8aabda60db",
+      "body": "לחסל ללא היסוס | ראשוני: מחבל חוסל בכניסה למחנה הפליטים בשועפט.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d4d0fcffdd76.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -729,7 +634,136 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-26T23:51:04.993Z"
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "c6e4067ed659",
+      "title": "הטרור הערבי - ירושלמי | כוחות צה\"ל פועלים בשעה זו במחנה הפליטים קלנדיה בצפון ירושלים ויורים פצצות גז דבר שיצר שריפה במחנ",
+      "link": "https://hagizra.news/#msg-c6e4067ed659",
+      "body": "הטרור הערבי - ירושלמי | כוחות צה\"ל פועלים בשעה זו במחנה הפליטים קלנדיה בצפון ירושלים ויורים פצצות גז דבר שיצר שריפה במחנה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/533fdea78387.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "a55238a92953",
+      "title": "בורא אש | שריפה פרצה במכון קלנדיה עקב פצצות גז שנורו על ידי כוחותינו במהלך פעילות במחנה.",
+      "link": "https://hagizra.news/#msg-a55238a92953",
+      "body": "בורא אש | שריפה פרצה במכון קלנדיה עקב פצצות גז שנורו על ידי כוחותינו במהלך פעילות במחנה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0db6c0e76231.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "61fcfc52e804",
+      "title": "נועז | כוח מיוחד של צה'ל פשטו על ביתו של מבוקש במחנה קלנדיה, מצפון לירושלים.",
+      "link": "https://hagizra.news/#msg-61fcfc52e804",
+      "body": "נועז | כוח מיוחד של צה'ל פשטו על ביתו של מבוקש במחנה קלנדיה, מצפון לירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c2ca4a9485f4.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "ea2341d82dae",
+      "title": "מהומות | כוח צה''ל יורה רימוני גז לעבר מתפרעים במהלך פעילות במחנה קלנדיה.",
+      "link": "https://hagizra.news/#msg-ea2341d82dae",
+      "body": "מהומות | כוח צה''ל יורה רימוני גז לעבר מתפרעים במהלך פעילות במחנה קלנדיה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5839f5c37741.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "0e8f60522f8e",
+      "title": "בהצלחה | כוח צה''ל בפעילות הלילה במחנה קלנדיה מצפון ירושלים.",
+      "link": "https://hagizra.news/#msg-0e8f60522f8e",
+      "body": "בהצלחה | כוח צה''ל בפעילות הלילה במחנה קלנדיה מצפון ירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6adbd11c3a5f.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "80565b781053",
+      "title": "סכנת חיים | כוחות הביטחון הפלסטיניים עצרו אזרח שנכנס לעיר בית לחם ללא תיאום.",
+      "link": "https://hagizra.news/#msg-80565b781053",
+      "body": "סכנת חיים | כוחות הביטחון הפלסטיניים עצרו אזרח שנכנס לעיר בית לחם ללא תיאום.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a6d92fc1f021.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5b5cd801f8da.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
+    },
+    {
+      "id": "0aca9bd030d8",
+      "title": "תיעוד רע מאוד מגזרת בית לחם דרום ירושלים | חייל הושפל וחש סכנה ע\"י תושבי המקום ופוחד לירות, ברשת תוהים אולי הדם היקר לא ",
+      "link": "https://hagizra.news/#msg-0aca9bd030d8",
+      "body": "תיעוד רע מאוד מגזרת בית לחם דרום ירושלים | חייל הושפל וחש סכנה ע\"י תושבי המקום ופוחד לירות, ברשת תוהים אולי הדם היקר לא היה נשפך ביום שישי אם ההרתעה הייתה מספיק חזקה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/984a8bd4f688.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-27T01:24:28.647Z"
     }
   ],
   "errors": [
