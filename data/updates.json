@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:02:20.199Z",
+  "generatedAt": "2026-07-28T23:00:47.131Z",
   "sources": [
     {
       "id": "blackcat",
@@ -343,21 +343,6 @@
       "firstSeen": "2026-07-28T18:18:29.859Z"
     },
     {
-      "id": "3c8af51b9bed",
-      "title": "מתוק | ״נתניהו אמר בפגישה שלינדזי גרהאם היה החבר מספר אחת של ישראל וטראמפ אמר: אני החבר מספר אחת, לינדזי היה שתיים.",
-      "link": "https://hagizra.news/#msg-3c8af51b9bed",
-      "body": "מתוק | ״נתניהו אמר בפגישה שלינדזי גרהאם היה החבר מספר אחת של ישראל וטראמפ אמר: אני החבר מספר אחת, לינדזי היה שתיים. (נדב אלימלך).",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T19:59:07.455Z"
-    },
-    {
       "id": "b5e07bf8b43f",
       "title": "הבטחת הבחירות של בנט",
       "link": "https://black-cat.thechats.click/#msg-b5e07bf8b43f",
@@ -421,7 +406,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -436,7 +421,7 @@
       "body": "עדיין לא סופי | אבל ככל הנראה מערכות ההגנה בירדן ירטו את כל הטילים.",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -451,7 +436,7 @@
       "body": "הירי לירדן | דיווחים ראשוניים מצביעים על כך ששוגרו לפחות שישה טילים.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -469,7 +454,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -478,13 +463,82 @@
       "firstSeen": "2026-07-28T22:02:20.199Z"
     },
     {
-      "id": "9a71dd2224eb",
-      "title": "שיגורי מיירטים בירדן |",
-      "link": "https://hagizra.news/#msg-9a71dd2224eb",
-      "body": "שיגורי מיירטים בירדן |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ed0ce0c405fb.png"
+      "id": "46202b1b4226",
+      "title": "הירי לירדן | תיעודים נוספים מהירוטים.",
+      "link": "https://hagizra.news/#msg-46202b1b4226",
+      "body": "הירי לירדן | תיעודים נוספים מהירוטים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d184b7532f32.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/84baf67dbac2.bin"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-28T23:00:47.131Z"
+    },
+    {
+      "id": "35aa31d5261a",
+      "title": "כיף לשמוע | כמה גולשים נחמדים שהחליטו לשמח אותנו במהלך היום.",
+      "link": "https://hagizra.news/#msg-35aa31d5261a",
+      "body": "כיף לשמוע | כמה גולשים נחמדים שהחליטו לשמח אותנו במהלך היום. תודה לכם על הכח להמשיך 🥰",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/96ead018e587.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/61583c246e1d.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0c12f259c28c.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/52817b6e3fd5.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/482cf831ea67.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f06a6b1eb8a5.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-28T23:00:47.131Z"
+    },
+    {
+      "id": "75a24a0d9a54",
+      "title": "לא רק בירדן | האיראנים תוקפים מטה של האופוזיציה הכורדית בעיר אירביל שבצפון עיראק באמצעות כטב\"מים.",
+      "link": "https://hagizra.news/#msg-75a24a0d9a54",
+      "body": "לא רק בירדן | האיראנים תוקפים מטה של האופוזיציה הכורדית בעיר אירביל שבצפון עיראק באמצעות כטב\"מים.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-28T23:00:47.131Z"
+    },
+    {
+      "id": "60967fb1db13",
+      "title": "האיראנים מיתממים | כתב ערוץ \"אל-מיאדין\" בטהרן: אין מידע רשמי כלשהו מצד איראן בנוגע ל\"התקיפה בירדן\", ואף גורם צבאי לא פרס",
+      "link": "https://hagizra.news/#msg-60967fb1db13",
+      "body": "האיראנים מיתממים | כתב ערוץ \"אל-מיאדין\" בטהרן: אין מידע רשמי כלשהו מצד איראן בנוגע ל\"התקיפה בירדן\", ואף גורם צבאי לא פרסם הצהרה בנושא זה.",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-28T23:00:47.131Z"
+    },
+    {
+      "id": "ff1c885a0b1b",
+      "title": "טוב מאוד | גורם בכיר בארה\"ב: האיראנים ישלמו מחיר כבד על ההתקפה על הבסיסים האמריקניים בירדן.",
+      "link": "https://hagizra.news/#msg-ff1c885a0b1b",
+      "body": "טוב מאוד | גורם בכיר בארה\"ב: האיראנים ישלמו מחיר כבד על ההתקפה על הבסיסים האמריקניים בירדן.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -493,13 +547,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "00fbf7308328",
-      "title": "ראשוני | שיגורי טילים מאיראן.",
-      "link": "https://hagizra.news/#msg-00fbf7308328",
-      "body": "ראשוני | שיגורי טילים מאיראן. ככל הנראה לירדן |",
+      "id": "a5450b768498",
+      "title": "האמריקאים מאשרים | צבא ארה\"ב: היום בשעה 17:45 שעון מזרח ארה\"ב, כוחות משמרות המהפכה שיגרו מספר טילים בליסטיים מאיראן אל ע",
+      "link": "https://hagizra.news/#msg-a5450b768498",
+      "body": "האמריקאים מאשרים | צבא ארה\"ב: היום בשעה 17:45 שעון מזרח ארה\"ב, כוחות משמרות המהפכה שיגרו מספר טילים בליסטיים מאיראן אל עבר בסיס אמריקאי בירדן. (בן יניב)",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -508,17 +562,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "d1f956032b4d",
-      "title": "תודה לשמאל הבזוי | כלי תקשורת איראניים מסקרים את הפגנת השמאל הקיצוני נגד ה'טרור היהודי'.",
-      "link": "https://hagizra.news/#msg-d1f956032b4d",
-      "body": "תודה לשמאל הבזוי | כלי תקשורת איראניים מסקרים את הפגנת השמאל הקיצוני נגד ה'טרור היהודי'.",
+      "id": "56ca6950d2e0",
+      "title": "גם אנחנו | ברקע הירי האיראני אל עבר ירדן, הבכיר האיראני סייד מוחמד מרנדי מצייץ לפני זמן קצר: ״איראן מוכנה לחלוטין למלחמה",
+      "link": "https://hagizra.news/#msg-56ca6950d2e0",
+      "body": "גם אנחנו | ברקע הירי האיראני אל עבר ירדן, הבכיר האיראני סייד מוחמד מרנדי מצייץ לפני זמן קצר: ״איראן מוכנה לחלוטין למלחמה כוללת.״ (יאיר גולדבלט)",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c5796e25bb7f.png",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a5c34975a952.png",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1cd35d956a8c.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/ecbdd1b1c249.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -528,17 +580,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "b1d16a82d7f0",
-      "title": "ראשוני | שיגורי טילים מאיראן.",
-      "link": "https://hagizra.news/#msg-b1d16a82d7f0",
-      "body": "ראשוני | שיגורי טילים מאיראן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bc66e735234e.png",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/047d987a61f0.png"
-      ],
+      "id": "3cdc85efc724",
+      "title": "עכשיו נחכה לתגובה | עמיחי שטיין: המתקפה מסיימת 72 שעות שבהן איראן לא שיגרה טילים לעבר מדינות המפרץ ויעדים אמריקנים.",
+      "link": "https://hagizra.news/#msg-3cdc85efc724",
+      "body": "עכשיו נחכה לתגובה | עמיחי שטיין: המתקפה מסיימת 72 שעות שבהן איראן לא שיגרה טילים לעבר מדינות המפרץ ויעדים אמריקנים.",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -547,13 +595,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "3bc213569e8c",
-      "title": "פחדנים | פוליטיקו: מדינות בעלות הברית האירופיות מסרבות לתמוך בסיור ימי בהובלת ארה\"ב במצרי הורמוז עד שיהיו בטוחות שההפסקה",
-      "link": "https://hagizra.news/#msg-3bc213569e8c",
-      "body": "פחדנים | פוליטיקו: מדינות בעלות הברית האירופיות מסרבות לתמוך בסיור ימי בהובלת ארה\"ב במצרי הורמוז עד שיהיו בטוחות שההפסקה עם איראן תחזיק מעמד.",
+      "id": "9c7adb96bb9f",
+      "title": "נשמע טוב מידי | סוכנות הידיעות הגרמנית DPA: \"גורמי מודיעין פקיסטניים מעריכים כי ארה\"ב עשויה לפתוח ב'מתקפה קרקעית מוגבלת'",
+      "link": "https://hagizra.news/#msg-9c7adb96bb9f",
+      "body": "נשמע טוב מידי | סוכנות הידיעות הגרמנית DPA: \"גורמי מודיעין פקיסטניים מעריכים כי ארה\"ב עשויה לפתוח ב'מתקפה קרקעית מוגבלת' כדי לנתק את נמלי החוף הדרומי של איראן.\" (חננאל אביב)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -562,13 +610,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "1ebb879de274",
-      "title": "נזק מטורף | וול סטריט ג'ורנל: שיבושים במקביל בשני נתיבי שיט קריטיים, מצר הורמוז ומצר באב אל-מנדב, שיבשו בערך רבע מאספקת ",
-      "link": "https://hagizra.news/#msg-1ebb879de274",
-      "body": "נזק מטורף | וול סטריט ג'ורנל: שיבושים במקביל בשני נתיבי שיט קריטיים, מצר הורמוז ומצר באב אל-מנדב, שיבשו בערך רבע מאספקת הנפט הגולמי בעולם.מצר הורמוז אחראי על עשרים אחוזים מהנפט ובאב אל-מנדב על עוד חמישה אחוזים.",
+      "id": "190a89370769",
+      "title": "שיגורים נוספים מאיראן |",
+      "link": "https://hagizra.news/#msg-190a89370769",
+      "body": "שיגורים נוספים מאיראן |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a6f07de7c50a.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -577,13 +628,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "7188f9f5a591",
-      "title": "סיכום חדשות היום | (הגיזרה) 🤝 פגישת נתניהו וטראמפ | בתום פגישתם בבית הלבן, הגדיר ראש הממשלה נתניהו את השיחה כאחת הטובות",
-      "link": "https://hagizra.news/#msg-7188f9f5a591",
-      "body": "סיכום חדשות היום | (הגיזרה) 🤝 פגישת נתניהו וטראמפ | בתום פגישתם בבית הלבן, הגדיר ראש הממשלה נתניהו את השיחה כאחת הטובות ביותר שהיו לו עם נשיא ארה\"ב, וציין כי השניים סיכמו לפעול יחד כדי למנוע מאיראן להגיע לנשק גרעיני. ✈️ חשיפת שר הביטחון | שר הביטחון ישראל כ\"ץ חשף בטעות, בניגוד להנחיות הצנזורה, כי מטוסי קרב אמריקניים ממריאים משטח ישראל כדי לקחת חלק בתקיפות באיראן. 💥 הסלמה מול איראן והאיומים הדדיי",
+      "id": "d4f9ba93f9fa",
+      "title": "הירי לירדן | היירוטים כפי שצולמו מירושלים.",
+      "link": "https://hagizra.news/#msg-d4f9ba93f9fa",
+      "body": "הירי לירדן | היירוטים כפי שצולמו מירושלים.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1a199f9d9865.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -592,16 +646,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "d9eaa8990008",
-      "title": "כיבוש מלא | שר האנרגיה אלי כהן: \"לא יהיה מנוס מהשתלטות בטחונית מלאה על רצועת עזה, חמאס יתפרקו מנשקם\".",
-      "link": "https://hagizra.news/#msg-d9eaa8990008",
-      "body": "כיבוש מלא | שר האנרגיה אלי כהן: \"לא יהיה מנוס מהשתלטות בטחונית מלאה על רצועת עזה, חמאס יתפרקו מנשקם\".",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/729026d303f9.bin"
-      ],
+      "id": "b36013ef4e46",
+      "title": "פגיעה בירדן | הערבים מדווחים | טילים פגעו ישירות בבסיס \"מוואפק אל-סולטאני\" בירדן.",
+      "link": "https://hagizra.news/#msg-b36013ef4e46",
+      "body": "פגיעה בירדן | הערבים מדווחים | טילים פגעו ישירות בבסיס \"מוואפק אל-סולטאני\" בירדן.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -610,13 +661,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "e19a0b1a2490",
-      "title": "יהיה מעניין | בשעה 04:00 שעון ישראל- רה״מ נתניהו בריאיון עם שון האניטי בפוקס ניוז.",
-      "link": "https://hagizra.news/#msg-e19a0b1a2490",
-      "body": "יהיה מעניין | בשעה 04:00 שעון ישראל- רה״מ נתניהו בריאיון עם שון האניטי בפוקס ניוז. (בן יניב)",
+      "id": "9bd5c8296038",
+      "title": "תבוסתנות אמריקאית | ערוץ ערבי: אין משא ומתן ואיראן לא הסכימה לשום הפסקת אש.",
+      "link": "https://hagizra.news/#msg-9bd5c8296038",
+      "body": "תבוסתנות אמריקאית | ערוץ ערבי: אין משא ומתן ואיראן לא הסכימה לשום הפסקת אש. ארה\"ב החליטה באופן חד צדדי להפסיק לתקוף; זו בחירתה.",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -625,13 +676,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "9ca5765453f7",
-      "title": "אנטישמיות קשה | ניו יורק: גבר חמוש בפטיש פרץ למחנה קיץ יהודי, דחף ילד ונשך איש צוות במהלך השתלטות של המדריכים",
-      "link": "https://hagizra.news/#msg-9ca5765453f7",
-      "body": "אנטישמיות קשה | ניו יורק: גבר חמוש בפטיש פרץ למחנה קיץ יהודי, דחף ילד ונשך איש צוות במהלך השתלטות של המדריכים",
+      "id": "6647252b8c8b",
+      "title": "פגיעה בירדן |",
+      "link": "https://hagizra.news/#msg-6647252b8c8b",
+      "body": "פגיעה בירדן |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c9cb3035b90c.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -640,13 +694,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "8f2d2db131be",
-      "title": "# <\"חויה בקליק במבצע קיץ מטורף💥 **המשחק 'סינק' שכבש אלפי משפחות וגם כאן באתר בשנה שעברה חוזר ובגדול והשנה רוכשים את...",
-      "link": "https://hagizra.news/#msg-8f2d2db131be",
-      "body": "# <\"חויה בקליק במבצע קיץ מטורף💥 **המשחק 'סינק' שכבש אלפי משפחות וגם כאן באתר בשנה שעברה חוזר ובגדול והשנה רוכשים את... בוםם💥 | ועכשיו מבצע מטורף ובלעדי לגולשי הגזרה בלבד 20% הנחה על כל התוכניות בחויה בקליק רק עד מחר בחצותהזדרזו לרכוש במחיר שלא יחזור!קוד הקופון \"הגזרה בין הזמנים\" היכנסו לרכוש משחק בהנחה מטורפת למשחק טלפוני ביצירה עצמית שימו לב: אפשר לרכוש את המשחק. ולשחק במועד אחד. המשחק משולב AI",
+      "id": "090b138a4231",
+      "title": "אחרי השיגורים | שמי איראן כעת.",
+      "link": "https://hagizra.news/#msg-090b138a4231",
+      "body": "אחרי השיגורים | שמי איראן כעת.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5ee8c5f635cf.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -655,15 +712,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     },
     {
-      "id": "97dcebe4b34c",
-      "title": "פיצוץ אדיר בלבנון |",
-      "link": "https://hagizra.news/#msg-97dcebe4b34c",
-      "body": "פיצוץ אדיר בלבנון |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a74597235810.png"
+      "id": "8b8fcf11e438",
+      "title": "תיעוד נוסף מירדן |",
+      "link": "https://hagizra.news/#msg-8b8fcf11e438",
+      "body": "תיעוד נוסף מירדן |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5373959afc56.bin"
       ],
       "time": null,
       "channelName": null,
@@ -673,55 +730,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
-    },
-    {
-      "id": "6ad7fd594d02",
-      "title": "משבר במו\"מ?",
-      "link": "https://hagizra.news/#msg-6ad7fd594d02",
-      "body": "משבר במו\"מ? | בכיר אמריקני רשמי לרויטרס: איראן מגזימה עם דרישותיה בנוגע למצר הורמוז, הקהילה הבין-לאומית דוחה אותן בצדק. (12).",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
-    },
-    {
-      "id": "b0feb045d605",
-      "title": "לבנון | הפגזה ארטילרית כבדה על העיירה נבטיה אל-פוקה.",
-      "link": "https://hagizra.news/#msg-b0feb045d605",
-      "body": "לבנון | הפגזה ארטילרית כבדה על העיירה נבטיה אל-פוקה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b668acf49713.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
-    },
-    {
-      "id": "a25a756cb325",
-      "title": "החות'ים לא רגועים | מרכז הסחר הימי הבריטי עדכן על התקרית בים סוף, הספינה והצוות במצב תקין.",
-      "link": "https://hagizra.news/#msg-a25a756cb325",
-      "body": "החות'ים לא רגועים | מרכז הסחר הימי הבריטי עדכן על התקרית בים סוף, הספינה והצוות במצב תקין.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-28T22:02:20.199Z"
+      "firstSeen": "2026-07-28T23:00:47.131Z"
     }
   ],
   "errors": [
