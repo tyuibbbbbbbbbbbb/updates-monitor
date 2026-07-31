@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T01:25:18.343Z",
+  "generatedAt": "2026-07-31T04:53:08.668Z",
   "sources": [
     {
       "id": "blackcat",
@@ -51,7 +51,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -384,192 +384,13 @@
       "firstSeen": "2026-07-30T22:59:02.577Z"
     },
     {
-      "id": "b23a4fbb3cf3",
-      "title": "גם בנופש צריך להזהר | צוותי הרפואה של איחוד הצלה העניקו סיוע רפואי לרוכב קורקינט חשמלי (צעיר כבן 40) שנפצע באורח קל כתוצ",
-      "link": "https://hagizra.news/#msg-b23a4fbb3cf3",
-      "body": "גם בנופש צריך להזהר | צוותי הרפואה של איחוד הצלה העניקו סיוע רפואי לרוכב קורקינט חשמלי (צעיר כבן 40) שנפצע באורח קל כתוצאה מתאונה עצמית בשביל הביטחון בישוב מיצד.החובש יהודה מוקוטוביץ שטיפל בפצוע סיפר שמכיוון שהאיזור לא מואר באופן מלא והפצוע לא הכיר את המקום, הוא פשוט נתקל במכשול לא צפוי והחליק, אבל ב”ה הפצעים היו קלים והצוות שהגיע טיפל בו במהירות וביעילות.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/57adeec73d46.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T22:59:02.577Z"
-    },
-    {
-      "id": "21c0638ea5b6",
-      "title": "בניגוד לדברי טראמפ | ר'אזי חמד, חבר במשלחת המשא ומתן של חמאס, אמר לאל ג'זירה: לא ננקוט בשום צעד בנוגע לפירוק נשק לפני שי",
-      "link": "https://hagizra.news/#msg-21c0638ea5b6",
-      "body": "בניגוד לדברי טראמפ | ר'אזי חמד, חבר במשלחת המשא ומתן של חמאס, אמר לאל ג'זירה: לא ננקוט בשום צעד בנוגע לפירוק נשק לפני שישראל תיסוג מרצועת עזה.",
-      "time": null,
-      "channelName": null,
-      "position": 9,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "41a541f7fd2a",
-      "title": "עוד מצפון עיראק |",
-      "link": "https://hagizra.news/#msg-41a541f7fd2a",
-      "body": "עוד מצפון עיראק |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ee8b933efa93.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f05d86d8bf48.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ee6c65930865.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "4b165fb328ec",
-      "title": "לא מתפרקים | ערוצים המזוהים עם ציר חמאס טוענים כי המסירה תוגבל לנשק כבד (טילים וכו'), בעוד שתשתיות ההתנגדות, כולל מנהרות",
-      "link": "https://hagizra.news/#msg-4b165fb328ec",
-      "body": "לא מתפרקים | ערוצים המזוהים עם ציר חמאס טוענים כי המסירה תוגבל לנשק כבד (טילים וכו'), בעוד שתשתיות ההתנגדות, כולל מנהרות ותמיכה לוגיסטית, יישמרו.",
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "9e7d08f0ede3",
-      "title": "הראשונים שמתנערים | הג'יאהד האיסלאמי: ההסכם שהוכרז בתקשורת בין הפלגים לאויב אינו מדויק.",
-      "link": "https://hagizra.news/#msg-9e7d08f0ede3",
-      "body": "הראשונים שמתנערים | הג'יאהד האיסלאמי: ההסכם שהוכרז בתקשורת בין הפלגים לאויב אינו מדויק. אנו שומרים לעצמנו את הזכות לדחותו בצורתו הנוכחית והמופצת.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "278d8430eb34",
-      "title": "האיראנים התעוררו | תקיפות על הכורדים בסולימניה - צפון עיראק.",
-      "link": "https://hagizra.news/#msg-278d8430eb34",
-      "body": "האיראנים התעוררו | תקיפות על הכורדים בסולימניה - צפון עיראק.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/75b7925e7420.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3275eb3f8a11.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/bf64ceeec476.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/080942184380.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "e2d29bc78dbc",
-      "title": "עיתון המבשר למחר |310726המבשרמייל.pdf",
-      "link": "https://hagizra.news/#msg-e2d29bc78dbc",
-      "body": "עיתון המבשר למחר |310726המבשרמייל.pdf",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "993114782aed",
-      "title": "עוד מהפנטזיה המטופשת | בכיר במועצת השלום אמר ל-N12: \"מהיום הראשון חמאס וישראל אמרו לנו שהם לא מאמינים אחד לשני.",
-      "link": "https://hagizra.news/#msg-993114782aed",
-      "body": "עוד מהפנטזיה המטופשת | בכיר במועצת השלום אמר ל-N12: \"מהיום הראשון חמאס וישראל אמרו לנו שהם לא מאמינים אחד לשני. אז בנינו הצעה שמבוססת על אפס אמון ועל כך שנוודא ביצוע של כל צעד. בפעם הראשונה חמאס והפלגים הפלסטינים הסכימו לפרז את עזה ולהעביר את האחריות לשירותי הביטחון והשירותים האזרחיים לממשלת הטכנוקרטים\". (ברק רביד)",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "255256677f89",
-      "title": "הפנטזיה לפירוק חמאס | בכיר אמריקני נוסף אמר כי המו\"מ היה רגיש מאוד בחודשים האחרונים עד לפריצת הדרך הזו, וכי בשבועות הבאי",
-      "link": "https://hagizra.news/#msg-255256677f89",
-      "body": "הפנטזיה לפירוק חמאס | בכיר אמריקני נוסף אמר כי המו\"מ היה רגיש מאוד בחודשים האחרונים עד לפריצת הדרך הזו, וכי בשבועות הבאים יחל יישומו של ההסכם. הבכיר הוסיף כי בישראל לא אהבו שארה\"ב צירפה את טורקיה וקטאר לוועד המנהל של מועצת השלום, אולם יחד עם מצרים הן עזרו מאוד לתהליך. (ברק רביד)",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "f17801f3a66e",
-      "title": "מלחמות השמאל | חילי טרופר: הייתי מצפה משקמה ברסלר שתתנצל על כך שאמרה שבספטמבר לא יהיה לממשלה צבא.",
-      "link": "https://hagizra.news/#msg-f17801f3a66e",
-      "body": "מלחמות השמאל | חילי טרופר: הייתי מצפה משקמה ברסלר שתתנצל על כך שאמרה שבספטמבר לא יהיה לממשלה צבא.",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
-      "id": "774606242ffc",
-      "title": "אשרי המאמין | דני זקן: הודעת טראמפ על ההסכם לפירוק חמאס מנשקו.",
-      "link": "https://hagizra.news/#msg-774606242ffc",
-      "body": "אשרי המאמין | דני זקן: הודעת טראמפ על ההסכם לפירוק חמאס מנשקו. הא לא יתן לאף אחד אחר לקחת את הקרדיט והפעם בצדק. מעניין יהיה לשמוע מה הפרטים המלאים ואם דרישות ישראל התקבלו. אם זה אכן יוביל לפירוק חמאס מנשקו. הישג אדיר. בראש וראשונה של חיילי צה\"ל שלחמו במפלצות חמאס שנתיים ויותר.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-30T23:56:05.389Z"
-    },
-    {
       "id": "c3ea956e6d4e",
       "title": "דרמה באוסטריה | בהלה גדולה בעיירה שלדמינג שבאוסטריה: חמוש נכנס למסעדה כשרה ואיים על יהודים שישבו במקום, מה שהוביל להזעקת",
       "link": "https://hagizra.news/#msg-c3ea956e6d4e",
       "body": "דרמה באוסטריה | בהלה גדולה בעיירה שלדמינג שבאוסטריה: חמוש נכנס למסעדה כשרה ואיים על יהודים שישבו במקום, מה שהוביל להזעקת כוחות משטרה רבים.בעקבות האירוע פונו כלל הסועדים מהמסעדה, לצד אורחי המלון, עד להשלמת סריקות ובדיקת הזירה. נסיבות האירוע נמצאות בבדיקה.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -584,7 +405,7 @@
       "body": "באר שבע | 8 נפגעו (6 קל, וזוג כבני 75 במצב בינוני) כתוצאה משריפה בבניין מגורים ברחוב אלפסי, כלל הנפגעים פונו לבית חולים להמשך טיפול. (איחוד הצלה)",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -599,7 +420,7 @@
       "body": "עושים לנו את המלאכה | הגרדיאן: ערב הסעודית מתכוננת למתקפה צבאית רחבת היקף נגד החות'ים דרך הים, ואולי גם דרך היבשה, במרכז תימן, על פי מקורות תימנים. צעד זה נועד לשבור את המצור שהוטל על יצוא הנפט שלה דרך דרום ים סוף.תנועות צבאיות בתוך תימן כוללות התעצמות כוחות כהכנה למתקפה אפשרית על מחוז אל-ביידה, מחוז דרום-מרכזי שנפל תחת שליטת החות'ים ב-2020 וב-2021.",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -608,10 +429,77 @@
       "firstSeen": "2026-07-31T01:25:18.343Z"
     },
     {
-      "id": "2522ac0d4787",
-      "title": "הצלחה איראנית | הוול סטריט ג'ורנל, מצטט גורמים אמריקאים: ארצות הברית בוחנת כעת את היקף נוכחותה הצבאית בכווית, בגלל התקיפ",
-      "link": "https://hagizra.news/#msg-2522ac0d4787",
-      "body": "הצלחה איראנית | הוול סטריט ג'ורנל, מצטט גורמים אמריקאים: ארצות הברית בוחנת כעת את היקף נוכחותה הצבאית בכווית, בגלל התקיפות האיראניות החוזרות ונשנות על הבסיסים האמריקאים בכווית.",
+      "id": "eaa7f0476465",
+      "title": "מלחמת רוסיה&אוקראינה | אוקראינה תקפה בכטב\"מים מחסן של חברת המשלוחים הרוסית וויילדבריז בעיר וולגוגרד.",
+      "link": "https://hagizra.news/#msg-eaa7f0476465",
+      "body": "מלחמת רוסיה&אוקראינה | אוקראינה תקפה בכטב\"מים מחסן של חברת המשלוחים הרוסית וויילדבריז בעיר וולגוגרד. (אסף רוזנצוויג)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a746bbe26d06.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0a703ef5fb0c.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/48e0b2a1882a.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "79d8c0cae180",
+      "title": "צבא איראן | תקפנו בסיסים של צבא ארה\"ב בכווית באמצעות כטב\"מים.",
+      "link": "https://hagizra.news/#msg-79d8c0cae180",
+      "body": "צבא איראן | תקפנו בסיסים של צבא ארה\"ב בכווית באמצעות כטב\"מים. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "68822ba86689",
+      "title": "הקטל בדרכים | דיווח ראשוני על תאונה קטלנית בין רכב לאוטובוס בכביש 90 בצומת בית הערבה, הרוג אחד לפחות בזירה נוסף למספר פצ",
+      "link": "https://hagizra.news/#msg-68822ba86689",
+      "body": "הקטל בדרכים | דיווח ראשוני על תאונה קטלנית בין רכב לאוטובוס בכביש 90 בצומת בית הערבה, הרוג אחד לפחות בזירה נוסף למספר פצועים בדרגות שונות. פרטים נוספים בהמשך.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "a9bc1d5f8dac",
+      "title": "עדכון נוסף מקריית יערים | בעקבות הפעילות המשטרתית לאיתור חשוד בגניבת רכב, רחוב בלוך מהכניסה ליישוב ועד הפנייה לרחוב קדוש",
+      "link": "https://hagizra.news/#msg-a9bc1d5f8dac",
+      "body": "עדכון נוסף מקריית יערים | בעקבות הפעילות המשטרתית לאיתור חשוד בגניבת רכב, רחוב בלוך מהכניסה ליישוב ועד הפנייה לרחוב קדושי טלז נסגר לתנועה. גם התחבורה הציבורית אינה נכנסת בשלב זה לתחנות באזור. (קובי ישראל)",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "31f3d8411a90",
+      "title": "אחרי רצף הירידות | המספר בשוקי אסיה נפתח היום עם עליות חדות.",
+      "link": "https://hagizra.news/#msg-31f3d8411a90",
+      "body": "אחרי רצף הירידות | המספר בשוקי אסיה נפתח היום עם עליות חדות. בורסת טוקיו מזנקת ב-4%, סיאול ב-16.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -620,13 +508,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-31T01:25:18.343Z"
+      "firstSeen": "2026-07-31T04:53:08.668Z"
     },
     {
-      "id": "5680791edb36",
-      "title": "מי בדיוק?",
-      "link": "https://hagizra.news/#msg-5680791edb36",
-      "body": "מי בדיוק? | שון אניטי מפוקס ניוז: האם בעקבות ההתקפות האיראניות, ישנם מדינות שמבקשות לשתף פעולה עם ישראל?רה\"מ נתניהו: הרבה יותר ממה שאתה חושב, מעבר לזה לא אוכל להוסיף כרגע...",
+      "id": "2b5c86ff4a4f",
+      "title": "ירי בקריית יערים | המשטרה ביצעה בשעה האחרונה מרדף אחר חשוד בגניבת רכב, שבמהלכו נשמעו יריות.",
+      "link": "https://hagizra.news/#msg-2b5c86ff4a4f",
+      "body": "ירי בקריית יערים | המשטרה ביצעה בשעה האחרונה מרדף אחר חשוד בגניבת רכב, שבמהלכו נשמעו יריות. בעקבות הפעילות נסגרה בשלב זה הכניסה ליישוב מכיוון רחוב התמר עד להודעה חדשה.",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -635,16 +523,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-31T01:25:18.343Z"
+      "firstSeen": "2026-07-31T04:53:08.668Z"
     },
     {
-      "id": "2c7d59283828",
-      "title": "ועוד אחד |",
-      "link": "https://hagizra.news/#msg-2c7d59283828",
-      "body": "ועוד אחד |",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b548d0c9f7ac.bin"
-      ],
+      "id": "dc6acfc676fc",
+      "title": "המתיחות במפרץ | אחרי שבלילה הקודם ארה\"ב שבה לתקוף באיראן - הלילה לא דווח על תקיפות אמריקניות במדינה.",
+      "link": "https://hagizra.news/#msg-dc6acfc676fc",
+      "body": "המתיחות במפרץ | אחרי שבלילה הקודם ארה\"ב שבה לתקוף באיראן - הלילה לא דווח על תקיפות אמריקניות במדינה.",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -653,15 +538,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-31T01:25:18.343Z"
+      "firstSeen": "2026-07-31T04:53:08.668Z"
     },
     {
-      "id": "8cc01dd36c24",
-      "title": "תיעוד נוסף מהפגיעה |",
-      "link": "https://hagizra.news/#msg-8cc01dd36c24",
-      "body": "תיעוד נוסף מהפגיעה |",
+      "id": "3d653628abb5",
+      "title": "פיצוץ המנהרה בלבנון | אלה חלק מאמצעי הלחימה שאותרו בתוך המנהרה.",
+      "link": "https://hagizra.news/#msg-3d653628abb5",
+      "body": "פיצוץ המנהרה בלבנון | אלה חלק מאמצעי הלחימה שאותרו בתוך המנהרה. (ניצן שפירא)",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8438fa849039.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3c65da87f34c.bin"
       ],
       "time": null,
       "channelName": null,
@@ -671,16 +556,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-31T01:25:18.343Z"
+      "firstSeen": "2026-07-31T04:53:08.668Z"
     },
     {
-      "id": "06e0a541087d",
-      "title": "וואו | רגע הפגיעה בעיראק.",
-      "link": "https://hagizra.news/#msg-06e0a541087d",
-      "body": "וואו | רגע הפגיעה בעיראק.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/97de66d8231b.bin"
-      ],
+      "id": "695e74000c73",
+      "title": "מִלִּפְנֵי אָדוֹן חוּלִי אָרֶץ | רעידת אדמה בעוצמה 5.6 הכתה בגבול ברזיל-פרו.",
+      "link": "https://hagizra.news/#msg-695e74000c73",
+      "body": "מִלִּפְנֵי אָדוֹן חוּלִי אָרֶץ | רעידת אדמה בעוצמה 5.6 הכתה בגבול ברזיל-פרו.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -689,7 +571,130 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-07-31T01:25:18.343Z"
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "6bee2d496d98",
+      "title": "תאונות הדרכים | צעיר בן 38 נפצע קשה במהלך רכיבה על אופניים בנוף הגליל.",
+      "link": "https://hagizra.news/#msg-6bee2d496d98",
+      "body": "תאונות הדרכים | צעיר בן 38 נפצע קשה במהלך רכיבה על אופניים בנוף הגליל. פונה לבית החולים האיטלקי בנצרת עם חבלה רב-מערכתית. בנוסף, רוכב אופנוע שנפגע מרכב בכביש 85 סמוך לצומת מורן. חובשים העניקו לו טיפול רפואי ופינו למרכז הרפואי לגליל בנהריה גבר כבן 30 במצב קשה, מורדם ומונשם, עם חבלה רב מערכתית.",
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "2737c3b27bc4",
+      "title": "סלפית | כוח צה''ל בפעילות הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-2737c3b27bc4",
+      "body": "סלפית | כוח צה''ל בפעילות הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c49a95e12788.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/3b66f3b0b1de.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/489f51f64b76.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "79fbe365df4a",
+      "title": "פעילות | כוח צהל יורה פצצות גז לעבר המתחם הרפואי הפלסטיני במרכז רמאללה.",
+      "link": "https://hagizra.news/#msg-79fbe365df4a",
+      "body": "פעילות | כוח צהל יורה פצצות גז לעבר המתחם הרפואי הפלסטיני במרכז רמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/10f71f532651.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 11,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "e9ef69114ab6",
+      "title": "בית לחם | כוח צה''ל בפעילות ומעצרים הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-e9ef69114ab6",
+      "body": "בית לחם | כוח צה''ל בפעילות ומעצרים הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/91ff52ac3e21.bin",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/73ce66e1647c.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 12,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "75fdb456cf93",
+      "title": "בהצלחה | כוח צה''ל בפעילות בעיירה ביר זית, מצפון לרמאללה.",
+      "link": "https://hagizra.news/#msg-75fdb456cf93",
+      "body": "בהצלחה | כוח צה''ל בפעילות בעיירה ביר זית, מצפון לרמאללה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fc0565e1efc9.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 13,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "769858f449f0",
+      "title": "ויהי אור | צה''ל יורה פצצות תאורה מדרום-מזרח לדיר אל-בלח במרכז רצועת עזה.",
+      "link": "https://hagizra.news/#msg-769858f449f0",
+      "body": "ויהי אור | צה''ל יורה פצצות תאורה מדרום-מזרח לדיר אל-בלח במרכז רצועת עזה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d776fed0e1bc.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
+    },
+    {
+      "id": "4a316096568d",
+      "title": "רוסיה&אוקראינה | ברוסיה מדווחים על פגיעת כטב\"ם אוקראיני במתקן אנרגיה במחוז וולגוגרד.",
+      "link": "https://hagizra.news/#msg-4a316096568d",
+      "body": "רוסיה&אוקראינה | ברוסיה מדווחים על פגיעת כטב\"ם אוקראיני במתקן אנרגיה במחוז וולגוגרד.",
+      "time": null,
+      "channelName": null,
+      "position": 15,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-31T04:53:08.668Z"
     }
   ],
   "errors": [
