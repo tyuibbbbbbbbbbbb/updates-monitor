@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>צ'אט עם AI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>צ'אט עם AI</h1>
+    <div class="header-btns">
+      <button id="settings-btn" title="הגדרות">&#9881; מפתח API</button>
+      <button id="clear-btn" title="שיחה חדשה">שיחה חדשה</button>
+    </div>
+  </header>
+  <div id="settings-overlay" class="hidden">
+    <div id="settings-modal">
+      <h2>מפתח API</h2>
+      <p>הדבק כאן מפתח API של Google Gemini (חינם) או OpenAI.<br />
+      מפתח Gemini חינמי אפשר ליצור בכתובת:<br />
+      <code>aistudio.google.com/apikey</code></p>
+      <input type="password" id="api-key-input" placeholder="הדבק את המפתח כאן..." dir="ltr" />
+      <div class="modal-btns">
+        <button id="save-key-btn">שמור</button>
+        <button id="close-settings-btn">סגור</button>
+      </div>
+      <p id="key-status"></p>
+    </div>
+  </div>
+  <main id="chat"></main>
+  <footer>
+    <form id="chat-form">
+      <textarea id="input" rows="1" placeholder="כתוב הודעה..." autofocus></textarea>
+      <button type="submit" id="send-btn">שלח</button>
+    </form>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
