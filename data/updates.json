@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:58:22.619Z",
+  "generatedAt": "2026-08-04T23:52:54.407Z",
   "sources": [
     {
       "id": "blackcat",
@@ -49,7 +49,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -415,7 +415,7 @@
       "body": "רוסיה&אוקראינה | דיווח על מתקפת טילים בליסטיים של רוסיה בקייב. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 12,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -430,7 +430,7 @@
       "body": "גזרת איו\"ש | כוחותינו בליל פעילויות נרחב במספר מרחבים ביו״ש. לכוחותינו שלום!",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -445,7 +445,7 @@
       "body": "טרגדיה הערב בבני ברק | אישה (70) שהייתה אמורה להגיע לשמחה משפחתית לא הופיעה. בני משפחתה הגיעו לביתה לאחר שלא הצליחו ליצור עמה קשר, ומצאו אותה ללא רוח חיים.",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -460,7 +460,7 @@
       "body": "אסונות ללא סוף | בנוסף לחיפושים כעת אחר 3 בחורי ישיבה: מתנדבים ממשיכים בחיפושים נרחבים גם בשעה הזאת תוך הפעלת רחפנים ואמצעים מיוחדים נוספים, בגזרת... הסתיים | הבוקר הופסקו החיפושים אחרי הנעדר בכינרת אחרי שהתברר שהוא שוהה בבית אימו.",
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -475,7 +475,7 @@
       "body": "פסע מאסון | שעות ללא קשר: אם ושמונת ילדיה (3-18) מביתר עילית אותרו בשלום בנוקדים לאחר שהקשר עמם נותק במשך שעות במהלך טיול באזור תקוע.",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -490,7 +490,7 @@
       "body": "סיכום חדשות היום | (זירת החדשות) שר החוץ האמריקני רוביו: חלה התקדמות בשיחות עם איראן לפתיחה של מצר הורמוז; דובר שר החוץ האיראני: השיחות עם עומאן היו חיוביות. אמיר קטאר שוחח הערב עם הנשיא טראמפ בנושא התקדמות המגעים העקיפים עם איראן. בהנחיית הדרג המדיני: כוחות צה''ל הונחו לדרוש אישור מהרמטכ\"ל לפני ביצוע התנקשויות. היום התקיים ברומא הסבב השביעי של השיחות בין ישראל ללבנון, במרכזו - דיון במצב הפיילוט ו",
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -505,7 +505,7 @@
       "body": "סכנה | חייל צה\"ל נפצע באורח קשה בבסיס במרכז. החשד - משחק בנשק. (ישראל היום לרפו\"ש | החייל שנפצע חסיד חב\"ד: שמו לתפילה חיים ישראל בן יונית יעל לרפואה שלימה.",
       "time": null,
       "channelName": null,
-      "position": 7,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -514,10 +514,149 @@
       "firstSeen": "2026-08-04T21:58:22.619Z"
     },
     {
-      "id": "9ab9c2a380e8",
-      "title": "ה' יקום דמם | הערב (כ\"א באב) מציינים 23 שנים לפיגוע הטרור הקשה בקו 2 בירושלים בו נרצחו 23 בני אדם בהם תינוקות, ילדים, נש",
-      "link": "https://hagizra.news/#msg-9ab9c2a380e8",
-      "body": "ה' יקום דמם | הערב (כ\"א באב) מציינים 23 שנים לפיגוע הטרור הקשה בקו 2 בירושלים בו נרצחו 23 בני אדם בהם תינוקות, ילדים, נשים וגברים, ולמעלה מ־130 בני אדם נפצעו. - מהפיגועים הקשים והקטלניים שאירעו במהלך האינתיפאדה השנייה.פרטים | ביום שלישי, כ\"א באב תשס\"ג, סמוך לשעה 19:00, עלה מחבל מתאבד לאוטובוס קו 2 של אגד, שהיה עמוס בנוסעים, משפחות וילדים שעשו את דרכם בעיר בימי בין הזמנים. כשהאוטובוס הגיע לצומת הרח",
+      "id": "047f97fcd2ed",
+      "title": "דרמטי | סוכל ניסיון התנקשות נוסף בטראמפ:דיווח בפוקס ניוז: רשויות החוק עצרו חשוד חמוש בשם ג'נין ג'ון טייל, בן 38, במגרש ה",
+      "link": "https://hagizra.news/#msg-047f97fcd2ed",
+      "body": "דרמטי | סוכל ניסיון התנקשות נוסף בטראמפ:דיווח בפוקס ניוז: רשויות החוק עצרו חשוד חמוש בשם ג'נין ג'ון טייל, בן 38, במגרש הגולף הלאומי של טראמפ, לאחר שלטענתם הוא עקב אחר ההכנות האבטחתיות לקראת ביקורו של הנשיא טראמפ.המשטרה דיווחה שהיא מצאה בדירתו רובה מדגם AR שעבר שינויים לא חוקיים, אפוד מגן מפני כדורים, מחסניות תחמושת בנפח גבוה, תחמושת ויומנים המכילים \"הצהרות מדאיגות\"",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "e3af6ff7a02f",
+      "title": "לילה אש 💥 | דיווחים ערביים: סעודיה תוקפת כעת את החות'ים בצנעא.",
+      "link": "https://hagizra.news/#msg-e3af6ff7a02f",
+      "body": "לילה אש 💥 | דיווחים ערביים: סעודיה תוקפת כעת את החות'ים בצנעא. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "00e44702a5d2",
+      "title": "תיעוד מטורף מתוך העשן והלהבות | הרגעים הראשונים בשריפה בפארק ירמות בבית שמש היום.",
+      "link": "https://hagizra.news/#msg-00e44702a5d2",
+      "body": "תיעוד מטורף מתוך העשן והלהבות | הרגעים הראשונים בשריפה בפארק ירמות בבית שמש היום. (צילום: א.מ. /חדשות העיר ב\"ש)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7f4f598f8be0.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "fcc74298c0e2",
+      "title": "ד-י ל-א-ס-ו-נ-ו-ת | חייבים לעצור את הכותרת הבאה.",
+      "link": "https://hagizra.news/#msg-fcc74298c0e2",
+      "body": "ד-י ל-א-ס-ו-נ-ו-ת | חייבים לעצור את הכותרת הבאה. בבין הזמנים הזה, שומרים על החיים!",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/af735a54532d.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "6e7af7b4b5c1",
+      "title": "אסון כואב | מסע הלוייה המצמרר של הבחור החתן מאיר שאער ז\"ל תושב בני ברק, שיצאה מוקדם יותר היום מביתו בשכונת קרית הרצוג, ל",
+      "link": "https://hagizra.news/#msg-6e7af7b4b5c1",
+      "body": "אסון כואב | מסע הלוייה המצמרר של הבחור החתן מאיר שאער ז\"ל תושב בני ברק, שיצאה מוקדם יותר היום מביתו בשכונת קרית הרצוג, לבית העלמין פונובי׳ז בעיר. צילום: יצחק ורדי. (ידיעות בני ברק)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/54ac18d79169.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "6ab14df184f2",
+      "title": "חלומות מתגשמים | אליאב ליבי מפרסם תיעוד מהתחלת ההכשרות להקמת הישוב נועה בצפון השומרון באזור שלא ראה התיישבות יהודית אולי",
+      "link": "https://hagizra.news/#msg-6ab14df184f2",
+      "body": "חלומות מתגשמים | אליאב ליבי מפרסם תיעוד מהתחלת ההכשרות להקמת הישוב נועה בצפון השומרון באזור שלא ראה התיישבות יהודית אולי מאז זמן הגלות. זה דבר שלפני שנתיים ושלוש היה נראה הזוי.איך שר עקיבא תורג'מן? כל עוד לא הפסקת לחלום אתה מנצחעוד נזכה לשבת גם בשכם וג'נין, ובעזרת ה' נראה את האחים ליבי בונים גם את בית המקדש. (אלחנן גרונר)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b96d82dde36e.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "d045003bc867",
+      "title": "יד על העליונה | כוחותינו במעצר מבוקש תושב העיירה בּוּרְקִין שבנפת ג׳נין.",
+      "link": "https://hagizra.news/#msg-d045003bc867",
+      "body": "יד על העליונה | כוחותינו במעצר מבוקש תושב העיירה בּוּרְקִין שבנפת ג׳נין.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fd1546fe7a1b.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "8b8502ced9da",
+      "title": "אם אשכחך ירושלים | תג מחיר על בית פלסטיני בכפר ראמין, מזרחית לטול כרם.",
+      "link": "https://hagizra.news/#msg-8b8502ced9da",
+      "body": "אם אשכחך ירושלים | תג מחיר על בית פלסטיני בכפר ראמין, מזרחית לטול כרם.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/43c49f7083bf.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/763ff5c5c9b5.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-04T23:52:54.407Z"
+    },
+    {
+      "id": "0f59f21ccbd4",
+      "title": "דיווח ב-CNN | ארה\"ב השתמשה במלחמה בכ-80% ממלאי טילי ה-THADD ובכמחצית מטילי הפטריוט שלה.",
+      "link": "https://hagizra.news/#msg-0f59f21ccbd4",
+      "body": "דיווח ב-CNN | ארה\"ב השתמשה במלחמה בכ-80% ממלאי טילי ה-THADD ובכמחצית מטילי הפטריוט שלה. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -526,13 +665,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
+      "firstSeen": "2026-08-04T23:52:54.407Z"
     },
     {
-      "id": "8f4c1765089d",
-      "title": "טרגדיה נוספת בבין הזמנים | צעיר כבן 35 מבית חרדי טבע למוות בקפריסין.",
-      "link": "https://hagizra.news/#msg-8f4c1765089d",
-      "body": "טרגדיה נוספת בבין הזמנים | צעיר כבן 35 מבית חרדי טבע למוות בקפריסין.",
+      "id": "1f2ffe86754a",
+      "title": "תאונת הדרכים | צעיר כבן 20 נפצע קשה וצעיר נוסף נפצע בינוני כשרכבם התדרדר לוואדי בכביש כביש 5614 סמוך לכניסה לטייבה.",
+      "link": "https://hagizra.news/#msg-1f2ffe86754a",
+      "body": "תאונת הדרכים | צעיר כבן 20 נפצע קשה וצעיר נוסף נפצע בינוני כשרכבם התדרדר לוואדי בכביש כביש 5614 סמוך לכניסה לטייבה. צוותי מד\"א העניקו להם טיפול רפואי ופינו אותם לבית החולים מאיר בכפר סבא.",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -541,16 +680,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
+      "firstSeen": "2026-08-04T23:52:54.407Z"
     },
     {
-      "id": "cef01f0aabda",
-      "title": "להרוג את החמאס | אין דבר כזה הרתעה מול מי שמוכן למות רק בשביל לפגוע בנו.",
-      "link": "https://hagizra.news/#msg-cef01f0aabda",
-      "body": "להרוג את החמאס | אין דבר כזה הרתעה מול מי שמוכן למות רק בשביל לפגוע בנו. (הלל ביטון רוזן)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/86a89b0f027d.bin"
-      ],
+      "id": "970dcdf7cd8e",
+      "title": "מזרח העיר עזה | כוחותינו מבצעים כעת פיצוצי מבנים במרחב.",
+      "link": "https://hagizra.news/#msg-970dcdf7cd8e",
+      "body": "מזרח העיר עזה | כוחותינו מבצעים כעת פיצוצי מבנים במרחב. כך ע״פ דיווחים ערביים.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -559,13 +695,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
+      "firstSeen": "2026-08-04T23:52:54.407Z"
     },
     {
-      "id": "57bdf3de7cb7",
-      "title": "המספרים שמאחורי מלחמת ההברחות בדרום נחשפים | מאז תחילת 2026 סיכלו לוחמינו הברחת כ-800 ק\"ג חומר מסוכן, ולמעלה מ-230 רחפני",
-      "link": "https://hagizra.news/#msg-57bdf3de7cb7",
-      "body": "המספרים שמאחורי מלחמת ההברחות בדרום נחשפים | מאז תחילת 2026 סיכלו לוחמינו הברחת כ-800 ק\"ג חומר מסוכן, ולמעלה מ-230 רחפנים • נתפסו גם 109 כלי נשק ונעצרו 40 חשודים • במערכת הביטחון מבהירים: למרות ההצלחות, הגבול עדיין אינו הרמטי ונמשכים ניסיונות ההברחה כמעט מדי יום, תוך מאבק מתמשך של לוחמינו לאורך הגבולות. (הלל ביטון רוזן)",
+      "id": "e6339945c80c",
+      "title": "טיולי בינהזמנים | שני נערים חולצו בשני אירועים שונים שהתנהלו במקביל.",
+      "link": "https://hagizra.news/#msg-e6339945c80c",
+      "body": "טיולי בינהזמנים | שני נערים חולצו בשני אירועים שונים שהתנהלו במקביל. בנחל יהודיה שבגולן - נער נפל מגובה של כשלושה מטרים ונחבל בראשו. בנחל הבניאס - נער נפל ונחבל ברגלו. בחילוצים השתתפו מתנדבי משטרה מיחידת חילוץ גולן ולוחמי מג״ב. (צילום: דוברות המשטרה)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/1bcf3a5a62a7.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -574,136 +713,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "34f3f3a0df08",
-      "title": "חמאס במסר למתווכות | שוקלים לרדת מההסכם עקב התקיפות הישראליות.גורם מדיני בכיר: ״מתלבטים לגבי ההמשך, הכל על השולחן״.",
-      "link": "https://hagizra.news/#msg-34f3f3a0df08",
-      "body": "חמאס במסר למתווכות | שוקלים לרדת מההסכם עקב התקיפות הישראליות.גורם מדיני בכיר: ״מתלבטים לגבי ההמשך, הכל על השולחן״. (הלל ביטון רוזן)",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "375e5d0f3d58",
-      "title": "דובר צה״ל | חייל צה\"ל נפצע באורח קשה מוקדם יותר הערב (ג'), כתוצאה מירי בבסיס צבאי במרכז הארץ.",
-      "link": "https://hagizra.news/#msg-375e5d0f3d58",
-      "body": "דובר צה״ל | חייל צה\"ל נפצע באורח קשה מוקדם יותר הערב (ג'), כתוצאה מירי בבסיס צבאי במרכז הארץ. החייל פונה לקבלת טיפול רפואי בבית החולים ומשפחתו עודכנה. בעקבות המקרה נפתחה חקירה של המשטרה הצבאית החוקרת, עם סיומה יועברו הממצאים לבחינת הפרקליטות הצבאית.",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "8b18a5191e38",
-      "title": "סכנה | חייל צה\"ל נפצע באורח קשה בבסיס במרכז.",
-      "link": "https://hagizra.news/#msg-8b18a5191e38",
-      "body": "סכנה | חייל צה\"ל נפצע באורח קשה בבסיס במרכז. החשד - משחק בנשק. (ישראל היום)",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "dbff574cd183",
-      "title": "אסון בינהזמנים | קברו הטרי של החתן מאיר שאער ז\"ל שנהרג אמש בהתהפכות הטקרטורון.",
-      "link": "https://hagizra.news/#msg-dbff574cd183",
-      "body": "אסון בינהזמנים | קברו הטרי של החתן מאיר שאער ז\"ל שנהרג אמש בהתהפכות הטקרטורון. (צילום: נועם אליהו)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f84f4d8f4964.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "ab56ef4563ad",
-      "title": "ציטוט 💬...",
-      "link": "https://hagizra.news/#msg-ab56ef4563ad",
-      "body": "ציטוט 💬... הותר לפרסום | הפעוט נדב שלום אייגנר ז\"ל, בן הארבע, שמשפחתו מהיישוב עינב שבשומרון הגיעה לנפוש במושב שדות מיכה, טבע אמש בבריכה פרטית.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "f10d88203bd7",
-      "title": "נתניהו | אנחנו לא ניסוג מהקווים בעזה עד שחמאס יפורק מנשקו, חיילנו יכולים לעשות כל מה שצריך כדי להגן על עצמם ועל שטחינו.",
-      "link": "https://hagizra.news/#msg-f10d88203bd7",
-      "body": "נתניהו | אנחנו לא ניסוג מהקווים בעזה עד שחמאס יפורק מנשקו, חיילנו יכולים לעשות כל מה שצריך כדי להגן על עצמם ועל שטחינו. (מלוכדים)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/66d8deabf16a.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "d5a8b632451c",
-      "title": "קמפייני הבחירות | זה הם או אנחנו.",
-      "link": "https://hagizra.news/#msg-d5a8b632451c",
-      "body": "קמפייני הבחירות | זה הם או אנחנו. (בנימין נתניהו)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/318b5a29b304.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
-    },
-    {
-      "id": "7d9f46f44980",
-      "title": "התחזית לימים הקרובים | (ליאור סודרי)יום רביעי 05.08.26:מעונן חלקית עד בהיר, תחול ירידה קלה בטמפרטורות, בעיקר בפנים הארץ ",
-      "link": "https://hagizra.news/#msg-7d9f46f44980",
-      "body": "התחזית לימים הקרובים | (ליאור סודרי)יום רביעי 05.08.26:מעונן חלקית עד בהיר, תחול ירידה קלה בטמפרטורות, בעיקר בפנים הארץ ובהרים ותורגש ‏הקלה בעומסי החום, אשר ישובו להיות ממוצעים לעונה. יום חמישי 06.08.26:מעונן חלקית עד בהיר, עם טמפרטורות ועומסי חום רגילים לעונה. יום שישי 07.08.26:מעונן חלקית עד בהיר, עם הקלה בעומסי החום, אשר יהיו מתונים יחסית לתקופה. יום שבת 08.08.26:מעונן חלקית עד בהיר, עם טמפרטור",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-04T21:58:22.619Z"
+      "firstSeen": "2026-08-04T23:52:54.407Z"
     }
   ],
   "errors": [
