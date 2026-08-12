@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T02:45:48.650Z",
+  "generatedAt": "2026-08-12T04:33:05.459Z",
   "sources": [
     {
       "id": "blackcat",
@@ -38,25 +38,6 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-08-08T18:22:49.603Z"
-    },
-    {
-      "id": "b9c306941c9b",
-      "title": "שכם | תיעוד ערבי מפעילות כוח צה''ל כעת בעיר.",
-      "link": "https://hagizra.news/#msg-b9c306941c9b",
-      "body": "שכם | תיעוד ערבי מפעילות כוח צה''ל כעת בעיר.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/10f41c01e13c.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/ef176a120439.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-10T03:08:41.508Z"
     },
     {
       "id": "f906088e0d34",
@@ -413,7 +394,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -431,7 +412,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -449,7 +430,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -467,7 +448,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -485,7 +466,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -500,7 +481,7 @@
       "body": "דאגה באוסטריה | אם ובתה הישראליות, מלי וליאל יהלומי, נעדרות לאחר שנראו לאחרונה בווינה ביום שישי. שגרירות ישראל בווינה פרסמה הודעה דחופה ומבקשת את עזרת הציבור באיתורן: ״כל מי שיש בידיו מידע מתבקש ליצור קשר באופן מיידי עם המשפחה, השגרירות או המשטרה המקומית״.",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -515,7 +496,7 @@
       "body": "אירוע בצה''ל | לוחם בנצח יהודה נשפט ל-10 ימים בכלא והודח מלחימה - בגלל שעישן סיגריה בשבת במוצב בגבול לבנון.הלוחם נמצא כחודש לפני שחרורו מצה״ל ואחרי יותר משנתיים שלחם בעזה ובלבנון.לאחר מכן נרשם סיבוב פרסה של צה״ל, שכן הוא הודיע כעת רשמית - ״הושהה״ העונש נגד החייל שעישן בשבת. (דניאל גרובייס)",
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -524,15 +505,118 @@
       "firstSeen": "2026-08-12T02:45:48.650Z"
     },
     {
-      "id": "b8b6b9a36244",
-      "title": "צאו לשלום - תחזרו לשלום | פעילות כוח צה''ל הלילה בכפרי המרחב בג'נין.",
-      "link": "https://hagizra.news/#msg-b8b6b9a36244",
-      "body": "צאו לשלום - תחזרו לשלום | פעילות כוח צה''ל הלילה בכפרי המרחב בג'נין.",
+      "id": "f62fa422d17e",
+      "title": "מלחמת רוסיה אוקראינה | מתקפה נרחבת הלילה של אוקראינה בעיר הנמל הרוסית נובורוסיסק בים השחור.",
+      "link": "https://hagizra.news/#msg-f62fa422d17e",
+      "body": "מלחמת רוסיה אוקראינה | מתקפה נרחבת הלילה של אוקראינה בעיר הנמל הרוסית נובורוסיסק בים השחור. (אסף רוזנצווייג)",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c701f0b6bb15.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/03b0b0fdc73d.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/134fe4e03d85.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/12f340472cc1.bin"
       ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "858528c7dca0",
+      "title": "העימות בין ארה\"ב לאיראן | סגן הרמטכ\"ל לשעבר, האלוף במיל' עוזי דיין: \"ברור שארה\"ב לא מתכוונת בשלב הזה לתקוף ולהכניע את אי",
+      "link": "https://hagizra.news/#msg-858528c7dca0",
+      "body": "העימות בין ארה\"ב לאיראן | סגן הרמטכ\"ל לשעבר, האלוף במיל' עוזי דיין: \"ברור שארה\"ב לא מתכוונת בשלב הזה לתקוף ולהכניע את איראן - בינתיים הם מפסידים הרבה מאוד נקודות\" (עכשיו 14)",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "222235af9671",
+      "title": "הקטל בדרכים | גבר בן 26 נפצע קשה בתאונת דרכים בין 2 כלי רכב בכניסה לטייבה.",
+      "link": "https://hagizra.news/#msg-222235af9671",
+      "body": "הקטל בדרכים | גבר בן 26 נפצע קשה בתאונת דרכים בין 2 כלי רכב בכניסה לטייבה. צוות מד\"א שהגיע לזירה העניק לו ול-3 בני אדם נוספים שנפצעו קל טיפול רפואי, ופינה אותם לביה\"ח מאיר בכפר סבא.",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "6c47ced6e494",
+      "title": "סיכום חדשות הלילה | נשיא ארה\"ב דונלד טראמפ טען בשיחה עם כתבים כי הוא \"לא סומך על איראן\".",
+      "link": "https://hagizra.news/#msg-6c47ced6e494",
+      "body": "סיכום חדשות הלילה | נשיא ארה\"ב דונלד טראמפ טען בשיחה עם כתבים כי הוא \"לא סומך על איראן\". לדבריו, \"אני האחרון שיסמוך על איראן, הם שיקרו לי באופן קבוע\". הנשיא האמריקני טען: \"יש לנו שליטה מלאה על מצר הורמוז, אנחנו הבעלים שלו. להם אין שליטה. אולי בשלב מסוים הם יעשו משהו והם יופצצו. אבל כרגע אנחנו בעמדה טובה מאוד. יש כאן מדינה שהייתה הבריון של המזרח התיכון במשך 50 שנים - והיא כבר לא כזאת\". ● נשיא ארה\"ב",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "6cff2383a421",
+      "title": "התחזית | היום חם מהרגיל בהרים ובפנים הארץ, והביל לאורך מישור החוף.רוח בים התיכון: דרום מערבית עד צפון מערבית 15-35 קמ\"ש.",
+      "link": "https://hagizra.news/#msg-6cff2383a421",
+      "body": "התחזית | היום חם מהרגיל בהרים ובפנים הארץ, והביל לאורך מישור החוף.רוח בים התיכון: דרום מערבית עד צפון מערבית 15-35 קמ\"ש.מצב הים התיכון: גלי 50-120 ס\"מ. הטמפרטורות החזויות להיום והלילה:קריית שמונה 37-24, קצרין 35-23 צפת 32-22 טבריה 40-26, נצרת 34-23 חיפה 31-26תל אביב 32-26, מודיעין 36-24, ירושלים 33-23, אריאל 34-23, אשקלון 31-26, עין גדי 42-32,באר שבע 38-23 ערד 36-24 מצפה רמון 34-23, אילת 42-30 (לי",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "5caaae8c65d3",
+      "title": "חשד לרצח בשפרעם | גבר כבן 60 נורה למוות, המשטרה פתחה בחקירה.",
+      "link": "https://hagizra.news/#msg-5caaae8c65d3",
+      "body": "חשד לרצח בשפרעם | גבר כבן 60 נורה למוות, המשטרה פתחה בחקירה. חובש בכיר במד\"א מוחמד זיאדנה שהגיע לזירה, סיפר: \"ראינו את הפצוע כשהוא בתוך רכב, מחוסר הכרה, ללא דופק וללא נשימה עם פציעות חודרות קשות בגופו. ביצענו בדיקות רפואיות אך הוא היה ללא סימני חיים ולא נותר לנו אלא לקבוע את מותו\".",
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "7559992b3f89",
+      "title": "גורל הגזרות | אחרי שראש הממשלה נתניהו דחה את תוכנית 15 הנקודות של טראמפ לעזה, כמה דיפלומטים וגורמים רשמיים אמרו לפוליטיק",
+      "link": "https://hagizra.news/#msg-7559992b3f89",
+      "body": "גורל הגזרות | אחרי שראש הממשלה נתניהו דחה את תוכנית 15 הנקודות של טראמפ לעזה, כמה דיפלומטים וגורמים רשמיים אמרו לפוליטיקו כי הולך ומתברר שלארה\"ב אין את מנוף הלחץ הדרוש כדי להביא להסכם בעזה, או שהיא אינה מוכנה להשתמש בו. לדבריהם, הדבר מעורר חשש גם בנוגע למאמצים האמריקניים לקדם משא ומתן בסוגיות אחרות באזור.\"הנשיא טראמפ יכול לנסות לבסס מחדש את הרלוונטיות הפוליטית שלו באמצעות הפעלת לחץ על נתניהו לשקול",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "502acdfb7d73",
+      "title": "סוף למלחמה הכי ארוכה ?",
+      "link": "https://hagizra.news/#msg-502acdfb7d73",
+      "body": "סוף למלחמה הכי ארוכה ? | זלנסקי: העברנו למתווכים האמריקנים הצעות לתוכנית לסיום המלחמה באוקראינה. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -541,17 +625,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
+      "firstSeen": "2026-08-12T04:33:05.459Z"
     },
     {
-      "id": "5b80e906dfea",
-      "title": "בשטח | כוח צה''ל הלילה בפעילות בעיירה ביר זית.",
-      "link": "https://hagizra.news/#msg-5b80e906dfea",
-      "body": "בשטח | כוח צה''ל הלילה בפעילות בעיירה ביר זית.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/08b00f4d2748.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c8d91e1a75f7.bin"
-      ],
+      "id": "f2dd293115e7",
+      "title": "בארה\"ב מדווחים | רוברט גילמן, לוחם מרינס לשעבר שהיה כלוא בתנאים קשים ברוסיה יותר מארבע שנים ודווח כי הוא במצב רפואי חמור",
+      "link": "https://hagizra.news/#msg-f2dd293115e7",
+      "body": "בארה\"ב מדווחים | רוברט גילמן, לוחם מרינס לשעבר שהיה כלוא בתנאים קשים ברוסיה יותר מארבע שנים ודווח כי הוא במצב רפואי חמור, שוחרר ועושה דרכו בחזרה לארה\"ב. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -560,16 +640,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
+      "firstSeen": "2026-08-12T04:33:05.459Z"
     },
     {
-      "id": "b726e5d9ea0b",
-      "title": "עוד משכם | תיעודים ערביים נוספים מפעילות צה''ל בכפרי המרחב.",
-      "link": "https://hagizra.news/#msg-b726e5d9ea0b",
-      "body": "עוד משכם | תיעודים ערביים נוספים מפעילות צה''ל בכפרי המרחב.",
+      "id": "00d6dbcc4407",
+      "title": "דרמטי | טראמפ מאשר את הדיווח כי חמק ממטוס האייר פורס 1 הישן בטיסה חזרה מטורקיה: \"אני עושה מה שהשירות החשאי והצבא אומרים,",
+      "link": "https://hagizra.news/#msg-00d6dbcc4407",
+      "body": "דרמטי | טראמפ מאשר את הדיווח כי חמק ממטוס האייר פורס 1 הישן בטיסה חזרה מטורקיה: \"אני עושה מה שהשירות החשאי והצבא אומרים, הם רצו שאני אחליף מטוס\". (אסף רוזנצוויג)",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6fb6b9c09d59.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/421c84c8af49.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6de0ca2613a3.bin"
       ],
       "time": null,
       "channelName": null,
@@ -579,13 +658,28 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
+      "firstSeen": "2026-08-12T04:33:05.459Z"
     },
     {
-      "id": "3daca3b69f88",
-      "title": "דיבורים כמו חול | טראמפ מצייץ שוב על איראן בטון מאיים: \"אני לא סומך על איראן, הם שיקרו לי בלי סוף.",
-      "link": "https://hagizra.news/#msg-3daca3b69f88",
-      "body": "דיבורים כמו חול | טראמפ מצייץ שוב על איראן בטון מאיים: \"אני לא סומך על איראן, הם שיקרו לי בלי סוף. אנחנו שולטים במצר הורמוז. בשלב מסויים אולי איראן תעשה משהו והיא תופצץ לעזאזל. איראן היתה הבריון של המזרח התיכון והיא כבר לא\".",
+      "id": "026b2b886903",
+      "title": "למרות שלל מאמצים להשפיע על זרימת מי הנהר | יצרנית החשמל ברומניה הודיעה כי היא עלולה להשבית גם את הכור הגרעיני השני בתחנת",
+      "link": "https://hagizra.news/#msg-026b2b886903",
+      "body": "למרות שלל מאמצים להשפיע על זרימת מי הנהר | יצרנית החשמל ברומניה הודיעה כי היא עלולה להשבית גם את הכור הגרעיני השני בתחנת הכוח בצ'רנבודה בשל מפלס חסר תקדים במי הדנובה. תחנת הכוח בכלולתה אחראית לכ-20% מאספקת החשמל ברומניה. (אסף רוזנצוויג)",
+      "time": null,
+      "channelName": null,
+      "position": 10,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-12T04:33:05.459Z"
+    },
+    {
+      "id": "43e28170fac9",
+      "title": "מלחמה עצמית | בתימן מדווחים כעת על מתקפת טילים וכטב\"מים נוספת של החות'ים בעיר הנמל מוח'א.",
+      "link": "https://hagizra.news/#msg-43e28170fac9",
+      "body": "מלחמה עצמית | בתימן מדווחים כעת על מתקפת טילים וכטב\"מים נוספת של החות'ים בעיר הנמל מוח'א. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -594,16 +688,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
+      "firstSeen": "2026-08-12T04:33:05.459Z"
     },
     {
-      "id": "f4ffd588a17f",
-      "title": "תאונה קטלנית | עדכון לצומת תל עזקה: שני הרוגים בגילאי 40 ו-30 בזירה לאחר פעולות החייאה שלא צלחו עקב הפציעות הקשות מהם סב",
-      "link": "https://hagizra.news/#msg-f4ffd588a17f",
-      "body": "תאונה קטלנית | עדכון לצומת תל עזקה: שני הרוגים בגילאי 40 ו-30 בזירה לאחר פעולות החייאה שלא צלחו עקב הפציעות הקשות מהם סבלו. בנוסף, פצועה בת 35 במצ... אסון בין הזמנים נוסף | אחד ההרוגים בתאונה, חרדי תושב בית שמש.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e1d8bf4459b5.jpg"
-      ],
+      "id": "99e7bcd018fc",
+      "title": "בשיא בין הזמנים ועם אפס חשיבה על התושבים | רחוב הרב שך בצמוד לבית הכנסת איצקוביץ בבני ברק נחסם הלילה לתנועת כלי רכב בשל ",
+      "link": "https://hagizra.news/#msg-99e7bcd018fc",
+      "body": "בשיא בין הזמנים ועם אפס חשיבה על התושבים | רחוב הרב שך בצמוד לבית הכנסת איצקוביץ בבני ברק נחסם הלילה לתנועת כלי רכב בשל עבודות תשתיות.",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -612,132 +703,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "28dd3c3cc1a9",
-      "title": "ג'נין | כוח צה''ל מבצע מעצרים בעיר כעת במהלך פעילות.",
-      "link": "https://hagizra.news/#msg-28dd3c3cc1a9",
-      "body": "ג'נין | כוח צה''ל מבצע מעצרים בעיר כעת במהלך פעילות.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e0da77b3fe0c.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c297631596f6.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/49a28be25cb3.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "f5c7e1200bf8",
-      "title": "בהצלחה | כוח צהל בפעילות הלילה בעיירה טמון, מדרום לטובאס.",
-      "link": "https://hagizra.news/#msg-f5c7e1200bf8",
-      "body": "בהצלחה | כוח צהל בפעילות הלילה בעיירה טמון, מדרום לטובאס.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/39d9fdb49958.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "cfa328b3fc67",
-      "title": "נוסע סמוי | מנכ\"ל משרד התחבורה נצפה הבוקר כאחד הנוסעים בתח\"צ במטרה לבחון מקרוב את טיב השירות וחוויית הנסיעה כחלק ממהפכת ",
-      "link": "https://hagizra.news/#msg-cfa328b3fc67",
-      "body": "נוסע סמוי | מנכ\"ל משרד התחבורה נצפה הבוקר כאחד הנוסעים בתח\"צ במטרה לבחון מקרוב את טיב השירות וחוויית הנסיעה כחלק ממהפכת השירות שמובילה שרת התחבורה רגב.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/1cb1d699c5d9.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "a85f143e404a",
-      "title": "3 מליון שקל בלהבות | הרצליה: פרארי מדגם 296 היוקרתית עלתה באש בלילה האחרון.",
-      "link": "https://hagizra.news/#msg-a85f143e404a",
-      "body": "3 מליון שקל בלהבות | הרצליה: פרארי מדגם 296 היוקרתית עלתה באש בלילה האחרון. מדובר בדגם היברידי נטען, המצויד גם במערכת סוללה חשמלית.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/0d5ec2db4b31.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "fe967ab67390",
-      "title": "יש לו מנה, רוצה מאתיים | הנתונים הפנטסטיים של בנק ישראל בסיכום שנת המלחמה 2025.",
-      "link": "https://hagizra.news/#msg-fe967ab67390",
-      "body": "יש לו מנה, רוצה מאתיים | הנתונים הפנטסטיים של בנק ישראל בסיכום שנת המלחמה 2025. (יששכר היימן)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/edeada3ff25d.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "74f9d02b9ce4",
-      "title": "עיתון המבשר |120826המבשרמייל.pdf",
-      "link": "https://hagizra.news/#msg-74f9d02b9ce4",
-      "body": "עיתון המבשר |120826המבשרמייל.pdf",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
-    },
-    {
-      "id": "55d0171aa26e",
-      "title": "עיר התאונות | בני ברק: ילד פורץ לכביש מאחורי רכב חונה ברח׳ ישמח משה וכמעט נפגע.",
-      "link": "https://hagizra.news/#msg-55d0171aa26e",
-      "body": "עיר התאונות | בני ברק: ילד פורץ לכביש מאחורי רכב חונה ברח׳ ישמח משה וכמעט נפגע.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/b4a5a553a608.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-12T02:45:48.650Z"
+      "firstSeen": "2026-08-12T04:33:05.459Z"
     }
   ],
   "errors": [
