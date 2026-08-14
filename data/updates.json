@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T13:03:27.433Z",
+  "generatedAt": "2026-08-14T14:22:26.810Z",
   "sources": [
     {
       "id": "blackcat",
@@ -385,7 +385,7 @@
       "body": "רדיפת החרדים | היועמ״שית לבג״ץ: תקצוב רשתות החינוך החרדיות יותנה בלימודי ליבה מלאים. בתשובת המדינה לעתירה נטען כי נמצאו פערים משמעותיים בעמידת המוסדות בחובות לימודי היסוד וכשלים בפיקוח. הדרישות החדשות, ובהן לימודי ליבה מלאים, הכשרת צוותי הוראה ושיתוף פעולה עם מנגנוני הפיקוח, יחולו כבר בשנת הלימודים הנוכחית.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -400,7 +400,7 @@
       "body": "עוד תדרוך מטופש | בשיחות סגורות, טראמפ מביע תסכול מנתניהו: \"הוא האויב הכי גדול של עצמו\". (ברק רביד)",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -413,12 +413,9 @@
       "title": "תמיכה ממשפחת נתניהו | יאיר נתניהו, בנו של ראש הממשלה, משתף ברשת קריאות להצביע לח״כ אריאל קלנר.",
       "link": "https://hagizra.news/#msg-6051bf4c52b6",
       "body": "תמיכה ממשפחת נתניהו | יאיר נתניהו, בנו של ראש הממשלה, משתף ברשת קריאות להצביע לח״כ אריאל קלנר. בין היתר, שיתף פוסט של אב שכול שקרא לתמוך בקלנר, כדי שניתן יהיה להחיל דין רציפות ולהקים בקלות ועדת חקירה לאומית כבר בקדנציה הבאה. (זירה פוליטית)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6ebe48b72038.png"
-      ],
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -436,7 +433,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -454,7 +451,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -463,10 +460,97 @@
       "firstSeen": "2026-08-14T13:03:27.433Z"
     },
     {
-      "id": "f93ddc135637",
-      "title": "תיזהרו לא לגנות יותר מידי | משרד החוץ של כווית גינה את \"התקיפה האיראנית הנתעבת\" נגד שתי ספינות מאיחוד האמירויות במצר הור",
-      "link": "https://hagizra.news/#msg-f93ddc135637",
-      "body": "תיזהרו לא לגנות יותר מידי | משרד החוץ של כווית גינה את \"התקיפה האיראנית הנתעבת\" נגד שתי ספינות מאיחוד האמירויות במצר הורמוז. (12)",
+      "id": "d594763b2b61",
+      "title": "ביקור קושנר | אנה ברסקי: גורם במועצת השלום מאשר ל\"מעריב\": ג'ארד קושנר יגיע בשבוע הבא לישראל יחד עם ניקולאי מלדנוב וטוני ",
+      "link": "https://hagizra.news/#msg-d594763b2b61",
+      "body": "ביקור קושנר | אנה ברסקי: גורם במועצת השלום מאשר ל\"מעריב\": ג'ארד קושנר יגיע בשבוע הבא לישראל יחד עם ניקולאי מלדנוב וטוני בלייר, ומשם ימשיכו השלושה לקהיר. במוקד הביקור: קידום תוכנית 20 הנקודות של טראמפ והפערים עם ישראל סביב יישומה.לדברי הגורם במועצת השלום, \"ארה\"ב וישראל מסכימות על היעד הסופי - חמאס מפורז. נקשיב לחששות שהעלתה ישראל ונדון בצעדים הבאים ובדרכים להאיץ את ההתקדמות\".",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-14T14:22:26.810Z"
+    },
+    {
+      "id": "6c4e8cd89f69",
+      "title": "דיווח ראשוני | רכב התפוצץ באשדוד.",
+      "link": "https://hagizra.news/#msg-6c4e8cd89f69",
+      "body": "דיווח ראשוני | רכב התפוצץ באשדוד. לפי החשד הראשוני, הרקע לאירוע ככל הנראה פלילי. נסיבות המקרה בבדיקה. ממש משכנע | בהמשך לפיצוץ הרכב באשדוד, ככל הנראה האירוע נגרם משרפה שהחלה ממצית - ולא מדובר באירוע פלילי. (איתי גל און)",
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-14T14:22:26.810Z"
+    },
+    {
+      "id": "75a6f9a8c3d3",
+      "title": "שעות לפני שבת | חברי הכנסת של ש״ס קיבלו הודעה על פתיחת קמפיין הבחירות בחמישי הקרוב.",
+      "link": "https://hagizra.news/#msg-75a6f9a8c3d3",
+      "body": "שעות לפני שבת | חברי הכנסת של ש״ס קיבלו הודעה על פתיחת קמפיין הבחירות בחמישי הקרוב. (הרשקוביץ)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/24d530fc9353.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-14T14:22:26.810Z"
+    },
+    {
+      "id": "6b9205e3dce7",
+      "title": "מועמד מסוכן | חבר בית הנבחרים של ארצות הברית רו קאנה: צריך להעמיד את נתניהו לדין בבית הדין הפלילי הבינלאומי ובבית הדין ה",
+      "link": "https://hagizra.news/#msg-6b9205e3dce7",
+      "body": "מועמד מסוכן | חבר בית הנבחרים של ארצות הברית רו קאנה: צריך להעמיד את נתניהו לדין בבית הדין הפלילי הבינלאומי ובבית הדין הבינלאומי לצדק בהאג, ואני תומך בזה.ארצות הברית צריכה לתמוך בחקירות ובממצאים של בתי הדין האלה, ובדיוק כמו שאני תומך במשפט של פוטין שם, אני תומך גם במשפט של נתניהו.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/f6c57fe919e2.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-14T14:22:26.810Z"
+    },
+    {
+      "id": "6fa7979b090c",
+      "title": "אין הפתעה | תמיר מורג: האמת?",
+      "link": "https://hagizra.news/#msg-6fa7979b090c",
+      "body": "אין הפתעה | תמיר מורג: האמת? מה שהכי מרתק בכותרת הזו אינו העובדה שנחשפת האמת בנוגע לכוונת איזנקוט להקים ממשלה שנשענת על התנועה האסלאמית, אלא הטיפשות המדהימה של חבורת ההזויים מהארץ שחושפת את זה, וחבריה בטוחים שהם נורא אינטליגנטיים - הרבה יותר מ\"הבבונים של הימין\".תודה, אידיוטים שימושיים.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b751a301eedd.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-14T14:22:26.810Z"
+    },
+    {
+      "id": "a92c621bd486",
+      "title": "דיווח ראשוני | רכב התפוצץ באשדוד.",
+      "link": "https://hagizra.news/#msg-a92c621bd486",
+      "body": "דיווח ראשוני | רכב התפוצץ באשדוד. לפי החשד הראשוני, הרקע לאירוע ככל הנראה פלילי. נסיבות המקרה בבדיקה. (איתי גל און)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/76301dd2da6e.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -475,16 +559,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "3493329af03b",
-      "title": "🥲",
-      "link": "https://hagizra.news/#msg-3493329af03b",
-      "body": "🥲",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f5ed7f18b15b.png"
-      ],
+      "id": "36fccd978276",
+      "title": "חשוב לזכור | העניין הגדול ברכס עלי א-טאהר הוא המתקן הצבאי האסטרטגי של חזבאללה הנמצא בתת הקרקע - מתחת לרכס.ע\"פ מקורות לבנ",
+      "link": "https://hagizra.news/#msg-36fccd978276",
+      "body": "חשוב לזכור | העניין הגדול ברכס עלי א-טאהר הוא המתקן הצבאי האסטרטגי של חזבאללה הנמצא בתת הקרקע - מתחת לרכס.ע\"פ מקורות לבנונים זהו המתקן שנקרא\"עמאד 4\", בו נצורים עשרות פעילי חזבאללה (ואולי גם קצינים איראנים) מזה כחודשיים. (אבו עלי)",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -493,13 +574,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "b93622febbc5",
-      "title": "בקרוב בישראל?",
-      "link": "https://hagizra.news/#msg-b93622febbc5",
-      "body": "בקרוב בישראל? | לפי הנתונים שנמסרו, מתחילת 2026 בוצעו בארה\"ב 21 הוצאות להורג, וכמעט תריסר נוספות מתוכננות. בשנה שעברה הוצאו להורג 47 בני אדם ב-11 מדינות - המספר הגבוה ביותר מאז 2009.",
+      "id": "cc6b90750c74",
+      "title": "יאללה | מקורות לבנוניים טוענים שישראל עומדת לצאת למבצע לכיבוש רכס עלי א-טאהר.",
+      "link": "https://hagizra.news/#msg-cc6b90750c74",
+      "body": "יאללה | מקורות לבנוניים טוענים שישראל עומדת לצאת למבצע לכיבוש רכס עלי א-טאהר. (אבו עלי)",
       "time": null,
       "channelName": null,
       "position": 7,
@@ -508,13 +589,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "1e85ad61c4f9",
-      "title": "כמו באיראן | לראשונה מאז 2010, שלוש מדינות בארה\"ב הוציאו להורג שלושה אסירים באותו יום באמצעות זריקת רעל.",
-      "link": "https://hagizra.news/#msg-1e85ad61c4f9",
-      "body": "כמו באיראן | לראשונה מאז 2010, שלוש מדינות בארה\"ב הוציאו להורג שלושה אסירים באותו יום באמצעות זריקת רעל. ההוצאות להורג בוצעו בטנסי, אוקלהומה ואלבמה, לאחר שהשלושה הורשעו במעשי רצח שונים. (12)",
+      "id": "0b5469c9126a",
+      "title": "בדרך למקווה בערב שבת 🏃 הגיזרה - ערוץ העדכונים, גם בטלפון!",
+      "link": "https://hagizra.news/#msg-0b5469c9126a",
+      "body": "בדרך למקווה בערב שבת 🏃 הגיזרה - ערוץ העדכונים, גם בטלפון! 💥 0733-510-267 / 0733-516-460 📞",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -523,13 +604,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "aa30070aa7b2",
-      "title": "העדפות נתניהו | מתי טוכפלד בטורו ב'מעריב': \"בועז ביסמוט, אמיר אוחנה ויואב קיש צורפו על ידי נתניהו לקבוצה המצומצמת שנקבעה",
-      "link": "https://hagizra.news/#msg-aa30070aa7b2",
-      "body": "העדפות נתניהו | מתי טוכפלד בטורו ב'מעריב': \"בועז ביסמוט, אמיר אוחנה ויואב קיש צורפו על ידי נתניהו לקבוצה המצומצמת שנקבעה כמרואיינים מטעם הליכוד, כדי לאותת את מי הוא מעדיף ברשימה\".",
+      "id": "6fa1762d38e9",
+      "title": "תיעוד מטורף | מטוס קרב אוקראיני מסוג מיג 29 צולם כשהוא טס הרחק מכטב\"ם רוסי, בדיוק בשנייה שהכטב\"ם התפוצץ אחרי שהמטוס הפיל",
+      "link": "https://hagizra.news/#msg-6fa1762d38e9",
+      "body": "תיעוד מטורף | מטוס קרב אוקראיני מסוג מיג 29 צולם כשהוא טס הרחק מכטב\"ם רוסי, בדיוק בשנייה שהכטב\"ם התפוצץ אחרי שהמטוס הפיל אותו.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/060b23a2a2b7.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -538,13 +622,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "652d433ab184",
-      "title": "פרישת אלעזר שטרן | מיכאל שמש: בתקופה האחרונה שטרן ניהל מגעים עם איזנקוט.",
-      "link": "https://hagizra.news/#msg-652d433ab184",
-      "body": "פרישת אלעזר שטרן | מיכאל שמש: בתקופה האחרונה שטרן ניהל מגעים עם איזנקוט. עד כה לפיד הכיל את האירוע ואפשר לו להמשיך להיות חבר במפלגה. אלא שההצהרה האחרונה שלו הייתה אחת יותר מדי – והביאה בסבירות גבוהה לסיום דרכו.",
+      "id": "a57e1557a519",
+      "title": "לכבוד שבת | תקיפה ישראלית בכפרשובה בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-a57e1557a519",
+      "body": "לכבוד שבת | תקיפה ישראלית בכפרשובה בדרום לבנון.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -553,13 +637,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "ab6766386bcc",
-      "title": "דמעות תנין | איום נוסף ברצח הופנה ברשת טיקטוק כלפי יו\"ר המפלגה, ח\"כ אביגדור ליברמן, כך לפי מפלגתו.",
-      "link": "https://hagizra.news/#msg-ab6766386bcc",
-      "body": "דמעות תנין | איום נוסף ברצח הופנה ברשת טיקטוק כלפי יו\"ר המפלגה, ח\"כ אביגדור ליברמן, כך לפי מפלגתו. בעקבות האיום הוגשה תלונה לקצין הכנסת ולמשטרה. במפלגה טוענים כי בתקופה האחרונה מופנים לליברמן ולבני משפחתו \"גל של איומים\". (12)",
+      "id": "0e0674b9397f",
+      "title": "מתחמשים | משרד ההגנה האמריקאי הודיע על הסכם עם בואינג ו-RTX להגדלת ייצור חלקי חילוף לטילי יירוט נגד מטוסים המשוגרים ימית",
+      "link": "https://hagizra.news/#msg-0e0674b9397f",
+      "body": "מתחמשים | משרד ההגנה האמריקאי הודיע על הסכם עם בואינג ו-RTX להגדלת ייצור חלקי חילוף לטילי יירוט נגד מטוסים המשוגרים ימית מדגם SM-3.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -568,13 +652,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "4312f7a03450",
-      "title": "טורקיה 🖤 איראן | דיווח: היקף היצוא של איראן בגבול עם טורקיה זינק בכמעט 300% בארבעת החודשים הראשונים של השנה לעומת התקופ",
-      "link": "https://hagizra.news/#msg-4312f7a03450",
-      "body": "טורקיה 🖤 איראן | דיווח: היקף היצוא של איראן בגבול עם טורקיה זינק בכמעט 300% בארבעת החודשים הראשונים של השנה לעומת התקופה המקבילה אשתקד. לפי המנהל בפועל של משרד המכס במעבר, ששוחח עם כלי תקשורת מקומיים, הכנסות המכס במעבר זינקו בכ-800%. (12)",
+      "id": "44273ace9c91",
+      "title": "מעולה | הפנטגון: כל בסיס התעשייה הביטחונית שלנו נמצא בכוננות גבוהה למלחמה.",
+      "link": "https://hagizra.news/#msg-44273ace9c91",
+      "body": "מעולה | הפנטגון: כל בסיס התעשייה הביטחונית שלנו נמצא בכוננות גבוהה למלחמה.",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -583,15 +667,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "69e16f02f440",
-      "title": "\"כמו התרעות פיקוד העורף\" | הודעת התמיכה בח\"כ ששון ששי גואטה שקיבלו מתפקדים בליכוד.",
-      "link": "https://hagizra.news/#msg-69e16f02f440",
-      "body": "\"כמו התרעות פיקוד העורף\" | הודעת התמיכה בח\"כ ששון ששי גואטה שקיבלו מתפקדים בליכוד. (אבי סולומון)",
+      "id": "d5e5a1dbe70b",
+      "title": "כועס על ההשחתה | טראמפ: האנדרטה היפה שלנו למלחמת העולם השנייה הושחתה בצבע.",
+      "link": "https://hagizra.news/#msg-d5e5a1dbe70b",
+      "body": "כועס על ההשחתה | טראמפ: האנדרטה היפה שלנו למלחמת העולם השנייה הושחתה בצבע. אין עלבון גדול יותר לגיבורי אמריקה שמסרו את חייהם במלחמת העולם השנייה. קודם בריכת ההשתקפות, ועכשיו זו. אנחנו עוקבים אחריהם! מאיפה באים הפראים האלה?",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a77d6cf11a88.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bacbd32fb64f.png"
       ],
       "time": null,
       "channelName": null,
@@ -601,16 +685,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     },
     {
-      "id": "1048a683bd7c",
-      "title": "באיראן מודיעים | משמרות המהפכה הפילו מל״ט אמריקאי מסוג MQ-9 מעל מחוז הורמוזגאן בדרום המדינה.",
-      "link": "https://hagizra.news/#msg-1048a683bd7c",
-      "body": "באיראן מודיעים | משמרות המהפכה הפילו מל״ט אמריקאי מסוג MQ-9 מעל מחוז הורמוזגאן בדרום המדינה.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8f841cce35d1.bin"
-      ],
+      "id": "99310f0360ec",
+      "title": "אירוע קשה | נערה בת 14 נפצעה באורח קשה לאחר שידה נלכדה במיקסר בזמן הכנת חלות לשבת בביתה בבני ברק.",
+      "link": "https://hagizra.news/#msg-99310f0360ec",
+      "body": "אירוע קשה | נערה בת 14 נפצעה באורח קשה לאחר שידה נלכדה במיקסר בזמן הכנת חלות לשבת בביתה בבני ברק. (הפרגוד)",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -619,91 +700,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
-    },
-    {
-      "id": "7789e061f254",
-      "title": "ממתינים עם העלאה | איראן דוחה בשלב זה החלטה על העלאת מחירי הבנזין, כך דיווחה סוכנות פארס מפי גורמים ממשלתיים.",
-      "link": "https://hagizra.news/#msg-7789e061f254",
-      "body": "ממתינים עם העלאה | איראן דוחה בשלב זה החלטה על העלאת מחירי הבנזין, כך דיווחה סוכנות פארס מפי גורמים ממשלתיים. זאת על רקע לחץ כבד על הכלכלה האיראנית בעקבות הסנקציות והמצור הימי האמריקני על נמלי המדינה",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
-    },
-    {
-      "id": "d58e97740e3b",
-      "title": "תופעת השב\"חים | 8 שב\"חים נעצרו במתחם דירות בדרום תל אביב.",
-      "link": "https://hagizra.news/#msg-d58e97740e3b",
-      "body": "תופעת השב\"חים | 8 שב\"חים נעצרו במתחם דירות בדרום תל אביב. בעל המתחם אותר ונעצר גם כן לחקירה. (צילום: דוברות המשטרה)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/40b8a22e483f.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
-    },
-    {
-      "id": "149bb6874f2f",
-      "title": "רומז לחיבור?",
-      "link": "https://hagizra.news/#msg-149bb6874f2f",
-      "body": "רומז לחיבור? |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/386a67ccf9fe.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
-    },
-    {
-      "id": "6b66c9e39195",
-      "title": "הקרב בין נתניהו לביטן במחוז ירושלים | (שלום שטיין) מחוז ירושלים (מקום 27 ברשימה) צפוי להפוך לאחד ממבחני הכוח המסקרנים בי",
-      "link": "https://hagizra.news/#msg-6b66c9e39195",
-      "body": "הקרב בין נתניהו לביטן במחוז ירושלים | (שלום שטיין) מחוז ירושלים (מקום 27 ברשימה) צפוי להפוך לאחד ממבחני הכוח המסקרנים ביותר בפריימריז הקרובים ואולי לספק אינדיקציה נוספת למאזן הכוחות בין ראש הממשלה לדוד ביטן. נתניהו מקדם במחוז את ארז תדמור, שנהנה מתמיכת ראש הממשלה ומחשיפה משמעותית בערוץ 14. מנגד בעקבות איחוד המחוזות והרחבתו, גם לדוד ביטן צפויה להיות השפעה משמעותית על התוצאה.ביטן צפוי לתמוך במועמד ה",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
-    },
-    {
-      "id": "0d39deff22b0",
-      "title": "יודע מי האשמים | שגריר ארה\"ב בלבנון נשאל: \"מתי ייפסקו התקיפות הישראליות בלבנון?\"הוא השיב: \"תגידו לחזבאללה שאם הוא ימסור ",
-      "link": "https://hagizra.news/#msg-0d39deff22b0",
-      "body": "יודע מי האשמים | שגריר ארה\"ב בלבנון נשאל: \"מתי ייפסקו התקיפות הישראליות בלבנון?\"הוא השיב: \"תגידו לחזבאללה שאם הוא ימסור את נשקו, הכול ייפסק.\" (אבו עלי)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a7fb727c72d9.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-14T13:03:27.433Z"
+      "firstSeen": "2026-08-14T14:22:26.810Z"
     }
   ],
   "errors": [
