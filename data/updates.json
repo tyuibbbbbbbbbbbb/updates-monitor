@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:07:42.591Z",
+  "generatedAt": "2026-08-15T22:32:06.597Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,6 +24,24 @@
     }
   ],
   "items": [
+    {
+      "id": "e73468d4ffd2",
+      "title": "שער יתד |",
+      "link": "https://hagizra.news/#msg-e73468d4ffd2",
+      "body": "שער יתד |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e967042b90c7.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-07-19T23:13:04.576Z"
+    },
     {
       "id": "066400494fcf",
       "title": "קצר וקולע",
@@ -334,174 +352,6 @@
       "firstSeen": "2026-08-15T19:34:24.359Z"
     },
     {
-      "id": "bef8a52f4bf3",
-      "title": "תימן | כוחות תימן המתנגדות לחות'ים הודיעו על השמדת דחפור חות'י בחזית אל-ביידה בזמן שבנו חפירות וצריפים צבאיים.",
-      "link": "https://hagizra.news/#msg-bef8a52f4bf3",
-      "body": "תימן | כוחות תימן המתנגדות לחות'ים הודיעו על השמדת דחפור חות'י בחזית אל-ביידה בזמן שבנו חפירות וצריפים צבאיים.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/4f7480b62119.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T19:51:30.307Z"
-    },
-    {
-      "id": "779fa6d9eca7",
-      "title": "אנטישמי | נשיא קולומביה לשעבר גוסטבו פטרו: העם הקולומביאני אינו, ועדיין אינו, רואה ברמת הגולן שטח ישראלי.",
-      "link": "https://hagizra.news/#msg-779fa6d9eca7",
-      "body": "אנטישמי | נשיא קולומביה לשעבר גוסטבו פטרו: העם הקולומביאני אינו, ועדיין אינו, רואה ברמת הגולן שטח ישראלי. הם תמיד ראו בה, כמו רוב העולם, חלק מסוריה.ישראל השתמשה בתוכנה שלה כדי להשפיע על הבחירות, החליפה את הצבעת העם באלגוריתמים, וכפתה מועמד כפוף לממשלות ישראל וארה\"ב.כנשיא קולומביה לשעבר, אני מתנצל בפני כל המדינות הערביות ובפני המוסלמים שאנו מכבדים.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T19:51:30.307Z"
-    },
-    {
-      "id": "a87529ad8d80",
-      "title": "לוב | הפסקת חשמל מוחלטת פקדה את מערב לוב לאחר שתחנת הכוח זאוויה הייתה מטרה של רחפן.",
-      "link": "https://hagizra.news/#msg-a87529ad8d80",
-      "body": "לוב | הפסקת חשמל מוחלטת פקדה את מערב לוב לאחר שתחנת הכוח זאוויה הייתה מטרה של רחפן.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/287b362dd021.bin"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T19:51:30.307Z"
-    },
-    {
-      "id": "96789e92d923",
-      "title": "לקראת האצת ההסכם?",
-      "link": "https://hagizra.news/#msg-96789e92d923",
-      "body": "לקראת האצת ההסכם? | מקור בחמאס: משלחת בראשות ח'ליל אל-חיה יוצאת הערב לקהיר לשיחות.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T19:51:30.307Z"
-    },
-    {
-      "id": "1b79c85833b0",
-      "title": "ירח של אלול 😍 | (ינון מגל)",
-      "link": "https://hagizra.news/#msg-1b79c85833b0",
-      "body": "ירח של אלול 😍 | (ינון מגל)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/fbf7432ddc40.jpeg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T19:51:30.307Z"
-    },
-    {
-      "id": "870721b69ea7",
-      "title": "נוסעים שומרי שבת נתקעו בנתב\"ג | כ-20 נוסעים שומרי שבת נאלצו לשהות במהלך השבת בנמל התעופה בן גוריון בעקבות עיכוב בטיסתם.",
-      "link": "https://hagizra.news/#msg-870721b69ea7",
-      "body": "נוסעים שומרי שבת נתקעו בנתב\"ג | כ-20 נוסעים שומרי שבת נאלצו לשהות במהלך השבת בנמל התעופה בן גוריון בעקבות עיכוב בטיסתם. הטיסה, שהמריאה מיוון, נחתה בנתב\"ג דקות ספורות לפני כניסת השבת לאחר שורה של עיכובים. (קול חי)",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T20:03:34.923Z"
-    },
-    {
-      "id": "d0226ce9fded",
-      "title": "לקראת האצת ההסכם?",
-      "link": "https://hagizra.news/#msg-d0226ce9fded",
-      "body": "לקראת האצת ההסכם? | מקור בחמאס: משלחת בראשות ח'ליל אל-חיה יוצאת הערב לקהיר לשיחות. עוד מהניסיון להאצת ההסכם בעזה | בעקבות ביקורה של משלחת חמאס בקהיר,ג'ארד קושנר (יועצו ושליחו של הנשיא טראמפ) וניקולאי מלאדנוב (נציג מועצת השלום במזרח התיכון) צפויים להגיע מחר לישראל לסדרת פגישות.לאחר מכן, הם ייסעו לקהיר כדי להיפגש עם שליחים מצריים.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T20:03:34.923Z"
-    },
-    {
-      "id": "dd7ca40743f2",
-      "title": "ב.ד.ה.",
-      "link": "https://hagizra.news/#msg-dd7ca40743f2",
-      "body": "ב.ד.ה. | העיתונאי עידן יוסף מפרסם הודעת אבל על החתול שלו.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4dab0831a1c5.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 10,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T20:32:42.428Z"
-    },
-    {
-      "id": "2cd1b9ee09d2",
-      "title": "דאגו לשכנים | חילונים תלו מודעה לשכנים הדתיים עם הבשורה על מציאת מלי וליאל יהלומי.",
-      "link": "https://hagizra.news/#msg-2cd1b9ee09d2",
-      "body": "דאגו לשכנים | חילונים תלו מודעה לשכנים הדתיים עם הבשורה על מציאת מלי וליאל יהלומי. (תוך חילול שבת 😔)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bb6e88654b08.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T20:32:42.428Z"
-    },
-    {
-      "id": "0b92da6acaf9",
-      "title": "דואג לשבת | מועמד בפריימריז לליכוד (עולה חדש) מבטיח שילחם נגד התחבורה הציבורית בשבת, אך יותר מעניין מזה: מבטיח להוסיף את",
-      "link": "https://hagizra.news/#msg-0b92da6acaf9",
-      "body": "דואג לשבת | מועמד בפריימריז לליכוד (עולה חדש) מבטיח שילחם נגד התחבורה הציבורית בשבת, אך יותר מעניין מזה: מבטיח להוסיף את יום ראשון כיום חופשה נוסף.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/747e5c19d515.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-15T20:32:42.428Z"
-    },
-    {
       "id": "55e78a39a514",
       "title": "תאמת בא לי להתחיל להגיד היום עם הספרדים סליחןת",
       "link": "https://black-cat.thechats.click/#msg-55e78a39a514",
@@ -541,7 +391,7 @@
       "body": "לעדכונכם | משרד התחבורה: נוסעים שהחזיקו במנוי \"חופשי חודשי\" בזמן שאגת הארי יקבלו החזר.",
       "time": null,
       "channelName": null,
-      "position": 8,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -560,7 +410,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 9,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -596,7 +446,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -611,7 +461,7 @@
       "body": "מודה בכאב | נשיא איראן מסעוד פז׳כשיאן: ״אזרחי איראן אתם לא צריכים להילחץ, העלויות הגבוהות הן תופעה טבעית. אנחנו לא יכולים למכור נפט. אנחנו נמצאים במצור. בנוסף, חלק מהתשתיות שלנו נפגעו.״",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -626,7 +476,7 @@
       "body": "פרט חשוב | בכיר במשטרה מאשר כי שב״כ והמוסד לא היו חלק מחקירת היעלמותם של בנות יהלומי ואף לא נעשתה אליהם פנייה. המבצע נוהל על ידי משטרת ישראל, בהובלת חטיבת המודיעין ובשיתוף גורמי האכיפה במדינות שבהן עברו השתיים.",
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -641,7 +491,7 @@
       "body": "התקדמות קלה | משרד התחבורה דורש מחברות האוטובוסים תנופה ואקסטרה להגיש תוכניות לשיפור השירות, בעקבות שיעורים חריגים של נסיעות שלא בוצעו באזור ירושלים והשומרון.החברות נדרשו להציג יעדים מדידים לצמצום אי-הביצוע בתוך 14 ימים, ולהביא לשיפור משמעותי ברמת השירות בתוך כחצי שנה.",
       "time": null,
       "channelName": null,
-      "position": 7,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -659,7 +509,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -674,7 +524,7 @@
       "body": "סיכום חדשות השבת והערב | (זירת החדשות) שלושה לוחמים נפצעו קשה מפגיעת רחפן נפץ של חיזבאללה בדרום לבנון, צה''ל תקף בתגובה תשתיות של ארגון הטרור. אחרי שבוע של חיפושים: מלי וליאל יהלומי שנעלמו אחרי טיול בוינה אותרו בארגנטינה, השתיים החליטו להיעלם מרצונן. שר החוץ האיראני: טרם התקבלה החלטה על חידוש המו\"מ עם ארה\"ב; טראמפ: בקרוב אכריז על מצר הורמוז כעל טריטוריה אמריקאית. איראן טוענת כי שלושה מטייסיה עצורי",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 10,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -692,7 +542,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 11,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -707,13 +557,169 @@
       "body": "ציר הרשע | ארדואן לאל ג'זירה: אבקר בסוריה בתקופה הקרובה.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 12,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
       "firstSeen": "2026-08-15T21:51:43.575Z"
+    },
+    {
+      "id": "e42af2181690",
+      "title": "כל הדרכים בחזקת סכנה | תיעוד מטורף של תאונה בסוף השבוע.",
+      "link": "https://hagizra.news/#msg-e42af2181690",
+      "body": "כל הדרכים בחזקת סכנה | תיעוד מטורף של תאונה בסוף השבוע. (הפרגוד)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/652ccaf907b4.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "5e1b6c47e4b4",
+      "title": "תיעוד מהכותל המערבי |",
+      "link": "https://hagizra.news/#msg-5e1b6c47e4b4",
+      "body": "תיעוד מהכותל המערבי |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d5b8b7a7ebed.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "8c29522cfbe5",
+      "title": "בֶּן אָדָם / מַה לְּךָ נִרְדָּם / קוּם קְרָא בְּתַחֲנוּנִים | אלפים כעת ברחבת הכותל במעמד אמירת סליחות.",
+      "link": "https://hagizra.news/#msg-8c29522cfbe5",
+      "body": "בֶּן אָדָם / מַה לְּךָ נִרְדָּם / קוּם קְרָא בְּתַחֲנוּנִים | אלפים כעת ברחבת הכותל במעמד אמירת סליחות.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c94e78d1b38c.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "33f6c0757a59",
+      "title": "התקיפות בדרום לבנון | הלבנונים מדווחים, שריפה מתלקחת כעת בסביבות רכס עלי א-טאהר כתוצאה מתקיפות במרחב.",
+      "link": "https://hagizra.news/#msg-33f6c0757a59",
+      "body": "התקיפות בדרום לבנון | הלבנונים מדווחים, שריפה מתלקחת כעת בסביבות רכס עלי א-טאהר כתוצאה מתקיפות במרחב.",
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "699d831b2f82",
+      "title": "הקולות כעת בלבנון |",
+      "link": "https://hagizra.news/#msg-699d831b2f82",
+      "body": "הקולות כעת בלבנון |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d2324bf83fda.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "995251d89cc4",
+      "title": "השטח רועש | במערכת הביטחון מעריכים שרחפן הנפץ ששוגר בשבת לעבר כוחותינו ממנו נפצעו מספר מהם, שוגר מהתשתית התת קרקעית בעלי",
+      "link": "https://hagizra.news/#msg-995251d89cc4",
+      "body": "השטח רועש | במערכת הביטחון מעריכים שרחפן הנפץ ששוגר בשבת לעבר כוחותינו ממנו נפצעו מספר מהם, שוגר מהתשתית התת קרקעית בעלי טאהר, מה שמביא להבנה שהמחבלים המסתתרים שם נכונים להילחם ולא להיכנע. בנוסף לכך, דיווחים על תקיפות כעת במרחב. (הלל ביטון רוזן)",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "be69e47cba13",
+      "title": "עוד מלבנון |",
+      "link": "https://hagizra.news/#msg-be69e47cba13",
+      "body": "עוד מלבנון |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d54ca76c20f4.png"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "ffb81c064de8",
+      "title": "\"בתגובה\" לפציעת הלוחמים | בלבנון מדווחים על גל תקיפות של צה״ל ברכס עלי טאהר - תקיפות שמוגדרות כ״חגורת אש״ וכ״רחבות״.",
+      "link": "https://hagizra.news/#msg-ffb81c064de8",
+      "body": "\"בתגובה\" לפציעת הלוחמים | בלבנון מדווחים על גל תקיפות של צה״ל ברכס עלי טאהר - תקיפות שמוגדרות כ״חגורת אש״ וכ״רחבות״. (מוריה אסרף&דורון קדוש)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/52c056ccb92c.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
+    },
+    {
+      "id": "906099dcb142",
+      "title": "לילה אש | בלבנון מדווחים: חיל האוויר תוקף באזור עלי טהאר.",
+      "link": "https://hagizra.news/#msg-906099dcb142",
+      "body": "לילה אש | בלבנון מדווחים: חיל האוויר תוקף באזור עלי טהאר.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d226bddc829e.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 9,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-15T22:32:06.597Z"
     }
   ],
   "errors": [
