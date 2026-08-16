@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:29:54.803Z",
+  "generatedAt": "2026-08-16T13:53:04.590Z",
   "sources": [
     {
       "id": "blackcat",
@@ -59,24 +59,6 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-08-08T18:22:49.603Z"
-    },
-    {
-      "id": "ea79611ba0d9",
-      "title": "תובנה חשובה לקראת החורף",
-      "link": "https://black-cat.thechats.click/#msg-ea79611ba0d9",
-      "body": "תובנה חשובה לקראת החורף",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/157c1eb2438c.png"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 21,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-08-15T18:49:57.217Z"
     },
     {
       "id": "5e6da7b2df59",
@@ -551,24 +533,6 @@
       "firstSeen": "2026-08-16T12:04:13.819Z"
     },
     {
-      "id": "4e6d3a816ba6",
-      "title": "הֶחָתוּל הַשָּׁחוֹר13:29",
-      "link": "https://black-cat.thechats.click/#msg-4e6d3a816ba6",
-      "body": "הֶחָתוּל הַשָּׁחוֹר13:29",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/77809e0d10e3.jpeg"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-08-16T13:29:54.803Z"
-    },
-    {
       "id": "5137f26c365d",
       "title": "תמונה",
       "link": "https://black-cat.thechats.click/#msg-5137f26c365d",
@@ -744,6 +708,24 @@
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
       "firstSeen": "2026-08-16T13:29:54.803Z"
+    },
+    {
+      "id": "77809e0d10e3",
+      "title": "תמונה",
+      "link": "https://black-cat.thechats.click/#msg-77809e0d10e3",
+      "body": "",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/77809e0d10e3.jpeg"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-08-16T13:53:04.590Z"
     }
   ],
   "errors": [
