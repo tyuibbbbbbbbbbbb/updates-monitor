@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:05:04.590Z",
+  "generatedAt": "2026-08-19T21:35:00.941Z",
   "sources": [
     {
       "id": "blackcat",
@@ -41,6 +41,24 @@
       "sourceColor": "#1f2937",
       "sourceUrl": "https://black-cat.thechats.click/",
       "firstSeen": "2026-08-08T18:22:49.603Z"
+    },
+    {
+      "id": "db4d3a1087b1",
+      "title": "שער יתד של מחר |",
+      "link": "https://hagizra.news/#msg-db4d3a1087b1",
+      "body": "שער יתד של מחר |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a1e6645d46f0.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-17T21:33:10.041Z"
     },
     {
       "id": "87d23871b52a",
@@ -343,150 +361,6 @@
       "firstSeen": "2026-08-19T19:52:41.068Z"
     },
     {
-      "id": "7ca531ef609f",
-      "title": "אשדוד | אירוע חריג הערב בעיר, נער בן 17 אותר בביתו כשהוא מחוסר הכרה, לאחר פעולות החייאה רופאים נאלצו לקבוע את מותו, עדיי",
-      "link": "https://hagizra.news/#msg-7ca531ef609f",
-      "body": "אשדוד | אירוע חריג הערב בעיר, נער בן 17 אותר בביתו כשהוא מחוסר הכרה, לאחר פעולות החייאה רופאים נאלצו לקבוע את מותו, עדיין לא ברור הרקע.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/4125fa56b2ff.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 11,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "64ed9edbce39",
-      "title": "כלי סכנה | רוכב אופנוע נפצע במהלך רכיבה בשדרות רוקח בתל אביב יפו.",
-      "link": "https://hagizra.news/#msg-64ed9edbce39",
-      "body": "כלי סכנה | רוכב אופנוע נפצע במהלך רכיבה בשדרות רוקח בתל אביב יפו. חובשים מעניקים טיפול רפואי ומפנים לבי\"ח איכילוב, צעיר כבן 30, במצב קשה ולא יציב עם חבלת ראש.",
-      "time": null,
-      "channelName": null,
-      "position": 12,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "b60c86dd1e23",
-      "title": "טראמפ רומז על מהלך מתקרב באיראן ?",
-      "link": "https://hagizra.news/#msg-b60c86dd1e23",
-      "body": "טראמפ רומז על מהלך מתקרב באיראן ? | ״הרבה ספינות יוצאות עכשיו מהורמוז- ייתכן שזה יהיה קצת פחות מתישהו״. (בן יניב)",
-      "time": null,
-      "channelName": null,
-      "position": 13,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "29c5e0d8256b",
-      "title": "קידוש השם | ״אבא שבשמיים, תודה רבה״: שורד השבי אליה כהן שהתחתן הערב עם שורדת הנובה זיו עבוד מילא את הבטחתו מהתקופה בשבי ",
-      "link": "https://hagizra.news/#msg-29c5e0d8256b",
-      "body": "קידוש השם | ״אבא שבשמיים, תודה רבה״: שורד השבי אליה כהן שהתחתן הערב עם שורדת הנובה זיו עבוד מילא את הבטחתו מהתקופה בשבי חמאס להודות תחת החופה לקדוש ברוך הוא ולומר ‘שמע ישראל’ אם יזכה להגיע לרגע הזה.",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "b4b0b2587557",
-      "title": "תקציב מנוצל | למרות שיום הבוחר מתקרב בצעדי ענק, בכחול לבן כמעט לא בזבזו כסף לקמפיין ועוד לא עברו את המליון ש״ח עד כה מתו",
-      "link": "https://hagizra.news/#msg-b4b0b2587557",
-      "body": "תקציב מנוצל | למרות שיום הבוחר מתקרב בצעדי ענק, בכחול לבן כמעט לא בזבזו כסף לקמפיין ועוד לא עברו את המליון ש״ח עד כה מתוך 14 מיליון ממימון המפלגות, גנץ עדיין שומר את הכסף כקלף במקרה של איחוד. (שלום שטיין)",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "984de811bc7b",
-      "title": "😂",
-      "link": "https://hagizra.news/#msg-984de811bc7b",
-      "body": "😂",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b01f9297355e.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "0027f894d26c",
-      "title": "עקיצה לא מוצלחת | דביר עמר, ערוץ 7: מנכ\"ל המשרד לשירותי דת יהודה אבידן בעקיצונת על מוטי בבצ'יק בטקס הוקרה לרב רוז'ה: \"הנ",
-      "link": "https://hagizra.news/#msg-0027f894d26c",
-      "body": "עקיצה לא מוצלחת | דביר עמר, ערוץ 7: מנכ\"ל המשרד לשירותי דת יהודה אבידן בעקיצונת על מוטי בבצ'יק בטקס הוקרה לרב רוז'ה: \"הנה נציג האופוזיציה\".",
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "7836832b6a47",
-      "title": "התקיפה הישראלית בסוריה | הפגיעה במסלולי ההמראה בשדה התעופה הצבאי בסוריה.",
-      "link": "https://hagizra.news/#msg-7836832b6a47",
-      "body": "התקיפה הישראלית בסוריה | הפגיעה במסלולי ההמראה בשדה התעופה הצבאי בסוריה. (עמיחי שטיין)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f228e3792b79.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
-      "id": "80aca5c19c6a",
-      "title": "הליכוד נגד סולברג | בליכוד החליטו סופית לעתור לבג״ץ נגד החלטת סולברג לאסור על דיווח בזמן אמת מהקלפיות מי הצביע ומי לא.",
-      "link": "https://hagizra.news/#msg-80aca5c19c6a",
-      "body": "הליכוד נגד סולברג | בליכוד החליטו סופית לעתור לבג״ץ נגד החלטת סולברג לאסור על דיווח בזמן אמת מהקלפיות מי הצביע ומי לא. (שלום שטיין)",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T19:52:41.068Z"
-    },
-    {
       "id": "ca15c7eeacb8",
       "title": "הגר\"ח שחור מצא שימוש יעוד יצירת לעור של העכברים הרבים שהוא צד",
       "link": "https://black-cat.thechats.click/#msg-ca15c7eeacb8",
@@ -531,7 +405,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 10,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -546,7 +420,7 @@
       "body": "התחמשות | במשרד הביטחון דורשים מהאוצר תוספת מיידית של מיליארדים לטובת רכש ביטחוני דחוף, ובנוסף דורשים גם עשרות מיליארדים לטובת מימוש תוכנית ההתחמשות של ראש הממשלה,במשרד האוצר מנסים בימים האחרונים להגיע להסדר שיאפשר את מילוי הדרישה מבלי פריצת התקציב שיצטרך לבוא לאישור הכנסת, מאחר ואנחנו נמצאים בפגרת בחירות. (שלום שטיין)",
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 11,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -561,7 +435,7 @@
       "body": "ירושלים | בן 60 נפל ממרפסת מגובה של כ-4 מטר, ברחוב יחזקאל קוטשר; פונה במצב אנוש ולא יציב לבית החולים. (איחוד הצלה)",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 12,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -576,7 +450,7 @@
       "body": "לראשונה מאז נפילת משטר אסד | לבנון הסגירה היום לסוריה קצין בכיר לשעבר במשטר אסד, מייג'ור-ג'נרל עאדל עיסא, המואשם ברצח בכוונה תחילה, סיוע בביצוע עבירה פלילית, הריגתם של יותר משני בני אדם, עינויים שהובילו למוות, ופשעים שנועדו ללבות מלחמת אזרחים וסכסוכים עדתיים. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 13,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -591,7 +465,7 @@
       "body": "תודה ליאיר גולן | עובד חדר כושר בבאלי שבאינדונזיה, תיעד את עצמו כשהוא מסלק שלושה מטיילים ישראלים מהמקום. בסרטון שצילם הוא נשמע מטיח בהם שהם \"רוצחי תינוקות\" ומבהיר שהוא מסרב לתת להם שירות או להיכנס איתם לוויכוח. המטיילים הישראלים שמרו על איפוק ועזבו את המקום. (השטיבלאך)",
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 14,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -606,7 +480,7 @@
       "body": "יש לזה מספר ? | משרד האוצר האמריקני: לראשונה, החוב הציבורי הכולל של ארה\"ב חצה אתמול את רף 40 טריליון הדולרים. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
-      "position": 5,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -624,7 +498,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 6,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -639,7 +513,7 @@
       "body": "שוב תאונה עם הכלי סכנה | רוכב אופנוע בן 22 נפצע קשה במהלך רכיבה בעיר חיפה. צוותי רפואה העניקו לו טיפול רפואי, ופינו אותו לבית החולים רמב\"ם עם חבלת ראש.",
       "time": null,
       "channelName": null,
-      "position": 7,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -657,7 +531,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 8,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -666,15 +540,141 @@
       "firstSeen": "2026-08-19T21:05:04.590Z"
     },
     {
-      "id": "e4af131d43fa",
-      "title": "הקטל בדרכים | תאונה קטלנית אירעה בכביש החוף (2) באזור חיפה עם מעורבות שני כלי רכב, בן 60 הרוג במקום.",
-      "link": "https://hagizra.news/#msg-e4af131d43fa",
-      "body": "הקטל בדרכים | תאונה קטלנית אירעה בכביש החוף (2) באזור חיפה עם מעורבות שני כלי רכב, בן 60 הרוג במקום. בנוסף; בן 30 פונה במצב קשה ולא יציב עם חבלה רב מערכתית, וצעיר נוסף בן 25 במצב קשה עם חבלות בבטן ובגפיים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c9d02137ff56.jpg"
-      ],
+      "id": "d39b8e03ae86",
+      "title": "‏עד כמה מפלגת \"הקהל\" היא בדיחה חסרת משמעות | (שלום שטיין) ‏כל הבשורה שעליה נבנתה המפלגה הזאת היא \"פריימריז\".",
+      "link": "https://hagizra.news/#msg-d39b8e03ae86",
+      "body": "‏עד כמה מפלגת \"הקהל\" היא בדיחה חסרת משמעות | (שלום שטיין) ‏כל הבשורה שעליה נבנתה המפלגה הזאת היא \"פריימריז\". זה המוצר, זה המסר וזה הדבר שאמור להוכיח שהציבור החרדי צמא לדמוקרטיה פנימית ולבחירת נציגיו. והיום הגיע רגע המבחן הגדול שהוא הפריימריז. ‏התוצאה המביכה היא ש14 אלף איש בלבד הצביעו. (לטענתם כ100 אלף איש נרשמו לקבלת זכות הצבעה) ‏כדי להבין את גודל האירוע: בבחירות הקרובות יידרשו בערך 160 אלף קולות",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "0d54a282fd1e",
+      "title": "לילה רועש | ירי ארטילריה על פאתי העיירה בראשית בדרום לבנון.",
+      "link": "https://hagizra.news/#msg-0d54a282fd1e",
+      "body": "לילה רועש | ירי ארטילריה על פאתי העיירה בראשית בדרום לבנון.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6e0b87fed12e.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fe6813c6d8d2.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "a5568aea35e3",
+      "title": "\"המעבדה של הקוסם\" | המבנטט.",
+      "link": "https://hagizra.news/#msg-a5568aea35e3",
+      "body": "\"המעבדה של הקוסם\" | המבנטט. (אבי גרינצייג)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/afe83e54aff6.jpeg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "166413240da4",
+      "title": "חריג | דיווח על גופה שנפלטה מהים סמוך לחוף הצוק והגן הלאומי באשקלון.",
+      "link": "https://hagizra.news/#msg-166413240da4",
+      "body": "חריג | דיווח על גופה שנפלטה מהים סמוך לחוף הצוק והגן הלאומי באשקלון. צוות זק\"א מטפל באירוע.",
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "796458ac8dce",
+      "title": "הוספה למטוסי ישראל | מטוס תדלוק חדש נוסף של חיל האוויר הישראלי, מטוס פגסוס KC-46 \"גדעון\" מספר זנב 312, המריא לפני זמן קצ",
+      "link": "https://hagizra.news/#msg-796458ac8dce",
+      "body": "הוספה למטוסי ישראל | מטוס תדלוק חדש נוסף של חיל האוויר הישראלי, מטוס פגסוס KC-46 \"גדעון\" מספר זנב 312, המריא לפני זמן קצר ממפעל בואינג בסיאטל לבסיס נבטים. יגיע מחר ארצה. זה הפגסוס השני של חיל האוויר הישראלי 🇮🇱. (איתי בלומנטל)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9d305e46bfcb.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 5,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "ed54b79cb4fc",
+      "title": "נתיב פתוח | הצבא האמריקני הקים בחשאי נתיב שיט לכניסה וליציאה ממצר הורמוז.באמצעות אותו נתיב מועברות מדי יום מיליוני חביות",
+      "link": "https://hagizra.news/#msg-ed54b79cb4fc",
+      "body": "נתיב פתוח | הצבא האמריקני הקים בחשאי נתיב שיט לכניסה וליציאה ממצר הורמוז.באמצעות אותו נתיב מועברות מדי יום מיליוני חביות נפט, כך על פי שני בכירים אמריקנים, בכירים אמריקנים אומרים שהפעולה הזו כבר משפיעה באופן מורגש על ההיצע העולמי. (ברק רביד)",
+      "time": null,
+      "channelName": null,
+      "position": 6,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "bff34d07cf88",
+      "title": "סיכום חדשות היום | (זירת החדשות) הרמטכ\"ל זמיר בסיור בדרום סוריה: לא נאפשר לכוחות עוינים להתבסס בגבולותינו.",
+      "link": "https://hagizra.news/#msg-bff34d07cf88",
+      "body": "סיכום חדשות היום | (זירת החדשות) הרמטכ\"ל זמיר בסיור בדרום סוריה: לא נאפשר לכוחות עוינים להתבסס בגבולותינו. צה''ל תקף היום ברצועת עזה שני מפקדי חמאס ופעילים בארגון; אתמול חוסלו ארבעה מחבלי נוח'בה. השליח האמריקני לסוריה: התקיפה הישראלית יכלה להביא להסלמה מהירה לעימות צבאי ישיר בין ישראל לטורקיה. טלי גוטליב נגד נתניהו בעקבות השריונים במפלגה: הדמוקרטיה בליכוד פחות מדברת אליך. חד\"ש, תע\"ל ובל\"ד הודיעו כ",
+      "time": null,
+      "channelName": null,
+      "position": 7,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "7b11318b8065",
+      "title": "מלחמת הרימונים בישראל | אום אל פחם: דיווח ראשוני על השלכת רימון לעסק.",
+      "link": "https://hagizra.news/#msg-7b11318b8065",
+      "body": "מלחמת הרימונים בישראל | אום אל פחם: דיווח ראשוני על השלכת רימון לעסק. (לי עייש)",
+      "time": null,
+      "channelName": null,
+      "position": 8,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-08-19T21:35:00.941Z"
+    },
+    {
+      "id": "780f40094374",
+      "title": "האויב שבתוכנו | ארוחת בוקר על גג בית בטולכרם - במרחק אפס מרכבת ישראל.תראו כמה זה קרוב וכמה כלי נשק יש לרש״פ שם צהל אמנם ",
+      "link": "https://hagizra.news/#msg-780f40094374",
+      "body": "האויב שבתוכנו | ארוחת בוקר על גג בית בטולכרם - במרחק אפס מרכבת ישראל.תראו כמה זה קרוב וכמה כלי נשק יש לרש״פ שם צהל אמנם שולט אך היפוך קנים זו אפשרות ריאלית, אמרנו לכם - תזכרו.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/c585f3bdbb8d.bin"
       ],
       "time": null,
       "channelName": null,
@@ -684,31 +684,25 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T21:05:04.590Z"
+      "firstSeen": "2026-08-19T21:35:00.941Z"
     },
     {
-      "id": "7af957e2251d",
-      "title": "ארץ ישראל היא הכי יפה בעולם!",
-      "link": "https://hagizra.news/#msg-7af957e2251d",
-      "body": "ארץ ישראל היא הכי יפה בעולם! 🎶 | בחוות זית בגלבוע ההקמה מתקדמת במהירות האור: הקונסטרוקציה של הקירות והגג במבנה המרכזי כמעט מוכנה. והשקיעות .... ללא מתחרים. (אבו עלי)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/11ed22c6e7e8.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c6e0eeebe842.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/cb9d090ca2ad.jpg",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/3f214b4bd6fa.jpg"
-      ],
+      "id": "e83ac9b250c1",
+      "title": "האלימות בתח\"צ | אלימות של נוער נושר במודיעין עילית נגד נהג אוטובוס ערבי.",
+      "link": "https://hagizra.news/#msg-e83ac9b250c1",
+      "body": "האלימות בתח\"צ | אלימות של נוער נושר במודיעין עילית נגד נהג אוטובוס ערבי. השמע בתיעוד הושתק.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9baeb288bfd2.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/548c1f94e936.bin"
       ],
       "time": null,
       "channelName": null,
-      "position": 10,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-08-19T21:05:04.590Z"
+      "firstSeen": "2026-08-19T21:35:00.941Z"
     }
   ],
   "errors": [
