@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T01:02:26.705Z",
+  "generatedAt": "2026-09-06T05:22:38.014Z",
   "sources": [
     {
       "id": "blackcat",
@@ -271,99 +271,6 @@
       "firstSeen": "2026-09-05T21:36:45.295Z"
     },
     {
-      "id": "d38b1c21ba0f",
-      "title": "הודעה רשמית של בית הרב לנדו | ״מרן מנהיג הדור הגר\"ד לנדו שליט\"א פנה הערב במכתבים אישיים לחברי הכנסת הרב משה גפני והרב או",
-      "link": "https://hagizra.news/#msg-d38b1c21ba0f",
-      "body": "הודעה רשמית של בית הרב לנדו | ״מרן מנהיג הדור הגר\"ד לנדו שליט\"א פנה הערב במכתבים אישיים לחברי הכנסת הרב משה גפני והרב אורי מקלב והודה להם בחום על פעילותם בשנים האחרונות בציות מוחלט לגדולי ישראל, ובפרט במאבק על מעמדם של בני הישיבות שניהלו אותו במסירות מצויינת לשבח לאורם של גדולי התורה, אך עקב הצורך לעשות ריענון בקרב חברי הכנסת, על כן השניים הראשונים יעזבו את הכנסת בכדי להכניס נציגים חדשים.בנוסף, בי",
-      "time": null,
-      "channelName": null,
-      "position": 14,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-05T21:36:45.295Z"
-    },
-    {
-      "id": "342730077d71",
-      "title": "מלחמת רוסיה-אוקראינה | שליחי הממשל האמריקני ג'ארד קושנר וסטיב ויטקוף נחתו ברוסיה, שם ייפגשו עם פוטין.",
-      "link": "https://hagizra.news/#msg-342730077d71",
-      "body": "מלחמת רוסיה-אוקראינה | שליחי הממשל האמריקני ג'ארד קושנר וסטיב ויטקוף נחתו ברוסיה, שם ייפגשו עם פוטין. מחר צפויים השניים להמשיך לקייב ולהיפגש שם עם... לאחר שעות | ברוסיה מדווחים כי הסתיימה פגישתם של פוטין, וויטקוף וקושנר.",
-      "time": null,
-      "channelName": null,
-      "position": 15,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-05T21:36:45.295Z"
-    },
-    {
-      "id": "f9abb7d5bdb1",
-      "title": "שימו לב | תושבי קריית שמונה ויישובי הגליל עודכנו: בשעות הקרובות צפויה פעילות צבאית של כוחות צה''ל בלבנון, יישמעו באזור ה",
-      "link": "https://hagizra.news/#msg-f9abb7d5bdb1",
-      "body": "שימו לב | תושבי קריית שמונה ויישובי הגליל עודכנו: בשעות הקרובות צפויה פעילות צבאית של כוחות צה''ל בלבנון, יישמעו באזור הדי פיצוצים.",
-      "time": null,
-      "channelName": null,
-      "position": 16,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-05T21:36:45.295Z"
-    },
-    {
-      "id": "efd4a9e11620",
-      "title": "שריפה באופקים | שריפה פרצה בליל שבת בדירה ברחוב הדקל בעיר, לוחמי האש חילצו בשלום שני לכודים מהדירה הבוערת.",
-      "link": "https://hagizra.news/#msg-efd4a9e11620",
-      "body": "שריפה באופקים | שריפה פרצה בליל שבת בדירה ברחוב הדקל בעיר, לוחמי האש חילצו בשלום שני לכודים מהדירה הבוערת. האירוע הסתיים ללא נפגעים. מוקד השריפה היה במטבח ומבדיקה ראשונית עלה כי נרות שבת שהושארו ללא השגחה הובילו להתלקחות האש. תיעוד: כבאות והצלה לישראל)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2e8467ba135e.jpg"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 17,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-05T21:36:45.295Z"
-    },
-    {
-      "id": "156a4b52d507",
-      "title": "שגרה | דיווח בלבנון על שתי תקיפות של צה\"ל בכפר אל-קנטרה שבדרום המדינה.",
-      "link": "https://hagizra.news/#msg-156a4b52d507",
-      "body": "שגרה | דיווח בלבנון על שתי תקיפות של צה\"ל בכפר אל-קנטרה שבדרום המדינה.",
-      "time": null,
-      "channelName": null,
-      "position": 18,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-05T21:36:45.295Z"
-    },
-    {
-      "id": "6a864263edfd",
-      "title": "משהו לא מריח טוב | בשבוע האחרון 7 כתבות בערוץ 13 נגד ש״ס באופן אובססיבי במיוחד, מריח כמו הוראה מהחלונות הגבוהים.",
-      "link": "https://hagizra.news/#msg-6a864263edfd",
-      "body": "משהו לא מריח טוב | בשבוע האחרון 7 כתבות בערוץ 13 נגד ש״ס באופן אובססיבי במיוחד, מריח כמו הוראה מהחלונות הגבוהים.",
-      "time": null,
-      "channelName": null,
-      "position": 19,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-05T21:36:45.295Z"
-    },
-    {
       "id": "a99880eb1b14",
       "title": "ח''כ יעקב אשר בראיון ראשון בתור יו''ר דגל התורהכשהוא מציג את מצע המפלגה החדש",
       "link": "https://black-cat.thechats.click/#msg-a99880eb1b14",
@@ -442,7 +349,7 @@
       "body": "אינדונזיה | שדה התעופה בג'קרטה השעה את פעילותו בעקבות התפרצות הר הגעש אנאק קרקטואה ביום שישי. האפר שהצטבר בעקבות ההתפרצות הוביל לעצירת הטיסות והשפיע על 33 טיסות בין-לאומיות.",
       "time": null,
       "channelName": null,
-      "position": 0,
+      "position": 15,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -460,7 +367,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 1,
+      "position": 16,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -475,7 +382,7 @@
       "body": "נחיה ונראה | גורם רשמי בבית הלבן: לאיראן אין זכות לפגוע בספינות במצרי הורמוז, ואם כן, יהיו לכך השלכות.",
       "time": null,
       "channelName": null,
-      "position": 2,
+      "position": 17,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -490,7 +397,7 @@
       "body": "השפעות המצור והמלחמה | מחיר גז טבעי מיובא באיראן עלה ב 155%, מחיר נפט להסקה עלה ב 114%.",
       "time": null,
       "channelName": null,
-      "position": 3,
+      "position": 18,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -508,7 +415,7 @@
       ],
       "time": null,
       "channelName": null,
-      "position": 4,
+      "position": 19,
       "sourceId": "hagizra",
       "sourceName": "הגיזרה",
       "sourceIcon": "📡",
@@ -517,12 +424,99 @@
       "firstSeen": "2026-09-06T01:02:26.705Z"
     },
     {
-      "id": "eddff6fb41cb",
-      "title": "שְׁמַע קוֹלֵנוּ | מעמד הסליחות המרכזי הלילה בכותל המערבי בהשתתפות השר סמוטריץ׳ ורב הכותל.",
-      "link": "https://hagizra.news/#msg-eddff6fb41cb",
-      "body": "שְׁמַע קוֹלֵנוּ | מעמד הסליחות המרכזי הלילה בכותל המערבי בהשתתפות השר סמוטריץ׳ ורב הכותל.",
+      "id": "823d1bf159cc",
+      "title": "הרס רב | כפר מאן בדרום לבנון, לאחר התקיפה הבוקר.",
+      "link": "https://hagizra.news/#msg-823d1bf159cc",
+      "body": "הרס רב | כפר מאן בדרום לבנון, לאחר התקיפה הבוקר.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/e2e2ae5d0be3.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6f98a1498537.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-09-06T05:22:38.014Z"
+    },
+    {
+      "id": "a54edc70436d",
+      "title": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
+      "link": "https://hagizra.news/#msg-a54edc70436d",
+      "body": "קלקיליה | כוח צה''ל בפעילות הלילה בעיר.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/93b183720afc.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 1,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-09-06T05:22:38.014Z"
+    },
+    {
+      "id": "16752e4f6fda",
+      "title": "תרמית | שופט בית המשפט העליון לשעבר בברוקלין, ואיש נדל\"ן חרדי, חשודים שהונו משקיעים במיליוני דולרים.",
+      "link": "https://hagizra.news/#msg-16752e4f6fda",
+      "body": "תרמית | שופט בית המשפט העליון לשעבר בברוקלין, ואיש נדל\"ן חרדי, חשודים שהונו משקיעים במיליוני דולרים. השניים ניצלו את מעמדו השיפוטי של השופט כדי להעניק אמינות כוזבת לעסקאות פיקטיביות, ושילשלו לכיסם לפחות חמישה מיליון דולר. (פרבר)",
+      "time": null,
+      "channelName": null,
+      "position": 2,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-09-06T05:22:38.014Z"
+    },
+    {
+      "id": "4d3118c2c10b",
+      "title": "מי חוסל?",
+      "link": "https://hagizra.news/#msg-4d3118c2c10b",
+      "body": "מי חוסל? | בלבנון מדווחים: רכב הותקף בנבטיה אל-פוקא שבדרום המדינה.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/68d5b04ddc27.bin"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 3,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-09-06T05:22:38.014Z"
+    },
+    {
+      "id": "d48187507e79",
+      "title": "הרס | המבנה שהותקף בכפר ערבסאלים, דרום לבנון.",
+      "link": "https://hagizra.news/#msg-d48187507e79",
+      "body": "הרס | המבנה שהותקף בכפר ערבסאלים, דרום לבנון.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/beeaab1d6c74.jpg"
+      ],
+      "time": null,
+      "channelName": null,
+      "position": 4,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-09-06T05:22:38.014Z"
+    },
+    {
+      "id": "7fc277669f90",
+      "title": "מהאוויר | רגע תקיפת המבנה בכפר ערבסאלים - לאחר התרעת הפינוי של צה\"ל.",
+      "link": "https://hagizra.news/#msg-7fc277669f90",
+      "body": "מהאוויר | רגע תקיפת המבנה בכפר ערבסאלים - לאחר התרעת הפינוי של צה\"ל. (ליפקין)",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/9a8159b17f85.bin"
       ],
       "time": null,
       "channelName": null,
@@ -532,13 +526,20 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "9e4691edb089",
-      "title": "שיבושים בתנועת הרכבות | כבל של חברת החשמל פגע במהלך עבודות תשתית ברשת החשמול הרכבתית באזור שפיים, ובעקבות זאת הופסקה זמנ",
-      "link": "https://hagizra.news/#msg-9e4691edb089",
-      "body": "שיבושים בתנועת הרכבות | כבל של חברת החשמל פגע במהלך עבודות תשתית ברשת החשמול הרכבתית באזור שפיים, ובעקבות זאת הופסקה זמנית תנועת הרכבות בין תל אביב סבידור מרכז לנתניה. צוותי רכבת ישראל פועלים לתיקון הנזק, ובמקביל הוזמנו היסעים לתחנות תל אביב סבידור מרכז, הרצליה, בית יהושע ונתניה.",
+      "id": "f0bd3d239116",
+      "title": "לאחר אזהרת הפינוי הבוקר | בלבנון מדווחים - צה\"ל תוקף בכפר ערבסאלים.",
+      "link": "https://hagizra.news/#msg-f0bd3d239116",
+      "body": "לאחר אזהרת הפינוי הבוקר | בלבנון מדווחים - צה\"ל תוקף בכפר ערבסאלים.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/718875a6ce61.jpg",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/bff7dcc53ffe.jpg"
+      ],
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/571e4810dec5.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -547,13 +548,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "a7fb22e807ce",
-      "title": "מסלימים | משמרות המהפכה האיראניים: כוח החלל של משמרות המהפכה האיראניים הכריז כי תקף באמצעות מספר טילים בליסטיים נושאת מט",
-      "link": "https://hagizra.news/#msg-a7fb22e807ce",
-      "body": "מסלימים | משמרות המהפכה האיראניים: כוח החלל של משמרות המהפכה האיראניים הכריז כי תקף באמצעות מספר טילים בליסטיים נושאת מטוסים ומשחתת השייכות לצבא האמריקני. שתי הספינות ניזוקו ונאלצו לעזוב את אזור הלחימה מחשש לתקיפה נוספת.",
+      "id": "33289c188d8d",
+      "title": "\"בתגובה\" | צה\"ל תקף במרחב נבטיה לאחר שיגור רחפני הנפץ לעבר הכוחות במרחב האבטחה.",
+      "link": "https://hagizra.news/#msg-33289c188d8d",
+      "body": "\"בתגובה\" | צה\"ל תקף במרחב נבטיה לאחר שיגור רחפני הנפץ לעבר הכוחות במרחב האבטחה.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2dfc400bdec8.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -562,13 +566,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "f7eaad9a1978",
-      "title": "התנצלות | בשעה האחרונה נשלחו באתר מספר הודעות אשר אינן עומדות בקנה אחד עם ערכי התורה והציבור החרדי.נעשה כל מאמץ שדברים א",
-      "link": "https://hagizra.news/#msg-f7eaad9a1978",
-      "body": "התנצלות | בשעה האחרונה נשלחו באתר מספר הודעות אשר אינן עומדות בקנה אחד עם ערכי התורה והציבור החרדי.נעשה כל מאמץ שדברים אלו לא יחזרו על עצמן בעתיד.",
+      "id": "66267b756eb6",
+      "title": "ברוך דיין האמת | הבוקר עם עלות השחר הגיעה הבשורה הקשה על פטירתו של הגאון רבי יהושע דוד וייספיש זצ\"ל מאשדוד.בנו הוא הרב י",
+      "link": "https://hagizra.news/#msg-66267b756eb6",
+      "body": "ברוך דיין האמת | הבוקר עם עלות השחר הגיעה הבשורה הקשה על פטירתו של הגאון רבי יהושע דוד וייספיש זצ\"ל מאשדוד.בנו הוא הרב יהודה וייספיש שיבלחט\"א, יו\"ר 'איחוד בני הישיבות' בארה\"ק.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -577,13 +581,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "ad0d30b8b44e",
-      "title": "• אחרי השמדת המנהרות ברכס עלי טהאר | בצה\"ל נערכים לצמצום כוחות ולמתיחת קו ביטחון חדש בלבנון, קרוב יותר לגבול.",
-      "link": "https://hagizra.news/#msg-ad0d30b8b44e",
-      "body": "• אחרי השמדת המנהרות ברכס עלי טהאר | בצה\"ל נערכים לצמצום כוחות ולמתיחת קו ביטחון חדש בלבנון, קרוב יותר לגבול. • בצל הלחץ האמריקני | הריאל האיראני בשפל חסר תקדים, ושוויו הגיע לכ־2.25 מיליון ריאל לדולר. • שתיקה בחיזבאללה לאחר השלמת פעילות צה\"ל ברכס עלי טהאר. גורם פוליטי לבנוני המתנגד לארגון: \"זו מכה צבאית ותדמיתית עבור חיזבאללה\".",
+      "id": "8afd56a4fb49",
+      "title": "אין משיחין...",
+      "link": "https://hagizra.news/#msg-8afd56a4fb49",
+      "body": "אין משיחין... | באיראן מדווחים על שיחות טלפון שקיים שר החוץ עבאס עראקצ'י עם שרי החוץ של סעודיה וטורקיה. (אסף רוזנצוויג)",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -592,13 +596,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "7f67d57f9b42",
-      "title": "התפילות לרפואת מרן האדמו\"ר מויזניץ | מיד עם תום אמירת הסליחות הערב, הורה מרן האדמו\"ר מסערט ויזניץ לכלל החסידים לומר יחדי",
-      "link": "https://hagizra.news/#msg-7f67d57f9b42",
-      "body": "התפילות לרפואת מרן האדמו\"ר מויזניץ | מיד עם תום אמירת הסליחות הערב, הורה מרן האדמו\"ר מסערט ויזניץ לכלל החסידים לומר יחדיו פרק תהילים לרפואתו. מוקדם יותר, בסיום דברות קודשו בסעודה שלישית.",
+      "id": "90f58dd2ac6f",
+      "title": "חיזבאללה מפר את הפסקת האש | מחבלי חיזבאללה שיגרו מוקדם יותר הבוקר שני רחפני נפץ לעבר כוחותינו במרחב הביטחוני שבדרום לבנו",
+      "link": "https://hagizra.news/#msg-90f58dd2ac6f",
+      "body": "חיזבאללה מפר את הפסקת האש | מחבלי חיזבאללה שיגרו מוקדם יותר הבוקר שני רחפני נפץ לעבר כוחותינו במרחב הביטחוני שבדרום לבנון, הלוחמים ירו לעבר אחד הרחפנים ויירטו אותו. אין נפגעים לכוחותינו. מדובר בהפרה בוטה של ארגון הטרור חיזבאללה. צה\"ל תוקף כעת בתגובה בדרום לבנון. (דו\"צ)",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -607,13 +611,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "c46a9ea59352",
-      "title": "משיחין | נכדו של הרב לנדו טוביא שוחח מוקדם יותר הערב עם גפני והודיע לו על ההחלטה.",
-      "link": "https://hagizra.news/#msg-c46a9ea59352",
-      "body": "משיחין | נכדו של הרב לנדו טוביא שוחח מוקדם יותר הערב עם גפני והודיע לו על ההחלטה.",
+      "id": "bce1f98c9d24",
+      "title": "תרגיל פתע בצה״ל | הרמטכ״ל הורה על הפעלת בוחן רמטכ״ל במתכונת פתע, ״עלות השחר 2.0״, לבחינת מוכנות צה״ל לתרחיש רב זירתי מתפ",
+      "link": "https://hagizra.news/#msg-bce1f98c9d24",
+      "body": "תרגיל פתע בצה״ל | הרמטכ״ל הורה על הפעלת בוחן רמטכ״ל במתכונת פתע, ״עלות השחר 2.0״, לבחינת מוכנות צה״ל לתרחיש רב זירתי מתפרץ. במסגרת התרגיל הוקפצו מפקדים וכוחות ברחבי הארץ ותורגש תנועה ערה של כוחות וכלי טיס. בדובר צה״ל מדגישים: אין חשש לאירוע ביטחוני.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e9ed21162e2c.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 11,
@@ -622,16 +629,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "3a36b1428c38",
-      "title": "למרות התדרוכים | גם מחר ביתד נאמן אין שום אזכור למהלך החלפת הח״כים.",
-      "link": "https://hagizra.news/#msg-3a36b1428c38",
-      "body": "למרות התדרוכים | גם מחר ביתד נאמן אין שום אזכור למהלך החלפת הח״כים.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/07175db2dc6a.jpg"
-      ],
+      "id": "e722f730cbea",
+      "title": "התחזית | היום מעונן חלקית עד בהיר, עם ירידה קלה בטמפרטורות בעיקר בהרים, בבוקר ייתכן טפטוף בצפון הארץ ובמרכזה.רוח בים התי",
+      "link": "https://hagizra.news/#msg-e722f730cbea",
+      "body": "התחזית | היום מעונן חלקית עד בהיר, עם ירידה קלה בטמפרטורות בעיקר בהרים, בבוקר ייתכן טפטוף בצפון הארץ ובמרכזה.רוח בים התיכון: דרום מערבית עד צפון מערבית 15-40 קמ\"ש.מצב הים התיכון: גלי עד גבה גלי 70-140 ס\"מ. הטמפרטורות החזויות להיום והלילה:קריית שמונה 34-22, קצרין 32-21 צפת 28-19 טבריה 35-25, נצרת 30-21 חיפה 30-25תל אביב 30-25, מודיעין 32-23, ירושלים 29-19, אריאל 30-20, אשקלון 30-25, עין גדי 37-28,ב",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -640,13 +644,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     },
     {
-      "id": "7fbfdd701a1c",
-      "title": "סיכום חדשות השבת והערב | (זירת החדשות) דרמה בדגל התורה: מסתמן שח\"כ משה גפני ואורי מקלב יודחו מהרשימה, יעקב אשר יהיה יו\"ר",
-      "link": "https://hagizra.news/#msg-7fbfdd701a1c",
-      "body": "סיכום חדשות השבת והערב | (זירת החדשות) דרמה בדגל התורה: מסתמן שח\"כ משה גפני ואורי מקלב יודחו מהרשימה, יעקב אשר יהיה יו\"ר המפלגה. טרגדיה בנתניה: לוחם מג\"ב הלום קרב פתח באש לעבר שוטרים ונורה למוות. בצהרי השבת: מפגינים חרדים חסמו אוטובוסים בכניסה לירושלים כדי למנוע מהם לחלל שבת. צה''ל תקף בדרום לבנון בתגובה לשיגור רחפן נפץ בידי חיזבאללה. פיקוד המרכז האמריקני: תקפנו שלוש מכליות איראניות בתגובה על שיגו",
+      "id": "cfa8f502bb14",
+      "title": "כלי סכנה | רוכב אופנוע בן 20 נפצע קשה בתאונת דרכים בכביש 531, סמוך למחלף כפר סבא-רעננה לכיוון צפון.",
+      "link": "https://hagizra.news/#msg-cfa8f502bb14",
+      "body": "כלי סכנה | רוכב אופנוע בן 20 נפצע קשה בתאונת דרכים בכביש 531, סמוך למחלף כפר סבא-רעננה לכיוון צפון. צוותי רפואה שהגיעו לזירה פינו אותו עם חבלה רב-מערכתית כשהוא מחוסר הכרה.",
       "time": null,
       "channelName": null,
       "position": 13,
@@ -655,7 +659,22 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
+      "firstSeen": "2026-09-06T05:22:38.014Z"
+    },
+    {
+      "id": "7f66b817d5dc",
+      "title": "דרמה לילית | נער בן 15 התקשר למשטרה וטען שנחטף באזור חיזמא.תוך דקות בודדות כוחות רבים מצה״ל, שב״כ ומשטרת ישראל קפצו למרח",
+      "link": "https://hagizra.news/#msg-7f66b817d5dc",
+      "body": "דרמה לילית | נער בן 15 התקשר למשטרה וטען שנחטף באזור חיזמא.תוך דקות בודדות כוחות רבים מצה״ל, שב״כ ומשטרת ישראל קפצו למרחב, כולל קצינים בכירים ויחידות מיוחדות, ולרגעים נדמה שהיה מדובר באירוע אמת והפקודות ניתנו בהתאם.לאחר כ-20 דקות התברר שמדובר בשלושה נערים שיכורים ולא בחטיפה, והוכרזה חזרה מלאה לשיגרה. (הלל ביטון רוזן)",
+      "time": null,
+      "channelName": null,
+      "position": 14,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-09-06T05:22:38.014Z"
     }
   ],
   "errors": [
