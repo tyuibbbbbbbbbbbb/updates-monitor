@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:25:07.087Z",
+  "generatedAt": "2026-09-06T20:37:11.497Z",
   "sources": [
     {
       "id": "blackcat",
@@ -25,60 +25,6 @@
   ],
   "items": [
     {
-      "id": "a99880eb1b14",
-      "title": "ח''כ יעקב אשר בראיון ראשון בתור יו''ר דגל התורהכשהוא מציג את מצע המפלגה החדש",
-      "link": "https://black-cat.thechats.click/#msg-a99880eb1b14",
-      "body": "ח''כ יעקב אשר בראיון ראשון בתור יו''ר דגל התורהכשהוא מציג את מצע המפלגה החדש",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/405481eb64e9.bin"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 18,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
-    },
-    {
-      "id": "2831bee02659",
-      "title": "ועוד אחד",
-      "link": "https://black-cat.thechats.click/#msg-2831bee02659",
-      "body": "ועוד אחד",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/fbaf1e7c5ae5.png"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 19,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
-    },
-    {
-      "id": "347a95fd4aca",
-      "title": "#תובנות",
-      "link": "https://black-cat.thechats.click/#msg-347a95fd4aca",
-      "body": "#תובנות",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d737a9bce476.png"
-      ],
-      "time": "הֶחָתוּל הַשָּׁחוֹר",
-      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 20,
-      "sourceId": "blackcat",
-      "sourceName": "החתול השחור",
-      "sourceIcon": "🐱",
-      "sourceColor": "#1f2937",
-      "sourceUrl": "https://black-cat.thechats.click/",
-      "firstSeen": "2026-09-06T01:02:26.705Z"
-    },
-    {
       "id": "0359597a773b",
       "title": "מי אמר שעריית בני ברק לא דואגת לתושבים?",
       "link": "https://black-cat.thechats.click/#msg-0359597a773b",
@@ -88,7 +34,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 7,
+      "position": 10,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -103,7 +49,7 @@
       "body": "איזו תורה אתם לומדים? | הרב אהרן לוי",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 8,
+      "position": 11,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -121,7 +67,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 9,
+      "position": 12,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -139,7 +85,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 10,
+      "position": 13,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -154,7 +100,7 @@
       "body": "מספק",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 11,
+      "position": 14,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -172,7 +118,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 12,
+      "position": 15,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -190,7 +136,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 13,
+      "position": 16,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -208,7 +154,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 14,
+      "position": 17,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -226,7 +172,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 15,
+      "position": 18,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -244,7 +190,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 16,
+      "position": 19,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -262,7 +208,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 17,
+      "position": 20,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -280,7 +226,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 0,
+      "position": 3,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -295,7 +241,7 @@
       "body": "משתמשים רבים הופתעו לקבל לתיבת המייל את המהדורה הראשונה של החתול השחור במייל אם לא מצאתם תחפשו בספאם...חשוב לנו לדעת אם קבלתם את זה לתיבה הראשית או לספאם🟢 ראשי🔴 ספאם",
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 1,
+      "position": 4,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -313,7 +259,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 2,
+      "position": 5,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -331,7 +277,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 3,
+      "position": 6,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -349,7 +295,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 4,
+      "position": 7,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -367,7 +313,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 5,
+      "position": 8,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -385,7 +331,7 @@
       ],
       "time": "הֶחָתוּל הַשָּׁחוֹר",
       "channelName": "הֶחָתוּל הַשָּׁחוֹר",
-      "position": 6,
+      "position": 9,
       "sourceId": "blackcat",
       "sourceName": "החתול השחור",
       "sourceIcon": "🐱",
@@ -394,12 +340,66 @@
       "firstSeen": "2026-09-06T18:25:07.087Z"
     },
     {
-      "id": "83412957a89d",
-      "title": "כמעט אסון בביתר עילית | תיעוד מטריד מהערב: נהג ביצע עקיפה מסוכנת בסמוך למעבר חצייה, דרך אי תנועה, בזמן שהולך רגל חצה את ",
-      "link": "https://hagizra.news/#msg-83412957a89d",
-      "body": "כמעט אסון בביתר עילית | תיעוד מטריד מהערב: נהג ביצע עקיפה מסוכנת בסמוך למעבר חצייה, דרך אי תנועה, בזמן שהולך רגל חצה את הכביש.במהלך העקיפה פגע הנהג בהולך הרגל. לאחר מכן עצר לזמן קצר, אך עזב את המקום.המקרה ממחיש פעם נוספת את הסכנה שבנהיגה פזיזה וחסרת אחריות, במיוחד בסביבת מעברי חצייה.",
+      "id": "2e7543066890",
+      "title": "אימונים להקפות בקהילת יוצאי אטיופיה",
+      "link": "https://black-cat.thechats.click/#msg-2e7543066890",
+      "body": "אימונים להקפות בקהילת יוצאי אטיופיה",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/6521c84d1f48.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/094de2b43651.bin"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 0,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-09-06T20:37:11.497Z"
+    },
+    {
+      "id": "4758f5de6f79",
+      "title": "*עלול",
+      "link": "https://black-cat.thechats.click/#msg-4758f5de6f79",
+      "body": "*עלול",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/dc6d4162e2f9.jpeg"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 1,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-09-06T20:37:11.497Z"
+    },
+    {
+      "id": "6d1f2d5b5ee0",
+      "title": "תמונה",
+      "link": "https://black-cat.thechats.click/#msg-6d1f2d5b5ee0",
+      "body": "",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/6d1f2d5b5ee0.png"
+      ],
+      "time": "הֶחָתוּל הַשָּׁחוֹר",
+      "channelName": "הֶחָתוּל הַשָּׁחוֹר",
+      "position": 2,
+      "sourceId": "blackcat",
+      "sourceName": "החתול השחור",
+      "sourceIcon": "🐱",
+      "sourceColor": "#1f2937",
+      "sourceUrl": "https://black-cat.thechats.click/",
+      "firstSeen": "2026-09-06T20:37:11.497Z"
+    },
+    {
+      "id": "9ec940636c70",
+      "title": "כְּבַקָּרַת רֹעֶה עֶדְרוֹ | לאחר שהיה במצב רפואי מורכב ובכל תפוצות ישראל קרעו שערי שמיים לרפואתו, הערב מרן האדמו\"ר מויז'",
+      "link": "https://hagizra.news/#msg-9ec940636c70",
+      "body": "כְּבַקָּרַת רֹעֶה עֶדְרוֹ | לאחר שהיה במצב רפואי מורכב ובכל תפוצות ישראל קרעו שערי שמיים לרפואתו, הערב מרן האדמו\"ר מויז'ניץ קיבל מאות חסידים שעברו לפניו לברכת ’כתיבה וחתימה טובה’, כאשר הוא מאיר פנים לכל אחד ואחד במתינות ובחן מיוחד. בחסידות מקווים שלקראת הימים הנוראים האדמו\"ר יתחזק עוד יותר כפי שהיה בשנה שעברה (נתי קאליש)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f9ceee61c272.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -409,13 +409,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "7b00dfd84020",
-      "title": "אשדוד | רוכב קורקינט חשמלי כבן 50 פונה במצב קשה בתאונה עם מעורבות רכב ברחוב מיכשוילי בעיר.",
-      "link": "https://hagizra.news/#msg-7b00dfd84020",
-      "body": "אשדוד | רוכב קורקינט חשמלי כבן 50 פונה במצב קשה בתאונה עם מעורבות רכב ברחוב מיכשוילי בעיר. (איחוד הצלה)",
+      "id": "ba7d69eb60bf",
+      "title": "טראמפ על הדמוקרטים |",
+      "link": "https://hagizra.news/#msg-ba7d69eb60bf",
+      "body": "טראמפ על הדמוקרטים |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/01a864ab2cd6.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 1,
@@ -424,13 +427,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "06438883d600",
-      "title": "משטחים את הכפר | דיווח: יותר מ־15 מנהרות פוצצו במקביל בלבנון, מהכפר יחמר א־שקיף ועד רכס עלי טאהר.",
-      "link": "https://hagizra.news/#msg-06438883d600",
-      "body": "משטחים את הכפר | דיווח: יותר מ־15 מנהרות פוצצו במקביל בלבנון, מהכפר יחמר א־שקיף ועד רכס עלי טאהר.",
+      "id": "1348ee74e51b",
+      "title": "הליכוד בסרטון חדש |",
+      "link": "https://hagizra.news/#msg-1348ee74e51b",
+      "body": "הליכוד בסרטון חדש |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/01f9565eeba9.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 2,
@@ -439,15 +445,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "8eba1277bec4",
-      "title": "סקר כאן חדשות | עוד מסקר כאן חדשות | איזנקוט גובר גם השבוע נתניהו בשאלת ההתאמה לראשות הממשלה.",
-      "link": "https://hagizra.news/#msg-8eba1277bec4",
-      "body": "סקר כאן חדשות | עוד מסקר כאן חדשות | איזנקוט גובר גם השבוע נתניהו בשאלת ההתאמה לראשות הממשלה.",
+      "id": "c40b2ac122e0",
+      "title": "טראמפ בציוץ נוסף | אני עושה את כל זה לטובת המדינה שלנו, לא למען רווח אישי.תרמתי מאות מיליארדי דולרים לארצות הברית באמצעו",
+      "link": "https://hagizra.news/#msg-c40b2ac122e0",
+      "body": "טראמפ בציוץ נוסף | אני עושה את כל זה לטובת המדינה שלנו, לא למען רווח אישי.תרמתי מאות מיליארדי דולרים לארצות הברית באמצעות מניות והשקעות אחרות, אך כל מה שאני מקבל זה ביקורת מצד הדמוקרטים ומהשמאל הרדיקלי.זה לגמרי לא הוגן, אבל מה אני יכול לעשות?",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0a7580100c52.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c75212c7ba83.jpg"
       ],
       "time": null,
       "channelName": null,
@@ -457,13 +463,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "9b334b2e5075",
-      "title": "רשימת ישראל ביתנו | 1.אביגדור ליברמן 2.⁠ ⁠רפי בן שטרית, 3.",
-      "link": "https://hagizra.news/#msg-9b334b2e5075",
-      "body": "רשימת ישראל ביתנו | 1.אביגדור ליברמן 2.⁠ ⁠רפי בן שטרית, 3. אל\"מ טליה לנקרי 4.⁠ ⁠עודד פורר 5.⁠ ⁠יוליה מלינובסקי 6.⁠ ⁠שרון שרעבי 7.⁠ ⁠חמאד עמר 8.... סופו של כל שונא חרדים | מה שמעניין זה השיבוץ של דן אילוז רק במקום ה-10. (אברהם חסון)",
+      "id": "ea570f02043b",
+      "title": "טראמפ ממשיך להטריל | ובעודם מדברים | דיווחים על פיצוצים במצרי הורמוז.",
+      "link": "https://hagizra.news/#msg-ea570f02043b",
+      "body": "טראמפ ממשיך להטריל | ובעודם מדברים | דיווחים על פיצוצים במצרי הורמוז.",
       "time": null,
       "channelName": null,
       "position": 4,
@@ -472,13 +478,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "a133d4ac6313",
-      "title": "ייצוג דתי בגוש האופוזיציה | אמיר אטינגר: שימו לב למשהו מעניין, מבחינת ייצוג ציוני דתי בגוש האופוזיציה:אצל בנט - אין אף א",
-      "link": "https://hagizra.news/#msg-a133d4ac6313",
-      "body": "ייצוג דתי בגוש האופוזיציה | אמיר אטינגר: שימו לב למשהו מעניין, מבחינת ייצוג ציוני דתי בגוש האופוזיציה:אצל בנט - אין אף אחד! רק בנט עצמו (אם מחשיבים את הקליפה על הראש). ויתור מלא.אצל ליברמן - רפי בן שטרית ושרון שרעבי - ודן אילוז לפי רוב הסקרים לא ריאליאיזנקוט הוא היחיד שיש לו בצמרת בסביבות העשירייה הראשונה ציונות דתית - יורם כהן, מתן כהנא, חילי טרופר, שירה שפירא, אורית פרקש, ויש גם את אלעזר שטרן.אם",
+      "id": "36de71787368",
+      "title": "טראמפ ממשיך להטריל |",
+      "link": "https://hagizra.news/#msg-36de71787368",
+      "body": "טראמפ ממשיך להטריל |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/dfd3a0450923.webp"
+      ],
       "time": null,
       "channelName": null,
       "position": 5,
@@ -487,16 +496,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "606b63e6bf1b",
-      "title": "סקר כאן חדשות |",
-      "link": "https://hagizra.news/#msg-606b63e6bf1b",
-      "body": "סקר כאן חדשות |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c73d9e121447.jpeg"
-      ],
+      "id": "b53322eee320",
+      "title": "שימו לב | משרד הבריאות ממליץ למתרחצים בכנרת לצמצם ככל האפשר חדירת מים לאף, בעקבות אימות מקרה נוסף של תחלואה באמבה Naegle",
+      "link": "https://hagizra.news/#msg-b53322eee320",
+      "body": "שימו לב | משרד הבריאות ממליץ למתרחצים בכנרת לצמצם ככל האפשר חדירת מים לאף, בעקבות אימות מקרה נוסף של תחלואה באמבה Naegleria fowleri. בין היתר מומלץ להשתמש באטם אף, להימנע מצלילה, קפיצה למים והכנסת הראש למים, וכן להימנע מערבול קרקעית הכנרת במים רדודים. מדובר במחלה נדירה מאוד, אך קשה ומסכנת חיים, שאינה עוברת מאדם לאדם. מאז 2022 אובחנו בישראל ארבעה מקרי תחלואה באמבה. (12)",
       "time": null,
       "channelName": null,
       "position": 6,
@@ -505,15 +511,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "e36cbbbd9ed1",
-      "title": "סקר כאן חדשות | לראשונה עם יעקב אשר כיו\"ר יהדות התורה.",
-      "link": "https://hagizra.news/#msg-e36cbbbd9ed1",
-      "body": "סקר כאן חדשות | לראשונה עם יעקב אשר כיו\"ר יהדות התורה.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/30088790d011.jpeg"
+      "id": "db968a8b2b56",
+      "title": "אסון תעופה | דיווחים על מטוס מטען שהתרסק בנמל התעופה במיאמי.",
+      "link": "https://hagizra.news/#msg-db968a8b2b56",
+      "body": "אסון תעופה | דיווחים על מטוס מטען שהתרסק בנמל התעופה במיאמי. תיעוד |",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/8a8058467764.bin"
       ],
       "time": null,
       "channelName": null,
@@ -523,16 +529,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "38ab904dd418",
-      "title": "שריפה בבניין מגורים בפתח תקווה | צוותי כיבוי וחילוץ מתחנת פתח תקווה פועלים בשעה זו בשריפה שפרצה בקומת הקרקע בבניין מגורי",
-      "link": "https://hagizra.news/#msg-38ab904dd418",
-      "body": "שריפה בבניין מגורים בפתח תקווה | צוותי כיבוי וחילוץ מתחנת פתח תקווה פועלים בשעה זו בשריפה שפרצה בקומת הקרקע בבניין מגורים בן 3 קומות ברחוב דרך זאב... השריפה בבניין המגורים בפתח תקווה | צוותי כיבוי השיגו שליטה מלאה על השריפה שפרצה בקומת הקרקע ברחוב דרך זאב ז'בוטינסקי בעיר. לוחמי האש סיימו את פעולות הסריקה והאוורור במבנה. אין לכודים ואין נפגעים באירוע. במקום נגרם נזק לדירה בקומה הראשונה. חוקר דליקות",
+      "id": "ab251bc24fed",
+      "title": "מקדש שם שמיים | יעקב חייל יהודי בצבא אוקראינה - מחשל את ידיהם של חבריו לקרב ומקריא מזמור בתהילים באותם יערות ממש שסבו לח",
+      "link": "https://hagizra.news/#msg-ab251bc24fed",
+      "body": "מקדש שם שמיים | יעקב חייל יהודי בצבא אוקראינה - מחשל את ידיהם של חבריו לקרב ומקריא מזמור בתהילים באותם יערות ממש שסבו לחם בנאצים כפרטיזן.",
       "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/743c87e74f58.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/27c2246730dd.bin"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/a6013c7162b8.bin"
       ],
       "time": null,
       "channelName": null,
@@ -542,13 +547,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "31df3368dd12",
-      "title": "הטרור השקט | הצלה יו\"ש ללא גבולות: זריקת אבנים לעבר אוטובוס סמוך לחיזמא אין נפגעים.",
-      "link": "https://hagizra.news/#msg-31df3368dd12",
-      "body": "הטרור השקט | הצלה יו\"ש ללא גבולות: זריקת אבנים לעבר אוטובוס סמוך לחיזמא אין נפגעים.",
+      "id": "4ee5498da7e7",
+      "title": "הימין מנצח | עמית סגל: אם וינטר עובר הימין מנצח.",
+      "link": "https://hagizra.news/#msg-4ee5498da7e7",
+      "body": "הימין מנצח | עמית סגל: אם וינטר עובר הימין מנצח.",
+      "videos": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/7bc94552bbb1.bin"
+      ],
       "time": null,
       "channelName": null,
       "position": 9,
@@ -557,13 +565,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "e4fd99ac223d",
-      "title": "טורק | עופר וינטר נרשם ליום שני בתור להגשת הרשימות, המשמעות: וינטר סוגר את הדלת לאיחוד.",
-      "link": "https://hagizra.news/#msg-e4fd99ac223d",
-      "body": "טורק | עופר וינטר נרשם ליום שני בתור להגשת הרשימות, המשמעות: וינטר סוגר את הדלת לאיחוד.",
+      "id": "559e2588a885",
+      "title": "עכשיו זה סופי | איילת שקד לא תתמודד בבחירות הקרובות.",
+      "link": "https://hagizra.news/#msg-559e2588a885",
+      "body": "עכשיו זה סופי | איילת שקד לא תתמודד בבחירות הקרובות. מגיבה | איילת שקד.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/68cdcf2b84ae.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 10,
@@ -572,13 +583,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "29bf0961e223",
-      "title": "רשימת ישראל ביתנו |1.אביגדור ליברמן2.⁠ ⁠רפי בן שטרית,3.",
-      "link": "https://hagizra.news/#msg-29bf0961e223",
-      "body": "רשימת ישראל ביתנו |1.אביגדור ליברמן2.⁠ ⁠רפי בן שטרית,3. אל\"מ טליה לנקרי4.⁠ ⁠עודד פורר5.⁠ ⁠יוליה מלינובסקי6.⁠ ⁠שרון שרעבי7.⁠ ⁠חמאד עמר8.⁠ ⁠יבגני סובה9.⁠ ⁠אלווירה קוליחמן,10 .⁠ ⁠דן אילוז",
+      "id": "cb220016f6b3",
+      "title": "חיבור או פרישה?",
+      "link": "https://hagizra.news/#msg-cb220016f6b3",
+      "body": "חיבור או פרישה? | אבי מעוז נכנס בשעה האחרונה להתייעצות עם הרב טאו.",
       "time": null,
       "channelName": null,
       "position": 11,
@@ -587,13 +598,20 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "93f352a415c6",
-      "title": "סיכול עשרות פיגועים בחו\"ל ע״י איראן חיזבאללה וחמאס | (ניצן שפירא) לאחרונה גופי הבטחון הישראליים סיכלו בכמה מדינות ברחבי ",
-      "link": "https://hagizra.news/#msg-93f352a415c6",
-      "body": "סיכול עשרות פיגועים בחו\"ל ע״י איראן חיזבאללה וחמאס | (ניצן שפירא) לאחרונה גופי הבטחון הישראליים סיכלו בכמה מדינות ברחבי העולם, גם במדינות מערביות, מספר אירועי טרור, חלקם בשלבים מתקדמים מאוד - ממש לפני הוצאתם לפועל. לדברי גורמי ביטחון, בשנה האחרונה סוכלו עשרות פיגועים משמעותיים נגד יהודים ברחבי העולם. בנוסף לאיראן וחיזבאללה, שחקן נוסף שהופך משמעותי יותר בזירה הבינלאומית בכל הקשור לניסיונות פיגוע הו",
+      "id": "7144b19b27f1",
+      "title": "ירד לו ההגבלה היומית | טראמפ מטריל בסדרת ציוצים מ AI.",
+      "link": "https://hagizra.news/#msg-7144b19b27f1",
+      "body": "ירד לו ההגבלה היומית | טראמפ מטריל בסדרת ציוצים מ AI.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f7440211d6a9.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a6ba2c11026f.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/19cc08243426.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/716b0f2d3e56.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b7d234a23686.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 12,
@@ -602,13 +620,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "efca30c4d366",
-      "title": "בנט על הסקת המסקנות מהסבב הקודם | בחרנו באנשים שיסתערו על המטרה, ולא יכנעו לשום לחץ, בדרך לתיקון המדינה.",
-      "link": "https://hagizra.news/#msg-efca30c4d366",
-      "body": "בנט על הסקת המסקנות מהסבב הקודם | בחרנו באנשים שיסתערו על המטרה, ולא יכנעו לשום לחץ, בדרך לתיקון המדינה. עוד אמר - ״נכריז על קטאר כמדינת אויב. נפרק מונופולים כדי להוריד מחירים, ונחזיר את המשילות לישראל״.",
+      "id": "2b4ef50ce121",
+      "title": "אסון תעופה | דיווחים על מטוס מטען שהתרסק בנמל התעופה במיאמי.",
+      "link": "https://hagizra.news/#msg-2b4ef50ce121",
+      "body": "אסון תעופה | דיווחים על מטוס מטען שהתרסק בנמל התעופה במיאמי.",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/7fc8993e7fc1.jpg"
+      ],
       "time": null,
       "channelName": null,
       "position": 13,
@@ -617,13 +638,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "a0298a06e5a2",
-      "title": "נדחה | כינוס המזכירות לאישור השריונים נדחה ליום שלישי ב- 11:00.",
-      "link": "https://hagizra.news/#msg-a0298a06e5a2",
-      "body": "נדחה | כינוס המזכירות לאישור השריונים נדחה ליום שלישי ב- 11:00. מאחורי דחיית כינוס מזכירות הליכוד | לחץ של חברי כנסת בליכוד על לשכת נתניהו לקדם אותם ברשימה אחרי שנכשלו בפריימריז. (שלום שטיין)",
+      "id": "f858021c9752",
+      "title": "חקירת פרשת \"פרינוק\" | שב\"כ יצא מהחקירה, נשלל חשד להפללה איראנית.",
+      "link": "https://hagizra.news/#msg-f858021c9752",
+      "body": "חקירת פרשת \"פרינוק\" | שב\"כ יצא מהחקירה, נשלל חשד להפללה איראנית. (לי עייש)",
       "time": null,
       "channelName": null,
       "position": 14,
@@ -632,13 +653,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "26b16268f0cc",
-      "title": "רעש מרגיע | צה״ל לתושבי הצפון: בשעה הקרובה ייתקיימו שורה של תקיפות קרב בחזית לבנון, הדי פיצוצים ישמעו במרחב עמק החולה רכ",
-      "link": "https://hagizra.news/#msg-26b16268f0cc",
-      "body": "רעש מרגיע | צה״ל לתושבי הצפון: בשעה הקרובה ייתקיימו שורה של תקיפות קרב בחזית לבנון, הדי פיצוצים ישמעו במרחב עמק החולה רכס רמים ויתכן אף בצפון הגולן, מדובר בפעילות כוחותינו.",
+      "id": "a0870d204179",
+      "title": "טרגדיה בירושלים | כבן 80 שהגיע להשתתף בברית לנכדו, התמוטט מדום לב ברכבו בכניסה לאולם שירת ירושלים.",
+      "link": "https://hagizra.news/#msg-a0870d204179",
+      "body": "טרגדיה בירושלים | כבן 80 שהגיע להשתתף בברית לנכדו, התמוטט מדום לב ברכבו בכניסה לאולם שירת ירושלים. הוא פונה לשערי צדק, שם נקבע מותו.",
       "time": null,
       "channelName": null,
       "position": 15,
@@ -647,17 +668,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "ee56baa07c63",
-      "title": "דיווחים מלבנון | מספר תקיפות במרחבי עלי טאהר , נבטיה ודבשה בדרום המדינה.",
-      "link": "https://hagizra.news/#msg-ee56baa07c63",
-      "body": "דיווחים מלבנון | מספר תקיפות במרחבי עלי טאהר , נבטיה ודבשה בדרום המדינה. (יוסי יהושע)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/02397d7192c7.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/fcd03ac5fff0.bin"
-      ],
+      "id": "a4d2037a27a8",
+      "title": "אסונות בחו\"ל | אזרח ישראלי (70) טבע למוות בבריכת מלון בפאטיה שבתאילנד.",
+      "link": "https://hagizra.news/#msg-a4d2037a27a8",
+      "body": "אסונות בחו\"ל | אזרח ישראלי (70) טבע למוות בבריכת מלון בפאטיה שבתאילנד.",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -666,16 +683,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "a8af3b3ba6d5",
-      "title": "ההכנות לראש השנה באומן | משלחת שוטרי משטרת ישראל הגיעה לאוקראינה והחלה בפעילות מבצעית משותפת עם המשטרה המקומית בשמירה על",
-      "link": "https://hagizra.news/#msg-a8af3b3ba6d5",
-      "body": "ההכנות לראש השנה באומן | משלחת שוטרי משטרת ישראל הגיעה לאוקראינה והחלה בפעילות מבצעית משותפת עם המשטרה המקומית בשמירה על ביטחון האזרחים ועל הסדר הציבורי במהלך אירועי ראש השנה באומן.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/efea6a8d681a.jpg"
-      ],
+      "id": "3f635d7745b9",
+      "title": "נגמרו הטיעונים | ראש הממשלה נתניהו מפרסם סרטון קמפיין רשמי שבו מנסה לשכנע שהוא עדיף על איזנקוט כי הוא דובר אנגלית טוב יו",
+      "link": "https://hagizra.news/#msg-3f635d7745b9",
+      "body": "נגמרו הטיעונים | ראש הממשלה נתניהו מפרסם סרטון קמפיין רשמי שבו מנסה לשכנע שהוא עדיף על איזנקוט כי הוא דובר אנגלית טוב יותר.",
       "time": null,
       "channelName": null,
       "position": 17,
@@ -684,13 +698,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "82e585bd9cae",
-      "title": "שריפה בבניין מגורים בפתח תקווה | צוותי כיבוי וחילוץ מתחנת פתח תקווה פועלים בשעה זו בשריפה שפרצה בקומת הקרקע בבניין מגורי",
-      "link": "https://hagizra.news/#msg-82e585bd9cae",
-      "body": "שריפה בבניין מגורים בפתח תקווה | צוותי כיבוי וחילוץ מתחנת פתח תקווה פועלים בשעה זו בשריפה שפרצה בקומת הקרקע בבניין מגורים בן 3 קומות ברחוב דרך זאב ז'בוטינסקי בעיר. לוחמי האש פועלים לכיבוי מוקד הבעירה בקומה הראשונה, מבצעים אוורור של העשן מהמבנה וסריקות נרחבות בדירות הבניין לאיתור לכודים ולשלילת נפגעים. חלק מצוותי הכיבוי פועלים במקום בשיתוף משטרת ישראל. הדיירים בקומות העליונות הונחו להסתגר בבתיהם בב",
+      "id": "871f8fe6c875",
+      "title": "מספרים חסרי תקדים | בממוצע, בשלוש השנים האחרונות עזבו את ישראל 509 רופאים כל שנה - עליה של 94% מהנתונים לפני עשור.",
+      "link": "https://hagizra.news/#msg-871f8fe6c875",
+      "body": "מספרים חסרי תקדים | בממוצע, בשלוש השנים האחרונות עזבו את ישראל 509 רופאים כל שנה - עליה של 94% מהנתונים לפני עשור.",
       "time": null,
       "channelName": null,
       "position": 18,
@@ -699,13 +713,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     },
     {
-      "id": "6b1ac9ac49f4",
-      "title": "עכשיו זה סופי | איילת שקד לא תתמודד בבחירות הקרובות.",
-      "link": "https://hagizra.news/#msg-6b1ac9ac49f4",
-      "body": "עכשיו זה סופי | איילת שקד לא תתמודד בבחירות הקרובות.",
+      "id": "0798e5ec495e",
+      "title": "הכהונה במספרים | ח\"כ משה גפני הושבע לכנסת 14 פעמים לאורך הקריירה הפוליטית שלו.",
+      "link": "https://hagizra.news/#msg-0798e5ec495e",
+      "body": "הכהונה במספרים | ח\"כ משה גפני הושבע לכנסת 14 פעמים לאורך הקריירה הפוליטית שלו. חבר הכנסת אורי מקלב הושבע לכנסת 9 פעמים בסך הכול.",
       "time": null,
       "channelName": null,
       "position": 19,
@@ -714,7 +728,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-09-06T18:25:07.087Z"
+      "firstSeen": "2026-09-06T20:37:11.497Z"
     }
   ],
   "errors": [
