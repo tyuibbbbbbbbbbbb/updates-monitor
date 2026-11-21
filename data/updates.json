@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:50:03.261Z",
+  "generatedAt": "2026-11-21T01:55:46.654Z",
   "sources": [
     {
       "id": "blackcat",
@@ -24,6 +24,21 @@
     }
   ],
   "items": [
+    {
+      "id": "9ee812bb061e",
+      "title": "מערכת 'הַגִּזְרָה' מאחלת שבת שלום ומבורך💐 לכל הגולשים ולכל עם ישראל היקרים!!💟 שהשקט ישרור בארצנו הקדושה🌹 בעז\"ה נשוב ו",
+      "link": "https://hagizra.news/#msg-9ee812bb061e",
+      "body": "מערכת 'הַגִּזְרָה' מאחלת שבת שלום ומבורך💐 לכל הגולשים ולכל עם ישראל היקרים!!💟 שהשקט ישרור בארצנו הקדושה🌹 בעז\"ה נשוב ונדווח מיד עם צאת השבת!!❤️🙏",
+      "time": null,
+      "channelName": null,
+      "position": 0,
+      "sourceId": "hagizra",
+      "sourceName": "הגיזרה",
+      "sourceIcon": "📡",
+      "sourceColor": "#dc2626",
+      "sourceUrl": "https://hagizra.news/",
+      "firstSeen": "2026-10-24T01:44:04.958Z"
+    },
     {
       "id": "2eab7814f028",
       "title": "התמונה זמינה למשתמשים מחובריםהתחברות חינמית ומהירה עם חשבון Googleהתחברות לצפייה",
@@ -310,31 +325,10 @@
       "firstSeen": "2026-11-20T12:50:03.261Z"
     },
     {
-      "id": "56f028f632dd",
-      "title": "כפכפים יזרקו | התגובה של החות'ים לא איחרה לבוא והם מנחים את הסעודים לפנות את 5 האתרים הבאים בסעודיה: נמל המלך פהד נמל ג׳",
-      "link": "https://hagizra.news/#msg-56f028f632dd",
-      "body": "כפכפים יזרקו | התגובה של החות'ים לא איחרה לבוא והם מנחים את הסעודים לפנות את 5 האתרים הבאים בסעודיה: נמל המלך פהד נמל ג׳דה המרכז הפיננסי בריאד נמל ג׳יזאן נמל ינבוע. (אבו עלי)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/2ea782f02715.png"
-      ],
-      "time": null,
-      "channelName": null,
-      "position": 0,
-      "sourceId": "hagizra",
-      "sourceName": "הגיזרה",
-      "sourceIcon": "📡",
-      "sourceColor": "#dc2626",
-      "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
-    },
-    {
-      "id": "5531cd633359",
-      "title": "עושים דובר צה\"ל | הצבא הסעודי הנחה את החות'ים לפני שעה קלה לפנות את נמל חודידה.",
-      "link": "https://hagizra.news/#msg-5531cd633359",
-      "body": "עושים דובר צה\"ל | הצבא הסעודי הנחה את החות'ים לפני שעה קלה לפנות את נמל חודידה. (אבו עלי)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/d7c4ceb162cd.png"
-      ],
+      "id": "a04fb4862757",
+      "title": "נקווה לבשורות טובות מאיראן בצאת השבת |",
+      "link": "https://hagizra.news/#msg-a04fb4862757",
+      "body": "נקווה לבשורות טובות מאיראן בצאת השבת |",
       "time": null,
       "channelName": null,
       "position": 1,
@@ -343,16 +337,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "065de75fb1f3",
-      "title": "מלחמת רוסיה אוקראינה | תיעוד של תקיפת כטב\"מ מתאבד רוסי היום על שגרירות הולנד בקייב.",
-      "link": "https://hagizra.news/#msg-065de75fb1f3",
-      "body": "מלחמת רוסיה אוקראינה | תיעוד של תקיפת כטב\"מ מתאבד רוסי היום על שגרירות הולנד בקייב. הכטב\"מ התפוצץ בחזית מבנה השגרירות וגרם לנזק משמעותי. (אבו עלי)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/be15d13cd786.bin"
-      ],
+      "id": "2589e4eb0f8e",
+      "title": "הציבור לא מטומטם!",
+      "link": "https://hagizra.news/#msg-2589e4eb0f8e",
+      "body": "הציבור לא מטומטם! | דורון קדוש: יסלח לי דובר צה״ל, אבל הודעות ה״הרגעה״ האלה לציבור על כך ש״אין שינוי בהנחיות״ חסרות משמעות ואיבדו מערכן. הנה הודעות דובר צה״ל שהתפרסמו ערב לפני ״עם כלביא״, וערב לפני ״שאגת הארי״, כשצה״ל ידע כבר בנקודות הזמן האלה שהוא עומד לפתוח במתקפות נגד איראן. אני חלילה לא מנסה לרמוז שאני יודע משהו, אין בידיי שום מידע על הכנות למתקפה קרובה ובטח לא מועד מדויק. ודווקא משום שאין לי ",
       "time": null,
       "channelName": null,
       "position": 2,
@@ -361,13 +352,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "e4d161817530",
-      "title": "680 אלף זה רק מה שיודעים | הולנד: פעילים פרו פלסטינים השתלטו על אולם באונ' טילבורג וקשרו את עצמם למושבים בשרשאות.",
-      "link": "https://hagizra.news/#msg-e4d161817530",
-      "body": "680 אלף זה רק מה שיודעים | הולנד: פעילים פרו פלסטינים השתלטו על אולם באונ' טילבורג וקשרו את עצמם למושבים בשרשאות. על דלת האולם פרסמו טענה לפיה ישראל \"רצחה\" 680 אלף (!) עזתיים במלחמה. ## אזכיר כי משרד הבריאות של חמאס בעזה, לו יש אינטרס לנפח את מספר ההרוגים טוען כי היו בסה\"כ כ 75 אלף הרוגים עזתיים במלחמה. הרעש העצום סביב עזה לא מסתדר לאנשים בראש עם מספר נמוך יחסית כמו 75 אלף, לכן הם חייבים להמציא מס",
+      "id": "f55f89153f4b",
+      "title": "עיניים לאיראן | נזכיר שגם בערב שבת של מלחמת שאגת הארי דובר צה\"ל הוציא הודעה דומה.",
+      "link": "https://hagizra.news/#msg-f55f89153f4b",
+      "body": "עיניים לאיראן | נזכיר שגם בערב שבת של מלחמת שאגת הארי דובר צה\"ל הוציא הודעה דומה.",
       "time": null,
       "channelName": null,
       "position": 3,
@@ -376,15 +367,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "1f64c0777037",
-      "title": "על רקע המתיחות עם איראן | הרמטכ״ל מגיע לועדת חוץ וביטחון בשני.",
-      "link": "https://hagizra.news/#msg-1f64c0777037",
-      "body": "על רקע המתיחות עם איראן | הרמטכ״ל מגיע לועדת חוץ וביטחון בשני.",
+      "id": "da3c544066f1",
+      "title": "מלחמה בשבת?",
+      "link": "https://hagizra.news/#msg-da3c544066f1",
+      "body": "מלחמה בשבת? |",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/b9a89519f548.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/65a7f77747da.png"
       ],
       "time": null,
       "channelName": null,
@@ -394,16 +385,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "8ecbce6b5174",
-      "title": "מתי לשקשק?",
-      "link": "https://hagizra.news/#msg-8ecbce6b5174",
-      "body": "מתי לשקשק? | על רקע דיווחים כי איראן מטעינה מכליות נפט ונערכת לפרוץ את המצור של ארה\"ב, ראש הוועדה לביטחון לאומי בפרלמנט של איראן אברהאים עזיזי כותב בצירוף שעון חול וחבית נפט: \"לא ניתן להטיל מצור על איראן\". (רוזנצוויג)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/0beb113624ec.png"
-      ],
+      "id": "74702aeb9425",
+      "title": "סעודיה VS החות'ים | הקואליציה הצבאית בהובלת סעודיה הודיעה כי החלה במבצע להשמדת מקורות איום המשמשים לפגיעה באזרחים בתימן ",
+      "link": "https://hagizra.news/#msg-74702aeb9425",
+      "body": "סעודיה VS החות'ים | הקואליציה הצבאית בהובלת סעודיה הודיעה כי החלה במבצע להשמדת מקורות איום המשמשים לפגיעה באזרחים בתימן ובסעודיה. לפי הודעת הקואליציה, התקיפות מתבצעות בבירה צנעא, במחוז צעדה ובמחוז תעז. המבצע נמשך, ולפי ההודעה מטרתו לנטרל את האיומים על האוכלוסייה האזרחית בשתי המדינות. (רועי קייס)",
       "time": null,
       "channelName": null,
       "position": 5,
@@ -412,13 +400,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "9151a593cf3c",
-      "title": "התרגשות בשוק מחנה יהודה | ערב שבת קודש, מרן הראשון לציון הגרש\"מ עמאר הגיע בהפתעה לשוק מחנה יהודה בירושלים, כמנהגו מידי ש",
-      "link": "https://hagizra.news/#msg-9151a593cf3c",
-      "body": "התרגשות בשוק מחנה יהודה | ערב שבת קודש, מרן הראשון לציון הגרש\"מ עמאר הגיע בהפתעה לשוק מחנה יהודה בירושלים, כמנהגו מידי שנה, ועובר חנות, חנות ומבקש את בעל הבית בכדי לעודד אותו לסגור את החנות עד לשעה 3. עקב המעבר לשעון חורף בה השבת נכנסת מוקדם.",
+      "id": "8e324dc78df0",
+      "title": "מגוחך לגמרי |",
+      "link": "https://hagizra.news/#msg-8e324dc78df0",
+      "body": "מגוחך לגמרי |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/c11a236ebf6d.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 6,
@@ -427,13 +418,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "4655cc34d520",
-      "title": "תבדוק שאתה מספיק עמוק באדמה | מפקד משמרות המהפכה אחמד וחידי אמר כי פעולותיהן של ארה\"ב וישראל עשויות להביא לשינוי בדוקטרי",
-      "link": "https://hagizra.news/#msg-4655cc34d520",
-      "body": "תבדוק שאתה מספיק עמוק באדמה | מפקד משמרות המהפכה אחמד וחידי אמר כי פעולותיהן של ארה\"ב וישראל עשויות להביא לשינוי בדוקטרינת ההגנה של איראן. בתשובה לשאלה על האפשרות להגדיל את טווח הטילים האיראניים ולבצע תקיפות ללא מגבלות גאוגרפיות, אמר וחידי: \"הרפובליקה האיסלאמית של איראן תקבל החלטות בנוגע לשינוי הדוקטרינה שלה ולצרכיה\". לדבריו, \"איראן מקבלת החלטות בנוגע לכל צרכיה בהתאם לדוקטרינות שלה. מטבע הדברים, פ",
+      "id": "0538a126897c",
+      "title": "מה הוא יודע?",
+      "link": "https://hagizra.news/#msg-0538a126897c",
+      "body": "מה הוא יודע? |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/afd11284ccb2.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 7,
@@ -442,16 +436,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "f12ba8e8029a",
-      "title": "זהירות | משרד הבריאות הודיע על ריקול למוצר פילה פורל מומלח מעושן של \"סנטה ברמור\".",
-      "link": "https://hagizra.news/#msg-f12ba8e8029a",
-      "body": "זהירות | משרד הבריאות הודיע על ריקול למוצר פילה פורל מומלח מעושן של \"סנטה ברמור\". לאחר בדיקת שירות המזון נמצא במוצר חיידק ליסטריה מונוציטוגנוס.",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/e347488a032c.png"
-      ],
+      "id": "5fbdbfb7af84",
+      "title": "\"איראן נהדרים, הסכם שלום בדרך\" | בן יניב: תזכורת: ברקע האפשרות הסבירה לחידוש המלחמה באיראן ופסגת ״שלושת הגדולים״- הנשיא ",
+      "link": "https://hagizra.news/#msg-5fbdbfb7af84",
+      "body": "\"איראן נהדרים, הסכם שלום בדרך\" | בן יניב: תזכורת: ברקע האפשרות הסבירה לחידוש המלחמה באיראן ופסגת ״שלושת הגדולים״- הנשיא טראמפ יקיים הערב מסיבת עיתונאים מאוחדת. בישראל אגב: אייזנקוט מודיע כי הוא רצה לממשלת מיעוט בתמיכת ערבים תומכי טרור. שבת שלום ובשורות טובות.",
       "time": null,
       "channelName": null,
       "position": 8,
@@ -460,16 +451,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "352f65681ea3",
-      "title": "לקחי השבוע בפרשה |",
-      "link": "https://hagizra.news/#msg-352f65681ea3",
-      "body": "לקחי השבוע בפרשה |",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/5df52f8834f5.png"
-      ],
+      "id": "33c705480287",
+      "title": "מגוחך | איזנקוט על נתניהו: \"אנו מצויים באזור מסוכן מאוד.",
+      "link": "https://hagizra.news/#msg-33c705480287",
+      "body": "מגוחך | איזנקוט על נתניהו: \"אנו מצויים באזור מסוכן מאוד. אזור בו ראש הממשלה היוצא מתנהל בדרכים שלא הכרנו בעבר. מלוא העוצמה של ההתנהלות הזו, כפי שהיא מתבצעת הלכה למעשה בימים אלו, נגלית במלואה רק בימים אלה ממש\".",
       "time": null,
       "channelName": null,
       "position": 9,
@@ -478,17 +466,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "affdbe9a31e6",
-      "title": "בהצלחה | לוחמי צה\"ל בעימותים עם מחבלים כעת במחנה אל פאוואר, בחברון.",
-      "link": "https://hagizra.news/#msg-affdbe9a31e6",
-      "body": "בהצלחה | לוחמי צה\"ל בעימותים עם מחבלים כעת במחנה אל פאוואר, בחברון.",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/d9adfe9b926f.bin",
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/5d63bb31e192.bin"
-      ],
+      "id": "4a409d956bb9",
+      "title": "הודעת איזנקוט | עמית סגל: לא אמרח זמן, בעיתוי הנכון, המנדט נגמר עוד 16 יום, והוא נותן להבין שיביא ממשלת 48 לפני תום המוע",
+      "link": "https://hagizra.news/#msg-4a409d956bb9",
+      "body": "הודעת איזנקוט | עמית סגל: לא אמרח זמן, בעיתוי הנכון, המנדט נגמר עוד 16 יום, והוא נותן להבין שיביא ממשלת 48 לפני תום המועד.",
       "time": null,
       "channelName": null,
       "position": 10,
@@ -497,15 +481,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "2c99690d17e3",
-      "title": "אופס |",
-      "link": "https://hagizra.news/#msg-2c99690d17e3",
-      "body": "אופס |",
+      "id": "ba8b5f0c4943",
+      "title": "פרשנות על הודעת איזנקוט |",
+      "link": "https://hagizra.news/#msg-ba8b5f0c4943",
+      "body": "פרשנות על הודעת איזנקוט |",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f2ceeb46e354.png"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/107ace3d4edf.png"
       ],
       "time": null,
       "channelName": null,
@@ -515,16 +499,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "b5c0cb6eee70",
-      "title": "״אל תערוץ ואל תחת״ | הרב יצחק יוסף שיגר ספר עם הקדשה לאברך העריק שנעצר השבוע בנתב״ג.",
-      "link": "https://hagizra.news/#msg-b5c0cb6eee70",
-      "body": "״אל תערוץ ואל תחת״ | הרב יצחק יוסף שיגר ספר עם הקדשה לאברך העריק שנעצר השבוע בנתב״ג. (מוסקוב)",
-      "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/77644744f877.png"
-      ],
+      "id": "3339773e4d25",
+      "title": "ברשת כעת | איזנקוט: אין בכוונתי למרוח זמן בעיתוי הנכון אביא לאישור הכנסת ממשלה חדשה וטובה.",
+      "link": "https://hagizra.news/#msg-3339773e4d25",
+      "body": "ברשת כעת | איזנקוט: אין בכוונתי למרוח זמן בעיתוי הנכון אביא לאישור הכנסת ממשלה חדשה וטובה. (מיכאל שמש)",
       "time": null,
       "channelName": null,
       "position": 12,
@@ -533,15 +514,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "978c7b7b5044",
-      "title": "תיעוד | אוקראינה תקפה הלילה מפעל ביטחוני של רוסיה במחוז סמולנסק.",
-      "link": "https://hagizra.news/#msg-978c7b7b5044",
-      "body": "תיעוד | אוקראינה תקפה הלילה מפעל ביטחוני של רוסיה במחוז סמולנסק. (רוזנצוויג)",
-      "videos": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/videos/77abfa80e338.bin"
+      "id": "c2fe96de287e",
+      "title": "פירות ההסתה |",
+      "link": "https://hagizra.news/#msg-c2fe96de287e",
+      "body": "פירות ההסתה |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/746e57f34200.png"
       ],
       "time": null,
       "channelName": null,
@@ -551,13 +532,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "b0e6e73cf6bb",
-      "title": "👀 |",
-      "link": "https://hagizra.news/#msg-b0e6e73cf6bb",
-      "body": "👀 |",
+      "id": "cf4cca725ccb",
+      "title": "שאפו |",
+      "link": "https://hagizra.news/#msg-cf4cca725ccb",
+      "body": "שאפו |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/fb2912b3720f.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 14,
@@ -566,13 +550,16 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "dd61b1132831",
-      "title": "רוחות מלחמה | רשת CBS: ישראל וארה\"ב שוקלות לפתוח במתקפה חדשה נגד איראן בטווח הזמן הקרוב מאוד, כך על פי גורמים המעורים בנ",
-      "link": "https://hagizra.news/#msg-dd61b1132831",
-      "body": "רוחות מלחמה | רשת CBS: ישראל וארה\"ב שוקלות לפתוח במתקפה חדשה נגד איראן בטווח הזמן הקרוב מאוד, כך על פי גורמים המעורים בנושא. ראש הממשלה בנימין נתניהו מודאג מהמהירות שבה האיראנים משקמים את יכולות ייצור הטילים הבליסטיים שלהם, וכן מהקצב שבו פועלת איראן להגן על התשתיות הצבאיות והגרעיניות שלה מפני תקיפה – באמצעות העברתן אל מתחת לקרקע. ע״פ הדיווח בהינתן אור ירוק מטראמפ- צבא ארה״ב ערוך לצאת למתקפה בתוך 2",
+      "id": "1f1f5d105e93",
+      "title": "🫣 |",
+      "link": "https://hagizra.news/#msg-1f1f5d105e93",
+      "body": "🫣 |",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a58f6efcf153.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 15,
@@ -581,13 +568,13 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "7bdd8bcfad68",
-      "title": "חרדים-ערבים שת\"פ?",
-      "link": "https://hagizra.news/#msg-7bdd8bcfad68",
-      "body": "חרדים-ערבים שת\"פ? | אחמד טיבי על יעקב אשר בראיון אצל רוני קובן: ״הוא נכנס לנעליים גדולות מאוד של גפני - אבל יש לו ראש״ על השאלה האם יכנס לממשלת שינוי: ״שוחחנו, אני עדיין לא יכול להגיד שהוא יחצה את הקווים״ טיבי הוסיף; ״בכיר אחר בחרדים אמר לי - אני לא רוצה שנתניהו יהיה ראש ממשלה עוד פעם״. (דניאל גרובייס)",
+      "id": "7f2d54b754a1",
+      "title": "בזמן שחמאס ממשיך להשתקם | באוגדת עזה הוחלט על רידוד הכוחות של כיתות הכוננות ביישובים הסמוכים לגדר • בעוטף זועמים: \"יקשה ",
+      "link": "https://hagizra.news/#msg-7f2d54b754a1",
+      "body": "בזמן שחמאס ממשיך להשתקם | באוגדת עזה הוחלט על רידוד הכוחות של כיתות הכוננות ביישובים הסמוכים לגדר • בעוטף זועמים: \"יקשה על כיתות הכוננות לעמוד במשימות שהוגדרו לה. תחושה שבאוגדה לא למדו כלום\" • מצה\"ל טרם התקבלה תגובה. (אלמוג בוקר-פרסום ראשון)",
       "time": null,
       "channelName": null,
       "position": 16,
@@ -596,13 +583,17 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "95a113743e6a",
-      "title": "עולם התעופה | גם חברת ישראייר מחזירה את הטיסות למרוקו החל מ-20.12 (דין פישר)",
-      "link": "https://hagizra.news/#msg-95a113743e6a",
-      "body": "עולם התעופה | גם חברת ישראייר מחזירה את הטיסות למרוקו החל מ-20.12 (דין פישר)",
+      "id": "a3fb60155f9c",
+      "title": "משתקמים במהירות | צילומי לוויין חדשים חושפים כי איראן בונה מתחם תת-קרקעי חדש מצפון לאספהאן, ועל פי הערכה שפורסמה אתמול מ",
+      "link": "https://hagizra.news/#msg-a3fb60155f9c",
+      "body": "משתקמים במהירות | צילומי לוויין חדשים חושפים כי איראן בונה מתחם תת-קרקעי חדש מצפון לאספהאן, ועל פי הערכה שפורסמה אתמול מדובר ככל הנראה בבסיס טילים. על סמך הצילומים נראה כי למתקן יהיו חמש כניסות למנהרות. עבודות הבנייה נמשכות, וניתן לזהות פעילות בפתחי המנהרות, בערמות חומרי החפירה ובאתר האחסון וייצור הבטון. ההערכה היא שעומק המנהרות עשוי להגיע ל-200-150 מטר מתחת לאדמה. (רוזנצוויג)",
+      "images": [
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/34bce8a4e3d5.png",
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/9f90594e7071.png"
+      ],
       "time": null,
       "channelName": null,
       "position": 17,
@@ -611,15 +602,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "abfd3e268dfe",
-      "title": "פירוז עזה נמשך | צה\"ל והשב\"כ חיסלו בשבוע האחרון מפקדי נוח'בה והג'יהאד האיסלאמי, בהם מחבל שפלש לשטח ישראל ב-7 באוקטובר.",
-      "link": "https://hagizra.news/#msg-abfd3e268dfe",
-      "body": "פירוז עזה נמשך | צה\"ל והשב\"כ חיסלו בשבוע האחרון מפקדי נוח'בה והג'יהאד האיסלאמי, בהם מחבל שפלש לשטח ישראל ב-7 באוקטובר.",
+      "id": "562bbdb8889b",
+      "title": "ראיתם?",
+      "link": "https://hagizra.news/#msg-562bbdb8889b",
+      "body": "ראיתם? דווחו למשטרה |",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/be2431e9223f.jpg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/58e0ffc171aa.png"
       ],
       "time": null,
       "channelName": null,
@@ -629,15 +620,15 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     },
     {
-      "id": "bd14ac7b39b8",
-      "title": "רץ ברשת |",
-      "link": "https://hagizra.news/#msg-bd14ac7b39b8",
-      "body": "רץ ברשת |",
+      "id": "2cc12dfe1105",
+      "title": "בכוננות מ-1948 |",
+      "link": "https://hagizra.news/#msg-2cc12dfe1105",
+      "body": "בכוננות מ-1948 |",
       "images": [
-        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/f9ff1bd34a81.jpeg"
+        "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/updates-monitor/main/data/images/a6138c36d29b.png"
       ],
       "time": null,
       "channelName": null,
@@ -647,7 +638,7 @@
       "sourceIcon": "📡",
       "sourceColor": "#dc2626",
       "sourceUrl": "https://hagizra.news/",
-      "firstSeen": "2026-11-20T12:50:03.261Z"
+      "firstSeen": "2026-11-21T01:55:46.654Z"
     }
   ],
   "errors": [
